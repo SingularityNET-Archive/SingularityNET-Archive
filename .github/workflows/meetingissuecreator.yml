@@ -54,7 +54,7 @@ jobs:
       uses: imjohnbo/extract-issue-template-fields@v1
       id: extract
       with:
-        path: .github/ISSUE_TEMPLATE/first_responder.md # assignees, labels, and title defined in issue template header
+        path: .github/ISSUE_TEMPLATE/automeetingtemplate.md # assignees, labels, and title defined in issue template header
       env: 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
