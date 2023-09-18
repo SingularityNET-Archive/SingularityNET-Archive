@@ -1,7 +1,7 @@
 #
-# First responder duty, powered by imjohnbo/issue-bot
+# Auto Agenda creator
 #
-name: First Responder
+name: Auto Meeting Agenda Creator
 on:
   workflow_dispatch:
   schedule:
@@ -13,8 +13,8 @@ env:
   Labels: "Meetings"
   
 jobs:
-  first_responder:
-    name: New responder duty
+  agenda_creator:
+    name: Auto Meeting Agenda Creator
     runs-on: ubuntu-latest
     steps:
 
@@ -32,7 +32,7 @@ jobs:
           exit 78
         fi
         
-    - name: Find the last open report issue
+    - name: Find the last open meeting issue
       id: last-issue
       uses: micalevisk/last-issue-action@v2
       with:
@@ -67,10 +67,10 @@ jobs:
         text="${text//'\r'/%0D}"
         echo "::set-output name=value::$text"
 
-    # Generates and pins new first responder issue, closes previous, writes linking comments, assigns to next person in line, adds to organization project number 550, column name "Duties", milestone number 10
+    # Generates and pins new agenda creator issue, closes previous, writes linking comments, assigns to next person in line, adds to organization project number 550, column name "Duties", milestone number 10
     - name: Todays date
       run: echo "TODAY=$(date -d '4 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV
-    - name: New first responder issue
+    - name: New agenda creator issue
       uses: imjohnbo/issue-bot@v3
       with:
         token: ${{ secrets.PAT }} # Built in GITHUB_TOKEN permissions are too restrictive, so a personal access token is used here
