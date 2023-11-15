@@ -1,7 +1,7 @@
 ---
 name: Tracking issue
 about: Meeting Issue Template
-title: Meeting
+title: Meeting (Project Management)
 labels: Meetings
-assignees: stephen-rowan, Andre-Diamond, VanCardui
+assignees: stephen-rowan
 ---
