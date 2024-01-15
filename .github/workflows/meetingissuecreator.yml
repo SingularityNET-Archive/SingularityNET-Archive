@@ -25,10 +25,10 @@ jobs:
     - name: Check if week number is uneven
       id: check-week
       run: |
-        if (( $(echo ${{ steps.week-number.outputs.week }} % 2) == 1 )); then 
-          echo "It's an uneven week, proceeding..."
+        if (( $(echo ${{ steps.week-number.outputs.week }} % 2) == 0 )); then 
+          echo "It's an even week, proceeding..."
         else 
-          echo "It's not an uneven week, exiting..."
+          echo "It's not an even week, exiting..."
           exit 78
         fi
         
