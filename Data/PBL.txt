@@ -1,0 +1,70 @@
+{
+  "workgroup": "Dework PBL",
+  "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+  "meetingInfo": {
+    "name": "Biweekly",
+    "date": "2024-01-31",
+    "host": "Tevo",
+    "documenter": "Tevo",
+    "peoplePresent": "Tevo, André, Peter, Sucren, malik",
+    "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+    "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764575517374325&cot=10",
+    "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+    "workingDocs": [
+      {
+        "title": "Dework PBL Q1 Proposal",
+        "link": "https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj"
+      },
+      {
+        "title": "Miro Board",
+        "link": "https://miro.com/app/board/uXjVM7pbrUg=/"
+      },
+      {
+        "title": "Dework PBL Course",
+        "link": "https://instance-dework-pbl.vercel.app/course/module/101/overview"
+      }
+    ]
+  },
+  "agendaItems": [
+    {
+      "agenda": "Review Lessons",
+      "status": "resolved",
+      "actionItems": [
+        {
+          "text": "The \"Feedback Loop\" lesson will be slightly updated ",
+          "assignee": "André",
+          "status": "todo"
+        },
+        {
+          "text": "Update Lesson Feedback Form with newly added lessons",
+          "assignee": "Tevo",
+          "status": "todo"
+        }
+      ],
+      "decisionItems": [
+        {
+          "decision": "The \"Sentiment Analysis\" Lesson is good enough",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "The \"Course Feedback\" Lesson is good enough",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "The \"Outreaching Dework Tasks to wider Dework Community\" Lesson is good enough",
+          "effect": "affectsOnlyThisWorkgroup"
+        }
+      ],
+      "discussionPoints": [
+        "Are there any other lessons we should have?",
+        "What do we do with the Meeting Summary Lesson?",
+        "How do we manage various Course Feedback?"
+      ]
+    }
+  ],
+  "tags": {
+    "topicsCovered": "Feedback Form, Outreach, Error, PBL, Dework, Miro Board, Lessons, Google Form, Andamio",
+    "emotions": "The meeting was quick and progressive"
+  },
+  "type": "Custom"
+}
