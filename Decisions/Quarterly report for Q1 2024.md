@@ -9,3 +9,4 @@
 
 ## Opposing arguments (Optional)
 > The existing text-based format is probably more readable, and allows a WG to make narrative points about how their work has gone. Worth trying both formats.
+> n
