@@ -1,6 +1,6 @@
 {
 "Workgroup": "Archive",
-"Title": "Quarterly report for Q1 2024"
+"Decision": "Quarterly report for Q1 2024"
 "Affects": "Affects only this workgroup",
 "Issue" : "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/88".
 "Desc": "there have been a couple of minor changes suggested. Also we want to try out presenting it in a format that is more closely linked to our budget request  - e.g. via notes on the budget spreadsheetfor Q2",
