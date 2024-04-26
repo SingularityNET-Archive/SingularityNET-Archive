@@ -10719,5 +10719,148 @@
       "type": "Custom",
       "noSummaryGiven": false
     }
+  ],
+  "515f5dfd-dfa4-412a-8689-ff69a60d3fbd": [
+    {
+      "workgroup": "Research and Development Guild",
+      "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-24",
+        "host": "Guilermo",
+        "documenter": "Onyeka ",
+        "peoplePresent": "5oundwave5, Vasu, Peter, Walter, Curtis, Rojo, William",
+        "purpose": "R&D Discussions ",
+        "workingDocs": [
+          {
+            "title": "Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224",
+            "link": "https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit"
+          },
+          {
+            "title": "Final Guilds requested Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399"
+          },
+          {
+            "title": "Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254"
+          },
+          {
+            "title": "Typeform link",
+            "link": "https://fqmtepho6kd.typeform.com/to/uHsVjdS5"
+          },
+          {
+            "title": "R&D _ Q1 DELIVERABLES",
+            "link": "https://drive.google.com/drive/folders/1qy4P7bWmzFDWbNe03Do5HSV3FLOGYMnT?usp=sharing"
+          },
+          {
+            "title": "Research & Development Guild Budget Proposals Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link"
+          },
+          {
+            "title": "R&D _ Q1 Quarterly Report ",
+            "link": "https://docs.google.com/document/d/1ZFZr_OxtuQd2x21ZQQtFiaMipuYdj8MvuYFljWsRRZ8/edit?usp=drive_link"
+          },
+          {
+            "title": "Decision making tool",
+            "link": "https://citizenos.com/"
+          },
+          {
+            "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+            "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Final Q1 Report and Deliverables Status",
+            "Budget Request Presentation for R&D Guild Quarter 2.",
+            " Q2 R&D Guild Objectives:  Best practice ",
+            "Governance SandBox",
+            "Operations: Update. Improving R&D Manager Tools. Introducing R&D Github Projects.",
+            "Onboarding: New proposal for development. Eg; Duke proposal",
+            "Conclusions Q1: what we can improve."
+          ],
+          "actionItems": [
+            {
+              "text": "Rojo to continue building the backend and conduct the Backend testing with members of the project who manage the social media account, once that is done, then build the Front end",
+              "assignee": "Rojo",
+              "dueDate": "3 April 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Guillermo to assist the other teams to get some deliverables",
+              "assignee": "Guillermo",
+              "dueDate": "3 April 2024",
+              "status": "done"
+            },
+            {
+              "text": "Curtis and Rojo to create a document for showcasing our progress (deliverables) in the guild",
+              "assignee": "Curtis, Rojo",
+              "dueDate": "3 April 2024",
+              "status": "done"
+            },
+            {
+              "text": "Guillermo to have a call with Ubio on providing assistance to the multilingual project ",
+              "assignee": "Guilermo",
+              "dueDate": "11 April 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Guild members to add their contributions to the Docs",
+              "assignee": "All Members",
+              "dueDate": "17 April 2024",
+              "status": "done"
+            },
+            {
+              "text": "Ubio, Waka, Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template.",
+              "assignee": "Ubiodee, WaKa, Rojo",
+              "dueDate": "17 April 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Lordkizzy to share his Doc on Ways he could contribute to the R&D Guild",
+              "dueDate": "24 April 2024",
+              "status": "done",
+              "assignee": "lord kizzy"
+            },
+            {
+              "text": "Rojo to add Duke proposal to the budget for Q2",
+              "assignee": "Rojo",
+              "dueDate": "1 May 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to add the Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem Proposal from Duke into our budget for this quarter ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Majority of members felt it was an important research that should be included and implemented in Q2",
+              "opposing": " A member felt the proposal was coming too late in terms of budget planning and submission, therefore it should be moved to Q3"
+            },
+            {
+              "decision": "We decided to add the Contingency Budget to our Budget for Q2 ",
+              "rationale": "This budget will be use to assist in the METTA project for the Foundation or any other workshops or surveys that come up in the quarter",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Discussions on Q2 Budget Proposal ",
+            "Discussions on adding Contingency to the budget ",
+            "Final discussions on Q1 Report and Deliverable",
+            "Updates on development from Rojo & Guillermo",
+            "Discussions on Helping on the MeTTa documentation and playground page Q2 R&D Guild Objectives"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request",
+        "emotions": "Collaborative, productive, Thoughtful , speedy , Welcoming",
+        "other": "There was a suggestion to use the meeting summary to prepare agenda items for meetings, The social media dashboard will be ready for testing at the end of Q2"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false
+    }
   ]
 }
