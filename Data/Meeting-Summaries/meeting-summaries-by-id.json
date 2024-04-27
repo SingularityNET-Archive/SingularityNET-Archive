@@ -10862,5 +10862,126 @@
       "type": "Custom",
       "noSummaryGiven": false
     }
+  ],
+  "ee450807-16f8-4f4f-9d1b-2febb1edc375": [
+    {
+      "workgroup": "Dework PBL",
+      "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-04-24",
+        "host": "Tevo",
+        "documenter": "Tevo",
+        "peoplePresent": "Tevo, André, Sound Wave, Gorga Siagian, Sucren",
+        "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+        "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+        "workingDocs": [
+          {
+            "title": "Dework PBL Q1 Proposal",
+            "link": "https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj"
+          },
+          {
+            "title": "Miro Board",
+            "link": "https://miro.com/app/board/uXjVM7pbrUg=/"
+          },
+          {
+            "title": "Dework PBL Course",
+            "link": "https://instance-dework-pbl.vercel.app/course/module/101/overview"
+          },
+          {
+            "title": "Lesson feedback form",
+            "link": "https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Andamio Updates",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Check on Andamio Version 2 updates before next meeting - Tevo",
+              "assignee": "Tevo",
+              "dueDate": "7 May 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will try Version 2 once it's ready for testing",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We continue to use Version 1",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Differences between Andamio Version 1 and 2",
+            "Current problems to be solved in Version 1 and 2"
+          ]
+        },
+        {
+          "agenda": "What lessons are missing?",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Add Nami Wallet lesson from Google Doc to Dework PBL Course https://docs.google.com/document/d/1KoYG8INC5aupcJpDlwOu8tVQSRD0UlF1Pt8pQGMn5g4/edit#heading=h.d4ti2to33mpw",
+              "assignee": "Tevo",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We use meeting time to create a lesson about how to Create a Nami Wallet",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Ideated on Lessons we could make in the session",
+            "What should the scope of Dework PBL be?"
+          ]
+        },
+        {
+          "agenda": "Dework PBL Onboarding Structure",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "What do we do with Assignment lessons?",
+              "status": "todo"
+            },
+            {
+              "text": "Update Course Structure ",
+              "assignee": "Tevo",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Group Wallet registration lessons into Module 101",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Before we start the main topics of course we expect students to have Cardano wallet address (identity)",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Learning Requirements is Module 102",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "And rest of lessons go to Module 103",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Should we group wallet registration options together?"
+          ]
+        }
+      ],
+      "type": "Custom",
+      "noSummaryGiven": false
+    }
   ]
 }
