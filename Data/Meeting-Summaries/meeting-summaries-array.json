@@ -10723,5 +10723,80 @@
     ],
     "type": "Custom",
     "noSummaryGiven": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-26",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "malik, hogantuso, Zalfred, Photogee, killy, 5oundwave5, oep, lord kizzy, AndrewBen",
+      "purpose": "The meeting focused on task assignments",
+      "workingDocs": [
+        {
+          "title": "PROPOSAL SHEET FOR VIDEO WORKGROUP ",
+          "link": "https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Task Management",
+            "assignee": "lord kizzy",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Social Media management",
+            "assignee": "Slate",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Meeting summarizing",
+            "assignee": "killy",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Townhall summary Edit",
+            "assignee": "malik",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Town hall Edit",
+            "assignee": "hogantuso",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Facilitation",
+            "assignee": "Zalfred",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Slate outlined weekly meeting agenda",
+          "Malik, as the social media manager, provided updates about social media",
+          "Tuso, as the task manager, provided task updates.",
+          "Discussion on eligibility criteria for different task",
+          "Discussion on the seniority of members"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "social media management, new people, Videomaking, Task Assignment",
+      "emotions": "Friendly, Casual, positive, speedy "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false
   }
 ]
