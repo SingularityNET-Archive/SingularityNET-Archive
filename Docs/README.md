@@ -8,7 +8,15 @@ In this SNet-Doc, we explain what a SNet-Doc is; how the SNet-Doc process functi
 
 This process is broadly based on Blockchain Improvement Proposals (see https://quality-assurance-dao.gitbook.io/ekphrasis/sources/blockchain-improvement-proposals)
 
-Note For new SNet-Doc, a reference template is available in .github/SNet-Doc-TEMPLATE.md
+# What a SNet-Doc is
 
-The overall documentation process will be presented here
+# How the SNet-Doc process works
+
+
+# The role of the SNet-Doc Editors
+
+# How users should go about proposing, discussing and structuring a SNet-Doc.
+
+
+Note For new SNet-Doc, a reference template is available in .github/SNet-Doc-TEMPLATE.md
 
