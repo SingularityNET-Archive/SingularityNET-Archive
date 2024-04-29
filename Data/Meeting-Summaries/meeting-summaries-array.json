@@ -10798,5 +10798,72 @@
     },
     "type": "Custom",
     "noSummaryGiven": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-24",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "Slate, Clement Umoh, Photogee, GorgaSeagian, Peter, malik, osmium, WaKa, SoundWaves, Billy",
+      "purpose": "Google Classroom Showcasing by Slate, VR model showcasing by Gamers Guild ",
+      "workingDocs": [
+        {
+          "title": "Andamio Overview ",
+          "link": "https://docs.google.com/document/d/10Yy0lg17MtvN8xCZbFHRft-NZ7XxM-P-pLu8sYrHCTs/edit"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Google Classroom Test run , Gamers Guild Presentation by Gorga and Malik "
+        ],
+        "actionItems": [
+          {
+            "text": "Hold vote for educator role ",
+            "assignee": "Slate",
+            "dueDate": "26 April 2024",
+            "status": "done"
+          },
+          {
+            "text": "Reach out to fetch and ocean",
+            "assignee": "WaKa",
+            "dueDate": "1 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Present teams app presentation",
+            "assignee": "esewilliams",
+            "dueDate": "1 May 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Reach out to Fetch and Ocean",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Slate apologised for being late ",
+          "Then he showcased working of ACP in terms of google classroom and how we can integrate it in it ",
+          "Then he invited everybody to take the assigned quiz and check the resources ",
+          "So far google classroom seemed to be the best option for introducing ACP ",
+          "Then Osmium shared some insights from tevo regarding Andamio ",
+          "Then at the end gamers guild  showcased their work and collected information regarding education guild which will be integrated inside Ambassador Program VR",
+          "Everybody really liked the initiative and the presentation "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "ACP, review, platform, fetch and ocean, Google Classroom, gamersguild, representation",
+      "emotions": "productive,  Collaborative, Businesslike., speedy "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false
   }
 ]
