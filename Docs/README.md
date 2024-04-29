@@ -10,3 +10,5 @@ This process is broadly based on Blockchain Improvement Proposals (see https://q
 
 Note For new SNet-Doc, a reference template is available in .github/SNet-Doc-TEMPLATE.md
 
+The overall documentation process will be presented here
+
