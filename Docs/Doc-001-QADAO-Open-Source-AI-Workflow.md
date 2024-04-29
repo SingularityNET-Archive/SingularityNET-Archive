@@ -22,6 +22,7 @@ Using this as a starting point to draft our own approach.
 
 # Methods
 ## Retrieval
+
 Contextualize your LLM App
 
 Retrieval Augmented Generation (RAG) with LangChain connects your company data to the power of LLMs.
@@ -40,8 +41,6 @@ Other augmentation might include timeliness of the response (time / date context
 
 The requirement to include augmented data also acts as a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations. 
 
-
-
 ## Agents
 
 Go autonomous  with LangChain Agents
@@ -58,12 +57,6 @@ Don’t ship on “vibes” alone. Define a test suite to capture
 qualitative and quantitative performance metrics.
 
 https://docs.smith.langchain.com/evaluation
-
-
-
-
-
-
 
 
 ## Sources
