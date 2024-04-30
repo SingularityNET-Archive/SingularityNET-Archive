@@ -12,7 +12,7 @@ Created:
 License: CC-BY-4.0
 ---
 
-# QADAO Open Source AI Workflow
+# QADAO Open Source AI Workflow (RAG)
 
 This is a draft of a possible approach to an AI workflow for QADAO (e.g. Research, Development, Testing and Implementation etc).
 
