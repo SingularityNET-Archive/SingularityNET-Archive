@@ -1,0 +1,293 @@
+[
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2023-12-14",
+      "host": "Sucren",
+      "documenter": "Onyeka ",
+      "peoplePresent": "Sucren, Vanessa, Peter, love, cjfrankie , Onyeka ",
+      "workingDocs": [
+        {
+          "title": "Twitter thread draft google doc",
+          "link": "https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing"
+        },
+        {
+          "title": "SNET Onboarding WG Task Reward Sheet",
+          "link": "https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG_LkKvFp5tRER30sxT_wGV3ySt-MZ4/edit"
+        },
+        {
+          "title": "Quarterly Workgroup Budget Calculator",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        },
+        {
+          "title": "GETTING STARTED CHANNEL / overview",
+          "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding WG - how can we support other WGs to onboard new people in their meetings",
+          "link": "https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing"
+        },
+        {
+          "title": "Session plan for Onboarding sessions with other WGs",
+          "link": "https://docs.google.com/document/d/1mwNfAaQd3uvMO1T9EQXnnOXQ5jtGkst8mEteZBM6uiI/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "-Results from survey - quick outline, thank people for participating, and share doc\n-Our quarterly report - share it\n-Continuous onboarding sessions - say that analysis is coming, and thank the WGs we spoke to\n-Say when our next meeting is (11th January 2024)",
+        "issues": [
+          "The changes made to the Getting Started Twitter thread",
+          "The Q1 Budget discussion"
+        ],
+        "actionItems": [
+          {
+            "text": "Sucren  to paraphrase the comments in the FAQ.",
+            "assignee": "Sucren",
+            "status": "todo",
+            "dueDate": "2024-01-11"
+          },
+          {
+            "status": "in progress",
+            "text": "Vani to meet Tevo and Tommy and try getting them to drop their feedback on the Continuous Onboarding Survey on Miro.",
+            "assignee": "Vanessa",
+            "dueDate": "2024-01-11"
+          },
+          {
+            "text": "Vani to speak to Tevo on inputting the necessary changes to the Getting Started Channel",
+            "assignee": "Vanessa",
+            "dueDate": "2024-01-11",
+            "status": "todo"
+          },
+          {
+            "text": "Love and Onyeka to create an infographic for the Twitter thread Doc. ",
+            "assignee": "love, Onyeka ",
+            "dueDate": "2024-01-11",
+            "status": "in progress"
+          },
+          {
+            "text": "Peter to speak to Fly and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro",
+            "assignee": "Peter",
+            "dueDate": "2024-01-11",
+            "status": "todo"
+          },
+          {
+            "text": "Sucren to speak to Tommy and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro.",
+            "assignee": "Sucren",
+            "dueDate": "2024-01-11",
+            "status": "todo"
+          },
+          {
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "effect": "affectsOnlyThisWorkgroup",
+            "decision": "We agreed on rotating the meeting facilitation in Q1 of 2024.",
+            "opposing": "None"
+          },
+          {
+            "effect": "affectsOnlyThisWorkgroup",
+            "decision": "We agreed to present the Survey analysis in the next Town Hall",
+            "opposing": "None"
+          },
+          {
+            "decision": "We agreed to take this meeting as the last meeting of the year",
+            "opposing": "None"
+          },
+          {
+            "decision": "We agreed to present the Q4 Quarterly report in the next Town Hall ",
+            "opposing": "None"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes of last Meeting ",
+          "Action items from last meeting ",
+          "Next Ambassador TH Update",
+          "Twitter thread on the Getting started channel ",
+          "Continuous Onboarding",
+          "Onboarding Survey ",
+          "Q4 Quarterly report ",
+          "Budget for Q1"
+        ],
+        "learningPoints": [
+          "Due to the possibility of the AGIX token depreciating in price, it would be wise to plan for the worst case scenario while planning on Q1 Budget."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Guilds , Onboarding, TH Update , Roles, Budget ",
+      "emotions": "Collaborative, speedy , funny , Thoughtful , Friendly",
+      "other": "Cjfrankie receives the Onboarding Workgroup tag on Discord, Kent to get the Onboarding Workgroup tag, if he attends the next meeting "
+    },
+    "type": "Custom"
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2023-11-16",
+      "host": "Vanessa",
+      "documenter": "Onyeka ",
+      "peoplePresent": "Peter, Sucren, love, tone",
+      "workingDocs": [
+        {
+          "title": "Onboarding research Google form",
+          "link": "https://forms.gle/dJMGVP7FZDMdyw6h6"
+        },
+        {
+          "title": "Onboarding support for other workgroups Google doc",
+          "link": "https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing"
+        },
+        {
+          "title": "Commissioning Video clips Google doc",
+          "link": "https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-_18A-HOs77A5gQeuDQ/edit?usp=sharing"
+        },
+        {
+          "title": "Twitter thread draft google doc",
+          "link": "https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "-Launch of the Onboarding survey form.\n-Collaboration with the Gamers Guild.\n\n",
+        "issues": [
+          "Getting started Twitter thread",
+          "Continuous Onboarding Document",
+          "Question of how to practically use the meeting summary tool"
+        ],
+        "actionItems": [
+          {
+            "text": "Sucre to tweak the scripts and relay the imagery for the onboarding video to LilyCupcake",
+            "assignee": "Sucren",
+            "status": "in progress",
+            "dueDate": "2023-11-23"
+          },
+          {
+            "status": "in progress",
+            "text": "Sucre to share our Commissioning Video clips Google doc",
+            "assignee": "Sucren",
+            "dueDate": "2024-01-23"
+          },
+          {
+            "text": "Sucre to meet Workgroup leads and discuss when we can visit their meetings to discuss onboarding.",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Vani and Onyeka to make changes to the survey form as discussed in the meeting.",
+            "assignee": "Onyeka , Vanessa",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to create a sign-up sheet for visits to other WGs to discuss onboarding",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Lady Tempestt to make necessary corrections to the Twitter thread Doc.",
+            "assignee": "LadyTempestt",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to send the Twitter thread Doc to Mikasa in the writers workgroup once it's finished",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to change the cover photo of the Getting started Doc ",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Vani to add an FAQ on \"What are GMBLs\" to the Getting started Doc. ",
+            "assignee": "Vanessa",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to add an FAQ on \"How do I get rewarded?\" ",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Onyeka to add an FAQ on \"What wallet is to be used\"",
+            "assignee": "Onyeka ",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": " Vani to make a post on the Ambassador general channel about new members joining the Gamer's Guild.",
+            "assignee": "Vanessa",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Onyeka to create visuals for the Twitter thread doc",
+            "assignee": "Onyeka ",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to make the agreed changes to Dework Introductions task.",
+            "assignee": "Sucren",
+            "dueDate": "2023-11-23",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "effect": "affectsOnlyThisWorkgroup",
+            "decision": "We agreed to set a deadline (1st of December) for the Onboarding Survey Form."
+          },
+          {
+            "effect": "mayAffectOtherPeople",
+            "decision": "Onboarding WG has agreed to test the new archives documentation tool for meeting minutes."
+          },
+          {
+            "decision": "We agreed that our estimate of 15 mins for the completion of the survey form is about right.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed to launch the survey form on the 21st of November 2023 in the Town Hall meeting, after checking it in our next meeting",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We have decided to add some visuals to our Twitter thread about onboarding process. ",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed on rewarding 10 AGIX and 50 GMBLs for completion of the Introductory task.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes of last Meeting ",
+          "Changes to the Onboarding survey form",
+          "Next Ambassador TH Update",
+          "Twitter thread on the Getting started doc ",
+          "Continuous Onboarding"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Onboarding survey, Collaboration, Town Hall update, Rewards, Getting Started twitter thread, New Onboarding video",
+      "emotions": "speedy , Casual, Collaborative"
+    },
+    "type": "Custom"
+  }
+]
