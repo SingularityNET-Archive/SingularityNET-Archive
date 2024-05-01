@@ -6,6 +6,7 @@ Category: Standards
 Authors:
     - Stephen
     - Andre
+    - Vani
 Discussions:
     - https://github.com/SingularityNET-Archive/SingularityNET-Archive/pulls
 Created: 
