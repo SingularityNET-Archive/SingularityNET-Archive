@@ -19,6 +19,8 @@ This is a draft of a possible approach to an AI workflow for QADAO (e.g. Researc
 Most of this draft is sourced from the Langchain website - https://www.langchain.com/
 Using this as a starting point to draft our own approach.
 
+A RAG workflow refines generalist AI models with local domain knowledge. This allows for clear ownership of data, more timely updates and local community safeguarding.
+
 # Methods
 ## Retrieval
 
