@@ -41,9 +41,9 @@ The aim is to constrain data structures into contexts or prompts that generate r
 
 Examples of augmentation include :
 
-- specfiying to provide sources for what is retrieved. This provides a means to sanity check the response at the Evaluation stage (eg unit tests). 
+- Requiring the provision of data sources for what is retrieved. This provides a means to sanity check the response at the Evaluation stage (eg unit tests). 
 
-- timeliness of the response (time / date contexts etc).
+- Timeliness of the response (time / date contexts etc).
 
 - As a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations. 
 
