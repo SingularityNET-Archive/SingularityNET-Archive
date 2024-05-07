@@ -49,7 +49,8 @@ Examples of augmentation include :
 
 ### Examples of basic data retreival
 
-See [Sample code for loading JSON files into Langchain](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/JSON_Loader.ipynb) and [Data Loading and Preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
+- Data sources are from the Archive WG [Meeting Summaries here](https://github.com/SingularityNET-Archive/SingularityNET-Archive/tree/main/Data/Meeting-Summaries) 
+- See [Sample code for loading JSON files into Langchain](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/JSON_Loader.ipynb) and [Data Loading and Preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
 
 ## Agents
 
