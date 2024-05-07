@@ -27,7 +27,7 @@ A RAG workflow refines generalist AI models with local domain knowledge. This al
 # Methods
 ## Retrieval
 
-Contextualize your LLM App
+### Contextualize your LLM App
 
 Retrieval Augmented Generation (RAG) with LangChain connects your company data to the power of LLMs.
 
@@ -37,13 +37,15 @@ How retrieval augments generative models is the key here.
 
 (see https://youtu.be/T-D1OfcDW1M)
 
-The aim is to include relevant data structures or contexts into prompts that generate responses.
+The aim is to constrain data structures into contexts or prompts that generate relevant responses.
 
-Another augmentation is a requirement to provide a source for what is retrieved. This provides a means to sanity check the response at the Evaluation stage (eg unit tests). 
+Examples of augmentation include :
 
-Other augmentation might include timeliness of the response (time / date contexts etc).
+- specfiying to provide sources for what is retrieved. This provides a means to sanity check the response at the Evaluation stage (eg unit tests). 
 
-The requirement to include augmented data also acts as a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations. 
+- timeliness of the response (time / date contexts etc).
+
+- As a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations. 
 
 ## Agents
 
