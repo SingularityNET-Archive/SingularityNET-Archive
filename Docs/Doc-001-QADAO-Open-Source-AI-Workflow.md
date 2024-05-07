@@ -45,7 +45,11 @@ Examples of augmentation include :
 
 - Timeliness of the response (time / date contexts etc).
 
-- As a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations. 
+- As a means of quality assurance. A way to include admissions of ignorance in generative responses and avoid hallucinations.
+
+### Examples of basic data retreival
+
+See [Sample code for loading JSON files into Langchain](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/JSON_Loader.ipynb) and [Data Loading and Preprocessing](https://github.com/SingularityNET-Archive/LLM-Development/blob/main/Colab/Data_Loading_and_Preprocessing.ipynb)
 
 ## Agents
 
