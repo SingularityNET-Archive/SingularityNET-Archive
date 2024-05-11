@@ -8758,14 +8758,9 @@
         "date": "2024-05-03",
         "host": "Zalfred",
         "documenter": "killy",
-        "peoplePresent": "hogantuso, Photogee, lord kizzy, Slate, D.S.9, Mikasa, tevosak, Olokoji, devon, cardano_class, Clement Umoh",
-        "purpose": "Weekly updates/deliberation of Q2 budget",
-        "workingDocs": [
-          {
-            "title": "Quarterly workgroup budget",
-            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945"
-          }
-        ]
+        "peoplePresent": "hogantuso, lord kizzy, Sound Wave, oep, AndrewBen, martinsoki, DS9, Photogee",
+        "purpose": "Weekly updates/improvement on engagment",
+        "timestampedVideo": {}
       },
       "agendaItems": [
         {
@@ -8790,28 +8785,13 @@
               "status": "todo"
             }
           ],
-          "decisionItems": [
-            {
-              "decision": "Slate and malik to work on the zealy engagement",
-              "rationale": "Slate is the current social media manager, while malik is the pervious manager so they are to work together and update more content"
-            },
-            {
-              "decision": "We decided to tag some tasks to know what type of payment is been made either it is weekly or monthly",
-              "rationale": "To be descriptive on the type of payment  been payed out from the work group"
-            },
-            {
-              "decision": "We decided to do a discord vote to decide if the task assignments will be distributed either quaterly or monthly",
-              "rationale": "We decided to make it a discord vote because we need all videowork group members participation"
-            }
-          ],
           "discussionPoints": [
-            "Updates on the zealy campaign",
-            "Slate, as the social media manager, provided this weeks update about our social media platform",
+            "more Updates on the zealy tasks",
+            " we discussed on more engagement for our socials ",
             "Lord kizzy, as the task manager, provided weekly task updates.",
-            "We are to vote on how the task will be distributed either quarterly or monthly",
-            "There was a discussion on been more discriptive on the zealy task",
-            "There was a discussion about the Q2 budget",
-            "There was a discussion on gamers guild"
+            "discussion on updates of the proposal sheet",
+            "There was a discussion on creating a videowork group zealy sprint ",
+            "There was more discussion on tournament for q gamers guild "
           ]
         }
       ],
@@ -8820,7 +8800,8 @@
         "emotions": "Friendly, Casual, positive, speedy "
       },
       "type": "Custom",
-      "noSummaryGiven": false
+      "noSummaryGiven": false,
+      "canceledSummary": false
     }
   ],
   "47ffcfc0-0444-496b-bc3a-f1fc1c222b93": [
