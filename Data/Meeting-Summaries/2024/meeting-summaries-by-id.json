@@ -9022,30 +9022,30 @@
         "date": "2024-05-01",
         "host": "Slate",
         "documenter": "Slate",
-        "peoplePresent": "Slate, Clement Umoh, Photogee, GorgaSeagian, osmium, WaKa, SoundWaves, Billy",
-        "purpose": "Review Team Updates, Clement Info , Ese Presentation , Google Classroom Update",
+        "peoplePresent": "Slate, Clement Umoh, Photogee, GorgaSeagian, osmium, WaKa, SoundWaves, Billy, esewilliams, DS9, Duke",
+        "purpose": "Review Team Updates, Osmium Metaverse Build for Education ,Gorga's proposal for education and onboarding , Google Classroom Update, Waka' Teach with AI and About AI ",
         "workingDocs": [
           {
             "title": "Andamio Overview ",
             "link": "https://docs.google.com/document/d/10Yy0lg17MtvN8xCZbFHRft-NZ7XxM-P-pLu8sYrHCTs/edit"
           }
-        ],
-        "timestampedVideo": {}
+        ]
       },
       "agendaItems": [
         {
           "status": "carry over",
           "meetingTopics": [
             "Review team Updates",
-            "Clement Infographic ",
-            "Ese Presentation on teams application",
-            "Google Classroom update "
+            "Osmium Metaverse Build for Education",
+            "Gorga's proposal for education and onboarding",
+            "Google Classroom update ",
+            "Waka' Teach with AI and About AI "
           ],
           "actionItems": [
             {
-              "text": "Ese to present Visually regarding Teams Application",
-              "assignee": "esewilliams",
-              "dueDate": "8 May 2024",
+              "text": "Slate to add timer to quizzes",
+              "assignee": "Slate",
+              "dueDate": "15 May 2024",
               "status": "in progress"
             },
             {
@@ -9055,9 +9055,9 @@
               "status": "todo"
             },
             {
-              "text": "fix issues with google classroom ",
-              "assignee": "Slate",
-              "dueDate": "8 May 2024",
+              "text": "Ese to give visual presentation of Teams",
+              "assignee": "esewilliams",
+              "dueDate": "15 May 2024",
               "status": "in progress"
             }
           ],
@@ -9070,23 +9070,23 @@
           "discussionPoints": [
             "Slate started the meeting welcoming everybody ",
             "Then he highlighted the agenda for today's meeting ",
-            "moving to the first agenda item which was the updates from the review team regarding quizzes ",
-            "Osmium is doing final checks ",
-            "Slate provided updated from vanessa's side ",
-            "Then Slate shared Clement's infographic for the Ambassador program ",
-            "There were a few pointers which Slate pointed out ",
-            "Then Ese presented on teams Application and its usages for ACP",
-            "Slate mentioned that there is only one problem with Google Classroom that is no timer for google forms ",
-            "Then Waka Shared his insights regarding teach with AI and about AI "
+            "Osmium shared his metaverse experience build on Universe for educational purposes",
+            "Everybody really liked the useful tool",
+            "Slate provided updates from vanessa's side regarding quizzes update and guided everyone for the  required adjustments ",
+            "Then Gorga presented his proposal for collaboration ",
+            "Slate guided that the proposal would be best fitting the writer's workgroup as they can help in getting out quality articles ",
+            "Then Slate gave a update regarding google classroom that the quiz timer can be implemented and will be most probably completed by next week",
+            "Slate than gave the floor to Waka so that he can give a overview of the his proposal regarding \"Teach with AI and About AI\""
           ]
         }
       ],
       "tags": {
-        "topicsCovered": "ACP, review, platform, fetch and ocean, Google Classroom, Teams, Teach with AI ",
+        "topicsCovered": "ACP, review, platform, Google Classroom, Teach with AI , metaverse, gorga proposal",
         "emotions": "productive,  Collaborative, Businesslike., speedy "
       },
       "type": "Custom",
-      "noSummaryGiven": false
+      "noSummaryGiven": false,
+      "canceledSummary": false
     }
   ],
   "3537d5c1-4c5c-410f-afdf-59b96c530077": [
