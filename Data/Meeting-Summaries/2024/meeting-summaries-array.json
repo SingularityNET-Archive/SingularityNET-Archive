@@ -9394,5 +9394,1003 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-10",
+      "host": "Zalfred",
+      "documenter": "killy",
+      "peoplePresent": "hogantuso, lord kizzy, Sound Wave, oep, AndrewBen, martinsoki, DS9, Photogee, malik",
+      "purpose": "Weekly updates/improvement on engagment",
+      "workingDocs": [
+        {
+          "title": "Cardano girls ",
+          "link": "https://x.com/itscattledaddy/status/1787172039297573325"
+        },
+        {
+          "title": "Cardano girls",
+          "link": "https://x.com/itscattledaddy/status/1788639543106637901"
+        },
+        {
+          "title": "Cardano girlspp",
+          "link": "https://x.com/itscattledaddy/status/1788936258606997538"
+        },
+        {
+          "title": "Rick  McCracken DIGI",
+          "link": "https://x.com/RichardMcCrackn/status/1779155397116322043"
+        },
+        {
+          "title": "Proposal for long videos ",
+          "link": "https://docs.google.com/spreadsheets/d/1qt5qzxR2yaqhQp7fnIU07fQSpQkEKfQZsbZ32GzjJ8c/edit#gid=0"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Task Management/ tag the task payment either it is a monthly or weekly payment",
+            "assignee": "lord kizzy",
+            "dueDate": "24 May 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "facilitator to give monthly updates",
+            "assignee": "Zalfred",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Facilitator to create a vote pool  for quarterly or monthly assignment",
+            "assignee": "Zalfred",
+            "dueDate": "24 May 2024",
+            "status": "done"
+          },
+          {
+            "text": "social manager ,task manager and town hall editor to reach out to peter to get admin access to the zealy sprint",
+            "assignee": "Slate, lord kizzy, malik",
+            "dueDate": "10 June 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to have to keep the zealy program ",
+            "rationale": "It would be unwise to have two zealy sprint from the ambassador program",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "zalfred as facilitator is to contact slate on the idea that DS9 gave during the meeting"
+          }
+        ],
+        "discussionPoints": [
+          "More Updates on the zealy tasks",
+          " We discussed on more engagement for our socials ",
+          "Lord kizzy, as the task manager, provided weekly task updates.",
+          "Discussion on updates of the proposal sheet",
+          "There was a discussion on creating a videowork group zealy sprint ",
+          "There was more discussion on tournament for the gamers guild "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "social media management, new people, Videomaking",
+      "emotions": "Friendly, Casual, positive, speedy "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-08",
+      "host": "Guillermo",
+      "documenter": "Onyeka ",
+      "peoplePresent": "5oundwave5, Curtis, Rojo, William, WaKa, duke peter, Ubiodee, malik, rebel, Ayodele, Peter, Mikasa, Rob, Vasu, Samson Freeman",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224",
+          "link": "https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit"
+        },
+        {
+          "title": "Final Guilds requested Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399"
+        },
+        {
+          "title": "Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254"
+        },
+        {
+          "title": "Typeform link",
+          "link": "https://fqmtepho6kd.typeform.com/to/uHsVjdS5"
+        },
+        {
+          "title": "R&D _ Q1 DELIVERABLES",
+          "link": "https://drive.google.com/drive/folders/1qy4P7bWmzFDWbNe03Do5HSV3FLOGYMnT?usp=sharing"
+        },
+        {
+          "title": "Research & Development Guild Budget Proposals Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link"
+        },
+        {
+          "title": "R&D _ Q1 Quarterly Report ",
+          "link": "https://docs.google.com/document/d/1ZFZr_OxtuQd2x21ZQQtFiaMipuYdj8MvuYFljWsRRZ8/edit?usp=drive_link"
+        },
+        {
+          "title": "Decision making tool",
+          "link": "https://citizenos.com/"
+        },
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming New Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "Final Q1 Report: Deliverables Status update.",
+          "Discussion of items: Community Concerns",
+          "Onboarding of new members"
+        ],
+        "actionItems": [
+          {
+            "text": "Guillermo to have a call with Ubio on providing assistance to the multilingual project by conecting them with Celestes team. Audio to text AI DF awarded Project",
+            "assignee": "Guilermo",
+            "dueDate": "8 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Ubio, WaKa, Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template.",
+            "assignee": "Ubiodee, WaKa, Rojo",
+            "dueDate": "8 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to share his evaluation doc for the Writer's WG with the R&D Guild",
+            "assignee": "Kenichi",
+            "dueDate": "8 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to create a basic explanatory document on his initiatives for the ambassador program website and present it in the next meeting ",
+            "assignee": "Kenichi",
+            "dueDate": "8 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "5oundwave5 & William to create a doc on how they could contribute to the Guild, and share it in next meeting",
+            "assignee": "5oundwave5, William",
+            "dueDate": "15 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "The Guild should give back our responses on the concerns on our Q2 budget.",
+            "assignee": "Guild members",
+            "dueDate": "8 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Kizzy, Duke & Ubiodee to attend the next treasury meeting to have discussions on Duke's proposal",
+            "assignee": "lord kizzy, Duke, Ubiodee",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to adopt and implement a Biweekly report on progress and also conduct Bi-weekly workshop",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "Majority of members felt this was important for the Guild in terms of operations"
+          }
+        ],
+        "discussionPoints": [
+          "Discussions on R&D Guild Budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): this wont be included in our Q2 budget, due to an increase in proposals from workgroups and intergration of new workgroups",
+          "Discussions on Concerns in our Q2 budget. majority of the members, found the first concern \"There is huge concern between Q1 proposal and Quarterly results match. Thousands of dollars were allocated to development, but not a single repo is shared nor seems to be developed. All we get is a Proposal for Q2. I trust the members to be more transparent with deliverables in Q2 or I might become a blocker\" as invalid since the guild decides on how to give out deliverables to the community.",
+          "Discussions on Concerns in our Q2 budget. majority of the members, \"My only concern is that as the projects and initiatives increase in this Guild we have not properly addressed the Operations increase that is impacted by that. As the iniatives grow there are more and more operations and internal processes that are not accurately captured by the budget.\" : we have agreed to improve our workflow in terms of Operations.",
+          "Discussions on Decision making tool and processes",
+          "Discussions on R&D workshops"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, meeting summary tool, agenda creation, Decision Making Process, GitHub, Workshop",
+      "emotions": "Collaborative, productive, Thoughtful , speedy , Welcoming"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-03-08",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Mikasa, cjfrankie , LadyTempestt, Clement Umoh, devon, Franklyn, Ehmee Isaac",
+      "purpose": "Announcing the successful launch of our Zealy.",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The first 25 minutes of the meeting were dedicated to sharing vital insights into how our zealy would run after now.\nTo keep community members engaged, an NFT badge might be implemented to reward participation.\nA brand guideline is also very crucial; it would be a 40-page PDF containing things such as colors, typography, logo, and more!\nAccording to the WG lead - Kenichi, the Points System for February has been paid, however, he wasn’t impressed with our performances - we’re urged to improve our communication, and attendance, and suggest more articles.\n\n",
+        "actionItems": [
+          {
+            "text": "Kenichi to announce the need for making a writer WG brand guideline in the ambassador’s town hall.",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "Kenichi to chase Judith before the next marketing call to discuss more on the Zealy launch 🚀",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "There would be a pair review for Primes test, this test determines whether he gets onboarded or not!",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to draft an FAQ to provide more clarity on Zealy ",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "We would need to launch a Zealy Beta Round which will run for 2 straight weeks",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided that any Scribbler can suggest a quest for the Zealy page.",
+            "rationale": "To encourage more participation",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We decided that we will be on the lookout for designers who would be a part of the Zealy journey and they must be in our weekly meetings. In light of such, anyone interested should submit their portfolio of work.",
+            "rationale": "Because we want to work with people who actually attend our meetings",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Moving forward, our meeting notes will be uploaded to the meeting summary tool; once a Scribbler takes a note, they should share it in the writer's channel before it gets uploaded.",
+            "rationale": "So WG members can check it before it is added to the Archives",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "zealy launch, NFT badge, Points system, zealy quest, Peer review, meeting notes",
+      "emotions": "funny , insightful, informative, disappointment, awkward silence"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-03-22",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Cjfrankie , LadyTempestt, Mikasa, Prime, ines gavina, Photogee, Kareem",
+      "workingDocs": [
+        {
+          "title": "Ehnacing security and privacy in a digital age",
+          "link": "https://medium.com/@singularitynetambassadors/ai-cryptography-enhancing-security-and-privacy-in-the-digital-age-db5c1bbf5fdb"
+        },
+        {
+          "title": "SNET WWG-TEST",
+          "link": "https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing"
+        },
+        {
+          "title": "Ines Gavina's test",
+          "link": "https://docs.google.com/document/d/17GdXHqUQYuleKaUgJpuOFv-im-PjuTTdCG-in3L7_NU/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Our Zealy number has grown significantly since the start of the latest Zealy sprint.\nThe need for making unique brand asset designs is finally here; the ambassador program will work closely with the SNET Foundation next quarter, and these assets are crucial. \nMikasa gave a quick update regarding her tasks, sharing some tips to help us write better Twitter threads.\nKenichi allowed some Scribblers to voice their thoughts, possible things they’d love to do moving forward, and more!\nInes Gavina submitted a new test - she also spoke about how she has improved herself, working with SucrenSpice, and hoping her new test passes.\n",
+        "actionItems": [
+          {
+            "text": "New peer review for Ines Gavina’s test",
+            "status": "done"
+          },
+          {
+            "text": "We need 5 more articles for our publication. ",
+            "status": "done"
+          },
+          {
+            "text": "Mikasa to create a Twitter template as a guideline for writing Twitter Threads 🧵 ",
+            "status": "done",
+            "assignee": "Mikasa"
+          },
+          {
+            "text": "Kenichi to hop on the video workgroup call to facilitate discussion on the graphic brand assets.",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "Kareem to design some graphics for the ambassador program.",
+            "status": "done",
+            "assignee": "Kareem"
+          },
+          {
+            "text": "Kenichi to reach out to Peter E to make a designer tag and grant Kareem access to the writer's dework channel.",
+            "assignee": "Kenichi",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We will soon be implementing Zealy-tailored content for the spin-offs. ",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We decided we will implement some Zealy quests for the Ambassadors' YouTube channel.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Zealy, Onboarding, Graphics, Twitter threads, Peer review, Brand kit, \"Designer\" tag, Ambassador YouTube, Foundation, SingularityNET Foundation",
+      "emotions": "insightful, informative, Welcoming"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-03-29",
+      "host": "Kenichi",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "Kenichi, LadyTempestt, Mikasa, Prime, Photogee, Kareem, devon",
+      "purpose": "Reflection on what we’ve achieved this month and quarter.",
+      "workingDocs": [
+        {
+          "title": "Ehnacing security and privacy in a digital age",
+          "link": "https://medium.com/@singularitynetambassadors/ai-cryptography-enhancing-security-and-privacy-in-the-digital-age-db5c1bbf5fdb"
+        },
+        {
+          "title": "SNET WWG-TEST",
+          "link": "https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing"
+        },
+        {
+          "title": "Ines Gavina's test",
+          "link": "https://docs.google.com/document/d/17GdXHqUQYuleKaUgJpuOFv-im-PjuTTdCG-in3L7_NU/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kenichi gave a quick update regarding Cogito articles, and asked the Scribblers involved to be patient with the payment process.\nKenichi talked about adding one or two Scribes next week to assist with the editing and proofreading of articles.\nKenichi talked about increasing Zealy quests allocation next quarter.\nKenichi also discussed a publication site for all Scribblers to post their articles after being reviewed by Scribes and paid for.\nKareem updated us on the workings of the ambassador brand guidelines he’s working on.\nWe need to publish 4 more articles from this quarter.\nKenichi opened the floor with Scribblers on how to get more article suggestions.\nOur Zealy is doing great with engagement and impressions, surpassing the WG’s expectations.\nKenichi opened the floor to Scribblers to express if they want an increase or decrease in the number of articles, points, and rewards. He also explained how articles are evaluated for payment.\n\n",
+        "actionItems": [
+          {
+            "text": "Kareem to design the publication avatar and logo and forward it to Kenichi for our upcoming publication site.",
+            "status": "done",
+            "assignee": "Kareem"
+          },
+          {
+            "text": "Kenichi to reach out to Peter E concerning the brand guidelines colors.",
+            "status": "done",
+            "assignee": "Kenichi"
+          },
+          {
+            "text": "Kareem to create a graphic on an Easter announcement",
+            "status": "done",
+            "assignee": "Kareem"
+          },
+          {
+            "text": "Kareem to work on a graphic for the quarterly update from the ambassador program. ",
+            "assignee": "Kareem",
+            "status": "done"
+          },
+          {
+            "text": "Kenichi to assign Mikasa and LadyTempestt to work on monthly updates from the ambassador program. ",
+            "status": "done",
+            "assignee": "Kenichi"
+          },
+          {
+            "text": "Kenichi to reach out to Peter E to make a designer tag and grant Kareem access to the writer's dework channel.",
+            "assignee": "Kenichi",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The allocation for the points system will include past amounts due to the final budget allocation once the vote is concluded.",
+            "rationale": "To align it with the final budget allocation",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Zealy, Graphics, brand guidelines, quarterly update, Points system, monthly updates, avatar, logo, payment, evaluation, evaluation of articles, publication, publication site, Scribe role",
+      "emotions": "informative, Welcoming, Collaborative, Thoughtful "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-05",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Cjfrankie , Mikasa, LadyTempestt, Nebula1224, 5oundwave5, ines gavina",
+      "purpose": "Reflection on what we’ve achieved this month and quarter.",
+      "workingDocs": [
+        {
+          "title": "SNET WWG-TEST",
+          "link": "https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We discussed Q2 projections and what we might need to improve this quarter.\nOpen discussion on how to become a Scribe; the Scribe role will be assigned once our Medium publication kicks off.\nThe graphics/brand assets are still in progress; once that is done, we shall kickstart the Medium publication. \nOur attendance last month was pretty high, and had great numbers: we published 12 articles last month and 28 pieces in Q1.\n",
+        "actionItems": [
+          {
+            "text": "Kenichi to draft the document for the Q2 project budget, and submit it to Treasury Guild.",
+            "assignee": "Kenichi",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to work on implementing the NFT badges for roadmap accomplishment.",
+            "assignee": "Kenichi",
+            "status": "in progress"
+          },
+          {
+            "text": "Peter to give Inés Gavina the Scribbler tag.",
+            "assignee": "Peter",
+            "status": "done"
+          },
+          {
+            "text": "Kenichi to onboard some new Scribblers this quarter.",
+            "assignee": "Kenichi",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We will kickstart the Medium publication once our brand assets are finished",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Scribe role will be assigned once our Medium publication starts.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Zealy, Scribe role, Points system, Scribblers, Peer review, Brand kit, Medium publications, NFT badge, Budget , Q2 budget, attendance",
+      "emotions": "informative, Welcoming, insightful"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-19",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Cjfrankie , Mikasa, LadyTempestt, ines ganina, Slate, devon",
+      "workingDocs": [
+        {
+          "title": "SNET WWG-TEST",
+          "link": "https://docs.google.com/document/d/119vvftlF8IVEo-82kq3Fyq559WZwlgAeAej8SX43_uE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The NuNet community town hall has commenced.\nInes Gavina shared some interesting ideas that might help us produce more articles in the future.\nKenichi gave an update regarding the Cogito articles from last year; the third piece is on its way!\nKenichi explained how Dework tasks are being reviewed.\nKenichi shared more insights into the “Scribe\" role: anyone with this role can seamlessly claim tasks on Dework. \nDeliberations on whether the Scribes should attend the weekly meetings; how long Scribbers should hold the Scribe role and what minimum threshold they should have. \n",
+        "actionItems": [
+          {
+            "text": "Kenichi to chase Kareem regarding updates on the brand assets",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "Kenichi to write the first NuNet community town hall recap before assigning it to any Scribe.",
+            "status": "done",
+            "assignee": "Kenichi"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Kenichi wants the Scribblers to do a recap on every NuNet TH.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "quiet, informative",
+      "topicsCovered": "Scribe role, Rejuve, Q2 recap, Nunet, Cogito, Points system, NuNet Town Hall, Dework, Cogito articles"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-26",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Cjfrankie , Mikasa, LadyTempestt, Kareem, Gorga Siagian, ines gavina",
+      "purpose": "The meeting features discussions centered on podcasts.",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting began with Kenichi’s warm comment on the first “We Are Reading” article from Inés. \nQuestions regarding the relief of workload arose. This is where the Scribe role comes in handy: Scribes can assist with the writing of budget proposals, and more!\nWe want to spice up the Friday trivia sessions to make it more interesting and fun; Kenichi will incorporate other genres like music, sports, movies, and more.\nKenichi shared information about the implementation of a poll to enable Trivia players to choose the next genre or area of focus - for example, if \"movies\" gets more votes in the poll - expect to see movie questions in the trivia - Awesome right?\nOur first podcast is set to commence next quarter. In this regard, we need:\n- Audio-visual specialist \n- Designers \n- Writers (available)\n- Analysis and promotion person \n- Documenter\n- Social media manager (available)\nKenichi introduced the idea of “Soulbound Tokens.” They will serve as proof of participation; individuals can use them to see the Writers' Discord channel etc.\nKareem shared an update on the brand assets.\nKenichi introduced the latest WWG’s “Scribe” in the person of Cjfrankie.",
+        "actionItems": [
+          {
+            "text": "Kenichi to submit the updated version of Q2’s budget",
+            "assignee": "Kenichi",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We plan to use Notion for better management of the podcast activities.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "informative, insightful, interesting",
+      "topicsCovered": "Scribe role, Graphics, Notion, Trivia sessions, roadmap, Credential system, Soulbound tokens, Loyalty points, Q2 budget, podcasts, workload"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-03",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, Cjfrankie , Mikasa, LadyTempestt, Kareem, devon, Emmanuel ",
+      "purpose": "Creating X pages for specific region, to address language barriers. Increasing budget allocation.",
+      "otherMediaLink": "https://www.figma.com/file/AgdZbBr9BXokX0xaTADRB6/MI-FI?type=design&node-id=2443%3A83&mode=design&t=12bWF72JEDlLNvij-1",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We discussed creating Twitter/X accounts in multiple languages\nWe discussed Zealy sprints\nWe're looking to write around 30 more articles for Medium; these articles include educational series, atomic essays, and plain articles.\nKareem shared an update on the brand assets; he's at the final phase of the designs.\nLady Tempestt mentioned that Onboarding Workgroup are considering implementing the points system that is used in Writers' WG.\nA poll was created, and people cast their votes for increasing the points system allocation.\n",
+        "actionItems": [
+          {
+            "text": "Kenichi to chase Sucre n Spice for the top contributors in the translation WG.",
+            "assignee": "Kenichi",
+            "status": "todo"
+          },
+          {
+            "text": "Kareem to do a walkthrough on the brand kit in the next writers’ meeting.",
+            "assignee": "Kareem",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to submit the writers' workgroup Q1 quarterly report to Tevo.",
+            "assignee": "Kenichi",
+            "status": "done"
+          },
+          {
+            "text": "Mikasa to create more announcements for the Friday trivia a few hours before it begins.",
+            "assignee": "Mikasa",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to create new X pages for different languages, including Pidgin, Spanish, Hindi, Mandarin, and French. We aim to translate every piece of content on the Ambassador X account and publish it on the respective X page. Scribblers who are proficient in speaking any language can submit their proposal.",
+            "rationale": "To address language barriers",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "The Scribes will be added to the Zealy review team, and Scribes won't participate in the Zealy quests.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "The Zealy Sprint fund allocation has increased. ",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Kenichi aims to put out over 30 quests on Zealy this quarter.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "The Scribes will be added to the Zealy review team, and Scribes won't participate in the Zealy quests.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "informative, insightful, interesting",
+      "topicsCovered": "Scribe, Monthly newsletter, Points system, Zealy sprint, Trivia allocation, Q1 quarterly report, Q2 quarterly report, zealy quest, Twitter, Twitter/X, Translation, multilingual"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-10",
+      "host": "Kenichi",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "Kenichi, Cjfrankie , Mikasa, LadyTempestt, Kareem, devon, Nebula1224, 5oundwave5, rob b, Photogee",
+      "purpose": "Highlight on the new Zealy sprint, and first-come, first-to-get policy on dework "
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kenichi asked about updates on different tasks Scribes/Scribblers are on.\nKenichi appreciated the Scribes for their assistance in getting Zealy tasks ready as it is good to go now.\nKenichi placed emphasis on a “first-come, first-to-get” policy on Dework tasks for WG members.\nLadyTempestt and 5Soundwave5 brought up the issue of Trivia to make it more inclusive of everyone in the SNET Ecosystem. Kenichi also talked about creating polls on what trivia questions should be on; he's going to try to make that happen.\nKareem gave brief updates on the brand kits for the Ambassador program. \nLadyTempestt suggested that everyone in WG gets involved in drafting quarterly budgets. Kenichi agreed to this and said we would start going through it together from next quarter.\n",
+        "actionItems": [
+          {
+            "text": "CJFrankie is to write monthly updates in April for the SingularityNET Ambassador program and submit them by next week",
+            "assignee": "Cjfrankie ",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to go through LadyTempestt’s current task after the meeting.",
+            "assignee": "Kenichi",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "From next quarter, everyone in WG will be involved in drafting quarterly budgets",
+            "rationale": "for fairness and decentralization",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Friday Trivia quiz should have polls on what trivia questions should be on",
+            "rationale": " To make it more inclusive of everyone in the SNET Ecosystem.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "insightful, short, Collaborative",
+      "topicsCovered": "Triva, Tasks, Quarterly Budget, inclusion, Brand kit, Decentralization"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-02",
+      "host": "lord kizzy",
+      "documenter": "Olokoji, LadyTempestt",
+      "peoplePresent": "Vanessa, SucrenSpice, Cjfrankie , duke peter, Photogee, Gorga Siagian, Peter, Olokoji, 5oundwave5, Clement Umoh, Kenichi, Hamzat_iii, LadyTempestt",
+      "workingDocs": [
+        {
+          "title": "SNET Onboarding WG Task Reward Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?usp=drivesdk"
+        },
+        {
+          "title": "Our Quarterly Workgroup Budget Calculator",
+          "link": "https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit?usp=drivesdk"
+        },
+        {
+          "title": "ONBOARDING JOURNEY",
+          "link": "https://docs.google.com/document/d/1IV4-7tsUJ99s4DY_Rrv9mMqP0JqfhAJHjnxP4x7A-6g/edit"
+        },
+        {
+          "title": "ONBOARDING FACILITATION & DOCUMENTATION ROSTER",
+          "link": "https://docs.google.com/spreadsheets/d/1Vi3nnsf-hzG9sGie2iv7poAYvImY1G1hEzvgChMOwHw/edit?usp=sharing"
+        },
+        {
+          "title": "GETTING STARTED CHANNEL / overview",
+          "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+        },
+        {
+          "title": "DRAFT context-setting doc on naming decision",
+          "link": "https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing"
+        },
+        {
+          "title": "Context-setting doc on Q2 budget decision",
+          "link": "https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit"
+        },
+        {
+          "title": "Ideas for Q2 survey",
+          "link": "https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing"
+        },
+        {
+          "title": "Gorga's proposal on educational content",
+          "link": "https://docs.google.com/document/d/1BeYZP6-O84pTnAoK6ye8YWKnE6ojb1cMHY8TPI2vAG4/edit?usp=sharing"
+        },
+        {
+          "title": "Treasury Session (18th April)  video",
+          "link": "https://www.youtube.com/watch?v=Um7Zv5F9TyA "
+        },
+        {
+          "title": "Draft scripts for onboarding journeys",
+          "link": "https://docs.google.com/document/d/1aF53HrArlVy3GHQTD6APNJNTpOxP5lG-RSu5kWrpyEA/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 survey about our onboarding sessions",
+          "link": "https://forms.gle/qMvn7jkhkKAiQ7B88"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "Hogan Tuso will give the Onboarding WG update on Tues 28th May, Clement Umoh to mentor him",
+        "actionItems": [
+          {
+            "text": "Lord Kizzy, Duke, Cj frankie, Vani, SucrenSpice, Lady Tempestt to continue work on scripts for onboarding journeys",
+            "assignee": "duke peter, lord kizzy, cjfrankie , LadyTempestt, Vanessa, SucrenSpice",
+            "dueDate": "9 May 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre facilitating the next meeting, Cj Frankie to document",
+            "assignee": "Sucren, Cjfrankie ",
+            "dueDate": "9 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Infographic for May 16th Onboarding Session ",
+            "assignee": "Cjfrankie ",
+            "dueDate": "9 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Sucre to reach out to Educational Guild about Gorga's proposal",
+            "assignee": "SucrenSpice",
+            "dueDate": "9 May 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "LadyTempestt to add some ideas on surveys to be implemented in Q2 to the Q2 Budget sheet ",
+            "assignee": "LadyTempestt",
+            "dueDate": "9 May 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed on last week's minutes",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "On action items from last week's meeting, Lord kizzy and Photogee have uploaded the treasury session video from 18th",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Lady Tempestt has created a survey about our onboarding sessions https://forms.gle/qMvn7jkhkKAiQ7B88; it will be sent out during our next onboarding session on May 16th, and afterwards in Discord.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Sucre, Lady Tempestt and Vani have completed the context-setting doc about the Q2 budget consent decision-making process",
+            "rationale": "The document has been completed and it is being circulated around. Core contributors should submit their consent for the budget proposals",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Peter gave Gorga his Onboarding WG tag on Discord.",
+            "rationale": "Gorga has passed the requirement of attending 3 consecutive meetings to become an Onboarding WG member.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Sucre has reached out to Slate (education guild lead) concerning Gorga's proposal https://docs.google.com/document/d/1BeYZP6-O84pTnAoK6ye8YWKnE6ojb1cMHY8TPI2vAG4/edit?usp=sharing - No feedback from him yet",
+            "rationale": "because the proposal is probably more of a fit for Education than for Onboarding",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Kenichi raised his idea of a website for contribution tracking; it will use soulbound tokens, and will mint badges and monitor contributor's tier level",
+            "rationale": "To track how long contributors have been working, rather than the time spent (as the gimbal token does) . No work Group uses this yet but it is something that should be considered by each work group.",
+            "opposing": "There is no consensus on this yet, various questions was asked but kenichi stated this is just initial stage for the tool. ",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed people would look at the context-setting doc on the naming decision https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit?usp=sharing and make any comments they might have",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "we agreed CJFrankie will make an infographic to advertise the Onboarding session on 16th May",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes of the last meeting",
+          "Action Items from the last meeting",
+          "Document on ideas for our Q2 survey https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing",
+          "Onboarding journey scripts",
+          "Context-Setting docs",
+          "Next Town Hall update",
+          "Facilitation and Documentation next time",
+          "Gamers' Guild Roblox presentation was postponed due to technical issues",
+          "Impromptu discussion of an idea from Kenichi to help track contribution"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "context-setting docs, renaming Ambassadors, Q2 budget decision process, survey , Onboarding sessions, infographic, Education Guild, onboarding journeys, Soulbound tokens, loyalty system, Proposals, contribution, tracking contribution",
+      "emotions": "informative, short, unusual, off-schedule"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Dework PBL",
+    "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-05-08",
+      "host": "Tevo",
+      "documenter": "Tevo",
+      "peoplePresent": "Tevo, André, Gorga Siagian, 5oundwave5, malik, Effiom",
+      "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+      "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+      "workingDocs": [
+        {
+          "title": "Dework PBL Q1 Proposal",
+          "link": "https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit#heading=h.nva6wz8o1ckj"
+        },
+        {
+          "title": "Miro Board",
+          "link": "https://miro.com/app/board/uXjVM7pbrUg=/"
+        },
+        {
+          "title": "Dework PBL Course",
+          "link": "https://instance-dework-pbl.vercel.app/course/module/101/overview"
+        },
+        {
+          "title": "Lesson feedback form",
+          "link": "https://docs.google.com/forms/d/11NSHs8vAwJ6qXNHQWGelIQB9REttJK625wruxmvj--o/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "Reward Automation related to Dework PBL",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Create a visualization of different potential categories of contributions and participations we have accumulated so far.",
+            "status": "todo"
+          },
+          {
+            "text": "Define the algorithm and parameters for rewarding participation in future sessions",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We don't take control of the off-boarding process. Instead, we will try to find a reward weight for each participant based on their contributions done before.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "How should participation be rewarded in the Dework PBL WG meeting?",
+          "How are Dework PBL Participants currently getting funded?",
+          "Should there be offboarding, and what does that look like?",
+          "Participation vs Contribution"
+        ]
+      },
+      {
+        "agenda": "Course Website",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Update permissions lesson with a guide on how to invite people to Dework Space to manage tasks",
+            "status": "todo"
+          },
+          {
+            "text": "Update Module 201.1 check subheadings",
+            "status": "todo"
+          },
+          {
+            "text": "Update Module 201.1 to include a Link to the Playground Overview Page.",
+            "status": "todo"
+          },
+          {
+            "text": "Check if some features are missing in the mobile Dework version compared to the Desktop version",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We continue to step through course actions in every bi-weekly meeting for around 30 minutes",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Taking a look into new fresh onboarding, Dework PBL Course changes https://youtu.be/WW9YZRhM_no",
+          "Suggesting improvements as we go through content"
+        ]
+      },
+      {
+        "agenda": "Review and planning next steps",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Go through Gamers Guild questions in the next session",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Continue waiting for Version 2 Updates to try it out for course creation",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "What have we achieved so far at a high level?",
+          "What other PBL and Amabssador related things do we want to work on?",
+          "What things are left to do according to the proposal?",
+          "We did Point Allocation Voting on ideated results to give us group sentiment on the next steps."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "review, forward planning, Andamio updates, Reward automation, Rewards"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
