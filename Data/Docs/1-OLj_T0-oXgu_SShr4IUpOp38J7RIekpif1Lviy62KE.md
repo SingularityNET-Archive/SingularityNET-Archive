@@ -28,7 +28,7 @@ also function as tags. They will all help an AI search tool to find the informat
 
 
 
-Note that tags on websites are usually non-hierarchical - in other words, there are no “headings” or  “sub-categories”, and everything is on one level. This is very different from traditional archival cataloguing, which is hierarchical - it’s structured a bit like a tree. This tends to make it more organised, and makes search results more contextual and therefore more effective.
+Note that tags on websites are usually non-hierarchical - in other words, there are no “headings” or  “sub-categories”, and everything is on one level. This is very different from traditional archival cataloguing, which **is** hierarchical - it’s structured a bit like a tree. This tends to make it more organised, and makes search results more contextual and therefore more effective.
 
 
 
@@ -42,7 +42,7 @@ Yes, they’re subjective - and there’s nothing wrong with that. How a meeting
 
 
 
-Note that opinions about how a meeting felt might vary from attendee to attendee - and nobody is “right”, or rather, everyone is!. So the cluster of tags in this section can be contradictory, to reflect the range of opinions from those present. One person might tag it “collaborative”; another might call it “autocratic” - it’s a matter of opinion, and in our decentralised community we’d like to capture the range of opinions.
+Note that opinions about how a meeting felt might vary from attendee to attendee - and nobody is “right”, or rather, everyone is!. So the cluster of tags in this section **can** be contradictory, to reflect the range of opinions from those present. One person might tag it “collaborative”; another might call it “autocratic” - it’s a matter of opinion, and in our decentralised community we’d like to capture the range of opinions.
 
 That’s why in this project, your work will only be additive, not destructive - you won’t be deleting tags that someone else has given, but only adding additional tags that you think might be useful.
 
@@ -94,8 +94,8 @@ how you think the meeting seems to have felt.
 
 
 
-For “topics covered”: what would someone search for?
-
+**For “topics covered”: what would someone search for?
+**
 What have you heard the topic being called? (so maybe “BGI” “BGI 2024” and “Panama” should all be added)
 
 Any synonyms? Within reason, you can add some: e.g. “education”, “learning”
@@ -112,8 +112,8 @@ Check your work very thoroughly for typos!
 
 
 
-For “emotions”:  start with what the documenter has already put, if anything (summaries pre-2024 won’t have any emotion tags)
-
+**For “emotions”:  start with what the documenter has already put, if anything (summaries pre-2024 won’t have any emotion tags)
+**
 Try to understand what the documenter meant (if they say “friendly”, what do they mean?)
 
 Be aware of this community’s tendency to avoid saying anything negative! There might be negative or neutral emotions that simply haven’t been tagged
@@ -154,17 +154,17 @@ A “decision” is simply something the WG agreed on in the meeting. There migh
 
 An “action” is something that was assigned to someone to do. It will have one (or sometimes more) assignees, and a due date. Sometimes, though, you might have to infer these from what the summary says. For example, the documenter might have left “assigned to” blank, but it might be clear from the summary who is meant to be doing it. However, if you’re not sure, don’t guess.
 
-
-
-For decisions, copy into the spreadsheet the text that you think should be tagged as a “decision”. If you can see information in the documentation to say what the rationale was, or any opposing arguments, add these too: but only if it’s there in the documentation, or if you were actually at the meeting and you are certain you remember Don’t guess! And definitely don’t add your OWN opinion. You’re a documenter, not a participant!
-
-
-
-For action items, again, copy the text that you think should be tagged as an “action item”. If you can also see who it was assigned to and infer what the due date was, add that to the spreadsheet too.
+**
+**
+**For decisions**, copy into the spreadsheet the text that you think should be tagged as a “decision”. If you can see information in the documentation to say what the rationale was, or any opposing arguments, add these too: but **only** if it’s there in the documentation, or if you were actually at the meeting and you are certain you remember Don’t guess! And **definitely** don’t add your OWN opinion. You’re a documenter, not a participant!
 
 
 
+**For action items,** again, copy the text that you think should be tagged as an “action item”. If you can also see who it was assigned to and infer what the due date was, add that to the spreadsheet too.
 
 
-And you’re done!
+
+
+
+**And you’re done!**
 
