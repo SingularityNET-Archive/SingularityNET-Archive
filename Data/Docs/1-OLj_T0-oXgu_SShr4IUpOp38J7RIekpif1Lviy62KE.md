@@ -54,7 +54,7 @@ A “tag taxonomy” just means “the structures that things are classified int
 
 
 
-We want our taxonomy to be created “from the ground up” by the whole community, not imposed 
+We want our taxonomy to be created “from the ground up” by the whole community, not imposed
 
 from above. This is sometimes called “folksonomy” or “collaborative tagging”.
 
@@ -72,7 +72,7 @@ We’re already succeeding quite well with getting tags from people via the Meet
 
 We’ll be asking each of you to go through a small part of the corpus, and add any tags you think are missing; then we’ll analyse and group them, and try to derive a controlled vocab.
 
-You’ll be working in a spreadsheet. There’s a separate sheet for each team member, and I’ve assigned you a specific month of the existing corpus to work on.
+You’ll be working in a spreadsheet . There’s a separate sheet for each team member, and I’ve assigned you a specific month of the existing corpus to work on.
 
 
 
@@ -94,8 +94,8 @@ how you think the meeting seems to have felt.
 
 
 
-**For “topics covered”: what would someone search for?
-**
+**For “topics covered”: what would someone search for?**
+
 What have you heard the topic being called? (so maybe “BGI” “BGI 2024” and “Panama” should all be added)
 
 Any synonyms? Within reason, you can add some: e.g. “education”, “learning”
@@ -112,8 +112,8 @@ Check your work very thoroughly for typos!
 
 
 
-**For “emotions”:  start with what the documenter has already put, if anything (summaries pre-2024 won’t have any emotion tags)
-**
+**For “emotions”:  start with what the documenter has already put, if anything (summaries pre-2024 won’t have any emotion tags)**
+
 Try to understand what the documenter meant (if they say “friendly”, what do they mean?)
 
 Be aware of this community’s tendency to avoid saying anything negative! There might be negative or neutral emotions that simply haven’t been tagged
@@ -132,9 +132,9 @@ Again, check your work very thoroughly for typos!
 
 Look at each summary and see if any documents, spreadsheets, videos, slides etc are mentioned or inferred, but the links are not given.
 
-If you can actually find the link, fantastic - add it to the spreadsheet. 
+If you can actually find the link, fantastic - add it to the spreadsheet.
 
-But if not, just add to the sheet what the missing link is about, and what format it is - for example “Doc about roles and levels” or “Slides about onboarding process” - and we’ll try to find them later. 
+But if not, just add to the sheet what the missing link is about, and what format it is - for example “Doc about roles and levels” or “Slides about onboarding process” - and we’ll try to find them later.
 
 Sometimes, you might not be certain that a relevant doc exists - but if you think there might be one, add a note on it just in case. We can check with workgroups later.
 
@@ -150,13 +150,13 @@ This section is about decisions and action items. You’re looking for anything 
 
 First, let’s clarify the difference between a “decision” and an “action item:
 
-A “decision” is simply something the WG agreed on in the meeting. There might be a rationale for it; opposing views might have been recorded too. 
+A “decision” is simply something the WG agreed on in the meeting. There might be a rationale for it; opposing views might have been recorded too.
 
 An “action” is something that was assigned to someone to do. It will have one (or sometimes more) assignees, and a due date. Sometimes, though, you might have to infer these from what the summary says. For example, the documenter might have left “assigned to” blank, but it might be clear from the summary who is meant to be doing it. However, if you’re not sure, don’t guess.
 
-**
-**
-**For decisions**, copy into the spreadsheet the text that you think should be tagged as a “decision”. If you can see information in the documentation to say what the rationale was, or any opposing arguments, add these too: but **only** if it’s there in the documentation, or if you were actually at the meeting and you are certain you remember Don’t guess! And **definitely** don’t add your OWN opinion. You’re a documenter, not a participant!
+****
+
+**For decisions** , copy into the spreadsheet the text that you think should be tagged as a “decision”. If you can see information in the documentation to say what the rationale was, or any opposing arguments, add these too: but **only** if it’s there in the documentation, or if you were actually at the meeting and you are certain you remember Don’t guess! And **definitely** don’t add your OWN opinion. You’re a documenter, not a participant!
 
 
 
