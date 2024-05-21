@@ -2,14 +2,11 @@
 
 
 
-
 Thanks for being part of this initiative!
 
 The aim is to get our Archives corpus ready to use AI tooling more effectively - for searches, dashboard insights, and more.
 
 ## So what is a ‘tag’ anyway?
-## 
-
 
 A tag is a type of metadata (data about data). It’s a piece of information that describes and classifies  the content that it’s assigned to - like a keyword that you might use in a search.
 
@@ -39,7 +36,6 @@ We have tried to approximate to an “archives-style” hierarchical catalogue i
 
 ## A note on Emotion tags
 
-
 We could call these “qualitative”, not  “emotional” - and some people wonder why we include them.
 
 Yes, they’re subjective - and there’s nothing wrong with that. How a meeting felt is part of what happened at that meeting. If we can capture it, it brings our history to life, and gives information that readers won’t really get in other ways.
@@ -53,7 +49,6 @@ That’s why in this project, your work will only be additive, not destructive -
 
 
 ## What’s a tag taxonomy?
-
 
 A “tag taxonomy” just means “the structures that things are classified into by using tags”. For example in the Archives, one way that things are classified is by date; another way is by the name of the meeting; and so on. This is all part of the taxonomy of the Archives.
 
@@ -71,7 +66,6 @@ To do this, we currently collect ANY tags that people want to add via meeting su
 
 ## What you’ll be doing in this project
 
-
 We’re already succeeding quite well with getting tags from people via the Meeting Summaries - but there are still some gaps, and things that we could add.. This is what this project is about.
 
 
@@ -82,18 +76,13 @@ You’ll be working in a spreadsheet. There’s a separate sheet for each team m
 
 
 
-## Using the 
-## spreadsheet
-## 
-
+## Using the spreadsheet
 
 You’ll see which month you’ve been assigned to cover, and a link to that month in the GitBook.
 
 Below that, on the left, you’ll see a row for each meeting summary in your section, and a link to it. Take each summary in turn, one at a time. Click the link to read the summary.
 
 ### On the left,
-### 
-
 
 This first section, about tags, should be your main focus.
 
@@ -141,7 +130,6 @@ Again, check your work very thoroughly for typos!
 
 ### In the middle section, on documents:
 
-
 Look at each summary and see if any documents, spreadsheets, videos, slides etc are mentioned or inferred, but the links are not given.
 
 If you can actually find the link, fantastic - add it to the spreadsheet. 
@@ -155,7 +143,6 @@ And note - if you can’t easily find the relevant doc, don’t spend a lot of t
 
 
 ### On the right: only do this section if you have time.
-
 
 This section is about decisions and action items. You’re looking for anything that is a “decision” or “action item” but is not marked as such in the summary.
 
