@@ -16,5 +16,5 @@ Fewfwfwefwefwef
 
 ****
 
-**And **some more **Testing, **Just to see if **Markdown** format result is okay.
+**And** some more **Testing,** Just to see if **Markdown** format result is okay.
 
