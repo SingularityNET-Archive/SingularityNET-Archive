@@ -48,7 +48,7 @@ Last time we made a decision, we used a Google form - this time, we will be usin
 
 
 
-BUDGET: add a bit for walkthru videos of decision tools - would budget come partly from Governance and  partly Onboarding, or all fro  Goivernance\?
+BUDGET: add a bit for walkthru videos of decision tools - would budget come partly from Governance and  partly Onboarding, or all fro  Governance?
 
 
 
@@ -90,11 +90,11 @@ We need to hunt around for anywhere else it has been discussed - but i don’t t
 
 What counts as a reason for objecting to the proposal? ( i.e. maybe the fact that the role doesn't have a special value attached to it and someone would prefer to have it scraped out? I mean the real decision-makers are the core contributors - just thinking out loud btw :-))
 
-In a proper consent decision-making process, people are not supposed to object unless
+In a proper consent decision-making process, people are not supposed to object unless certain conditions are fulfilled:
 
 You need to explain your objection
 
-You need to say what would need to change inn order for you to give consent
+You need to say what would need to change in order for you to give consent
 
 you can’t object unless the proposal being passed would actually affect you (I guess that applies to everyone, so OK)
 
