@@ -7986,6 +7986,113 @@
       "noSummaryGiven": false
     }
   ],
+  "fda606a6-6a54-4574-b996-2cd73eef3bcc": [
+    {
+      "workgroup": "Treasury Guild",
+      "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-04-20",
+        "host": "Tevo",
+        "documenter": "Tevo",
+        "peoplePresent": "Tevo, Peter, Vanessa, Olokoji, Photogee, Sound Wave, Billy, Guillermo, Gorga Siagian",
+        "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584775426018&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240?taskId=83aeda8d-2434-42f9-9f48-be1345c9f8e6",
+        "workingDocs": [
+          {
+            "title": "Treasury Guild Dework Space",
+            "link": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240"
+          },
+          {
+            "title": "Treasury Quaterly Budget Calculator",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+          },
+          {
+            "title": "Treasury Guild Proposal",
+            "link": "https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "How to contribute with writing skills?",
+          "status": "resolved",
+          "discussionPoints": [
+            "Writers WG",
+            "Treasury Guild Documentations (decisions, meeting summary)"
+          ]
+        },
+        {
+          "agenda": "Do we want to recognize people who take part in the consent process on-chain?",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Continue utility token discussion in Governance Workgroup",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will recognize the Consent Question (Title) and participants who chose any option in the form",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We assign utility tokens as rewards",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "incentives",
+            "What we recognize?"
+          ]
+        },
+        {
+          "agenda": "How do validate the impact of said proposal",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Prepare voting tools and channel for all this decision making that is about to come",
+              "status": "todo"
+            },
+            {
+              "text": "Decision for next session: do we have the capacity to run 2nd cohort of proposals for Q2?",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Ambassador Program Q2 Budget proposal final deadline is 24th April 2024",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will collect proposals through the Treasury Guild channel.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Only Contributor Role blockers will stop the proposal from passing",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "What has been done before?",
+            "What do we need from the Proposal?",
+            "Ambassador Program Consent Process",
+            "S3 guide for potential objection solving https://patterns.sociocracy30.org/principle-consent.html",
+            "What blockers can people bring up against budget requests?",
+            "After funding measures",
+            "Proposal Request Cap"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Miro Board, procedures, Proposal, Cohort, On-Chain, Discursive, Quarter, Governance, Budgets, Rewards, Inconclusive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false
+    }
+  ],
   "d6362db7-f1b4-47fd-a2a5-bf75aa851963": [
     {
       "workgroup": "Video Workgroup",
