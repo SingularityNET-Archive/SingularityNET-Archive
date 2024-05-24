@@ -50,7 +50,7 @@ AI systems should be designed to augment and support human decision-making, not 
 
 
 
-## Hallucinations
+## 1. Hallucinations
 
 Factual errors presented as semantic truths
 
@@ -66,7 +66,7 @@ LLMs do not understand meaning they only return semantic indices
 
 Explainability - link to the Why of the response and provide sources
 
-## Bias
+## 2. Bias
 
 
 
@@ -90,7 +90,7 @@ Audit responses to see how your data reflects your culture
 
 
 
-## Consent
+## 3. Consent
 
 Attribution and copyright issues
 
@@ -106,7 +106,7 @@ Accountivity - check ownership and licencing
 
 
 
-## Security
+## 4. Security
 
 
 
