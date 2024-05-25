@@ -190,6 +190,8 @@ We need to consider the scope of the SNet Archive. A broadly based large generat
 
 https://www.ibm.com/impact/ai-ethics
 
+https://www.ibm.com/topics/ai-ethics
+
 
 
 ## AI Fairness 360
