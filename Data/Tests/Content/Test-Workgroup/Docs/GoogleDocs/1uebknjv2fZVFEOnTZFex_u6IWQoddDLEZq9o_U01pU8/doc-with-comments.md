@@ -32,10 +32,6 @@ Fewfwfwefwefwef
 >   - André Diamond: And if we are able to capture resolved comments
 >   - SNETArchivalWG: 
 >
-> Context - Test
-> * André Diamond: Test1
->   - SNETArchivalWG: TEsting replies
->
 
 
 
@@ -45,10 +41,6 @@ Fewfwfwefwefwef
 > Context - Testing other user input
 > * André Diamond: Testing other user input
 >
-> Context - Test
-> * André Diamond: Test1
->   - SNETArchivalWG: TEsting replies
->
 
 
 
@@ -56,13 +48,7 @@ And some **more** testing
 
 ****
 
-**And** some more **Testing,** Just to see if **Markdown** format result is okay. 
-
-> [Comments]
-> Context - Test
-> * André Diamond: Test1
->   - SNETArchivalWG: TEsting replies
->
+**And** some more **Testing,** Just to see if **Markdown** format result is okay.
 
 
 
@@ -71,10 +57,6 @@ Testing overall speed of Github Action with new updates on docs…Testing chan
 > [Comments]
 > Context - Testing changes to doc
 > * André Diamond: TEsting new comments
->
-> Context - Test
-> * André Diamond: Test1
->   - SNETArchivalWG: TEsting replies
 >
 
 
