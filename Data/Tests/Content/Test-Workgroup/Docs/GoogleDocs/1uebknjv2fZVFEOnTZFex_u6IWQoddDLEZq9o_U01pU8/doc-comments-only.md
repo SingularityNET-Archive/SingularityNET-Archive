@@ -5,17 +5,14 @@ Context - Testing other user input
 * André Diamond: Testing other user input comment
 
 Context - Testing more changes
-* SNETArchivalWG: Also testing resolved comments (Resolved)
+* SNETArchivalWG: Also testing resolved comments (Resolved by SNETArchivalWG)
   - André Diamond: And if we are able to capture resolved comments
-  - SNETArchivalWG: 
 
 Context - doc manager
-* SNETArchivalWG: Another user test (Resolved)
-  - André Diamond: 
+* SNETArchivalWG: Another user test (Resolved by André Diamond)
 
 Context - fwe
-* André Diamond: another test comment (Resolved)
-  - André Diamond: 
+* André Diamond: another test comment (Resolved by André Diamond)
 
 Context - Test
 * André Diamond: Test1
