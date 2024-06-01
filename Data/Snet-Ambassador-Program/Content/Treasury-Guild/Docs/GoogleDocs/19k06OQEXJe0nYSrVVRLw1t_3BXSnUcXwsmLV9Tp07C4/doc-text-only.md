@@ -40,6 +40,8 @@ Vani
 
 Mikasa
 
+Ayo
+
 
 
 
@@ -54,7 +56,7 @@ Template that is used for Guiding Questions (Miro Board): https://miro.com/app/b
 
 **Value Addition:**
 
-Providing space discuss rewards, tasks and anything related to financial activities.
+Providing space to discuss rewards, tasks and anything related to financial activities.
 
 Providing space to learn and operate Treasury Funds.
 
