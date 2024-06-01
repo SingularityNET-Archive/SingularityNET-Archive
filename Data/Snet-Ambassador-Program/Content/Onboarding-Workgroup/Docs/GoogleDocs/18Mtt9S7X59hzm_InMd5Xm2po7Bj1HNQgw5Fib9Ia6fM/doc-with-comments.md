@@ -67,9 +67,8 @@ Last time we made a decision, we used a Google form - this time, we will be usin
 > [Comments]
 > Context - maybe include screenshots? or explain how people will log in - own account?)
 > * Love Owokere: From my experience, screenshots don't get the job done. I'd say a short video or a screen record.
-I don't even know how to use CitizenOS lol (Resolved)
+I don't even know how to use CitizenOS lol (Resolved by Vanessa Cardui)
 >   - Vanessa Cardui: yup agree - but people have been looking at CitizenOS and it is bloody awful imo... lol I'd kinda like to push for not using it :-) - I have no idea why the reviewers in Strategy Guild said it could support consent decisionmaking. It can't :-(
->   - Vanessa Cardui: 
 >
 
 
@@ -127,8 +126,7 @@ What counts as a reason for objecting to the proposal? ( i.e. maybe the fact tha
 > Context - maybe the fact that
 > * Vanessa Cardui: I see what you mean - but I’m talking more generically what kinds of reasons are valid in this kind of process. 
 
-I think it’s super-important that we don’t say anything here about what the specific reasons for this decision might be, or it could come across like we are trying to skew the process. (Resolved)
->   - Vanessa Cardui: 
+I think it’s super-important that we don’t say anything here about what the specific reasons for this decision might be, or it could come across like we are trying to skew the process. (Resolved by Vanessa Cardui)
 >
 
 In a proper consent decision-making process, people are not supposed to object unless certain conditions are fulfilled:
