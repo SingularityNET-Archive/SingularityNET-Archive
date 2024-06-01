@@ -2,8 +2,7 @@
 
 > [Comments]
 > Context - doc manager
-> * SNETArchivalWG: Another user test (Resolved)
->   - André Diamond: 
+> * SNETArchivalWG: Another user test (Resolved by André Diamond)
 >
 > Context - Test
 > * André Diamond: Test1
@@ -19,8 +18,7 @@ Fewfwfwefwefwef
 
 > [Comments]
 > Context - fwe
-> * André Diamond: another test comment (Resolved)
->   - André Diamond: 
+> * André Diamond: another test comment (Resolved by André Diamond)
 >
 
 
@@ -29,9 +27,7 @@ Fewfwfwefwefwef
 
 > [Comments]
 > Context - Testing more changes
-> * SNETArchivalWG: Also testing resolved comments (Resolved)
->   - André Diamond: And if we are able to capture resolved comments
->   - SNETArchivalWG: 
+> * SNETArchivalWG: Also testing resolved comments (Resolved by SNETArchivalWG)
 >
 
 
@@ -66,5 +62,5 @@ Another doc change test
 
 
 
-Testing 1234
+Testing 12345
 
