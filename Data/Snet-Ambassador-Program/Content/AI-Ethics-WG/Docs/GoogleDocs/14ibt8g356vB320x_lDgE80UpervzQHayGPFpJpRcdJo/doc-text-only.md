@@ -4,7 +4,7 @@ The Global Ethics Initiative is an ethics discussion forum, resource sharing, an
 
 **Goal: The development of an app/platform that enables anyone anywhere todetermine what abeneficial and inclusive future for humankind and the earth as a wholeshould be, and to contribute to the building of that future.**
 
-The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to t a echnological changes overtaking them.
+The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
 
 # Overview
 
@@ -49,6 +49,8 @@ Goals:→ Humans clarity on personal alignment through conversation with AI - w
 **Critical Element #2:** Humans talk to one another on technology & ethics considerations
 
 Goals:
+
+The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
 
 → People practicing conversations of alignment with others; getting out of their bubble, understanding diverse perspectives and the breadth of considerations around complex topics;
 
