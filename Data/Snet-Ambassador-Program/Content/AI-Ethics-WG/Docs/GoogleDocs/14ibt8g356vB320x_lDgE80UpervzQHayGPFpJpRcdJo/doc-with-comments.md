@@ -2,8 +2,7 @@
 
 > [Comments]
 > Context - t
-> * Colleen Pridemore: Make the word aspect, plural (Resolved)
->   - Esther Galfalvi: 
+> * Colleen Pridemore: Make the word aspect, plural (Resolved by Esther Galfalvi)
 >
 
 The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc). 
@@ -11,15 +10,23 @@ The Global Ethics Initiative is an ethics discussion forum, resource sharing, an
 > [Comments]
 > Context - The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc).
 > * Holly Rankin: For discussion: Is it or would it make sense to be or be connected to a charitable organization that can receive donations in service to the creation of beneficial AI? Why or why not?
+>   - Esther Galfalvi: Or form a partnership with an existing charitable organisation that can receive the funds and then send them on to the GEI
 >
 
 **Goal: The development of an app/platform that enables anyone anywhere todetermine what abeneficial and inclusive future for humankind and the earth as a wholeshould be, and to contribute to the building of that future.**
 
-The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to t a echnological changes overtaking them. 
+The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them. 
 
 > [Comments]
 > Context - system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species.
 > * Colleen Pridemore: how will it gather this information? I assume it is currently gathering.  Correct?  If so this is not white-hat ethical hacking.  It is BLACK hat pure hacking.
+>   - Esther Galfalvi: Not sure what this comment means? We are hardly collecting any data yet, but all data that is being collected is currently being done by interviewers, not yet by AI, and only using informed consent forms. People know that the data will be processed by AI tools and is anonymised.
+>   - Colleen Pridemore: Sounds dubius. What makes you qualified to know whether or not SNet is currently using AI to collect data?
+>   - Esther Galfalvi: I don’t believe that SingularityNET is collecting for this project yet at all,as we are just kicking off
+>   - Colleen Pridemore: Ahhh so you dont know for sure. I  see
+>
+> Context - The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
+> * Holly Rankin: Love it. This idea overlaps heavily with what I have envisioned for a Civic AI that could help re-engage the public with various scales of community decision making.
 >
 
 # Overview
@@ -98,6 +105,13 @@ AI Collaboration
 **Critical Element #2:** Humans talk to one another on technology & ethics considerations
 
 Goals:
+
+The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI  
+
+> [Comments]
+> Context - The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
+> * Colleen Pridemore: I will be presenting a pitch to R&D Group on 06/05/2024 for such a video game.  Want to make sure to be aligning with Decentralization practices.  Advice welcome
+>
 
 → People practicing conversations of alignment with others; getting out of their bubble, understanding diverse perspectives and the breadth of considerations around complex topics;
 
@@ -277,8 +291,7 @@ This project has the potential to plug into global discussions about governance,
 
 > [Comments]
 > Context - body of global
-> * Marta Lenartowicz: Ideally (I would suggest) the project/system *IS that body*, not via representatives but as a collectively intelligent swarm-type of an agency (Resolved)
->   - Colleen Pridemore: 
+> * Marta Lenartowicz: Ideally (I would suggest) the project/system *IS that body*, not via representatives but as a collectively intelligent swarm-type of an agency (Resolved by Colleen Pridemore)
 >
 
 ## Governance
@@ -424,24 +437,7 @@ During the app phase, content moderation will also be in the domain of the reput
 
 
 
-# Marketing 
-
-> [Comments]
-> Context - Marketing
-> * Tevo Saks: In the INO we are preparing an event in Estonia this year which will be similar to DAO DAY that was done last year by same organisers.
-https://daoday.ee/
-
-If I'm correct the event is somewhere in October.
-Would be mutually beneficial if SingularityNET could be part of it as panelist or supporters.
-This years main focus seems to be: Regulation outlook and opportunities related to AI and decentralized organizations.
-And I think Ethic-related panels would make so much sense, especially from the network in the forefront of AGI.
-
-Usual Estonian audience: ministers, regulators, startup founders and incubators, finance and crypto-related organizations
->   - Esther Galfalvi: That's a great idea!
->   - Tevo Saks: How would I start going about finding and coordinating to pursue this idea from SingularityNET side?
->   - Esther Galfalvi: @tevosaks@gmail.com Just messaged you, Haley and Leeloo on mattermost about this :)
->   - Colleen Pridemore: Sounds like a good idea
->
+# Marketing
 
 ## Ambassador outreach
 
