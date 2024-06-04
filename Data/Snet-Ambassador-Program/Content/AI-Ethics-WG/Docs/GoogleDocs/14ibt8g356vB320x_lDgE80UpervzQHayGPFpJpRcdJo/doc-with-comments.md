@@ -11,6 +11,7 @@ The Global Ethics Initiative is an ethics discussion forum, resource sharing, an
 > Context - The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc).
 > * Holly Rankin: For discussion: Is it or would it make sense to be or be connected to a charitable organization that can receive donations in service to the creation of beneficial AI? Why or why not?
 >   - Esther Galfalvi: Or form a partnership with an existing charitable organisation that can receive the funds and then send them on to the GEI
+>   - Holly Rankin: Typically, it's both! I've been collecting a list of potential orgs that would be great support partners for a similar venture.
 >
 
 **Goal: The development of an app/platform that enables anyone anywhere todetermine what abeneficial and inclusive future for humankind and the earth as a wholeshould be, and to contribute to the building of that future.**
