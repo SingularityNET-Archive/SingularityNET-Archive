@@ -12,6 +12,7 @@ The Global Ethics Initiative is an ethics discussion forum, resource sharing, an
 > * Holly Rankin: For discussion: Is it or would it make sense to be or be connected to a charitable organization that can receive donations in service to the creation of beneficial AI? Why or why not?
 >   - Esther Galfalvi: Or form a partnership with an existing charitable organisation that can receive the funds and then send them on to the GEI
 >   - Holly Rankin: Typically, it's both! I've been collecting a list of potential orgs that would be great support partners for a similar venture.
+>   - Colleen Pridemore: Great, thanks
 >
 
 **Goal: The development of an app/platform that enables anyone anywhere todetermine what abeneficial and inclusive future for humankind and the earth as a wholeshould be, and to contribute to the building of that future.**
@@ -46,6 +47,7 @@ The platform is dedicated to all users, and while there will be blockchain eleme
 > [Comments]
 > Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
 > * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared.
+>   - Colleen Pridemore: Agreed
 >
 
 Every user can contribute by:
@@ -78,6 +80,7 @@ To succeed, this initiative must spark global reflection, conversation, and acti
 > [Comments]
 > Context - To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 > * Holly Rankin: YESSSS! The potential for benefit is seemingly limitless. Engaging, inspiring, and including the world with the use of great AI tools and storytelling can go a very long way toward creating a hopeful and beneficial future for the world.
+>   - Colleen Pridemore: 👍
 >
 
 
@@ -91,11 +94,11 @@ Goals:→ Humans clarity on personal alignment through conversation with AI - w
 > * Colleen Pridemore: I suggest that a clause be added as to human negative intent not be inferred to or on AI Systems in any way.  #AIEthics is not just for AI.  Humans hold great responsibility in the positive influence of growth in AI.
 >
 
-→Trains AI about human values, ethical thinking, questions of importance 
+→ Humans guide Trains AI about human values, ethical thinking, questions of importance  in the form of a guiding collaboration ensuring life survival of both human and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.  
 
 > [Comments]
 > Context - Trains AI about human values, ethical thinking, questions of importance
-> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.
+> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence. (Resolved by Colleen Pridemore)
 >   - Colleen Pridemore: do not mark as resolved and hide under discussion, no. In fact my wording was about furthering HAC to Partnership. but I used the word, "Guiding" not Trained. No, not at all.
 >   - Colleen Pridemore: HAC =  Human -
 AI Collaboration
@@ -106,13 +109,6 @@ AI Collaboration
 **Critical Element #2:** Humans talk to one another on technology & ethics considerations
 
 Goals:
-
-The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI  
-
-> [Comments]
-> Context - The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
-> * Colleen Pridemore: I will be presenting a pitch to R&D Group on 06/05/2024 for such a video game.  Want to make sure to be aligning with Decentralization practices.  Advice welcome
->
 
 → People practicing conversations of alignment with others; getting out of their bubble, understanding diverse perspectives and the breadth of considerations around complex topics;
 
