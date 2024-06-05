@@ -42,15 +42,13 @@ To succeed, this initiative must spark global reflection, conversation, and acti
 
 Goals:→ Humans clarity on personal alignment through conversation with AI - what do they value, what do they want in their future, what are the relevant implications of technology that they can/should be thinking about→ Elevates human agency; people go from passive observers of the march of progress, to thinking about and forming opinions on the direction of that progress
 
-→Trains AI about human values, ethical thinking, questions of importance
+→ Humans guide Trains AI about human values, ethical thinking, questions of importance  in the form of a guiding collaboration ensuring life survival of both human and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.
 
 ****
 
 **Critical Element #2:** Humans talk to one another on technology & ethics considerations
 
 Goals:
-
-The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
 
 → People practicing conversations of alignment with others; getting out of their bubble, understanding diverse perspectives and the breadth of considerations around complex topics;
 
