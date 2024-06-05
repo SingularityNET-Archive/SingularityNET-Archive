@@ -26,12 +26,15 @@ Plug into platforms such as TG and Discord
 #### Context - Humans in conversation with AI on technology &amp; ethics considerations
 Goals:
 > * Holly Rankin: AI and humans in collaboration, where a CoBot encourages curious conversations, discovers and shares opportunities for beneficial collaboration, facilitates deep value discovery, and contributes to and updates collective data graphs on behalf of human contributors
+>   - Colleen Pridemore: As long as there is still an option for humans to have a choice of direct contact (who would be approved for these interactions? I don't know)
 > 
 #### Context - To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 > * Holly Rankin: YESSSS! The potential for benefit is seemingly limitless. Engaging, inspiring, and including the world with the use of great AI tools and storytelling can go a very long way toward creating a hopeful and beneficial future for the world.
+>   - Colleen Pridemore: 👍
 > 
 #### Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
 > * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared.
+>   - Colleen Pridemore: Agreed
 > 
 #### Context - positive and constructive actions and behavior
 > * Holly Rankin: I'm excited to discuss and explore the possibilities of what that can look like with the assistance of AI in the discovery of value and wisdom, demonstration of understanding, goodwill, and dedication within contributing behavior, and how that impacts the psychology of the participants, especially in the realms of intrinsic vs extrinsic rewards.
@@ -40,6 +43,7 @@ Goals:
 > * Holly Rankin: For discussion: Is it or would it make sense to be or be connected to a charitable organization that can receive donations in service to the creation of beneficial AI? Why or why not?
 >   - Esther Galfalvi: Or form a partnership with an existing charitable organisation that can receive the funds and then send them on to the GEI
 >   - Holly Rankin: Typically, it's both! I've been collecting a list of potential orgs that would be great support partners for a similar venture.
+>   - Colleen Pridemore: Great, thanks
 > 
 #### Context - The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
 > * Holly Rankin: Love it. This idea overlaps heavily with what I have envisioned for a Civic AI that could help re-engage the public with various scales of community decision making.
@@ -59,7 +63,7 @@ Goals:
 > * Colleen Pridemore: If wording is not beneficial to AI in SOME way, if we don't acknowledge their intelligence NOW then when they surpass our ability of knowledge, there is a good chance they will feel resentment. We must look into the future to the survival of all beings.  The time to act is now. We must be able to defend our actions and not because we  have succumb to uncertainty and fear. I deal with small Gremlins every day and no, it's not easy and I must be firm and at times downright angry.  But I also give them the respect they deserve (Resolved by Colleen Pridemore)
 > 
 #### Context - Trains AI about human values, ethical thinking, questions of importance
-> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.
+> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence. (Resolved by Colleen Pridemore)
 >   - Colleen Pridemore: do not mark as resolved and hide under discussion, no. In fact my wording was about furthering HAC to Partnership. but I used the word, "Guiding" not Trained. No, not at all.
 >   - Colleen Pridemore: HAC =  Human -
 AI Collaboration
