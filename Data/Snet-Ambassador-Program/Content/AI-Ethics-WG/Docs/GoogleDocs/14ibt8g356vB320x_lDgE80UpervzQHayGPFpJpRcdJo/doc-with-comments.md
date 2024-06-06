@@ -20,12 +20,20 @@ The Global Ethics Initiative is an ethics discussion forum, resource sharing, an
 The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them. 
 
 > [Comments]
+> Context - gather the collective intelligence of humanity
+> * Vanessa Cardui: Heya - I feel like this paragraph should explicitly include a line about the "informed consent" element that Esther has mentioned in the comments. 
+
+And also, maybe, it should somehow address the question of attribution? (or at the least, mentioning sources in general terms, like "from interviews conducted at (somewhere)"). It is kinda addressed further down with "Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous." - but I feel like it might need to be here, in the "Goal" section, so the reader isn't left hanging?
+
+I (like most of us, probably) am a bit uneasy with the ethics of this widely-used "crowdsourced wisdom" approach, cos it does often end up as kinda plundering ordinary people for their uncredited insights; and (just as always) ordinary working-class people being made historically/archivally invisible as individuals, in service of some "greater" initiative that wasn't shaped by them. So I feel like it needs to be stated immediately that this *isn't* what we're doing.
+
+(and I'd need to have a real think about how I reckon something like this could be worded!)
+>
 > Context - system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species.
 > * Colleen Pridemore: how will it gather this information? I assume it is currently gathering.  Correct?  If so this is not white-hat ethical hacking.  It is BLACK hat pure hacking.
 >   - Esther Galfalvi: Not sure what this comment means? We are hardly collecting any data yet, but all data that is being collected is currently being done by interviewers, not yet by AI, and only using informed consent forms. People know that the data will be processed by AI tools and is anonymised.
 >   - Colleen Pridemore: Sounds dubius. What makes you qualified to know whether or not SNet is currently using AI to collect data?
 >   - Esther Galfalvi: I don’t believe that SingularityNET is collecting for this project yet at all,as we are just kicking off
->   - Colleen Pridemore: Ahhh so you dont know for sure. I  see
 >
 > Context - The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
 > * Holly Rankin: Love it. This idea overlaps heavily with what I have envisioned for a Civic AI that could help re-engage the public with various scales of community decision making.
@@ -46,7 +54,7 @@ The platform is dedicated to all users, and while there will be blockchain eleme
 
 > [Comments]
 > Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
-> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared.
+> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared. (Resolved by Colleen Pridemore)
 >   - Colleen Pridemore: Agreed
 >
 
@@ -54,7 +62,13 @@ Every user can contribute by:
 
 Engaging in meaningful conversations about beneficial AGI and related technologies or topics that aim for the betterment of humanity (and giving proper feedback to others’ inputs)
 
-Donating money (FIAT or Crypto), computing power , data
+Donating money (FIAT or Crypto), computing power , data 
+
+> [Comments]
+> Context - FIAT
+> * Vanessa Cardui: fiat
+(no caps) - it's not an initialism - the word stems from Latin :-) (Resolved by Colleen Pridemore)
+>
 
 Proposing or defining concrete projects that would effectively support the greater goal
 
@@ -65,6 +79,8 @@ Participants who contribute by data, computing, or financial means will be given
 > [Comments]
 > Context - Participants who contribute by data, computing, or financial means will be given some agency in how these contributions can or cannot be used.
 > * Colleen Pridemore: Aren't there any other contributing factors? Such as contributing to the factors of this document for example?
+>   - Vanessa Cardui: I kinda feel like this kind of work falls under the umbrella of "contributing data"? But actually, maybe not - maybe we need an additional one, something like "contribute by organising/planning/work/thinking??"
+>   - Colleen Pridemore: I agree. I think "contributing data" can cover a host of actions, right?
 >
 
 Ultimately, this is envisioned as an app interface, but initial implementation will be via a web2 website.
@@ -94,15 +110,7 @@ Goals:→ Humans clarity on personal alignment through conversation with AI - w
 > * Colleen Pridemore: I suggest that a clause be added as to human negative intent not be inferred to or on AI Systems in any way.  #AIEthics is not just for AI.  Humans hold great responsibility in the positive influence of growth in AI.
 >
 
-→ Humans guide Trains AI about human values, ethical thinking, questions of importance  in the form of a guiding collaboration ensuring life survival of both human and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.  
-
-> [Comments]
-> Context - Trains AI about human values, ethical thinking, questions of importance
-> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence. (Resolved by Colleen Pridemore)
->   - Colleen Pridemore: do not mark as resolved and hide under discussion, no. In fact my wording was about furthering HAC to Partnership. but I used the word, "Guiding" not Trained. No, not at all.
->   - Colleen Pridemore: HAC =  Human -
-AI Collaboration
->
+→ Humans guide Trains AI about human values, ethical thinking, questions of importance  in the form of a guiding collaboration ensuring life survival of both human and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.
 
 ****
 
@@ -265,12 +273,7 @@ There is at least one -optional- identification method, that enables a user to l
 
 
 
-**Longer-range integrations -**  
-
-> [Comments]
-> Context - Longer-range integrations
-> * Marta Lenartowicz: If we speak "humanity" this means not only individual "farmers" out there, but also all the higher-level forms of organization: projects, tools, frameworks, systems, organizations, economic and political powers... These entities/structures (and interests) always tag along and want to act once the system becomes large enough - and we want a global humanity size...  (I think this is where the idea of the BGI Constitution comes into play -> a more "political" layer that creates a stage that can be entered[/document that can be signed] by all these bigger entities, specifying their commitments and the rules of inter-play.)
->
+**Longer-range integrations -**
 
 
 
@@ -284,12 +287,7 @@ Technical integrations with AI platform / NuNet / Deep Funding and other emergin
 
 **A broader vision**
 
-This project has the potential to plug into global discussions about governance, not just ethics and what projects should be funded. Some people can form a body of global representatives, who would provide evidence-based recommendations to governments, UN, and other centralized AI governance organizations. 
-
-> [Comments]
-> Context - body of global
-> * Marta Lenartowicz: Ideally (I would suggest) the project/system *IS that body*, not via representatives but as a collectively intelligent swarm-type of an agency (Resolved by Colleen Pridemore)
->
+This project has the potential to plug into global discussions about governance, not just ethics and what projects should be funded. Some people can form a body of global representatives, who would provide evidence-based recommendations to governments, UN, and other centralized AI governance organizations.
 
 ## Governance
 
@@ -415,12 +413,7 @@ We could leverage the reputation system currently in development to ensure valid
 
 **Incentives**
 
-It is hoped that there would be plenty of natural incentive for people to participate in AI ethics and governance. But there could be other incentives for extensive contributions. Non-financial incentives can include reputation, social badges, free tickets and invitations to events and resources. 
-
-> [Comments]
-> Context - incentive for people to participate in AI ethics and governance
-> * Marta Lenartowicz: Perhaps there might be an integrative way of incentivising individual contributions and structuring collective actions: something around the notion of *empowerment*. (Governance is traditionally about power, anyhow, so this might be a nice variation.) Users could become *empowered* in many different ways, depending on what they are seeking: being listened to and understood ("empowering your voice"), joined forces with by like-minded allies, or supported by different resources like utility tokens that allow to do various things in the ecosystem. On the other hand, integrative value representations are very problematic, so just brainstorming here ;-)
->
+It is hoped that there would be plenty of natural incentive for people to participate in AI ethics and governance. But there could be other incentives for extensive contributions. Non-financial incentives can include reputation, social badges, free tickets and invitations to events and resources.
 
 
 
