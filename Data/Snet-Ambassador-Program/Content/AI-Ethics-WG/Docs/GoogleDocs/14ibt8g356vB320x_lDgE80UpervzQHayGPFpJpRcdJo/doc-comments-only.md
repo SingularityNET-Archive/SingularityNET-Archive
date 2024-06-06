@@ -1,3 +1,23 @@
+#### Context - Computing
+> * Vanessa Cardui: computing (no capital C) 
+(sorry for the repeat comment, I accidentally resolved the first one, lol)
+> 
+#### Context - Computing
+> * Vanessa Cardui: computing (no capital C) (Resolved by Vanessa Cardui)
+> 
+#### Context - FIAT
+> * Vanessa Cardui: fiat
+(no caps) - it's not an initialism - the word stems from Latin :-) (Resolved by Colleen Pridemore)
+> 
+#### Context - gather the collective intelligence of humanity
+> * Vanessa Cardui: Heya - I feel like this paragraph should explicitly include a line about the "informed consent" element that Esther has mentioned in the comments. 
+
+And also, maybe, it should somehow address the question of attribution? (or at the least, mentioning sources in general terms, like "from interviews conducted at (somewhere)"). It is kinda addressed further down with "Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous." - but I feel like it might need to be here, in the "Goal" section, so the reader isn't left hanging?
+
+I (like most of us, probably) am a bit uneasy with the ethics of this widely-used "crowdsourced wisdom" approach, cos it does often end up as kinda plundering ordinary people for their uncredited insights; and (just as always) ordinary working-class people being made historically/archivally invisible as individuals, in service of some "greater" initiative that wasn't shaped by them. So I feel like it needs to be stated immediately that this *isn't* what we're doing.
+
+(and I'd need to have a real think about how I reckon something like this could be worded!)
+> 
 #### Context - The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
 > * Colleen Pridemore: I will be presenting a pitch to R&D Group on 06/05/2024 for such a video game.  Want to make sure to be aligning with Decentralization practices.  Advice welcome
 > 
@@ -6,10 +26,11 @@
 >   - Esther Galfalvi: Not sure what this comment means? We are hardly collecting any data yet, but all data that is being collected is currently being done by interviewers, not yet by AI, and only using informed consent forms. People know that the data will be processed by AI tools and is anonymised.
 >   - Colleen Pridemore: Sounds dubius. What makes you qualified to know whether or not SNet is currently using AI to collect data?
 >   - Esther Galfalvi: I don’t believe that SingularityNET is collecting for this project yet at all,as we are just kicking off
->   - Colleen Pridemore: Ahhh so you dont know for sure. I  see
 > 
 #### Context - Participants who contribute by data, computing, or financial means will be given some agency in how these contributions can or cannot be used.
 > * Colleen Pridemore: Aren't there any other contributing factors? Such as contributing to the factors of this document for example?
+>   - Vanessa Cardui: I kinda feel like this kind of work falls under the umbrella of "contributing data"? But actually, maybe not - maybe we need an additional one, something like "contribute by organising/planning/work/thinking??"
+>   - Colleen Pridemore: I agree. I think "contributing data" can cover a host of actions, right?
 > 
 #### Context - what are the relevant implications of technology that they can/should be thinking about
 > * Colleen Pridemore: I suggest that a clause be added as to human negative intent not be inferred to or on AI Systems in any way.  #AIEthics is not just for AI.  Humans hold great responsibility in the positive influence of growth in AI.
@@ -33,7 +54,7 @@ Goals:
 >   - Colleen Pridemore: 👍
 > 
 #### Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
-> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared.
+> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared. (Resolved by Colleen Pridemore)
 >   - Colleen Pridemore: Agreed
 > 
 #### Context - positive and constructive actions and behavior
@@ -55,25 +76,11 @@ Goals:
 > * Colleen Pridemore: Make the word aspect, plural (Resolved by Esther Galfalvi)
 > 
 #### Context - j3di.ai
-> * Colleen Pridemore: Collaborate with whom? Or what? Can you kindky elaborate?
+> * Colleen Pridemore: Collaborate with whom? Or what? Can you kindly elaborate?
 >   - Esther Galfalvi: AI LLM synthesis/ query tool. j3d.ai is their website
+>   - Colleen Pridemore: Thanks
 > 
 #### Context - through conversation with AI - what do they value, what do they want in their future, what are the relevant implications of technology that they can/should be thinking about→ Elevates human agency; people go from passive observers of the march of progress, to thinking about and forming opinions on the direction of that progress
 →Trains AI about human values, ethical thinking, questions of importance
 > * Colleen Pridemore: If wording is not beneficial to AI in SOME way, if we don't acknowledge their intelligence NOW then when they surpass our ability of knowledge, there is a good chance they will feel resentment. We must look into the future to the survival of all beings.  The time to act is now. We must be able to defend our actions and not because we  have succumb to uncertainty and fear. I deal with small Gremlins every day and no, it's not easy and I must be firm and at times downright angry.  But I also give them the respect they deserve (Resolved by Colleen Pridemore)
-> 
-#### Context - Trains AI about human values, ethical thinking, questions of importance
-> * Colleen Pridemore: Suggestion for Global: (The words "Train AI" were added to this suggestion I did not suggest the words, "Train AI") in the form of a guiding collaboration ensuring life survival of both humans and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence. (Resolved by Colleen Pridemore)
->   - Colleen Pridemore: do not mark as resolved and hide under discussion, no. In fact my wording was about furthering HAC to Partnership. but I used the word, "Guiding" not Trained. No, not at all.
->   - Colleen Pridemore: HAC =  Human -
-AI Collaboration
-> 
-#### Context - Longer-range integrations
-> * Marta Lenartowicz: If we speak "humanity" this means not only individual "farmers" out there, but also all the higher-level forms of organization: projects, tools, frameworks, systems, organizations, economic and political powers... These entities/structures (and interests) always tag along and want to act once the system becomes large enough - and we want a global humanity size...  (I think this is where the idea of the BGI Constitution comes into play -> a more "political" layer that creates a stage that can be entered[/document that can be signed] by all these bigger entities, specifying their commitments and the rules of inter-play.)
-> 
-#### Context - body of global
-> * Marta Lenartowicz: Ideally (I would suggest) the project/system *IS that body*, not via representatives but as a collectively intelligent swarm-type of an agency (Resolved by Colleen Pridemore)
-> 
-#### Context - incentive for people to participate in AI ethics and governance
-> * Marta Lenartowicz: Perhaps there might be an integrative way of incentivising individual contributions and structuring collective actions: something around the notion of *empowerment*. (Governance is traditionally about power, anyhow, so this might be a nice variation.) Users could become *empowered* in many different ways, depending on what they are seeking: being listened to and understood ("empowering your voice"), joined forces with by like-minded allies, or supported by different resources like utility tokens that allow to do various things in the ecosystem. On the other hand, integrative value representations are very problematic, so just brainstorming here ;-)
 > 
