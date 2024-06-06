@@ -546,7 +546,7 @@ Firstly, we would love to say a heartfelt thank you to everyone who contributed 
 
 
 
-Onboarding is a process, and it takes time and effort efforts to create a comfortable space for new members and existing members in the program. For this, we recommend that Workgroups consider allocating something in their budgets for continuous onboarding of members.
+Onboarding is a process, and it takes time and effort to create a comfortable space for new members and existing members in the program. For this, we recommend that Workgroups consider allocating something in their budgets for continuous onboarding of members.
 
 
 
