@@ -4,7 +4,7 @@
 
 ## 1. Introduction:
 
-The SingularityNET ecosystem prides itself on fostering diversity and inclusivity among its members. However, despite our efforts, there remains a significant segment of our community whose needs may not be adequately addressed: individuals living with disabilities. Disabilities present unique challenges in a technology-driven environment like SingularityNET. This research seeks to identify the presence of this challenge and understand the needs of individuals with disabilities in order to implement practical solutions that support their full participation within our ecosystem.
+The SingularityNET ecosystem prides itself on fostering diversity and inclusivity among its members. However, despite our efforts, there remains a significant segment of our community whose needs may not be adequately addressed: individuals living with disabilities. Disabilities present unique challenges in a technology-driven environment like SingularityNET. This proposal seeks to identify the presence of this challenge as well and promote inclusivity by conducting research focused on understanding the needs of individuals with disabilities and implementing practical solutions to support their full participation within our ecosystem.
 
 
 
