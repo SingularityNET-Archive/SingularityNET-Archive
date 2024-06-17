@@ -1,4 +1,6 @@
-# Ethics Workgroup Introduction
+# Ethics Workgroup:
+
+Q2 2024 Budget proposal
 
 ### Context
 
