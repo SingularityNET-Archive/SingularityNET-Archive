@@ -58,13 +58,15 @@ Add this to your own Google calendar, to have the times and Zoom links of all th
 
 **Education Guild**
 
-In process of figuring out what could we be educating ourselves ****
+In process of figuring out what could we be educating ourselves
 
-**Gamers Guild** :Gamers guild helps to educate and onboard community members through gamification,
+CHANGE TO: "About all things related to AI, AGI & ASI education for the SNET community." ****
+
+**Gamers Guild** :Gamers g g uild helps to educate and onboard community members through gamification,
 
 conduct gaming sessions for community members, and
 
-cover gamified projects launched by SNET through educational workshops.
+cover s gamified projects launched by SNET through educational workshops.
 
 
 
@@ -122,13 +124,53 @@ Creating project-based learning materials about Dework on the Andamio platform, 
 
 **Strategy Guild**
 
-A group to discuss strategy for the Ambassador program on a visionary or 10,000 foot level..
+A group to discuss strategy for the Ambassador program on a visionary or 10,000 foot level. .
 
 
 
 **Treasury Guild**
 
 This group is about the Ambassador program rules around budgets, payment of completed tasks and anything related to financial activities.
+
+
+
+African Guild
+
+This group is dedicated to expanding the SingularityNet footprint in Africa. Everyone’s welcome - especially if you are from any African community or desire to propagate SingularityNet’s mission within your immediate African community/region.
+
+
+
+LATAM Guild
+
+This group is dedicated to expanding the SingularityNet footprint in the Latin American Community. Everyone’s welcome - especially if you are from the Latin American Community or desire to propagate SingularityNet’s mission within the Latin American context.
+
+
+
+From Inés, slightly tweaked version: “ :
+
+The LATAM Ambassadors Guild is a community-driven initiative dedicated to expanding SingularityNET's footprint in Latin America. We are committed to help grow SingularityNET’s mission and vision of decentralizing upcoming AGI with the warm support of the Global Ambassadors Program in our dear South-American continent. Join us and be part of the Decentralized AGI Revolution in LATAM “
+
+
+
+Translations into Spanish and Portuguese:
+
+
+
+Portuguese: A Guilda de Embaixadores LATAM é uma iniciativa impulsionada pela comunidade e é dedicada a expandir a presença da SingularityNET na América Latina. Estamos comprometidos em ajudar a promover a missão e a visão da SingularityNET em descentralizar a futura Inteligência Artificial Geral (AGI) com o caloroso apoio do Programa Global de Embaixadores em nosso querido continente sul-americano. Junte-se a nós e faça parte da Revolução Descentralizada da AGI na LATAM
+
+
+
+Spanish:
+
+El Guild de Embajadores LATAM es una iniciativa impulsada por la comunidad, dedicada a expandir la presencia de SingularityNET en América Latina. Estamos comprometidos con el crecimiento de la misión y visión de SingularityNET de descentralizar la próxima AGI (Inteligencia Artificial General) con el cálido apoyo del Programa Global de Embajadores en nuestro querido continente sudamericano. Únete a nosotros y sé parte de la Revolución de la AGI Descentralizada en LATAM
+
+
+
+
+
+
+
+
 
 
 
@@ -147,6 +189,16 @@ This group maintains a record of Ambassador Program meetings, and explores how w
 We work on how to onboard new people into the Ambassador program. Everyone’s welcome - especially if you have, or would like to learn, skills in community engagement.
 
 
+
+AI Ethics Workgroup
+
+This is a forum for resource sharing as well as a financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Everyone’s welcome - especially if you can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc).
+
+
+
+
+
+The AI Ethics Workgroup is new in June 2024. It’s working alongside an initiative from the SingularityNET Foundation (see ) to research ordinary people’s views about the ethics that should govern the use of AI. Everyone’s welcome to join the workgroup - especially if you have, or would like to learn, skills in community research.
 
 ### Useful links:
 
