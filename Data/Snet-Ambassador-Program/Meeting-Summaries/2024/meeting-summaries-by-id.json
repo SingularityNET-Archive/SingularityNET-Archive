@@ -13483,26 +13483,34 @@
           "status": "carry over",
           "actionItems": [
             {
-              "text": "Creation of a group for test and training for our two candidates to serve as our reveiwer and communicator  for the zealy progeam",
-              "assignee": "lord kizzy, devon",
-              "dueDate": "28 June 2024",
-              "status": "in progress"
-            },
-            {
-              "text": "creation of our Budget proposal",
+              "text": "creation of our Q3 Budget proposal report",
               "assignee": "hogantuso, lordkizzy",
               "status": "todo"
+            },
+            {
+              "text": "Lordkizzy to reach out to Rojo on the initiatives shared during the meeting as regards to our content engagement.",
+              "assignee": "lord kizzy",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "we decided to stick to the videowork group task point system"
+            },
+            {
+              "decision": "We decided to make the Liaison role a permanent role "
             }
           ],
           "discussionPoints": [
             "More Updates on the zealy platform.",
             "slate,as our social media manager gave weekly updates on our social.",
-            "More weekly news updates from the town hall meeting"
+            "More weekly news updates from the town hall meeting",
+            "We had a diccussion on the suggestion osmium brought on how to improve our engagement"
           ]
         }
       ],
       "tags": {
-        "topicsCovered": "social media management, Videomaking, Task Assignment",
+        "topicsCovered": "social media management, Task Assignment, Budget ",
         "emotions": "Casual"
       },
       "type": "Custom",
