@@ -4,6 +4,8 @@ This file contains the commit history for the document with Google ID: 1NFXUJ-yy
 
 ## Commit Links
 
+- [2024/06/06](https://github.com/SingularityNET-Archive/SingularityNET-Archive/commit/2fe542417b27184b52b1f7e63d1e649463135f75)
+- [2024/06/05](https://github.com/SingularityNET-Archive/SingularityNET-Archive/commit/27cb8714f5cd11f1d97391280e199e8b961339e4)
 - [2024/06/03](https://github.com/SingularityNET-Archive/SingularityNET-Archive/commit/a87eae5bd08fb94b9ce0dccaf467f81bd6157dee)
 - [2024/06/03](https://github.com/SingularityNET-Archive/SingularityNET-Archive/commit/d891df1b40d2919889a3bfafb2e0957118a72bc1)
 - [2024/06/02](https://github.com/SingularityNET-Archive/SingularityNET-Archive/commit/ab22b04ad3085523a74408181fed6a6cb26d1ba9)
