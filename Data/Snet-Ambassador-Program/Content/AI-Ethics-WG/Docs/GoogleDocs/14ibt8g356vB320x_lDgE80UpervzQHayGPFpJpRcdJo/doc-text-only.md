@@ -12,7 +12,7 @@ The system will offer users (easy) ways to add value to the system in terms of i
 
 The system’s mechanics will stimulate conversations on effective ways to bring about an inclusive, beneficial future, concrete projects to implement these ideas in the real world, and the distribution of the collected value over these projects to support their execution.
 
-The platform is dedicated to all users, and while there will be blockchain elements on the back-end, web3 participation will not be a barrier to entry; the entire experience will be web2 accessible . Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
+The platform is dedicated to all users, and while there will be blockchain elements on the back-end, web3 participation will not be a barrier to entry; the entire experience will be web2 accessible . Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can als o choose to remain anonymous.
 
 Every user can contribute by:
 
@@ -34,7 +34,7 @@ There would be several phases to this project. Creating a new front and backend 
 
 # Three Critical Elements of the Platform
 
-To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
+To succeed, this initiative must spark global reflection er , conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 
 
 
@@ -90,7 +90,7 @@ These transcripts will be used to begin training a KG on ethical considerations,
 
 C ollaborate with j3d.ai to filter ethics-related conversations into insights and categories, since they are using transcription data to summarize the conference using an LLM already.
 
-Roundtable/Working Group
+Roundtable/Working Group ?
 
 Two roundtables held at BGI Summit - 1st with WSS table, and 2nd dedicated to GEI
 
