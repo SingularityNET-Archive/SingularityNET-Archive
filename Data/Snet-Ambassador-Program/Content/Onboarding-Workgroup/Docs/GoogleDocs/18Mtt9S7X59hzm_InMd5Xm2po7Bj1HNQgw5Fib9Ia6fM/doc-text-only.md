@@ -4,125 +4,95 @@
 
 ### What is the proposal?
 
-The proposal is “We should rename the decisionmaking role in the Program from “ Core Contributor Ambassador ” to something else TBD”.
+The proposal is:
+
+**We should keep the name “Core Contributor” for the decisionmaking role in the Ambassador Program.**
 
 
 
-BACKGROUND: Explain that it’s an experiment and that “Ambassador” is now a legacy role; the decisionmaking role is currently being called “Core Contributor”. Give the current Core Contrib criteria.
+Note: This decision is **only** about naming the role. There is no proposal to rename the Ambassador Program itself.
+
+### Background:
+
+In the past, the decision-making role in the SingularityNET Ambassador Program was a group called “Ambassadors”. At the end of Q4 2023 it included 9 people, and had somewhat unclear criteria and process for joining,
 
 
 
-Which way round is is the actual proposal? Is it “propose to call it Core Contributor permanently”? Ori s it “propose to change it to something else, to be decided”?
+As an experiment in Q2 2024, this was changed - the decision-making role was renamed “Core Contributor”, and became contribution-based, with a clear process for joining. People work towards joining every time they take part in activities in the Program, and we recalculate who qualifies as a Core Contributor each time there is a decision to be made. At the most recent calculation, May 2024, there were 41 Core Contributors. A person can qualify by either time-based recognition or fund request-based recognition, or both:
 
 
 
-(If the latter) If the proposal is agreed, ideas will then be invited for what it should be renamed as. We are using this 2-step process to ensure that objections, if any, are about the idea of renaming per se , rather than objections to a particular proposed new name.
+Time-based recognition
+
+Participate 12 hours in the last 6 months
+
+Contribute at least 6 hours in the last 6 months
+
+Must have at least some activity in the last 3 months
+
+Fund Request recognition
+
+Be rewarded with 1000+ AGIX for contributions in the last 3 months
 
 
 
-Note that this is **only**  about renaming the role. There is no proposal to rename the Ambassador Program.
+And to retain the “human touch”, anyone who is not picked up by these two approaches, but who feels they should be a Core Contributor, can either be nominated or can self-nominate at the time a new calculation is done.
 
 ### Who will make this decision?
 
-Core Contributors will make the decision.(explain what they are. NB there’s currently 41 core contribs, but we agreed in Gov WG it will be recalculated each time there is a decision)
+Core Contributors will make the decision.
+
+We will recalculate who qualifies as a Core Contributor immediately before the decision process starts.
+
+o
 
 
-
-Does it need any context setting on how Core Contribs came about? Prolly not necessary
-
-
-
-Note participation was low-ish for Q2 budgets decision, because the whole thing was a bit rushed. Need to do it better this time.
 
 
 
 ### How will the decision be made?
 
-The decision will be made using a consent process (we could use some of , but we agreed it’s better to add just key principles of how consent processes work - if we link to the old doc it could be confusing.)  COULD link the Q1 doc in the Q2 budget decision doc
+The decision will be made using a consent process.This works in a similar way to the WG Budget approval process that has been used this Quarter. We:
 
-I guess just explain that Consent works by asking for any objections, and then asking what would need to change in order for the objector to consent.  Do we need to add “can’t object unless it affects u” and “can’t object unless it would cause harm?”
+ask all Core Contributors  if they give their consent to the proposal, or if they have any objections.
+
+if anyone does object,
+
+ask what the objection is,
+
+ask what harm they think it would do to proceed
+
+ask what would need to change in order to get their consent
+
+discuss the objection(s) in a meeting and try to reach agreement.
 
 
 
-Last time we made a decision, we used a Google form - this time, we will be using the tool CitizenOS (maybe include screenshots? or explain how people will log in - own account?) NB we need to include info on privacy here - can people see what you say and see that it’s you?)
+Note that consenting does not mean that you **agree** with the proposal - it just means you think it is “safe enough to try”. So if you raise an objection, you’re effectively saying “Doing this isn’t safe, and would cause harm”, which is why the process will ask you to define what harm you feel it will do.
 
 
 
-BUDGET: add a bit for walkthru videos of decision tools - would budget come partly from Governance and  partly Onboarding, or all fro  Governance?
+Last time we made a decision, we used a Google form - this time, we will be using the tool CitizenOS  NB we need to include info on privacy here - can people see what you say and see that it’s you? )
 
 
 
-SIDE ISSUE: the way we are so reading/writing-based in this ecosystem - do we need to think about this and how it excludes people? Add pictures, infographics? infographics for getting started channel? Put this in next week's agenda??? AND TRANSLATIONS!!
+NOTE: ideally we need an infographic to go with this doc.
 
 ### What is the background to this decision?
 
-NB here we have to ensure what we say is sourced, and isn’t just our opinion.
+The idea of renaming the decision-making role from “Ambassador” to “Core Contributor” was discussed several times in the Program before the change was made as an experiment for Q2 2024; some of the points raised might be germane to the decision to continue to call the role by that name.
 
 
 
-The idea of renaming has been mentioned and discussed several times in the Program in the past.
+It was discussed at Town Hall on 9th Jan 2024
+
+It was raised by Judith in the Forum on 13th Feb 2024 - you can see the discussion and add to it   (Judith “ After an interesting session in Marketing Guild ” - that session seems not to have been documented - there are no Marketing summaries in Jan and Feb)
+
+It was addressed again in TH on 20th Feb 2024
 
 
 
-It was discussed at TH 9th Jan https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/january-2024/week-2#ambassador-town-hall
-
-
-
-Most recently it was raised by Judith here https://discord.com/channels/909843832491896832/1206778352615292938/1206778352615292938 on 13th Feb 2024 - you can see the discussion and add to it
-
-(Judith “After an interesting session in Marketing Guild” - Vani to find it: It seems not to have been documented - there are no Marketing summaries in Jan and Feb)
-
-
-
-Peter saying it would be covered in TH https://discord.com/channels/909843832491896832/1206778352615292938/1207036925853306940
-
-And it was, on 20th Feb (this is where Tommy said that he spoke to someone from the Foundatio who was against changing it from “Ambassador” https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/february-2024/week-8#timestamped-video
-
-
-
-We need to hunt around for anywhere else it has been discussed - but i don’t think there’s much tbh Love to check Discord for anything else
-
-
-
-
-
-### What else do we need to cover in this doc, if anything?
-
-What counts as a reason for objecting to the proposal? ( i.e. maybe the fact that the role doesn't have a special value attached to it and someone would prefer to have it scraped out? I mean the real decision-makers are the core contributors - just thinking out loud btw :-))
-
-In a proper consent decision-making process, people are not supposed to object unless certain conditions are fulfilled:
-
-You need to explain your objection
-
-You need to say what would need to change in order for you to give consent
-
-you can’t object unless the proposal being passed would actually affect you (I guess that applies to everyone, so OK)
-
-they feel that the proposal being passed would cause harm. (We didn’t specify this last time - the Q1 budget decision - but I am feeling we should? so maybe the decisionmaking process ought to ask people not just “What is your objection” and “what would need to change in order for you to consent?” but also “What is the harm you think it would do”?
-
-DISCUSS THESE IN GOV WG
-
-
-
-
-
-Should we list some pro and cons???  Agreed not - just link to where it was discussed and people can see for selves.
-
-
-
-Pro change - NB these are about changing it **from** Ambassador, so not strictly relevamt
-
-“Ambassador” IS widely used - but it’s not respected
-
-What we do is not what is usually meant by “ambassador”
-
-
-
-con change
-
-Tommy saying it’s a widely used name and bgwigs in Panama were against changing it
-
-
+(add Q2 retrospectives from Gov Guild where several people said it was a good thing)
 
 
 
