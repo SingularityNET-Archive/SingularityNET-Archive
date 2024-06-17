@@ -28,11 +28,14 @@ And also, maybe, it should somehow address the question of attribution? (or at t
 I (like most of us, probably) am a bit uneasy with the ethics of this widely-used "crowdsourced wisdom" approach, cos it does often end up as kinda plundering ordinary people for their uncredited insights; and (just as always) ordinary working-class people being made historically/archivally invisible as individuals, in service of some "greater" initiative that wasn't shaped by them. So I feel like it needs to be stated immediately that this *isn't* what we're doing.
 
 (and I'd need to have a real think about how I reckon something like this could be worded!)
+>   - Colleen Pridemore: If you look at the definition of data computing in Wikipedia, it actually comes out as a function  (interestingly enough) https://simple.wikipedia.org/wiki/Data_(computing)  Which means all data: ie...'Data is a sequence of numbers, words, or other symbols' which when explained, becomes information.
+
+I think this fits with the questions  abovementioned, right?
+>   - Colleen Pridemore: In addition, I agree with your "informed consent" phrase you stated earlier
 >
 > Context - system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species.
 > * Colleen Pridemore: how will it gather this information? I assume it is currently gathering.  Correct?  If so this is not white-hat ethical hacking.  It is BLACK hat pure hacking.
 >   - Esther Galfalvi: Not sure what this comment means? We are hardly collecting any data yet, but all data that is being collected is currently being done by interviewers, not yet by AI, and only using informed consent forms. People know that the data will be processed by AI tools and is anonymised.
->   - Colleen Pridemore: Sounds dubius. What makes you qualified to know whether or not SNet is currently using AI to collect data?
 >   - Esther Galfalvi: I don’t believe that SingularityNET is collecting for this project yet at all,as we are just kicking off
 >
 > Context - The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
@@ -50,13 +53,7 @@ The system will offer users (easy) ways to add value to the system in terms of i
 
 The system’s mechanics will stimulate conversations on effective ways to bring about an inclusive, beneficial future, concrete projects to implement these ideas in the real world, and the distribution of the collected value over these projects to support their execution.
 
-The platform is dedicated to all users, and while there will be blockchain elements on the back-end, web3 participation will not be a barrier to entry; the entire experience will be web2 accessible . Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous. 
-
-> [Comments]
-> Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
-> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared. (Resolved by Colleen Pridemore)
->   - Colleen Pridemore: Agreed
->
+The platform is dedicated to all users, and while there will be blockchain elements on the back-end, web3 participation will not be a barrier to entry; the entire experience will be web2 accessible . Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can als o choose to remain anonymous.
 
 Every user can contribute by:
 
@@ -91,13 +88,7 @@ There would be several phases to this project. Creating a new front and backend 
 
 # Three Critical Elements of the Platform
 
-To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit. 
-
-> [Comments]
-> Context - To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
-> * Holly Rankin: YESSSS! The potential for benefit is seemingly limitless. Engaging, inspiring, and including the world with the use of great AI tools and storytelling can go a very long way toward creating a hopeful and beneficial future for the world.
->   - Colleen Pridemore: 👍
->
+To succeed, this initiative must spark global reflection er , conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 
 
 
@@ -163,7 +154,7 @@ These transcripts will be used to begin training a KG on ethical considerations,
 
 C ollaborate with j3d.ai to filter ethics-related conversations into insights and categories, since they are using transcription data to summarize the conference using an LLM already.
 
-Roundtable/Working Group
+Roundtable/Working Group ?
 
 Two roundtables held at BGI Summit - 1st with WSS table, and 2nd dedicated to GEI
 
@@ -523,7 +514,13 @@ AI experts
 
 Everyone
 
-What areas of AI applications do you believe are most important at this moment?
+What areas of AI applications do you believe are most important at this moment? 
+
+> [Comments]
+> Context - What areas of AI applications do you believe are most important at this moment?
+> * Colleen Pridemore: Sorry, just got lost in reading and decided to answer! lol
+>   - Vanessa Cardui: :-)
+>
 
 [checkbox:]
 
