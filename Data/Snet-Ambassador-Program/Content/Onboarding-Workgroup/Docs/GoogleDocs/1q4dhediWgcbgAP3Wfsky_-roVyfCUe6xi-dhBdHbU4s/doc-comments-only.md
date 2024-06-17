@@ -1,5 +1,23 @@
+#### Context - dework
+> * Daniel Oladepo: Replace d with D
+> 
+#### Context - Gamers Guild
+> * Daniel Oladepo: Underline it.
+> 
 #### Context - In process of figuring out what could we be educating ourselves
-> * Vanessa Cardui: does Education want to change this text at all, now they're having a bit of a reboot?
+> * Vanessa Cardui: Messaged them to ask. Please change to:
+
+"About all things related to AI, AGI & ASI education for the SNET community."
+> 
+#### Context - Strategy Guild
+> * Vanessa Cardui: This might need a revamp too. I've posted in their channel to ask
+> 
+#### Context - LATAM Guild
+> * Vanessa Cardui: I've asked in LatAm if this text is good - and also if they can give us Spanish and Portuguese translations of it (cos I think it should be in those languages as well as in English in the channel :-)
+> 
+#### Context - In process of figuring out what could we be educating ourselves
+> * Vanessa Cardui: does Education want to change this text at all, now they're having a bit of a reboot? (Resolved by Vanessa Cardui)
+>   - Vanessa Cardui: I've messaged them to ask
 > 
 #### Context - Guilds and Workgroups: what they all do!
 > * Vanessa Cardui: Need to add the new WGs whose budgets were approved for Q2 - so that's AI Ethics, LatAm, Africa, Moderators.
@@ -100,24 +118,4 @@ After finding the task, the first impression is that it is a bit confusing. Ther
 Maybe the confusions described in 2 and 3 above are what lead to the last comment in the initial task to be from 2 months ago? Is this really the case? (no new applications for the Ambassador Program in last 2 months)
 
 As a possible solution, maybe the Onboarding Workgroup might consider creating a Dework task for each new applicant once they receive the initial Google Form. But that's naturally open to debate as part of that specific circle, which is too particular now for this general chat. (Resolved by Vanessa Cardui)
-> 
-#### Context - Introduction task
-> * Vanessa Cardui: (from Mihai)
-
-At Step 3 of the getting started guide, I must say that I had a bit of trouble finding the Introduction Task. First watched the linked video from Step 3, in hopes that it might include a mention of this task. Which it doesn't. Maybe it should be linked from the getting started guide here on Discord. (Resolved by Vanessa Cardui)
-> 
-#### Context - Fill in this form
-> * Vanessa Cardui: (From Mihai, via Ambassador Gneral channel):
-At Step 1 of the getting started guide, the Google form should have a better cover photo. Maybe the one used on the Ambassadors Program Twitter, YouTube would give this form a nicer look. (Resolved by Vanessa Cardui)
-> 
-#### Context - which are open to all members of the community
-> * Vanessa Cardui: I think we should add a line to say that working towards becoming an Ambassador is optional - a person can still take part in the program and the community even if they don't wish to become an ambassador. (Resolved by Sophia Kaine)
->   - Peter Elfrink: once the roles/levels doc is finalized it would explain this and can be referred here
-> 
-#### Context - https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com&amp;ctz=UTC
-> * Vanessa Cardui: Is this deffo the correct link? Have had feedback that it doesn't work - also the URL suggests that it has the times in UTC, which not everyone will want (Resolved by Tevo Saks)
-> 
-#### Context - Process Modelling Workgroup 
-This group looks at the workgroup lifecycle, and the processes of establishing or maintaining workgroups to serve the community. Designing visual guides and process maps.
-> * Tevo Saks: discontinued for time being
 > 
