@@ -1,6 +1,10 @@
+#### Context - What areas of AI applications do you believe are most important at this moment?
+> * Colleen Pridemore: Sorry, just got lost in reading and decided to answer! lol
+>   - Vanessa Cardui: :-)
+> 
 #### Context - Computing
 > * Vanessa Cardui: computing (no capital C) 
-(sorry for the repeat comment, I accidentally resolved the first one, lol)
+(sorry for the repeat comment, I accidentally resolved the first one, lol) (Resolved by Colleen Pridemore)
 > 
 #### Context - Computing
 > * Vanessa Cardui: computing (no capital C) (Resolved by Vanessa Cardui)
@@ -17,6 +21,10 @@ And also, maybe, it should somehow address the question of attribution? (or at t
 I (like most of us, probably) am a bit uneasy with the ethics of this widely-used "crowdsourced wisdom" approach, cos it does often end up as kinda plundering ordinary people for their uncredited insights; and (just as always) ordinary working-class people being made historically/archivally invisible as individuals, in service of some "greater" initiative that wasn't shaped by them. So I feel like it needs to be stated immediately that this *isn't* what we're doing.
 
 (and I'd need to have a real think about how I reckon something like this could be worded!)
+>   - Colleen Pridemore: If you look at the definition of data computing in Wikipedia, it actually comes out as a function  (interestingly enough) https://simple.wikipedia.org/wiki/Data_(computing)  Which means all data: ie...'Data is a sequence of numbers, words, or other symbols' which when explained, becomes information.
+
+I think this fits with the questions  abovementioned, right?
+>   - Colleen Pridemore: In addition, I agree with your "informed consent" phrase you stated earlier
 > 
 #### Context - The creation of an educational video game for kids and adults to discover information about AI Ethics and help to alleviate fears, misconceptions or biases about AI
 > * Colleen Pridemore: I will be presenting a pitch to R&D Group on 06/05/2024 for such a video game.  Want to make sure to be aligning with Decentralization practices.  Advice welcome
@@ -24,7 +32,6 @@ I (like most of us, probably) am a bit uneasy with the ethics of this widely-use
 #### Context - system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species.
 > * Colleen Pridemore: how will it gather this information? I assume it is currently gathering.  Correct?  If so this is not white-hat ethical hacking.  It is BLACK hat pure hacking.
 >   - Esther Galfalvi: Not sure what this comment means? We are hardly collecting any data yet, but all data that is being collected is currently being done by interviewers, not yet by AI, and only using informed consent forms. People know that the data will be processed by AI tools and is anonymised.
->   - Colleen Pridemore: Sounds dubius. What makes you qualified to know whether or not SNet is currently using AI to collect data?
 >   - Esther Galfalvi: I don’t believe that SingularityNET is collecting for this project yet at all,as we are just kicking off
 > 
 #### Context - Participants who contribute by data, computing, or financial means will be given some agency in how these contributions can or cannot be used.
@@ -76,11 +83,7 @@ Goals:
 > * Colleen Pridemore: Make the word aspect, plural (Resolved by Esther Galfalvi)
 > 
 #### Context - j3di.ai
-> * Colleen Pridemore: Collaborate with whom? Or what? Can you kindly elaborate?
+> * Colleen Pridemore: Collaborate with whom? Or what? Can you kindly elaborate? (Resolved by Colleen Pridemore)
 >   - Esther Galfalvi: AI LLM synthesis/ query tool. j3d.ai is their website
 >   - Colleen Pridemore: Thanks
-> 
-#### Context - through conversation with AI - what do they value, what do they want in their future, what are the relevant implications of technology that they can/should be thinking about→ Elevates human agency; people go from passive observers of the march of progress, to thinking about and forming opinions on the direction of that progress
-→Trains AI about human values, ethical thinking, questions of importance
-> * Colleen Pridemore: If wording is not beneficial to AI in SOME way, if we don't acknowledge their intelligence NOW then when they surpass our ability of knowledge, there is a good chance they will feel resentment. We must look into the future to the survival of all beings.  The time to act is now. We must be able to defend our actions and not because we  have succumb to uncertainty and fear. I deal with small Gremlins every day and no, it's not easy and I must be firm and at times downright angry.  But I also give them the respect they deserve (Resolved by Colleen Pridemore)
 > 
