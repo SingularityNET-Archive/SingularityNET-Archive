@@ -124,7 +124,11 @@ Creating project-based learning materials about Dework on the Andamio platform, 
 
 **Strategy Guild**
 
-A group to discuss strategy for the Ambassador program on a visionary or 10,000 foot level. .
+A service guild  set up to group to discuss  and promote strateg ies beneficial to other workgroups and guilds towards achieving y for the overall Ambassador program ’s  on a vision ary  or 10,000 foot level. . ecosystem and community, while promoting ethical conduct, honesty, integrity, and growth.
+
+
+
+
 
 
 
