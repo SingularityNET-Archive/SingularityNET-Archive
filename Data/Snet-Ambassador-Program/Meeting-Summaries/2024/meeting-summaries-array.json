@@ -13615,6 +13615,164 @@
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
       "name": "Weekly",
+      "date": "2024-06-12",
+      "host": "Onyeka , Guilermo",
+      "documenter": "Onyeka ",
+      "peoplePresent": "WaKa, Ayodele, kateri, Vasu, martinsoki, Peter, Duke, Curtis, Kenichi, Ubiodee",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224",
+          "link": "https://docs.google.com/document/d/1a_q2yq1jrLSUiPzIfADZSsOcV3za7PBPY_XXsCg8AS0/edit"
+        },
+        {
+          "title": "Final Guilds requested Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1gPUEAjXOp2DA9B5UDiPizKwBdaQAMY4k/edit#gid=612486399"
+        },
+        {
+          "title": "Final - Quarterly Workgroup Budget Calculator / Guilds Final Fitted Budget ",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=1788547254"
+        },
+        {
+          "title": "Typeform link",
+          "link": "https://fqmtepho6kd.typeform.com/to/uHsVjdS5"
+        },
+        {
+          "title": "R&D _ Q1 DELIVERABLES",
+          "link": "https://drive.google.com/drive/folders/1qy4P7bWmzFDWbNe03Do5HSV3FLOGYMnT?usp=sharing"
+        },
+        {
+          "title": "Research & Development Guild Budget Proposals Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1Cu2snGCH-9H4rviHFwcMD_qV-qRLjwFbO4eNjrWX6Hs/edit?usp=drive_link"
+        },
+        {
+          "title": "R&D _ Q1 Quarterly Report ",
+          "link": "https://docs.google.com/document/d/1ZFZr_OxtuQd2x21ZQQtFiaMipuYdj8MvuYFljWsRRZ8/edit?usp=drive_link"
+        },
+        {
+          "title": "Decision making tool",
+          "link": "https://citizenos.com/"
+        },
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Writer's workgroup evaluation Doc",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform"
+        },
+        {
+          "title": "R&D Guild Q2 budget Concern Response",
+          "link": "https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Mmembers and Introduction",
+          "Review of last meeting summary Action Items",
+          "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem.",
+          "Operations update: GitHub Board and repositories updates",
+          "Coleen proposal Discussions on  \"Ethics Quest Game\" ",
+          "Q2 Budget Concerns report",
+          "Q3 Budget proposal"
+        ],
+        "actionItems": [
+          {
+            "text": "Guillermo to have a call with Ubio on providing assistance to the multilingual project by conecting them with Celeste's team (Audio to text AI DF awarded project)",
+            "assignee": "Guillermo",
+            "dueDate": "12 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "WaKa & Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template.",
+            "assignee": "WaKa, Rojo",
+            "dueDate": "12 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Kenichi to create a basic explanatory document on his initiatives for the Ambassador program website and present it in the next meeting ",
+            "assignee": "Kenichi",
+            "dueDate": "5 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Duke to write down a short response on the concerns that was presented on Q2 budget for the guild.",
+            "assignee": "Duke",
+            "dueDate": "5 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Guilermo to ideate to see how Vasu cam collaborate with guild members on project",
+            "assignee": "Guillermo",
+            "dueDate": "12 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Colleen to email Guillermo on her gaming proposal for it to be added to the next meeting's agenda",
+            "assignee": "Colleen",
+            "dueDate": "12 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo and Lord_Kizzy to meet up and have a discussion on creating a Github board repository for the guild ",
+            "assignee": "Guillermo, lord kizzy",
+            "dueDate": "5 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Ayo to draft out a report on how he could contribute to the Guild ",
+            "assignee": "Ayo",
+            "dueDate": "12 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo and Lord_Kizzy to meet up and have discussions on Q3 budget preparation",
+            "assignee": "lord kizzy, Guilermo",
+            "dueDate": "12 June 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided that Duke should go ahead  with his project research and that he would get funded in Q3",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "there is no need to stop the process, so let him commerce and the funding will come later"
+          },
+          {
+            "decision": "Lordkizzy suggested that all core members of the Guild should head over to the GitHub board and update the status report of projects they are currently working on",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "The Guild has to present artifacts to build trust with the community by the end of the quarter"
+          }
+        ],
+        "discussionPoints": [
+          "Discussions on R&D Guild budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): there are still ongoing discussions on how the team can collaborate to move the initiative forward in this first stage. Duke suggested that any developer interested in this research should send him a DM, so that he can start making plans for the second part of this project",
+          "Discussions on Operations update:[ GitHub Board and repositories updates ], we have updated our GH operations with 6 new repos, 1 per proposal in execution to begin ordering deliverables for this end of Q2.",
+          "Discussions on KENICHI's proposal for the ambassador website and loyalty system, the guild loved the initiative and want him to collaborate with curtis and guillermo on that, since they are already working on a similar project",
+          "Discussions on Q2 Budget Concerns report, Guillermo created a document  and shared it with the team for feedback before we present it to the community",
+          "Discussion on Q3 Budget proposal, we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget proposal"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, agenda creation, GitHub, Workshop, loyalty system, Budget preparation, github board, Disablities",
+      "emotions": "Collaborative, productive, Thoughtful , speedy , Welcoming, Friendly, straightforward"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
       "date": "2024-06-05",
       "host": "Onyeka , Guilermo",
       "documenter": "Onyeka ",
@@ -13764,6 +13922,559 @@
     "tags": {
       "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, agenda creation, GitHub, Workshop, loyalty system, Budget preparation, github board, Disablities",
       "emotions": "Collaborative, productive, Thoughtful , speedy , Welcoming, Friendly, straightforward"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-06-15",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "malik, kateri, martinosoki, oep, lord kizzy, CollyPride, Gorga Siagian",
+      "purpose": "Q3 Budget Discussion and Some in-game options",
+      "workingDocs": [
+        {
+          "title": "Q3 Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1V3uSMWG-7e8P2fQpCa3ET0AE0aPhd58elvxI1iiMGqA/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "\n",
+        "actionItems": [
+          {
+            "text": "Education Guild Creation",
+            "assignee": "malik, hufiumer69",
+            "status": "todo"
+          },
+          {
+            "text": "Dialogue system and animation of video workgroup",
+            "assignee": "lord kizzy, Gorga Siagian",
+            "status": "todo"
+          },
+          {
+            "text": "RnD Guild Creation",
+            "assignee": "CollyPride, oep",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Each member can submit up to 5 assets. "
+          },
+          {
+            "decision": "The data gathering task for upcoming Working Groups and Guilds will start in next quarter.",
+            "rationale": "We already possess information on the 3 departments to be established this quarter, and the new guilds and workgroups will be well-established by the following quarter."
+          },
+          {
+            "decision": "Starting next quarter, the task of summarizing meetings will be rotated among members."
+          }
+        ],
+        "discussionPoints": [
+          "Slate outlined the meeting agenda",
+          "Updates on the creation of workgroups ",
+          "In the Q3 budget discussion, various topics were covered including rewards for creating assets, creating new departments, and the number of assets each person can create.",
+          "A little light was shed on the voice system - Gamers can now communicate in-game.",
+          "Game presentation by Colly Pride ",
+          "Alternative platforms for creating models besides Roblox were identified; Slate indicated that Peter possesses land in Decentraland.",
+          "Gorga shared a website that offers premade templates to aid in asset creation.",
+          "Dialogue interface template presented by Slate - All other workgroup dialogue interfaces should adhere to this design, simply modifying the names of NPCs."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, Roblox, participation, metaverse, Budget Request",
+      "emotions": "Friendly, Collaborative, engaging new people, Thoughtful ",
+      "gamesPlayed": "no game"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-23",
+      "host": "Clement Umoh",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "Clement Umoh, LadyTempestt, cjfrankie , Ayo, Vanessa, SucrenSpice, lord kizzy, duke peter, kateri, Colleen, Photogee, Mikasa, Billy, Onize, Gorga Siagian, esewilliams, daniel effiom",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "workingDocs": [
+        {
+          "title": "Onboarding Sessions survey",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform"
+        },
+        {
+          "title": "Getting Started Channel doc ",
+          "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program",
+          "link": "https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit"
+        },
+        {
+          "title": "Onboarding WG skills assessment / skills audit doc",
+          "link": "https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding Workgroup Treasury session video, April 18th, 2024",
+          "link": "https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "For 28th May Town Hall:\n\nGive a recap of Onboarding session on 16th May - mention the Discord walkthrough\nThank people for participation at the Treasury session (18th April) and share a link to the YouTube video https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn.\nShare the link to the Q2 Survey on Onboarding sessions and remind people it closes on Fri 31st May.\n\n\n",
+        "issues": [
+          "Onboarding Journeys",
+          "Skills audit",
+          "Onboarding Sessions Survey",
+          "Improving Onboarding Sessions"
+        ],
+        "actionItems": [
+          {
+            "text": "Lord Kizzy to re-do the summary from the Onboarding session on 16th, and add to the meeting summary tool",
+            "assignee": "lord kizzy",
+            "dueDate": "30 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to add minutes from 9th May to the summary tool.",
+            "assignee": "Vanessa",
+            "dueDate": "30 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lord Kizzy to chase Hogan Tuso to ask if he is still available to give the May 28th Town Hall updates from our WG.",
+            "assignee": "lord kizzy",
+            "dueDate": "26 April 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Everyone to add comments to the Getting Started document and the context-setting doc on the forthcoming Naming decision",
+            "assignee": "all",
+            "dueDate": "30 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Everyone to add their skills to the skills audit doc",
+            "assignee": "all",
+            "dueDate": "30 May 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Sucre to give the onboarding tag to Hogan Tuso.",
+            "assignee": "SucrenSpice",
+            "dueDate": "24 May 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to discuss the Q2 survey properly after the form closes on 31st May 2024.",
+            "rationale": "Vanessa gave a quick update based on results so far, but there will be a proper analysis when all the submissions are in.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed to have more discussions on how to improve our onboarding sessions at the next meeting.",
+            "rationale": "Ideas have been raised in the Onboarding Session on 16th, and in this meeting we didn't have time to address them all fully",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed to have someone else re-do the summary of the Onboarding session on 16th ",
+            "rationale": "The existing one didn't quite capture everything, as Gorga had problems recording",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes from the last meeting (9th May) and action items",
+          "Feedback from 16th May Onboarding session. The following points were raised (but not finalised): Should we have onboarding sessions at all? or should we focus on doing it more 1-2-1? There is budget in Q2 for Sucre to delegate some 1-2-1 onboarding engagement work, would that help? Should we do what the survey respondents seem to be suggesting, and have weekly sessions? We wouldn't have capacity. Should part of each onboarding meeting be a mini \"onboarding Q&A\"? Would it be more helpful to share our existing resources - e.g. the voiceover video of the onboarding slides? Was the reason that we didn't have attendees this time just that there had not recently been any big influx of new people?",
+          "Onboarding Journeys update ",
+          "Getting started doc/channel",
+          "Skills audit document ",
+          "Town Hall Update"
+        ],
+        "learningPoints": [
+          "We need to explore ways to reach our target audience for Onboarding sessions.",
+          "We reminded people that “contributing to docs” is a paid task that we have budget for, so they will be compensated $10 for adding ideas and comments to a doc"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "survey , Onboarding sessions, Outreach, Discord, 1-2-1, 1-2-1 onboarding, skills, skills audit, documents, contributing to documents, Budget ",
+      "emotions": "interesting, funny , long, insightful, busy"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-30",
+      "host": "lord kizzy",
+      "documenter": "duke peter",
+      "peoplePresent": "lord kizzy, duke peter, LadyTempestt, Cjfrankie , Ayo, Vanessa, SucrenSpice, kateri, Colleen, Photogee, Onize, Gorga Siagian, esewilliams, daniel effiom",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "workingDocs": [
+        {
+          "title": "Onboarding Sessions survey",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform"
+        },
+        {
+          "title": "Getting Started Channel doc ",
+          "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program",
+          "link": "https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit"
+        },
+        {
+          "title": "Onboarding WG skills assessment / skills audit doc",
+          "link": "https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding Workgroup Treasury session video, April 18th, 2024",
+          "link": "https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn"
+        },
+        {
+          "title": "Onboarding Slides voiceover video",
+          "link": "https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj"
+        },
+        {
+          "title": "Suggestions towards better onboarding processes",
+          "link": "https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "\n\n\n\n",
+        "issues": [
+          "Onboarding Journeys",
+          "Skills audit",
+          "Onboarding Sessions Survey",
+          "Suggestions towards better Onboarding Processes document"
+        ],
+        "actionItems": [
+          {
+            "text": "Lord Kizzy to re-do the summary from the Onboarding session on 16th, and add to the meeting summary tool",
+            "assignee": "lord kizzy",
+            "dueDate": "30 May 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani to add minutes from 9th May to the summary tool.",
+            "assignee": "Vanessa",
+            "dueDate": "30 May 2024",
+            "status": "done"
+          },
+          {
+            "text": "Lord Kizzy to chase Hogan Tuso to ask if he is still available to give the May 28th Town Hall updates from our WG. (He was, and he did!)",
+            "assignee": "lord kizzy",
+            "dueDate": "26 April 2024",
+            "status": "done"
+          },
+          {
+            "text": "Everyone to add their skills to the skills audit doc, including new people who have not yet done so",
+            "assignee": "all",
+            "dueDate": "6 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to give the onboarding tag to Hogan Tuso.",
+            "assignee": "SucrenSpice",
+            "dueDate": "24 May 2024",
+            "status": "done"
+          },
+          {
+            "text": "LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June",
+            "assignee": "LadyTempestt",
+            "dueDate": "24 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Onize to give Town Hall update for the WG on 25th June",
+            "assignee": "Onize",
+            "dueDate": "25 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued",
+            "assignee": "SucrenSpice",
+            "dueDate": "6 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Clement to add text to Getting Started doc about new WGs that started in Q2 (Africa guild, LatAm guild, AI Ethics, Moderators",
+            "assignee": "Clement Umoh",
+            "dueDate": "6 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Everyone to add comments to the Suggestions Towards Better Onboarding Processes document which Ayo created.",
+            "assignee": "all",
+            "dueDate": "6 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "LadyTempestt to add details of one particular conversation to Ayo's suggestions towards better Onboarding Processes document.",
+            "assignee": "LadyTempestt",
+            "dueDate": "6 June 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to discuss the Q2 survey properly after the form closes on 31st May 2024 - so next meeting, 6th June",
+            "rationale": "Analysis is in progress",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed to reach out to translators WG and LatAm for translating onboarding resources such as Getting Started",
+            "rationale": "because we are aware there might be language barriers",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed on “pinning”/sharing the onboarding video by Duke https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj",
+            "rationale": "because it's a useful resource that new people might not be aware of; and because more async/self-paced resources might help",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed Duke will facilitate the next meeting on 6th June",
+            "rationale": " as Peter is on the roster but may not be free to do it.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes from the last meeting and action items",
+          "Onboarding Journeys update ",
+          "Getting started doc/channel",
+          "Skills audit ",
+          "Video and text documentation of onboarding processes",
+          "Further discussion of feedback from 16th May Onboarding session. We covered: Can we use our skills audit doc to support onboarding - e.g. by identifying core skills that everyone needs in the ambassadors program overall? How do we bridge the translation barriers for new ambassadors in getting-started channel and onboarding? Should part of each onboarding meeting be a mini \"onboarding Q&A\"? Would it be more helpful to share our existing resources - e.g. the voiceover video of the onboarding slides? Do we need to reach out to leaders of workgroups to ask them to direct new members to the getting-started channel?"
+        ],
+        "learningPoints": [
+          "We need to figure out how to direct people more reliably to the getting-started channel, as sometimes they are missing it"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "skills audit, Getting Started, Translation, Town Hall update, mentorship, onboarding processes, new workgroups",
+      "emotions": "interesting, interactive, expository, Friendly"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-06-06",
+      "host": "duke peter",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "duke peter, LadyTempestt, Ayo, Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, kateri, daniel effiom, Onize, Gorga Siagian, Photogee, Kenichi, martinsoki, Jenn, Guillermo",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "workingDocs": [
+        {
+          "title": "Onboarding Sessions survey",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdq9FMJ7-kmh2ElWglAjPHZko5Ra7DjixeW8yHjZSNFgJ0hoA/viewform"
+        },
+        {
+          "title": "Getting Started Channel doc ",
+          "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on the name of the decisonmaking role in the Ambassador Program",
+          "link": "https://docs.google.com/document/d/18Mtt9S7X59hzm_InMd5Xm2po7Bj1HNQgw5Fib9Ia6fM/edit"
+        },
+        {
+          "title": "Onboarding WG skills assessment / skills audit doc",
+          "link": "https://docs.google.com/document/d/1Rcw-52w7-pZLjVKZXxPbrkm3P2ysXh6AgVJhnl7O3mg/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding Workgroup Treasury session video, April 18th, 2024",
+          "link": "https://youtu.be/Um7Zv5F9TyA?si=0kod7HN-2_h8suHn"
+        },
+        {
+          "title": "Onboarding Slides voiceover video",
+          "link": "https://youtu.be/ceOAl7ObJVU?si=3FN9EmfheGwlA1Tj"
+        },
+        {
+          "title": "Suggestions towards better onboarding processes",
+          "link": "https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding WG Buddy System survey",
+          "link": "https://forms.gle/BHQuj4UxNotcuuqs8"
+        },
+        {
+          "title": "Reinforcing Continuous Onboarding in Workgroups/Guilds:  Ideas and Potential Improvements",
+          "link": "https://docs.google.com/document/d/1RBACFdyclW3hSB3vfU2lZltR3ILc_Ed8wT5s0iUiND8/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "\n\n\n\n",
+        "issues": [
+          "Onboarding Journeys",
+          "Skills audit",
+          "Onboarding Sessions Survey",
+          "Suggestions towards better Onboarding Processes document",
+          "Mentors and mentees \"buddy system\" survey"
+        ],
+        "actionItems": [
+          {
+            "text": "Everyone to add their skills to the skills audit doc, including new people who have not yet done so",
+            "assignee": "all",
+            "dueDate": "6 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June",
+            "assignee": "LadyTempestt",
+            "dueDate": "24 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Onize to give Town Hall update for the WG on 25th June",
+            "assignee": "Onize",
+            "dueDate": "25 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued",
+            "assignee": "SucrenSpice",
+            "dueDate": "13 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Clement to add text to Getting Started doc about new WGs that started in Q2 (Africa guild, LatAm guild, AI Ethics, Moderators)",
+            "assignee": "Clement Umoh",
+            "dueDate": "6 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Everyone to add comments to the Suggestions Towards Better Onboarding Processes document which Ayo created.",
+            "assignee": "all",
+            "dueDate": "6 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "LadyTempestt to add details of one particular conversation to Ayo's suggestions towards better Onboarding Processes document.",
+            "assignee": "LadyTempestt",
+            "dueDate": "6 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani Sucre, Love and Onize will work on finalising the onboarding journey scripts, including addressing women's issues.",
+            "assignee": "Vanessa, Onize, LadyTempestt, SucrenSpice",
+            "dueDate": "13 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Clement to draft the Q2 report and bring it to the next meeting",
+            "assignee": "Clement Umoh",
+            "dueDate": "13 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Sucre to assign a buddy to Martinsoki",
+            "assignee": "SucrenSpice",
+            "dueDate": "7 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "LadyTempestt to send out the buddy system evaluation form to mentors and mentees.",
+            "assignee": "LadyTempestt",
+            "dueDate": "13 June 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Vani to reach out to Peter to give Kateri the onboarding WG tag.",
+            "assignee": "Vanessa, Peter",
+            "dueDate": "7 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Ayo to facilitate next meeting",
+            "assignee": "Ayo",
+            "dueDate": "13 June 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Duke to mentor Ayo in facilitating the next meeting.",
+            "assignee": "duke peter",
+            "dueDate": "13 June 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed Ayo will collate comments from his \"suggestions\" doc and bring it to our next meeting.",
+            "rationale": "because most of us have now added comments, but they need organising",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We recognised that Onboarding Journey scripts have been delayed because it can be hard to add info about certain onboarding barriers without personally identifying anyone.",
+            "rationale": "Particularly, we agreed to include information about barriers that are particularly faced by women; and a lot of this material is unspoken in the Program at large, and has only been discussed one to one. Given there are comparatively few women in the Program, raising these issues publicly can make individual women vulnerable.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed that LadyTempestt's evaluation form for thr Q2 \"Buddy\" mentorship system will go out to mentors and mentees, and she will collate responses.",
+            "rationale": "to see how well the Buddyy system has been working, and whether we should continue to budget for it in Q3",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Guillermo shared some info on LatAm Guild's onboarding processes, and said he will be using ideas from our \"Reinforcing Continuous Onboarding in Workgroups/Guilds:  Ideas and Potential Improvements\" doc from late 2023",
+            "rationale": "because the doc includes some valuable ideas on how WGs can support continuous onboarding.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We noted that we need to start thinking about our Q3 budget",
+            "rationale": "because deadline is soon",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Minutes from the last meeting and action items",
+          "Onboarding Journeys update ",
+          "\"Suggestions towards better onboarding processes\" document",
+          "Onboarding session survey results",
+          "Getting started doc/channel ",
+          "Skills audit document ",
+          "Quarterly report",
+          "Q3 budget",
+          "Analysis of how Q2 Buddy system went",
+          "Guillermo and introduction to LatAm Guild and their onboarding."
+        ],
+        "learningPoints": [
+          "We need to clear out old information in the getting-started document and update it before asking Tevo to update the getting started channel on discord."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "skills audit, Getting Started, mentorship, onboarding processes, buddy, buddy system, women's issues, barriers, Q2 quarterly report, Quarterly Report",
+      "emotions": "interesting, funny , long, long agenda"
     },
     "type": "Custom",
     "noSummaryGiven": false,
