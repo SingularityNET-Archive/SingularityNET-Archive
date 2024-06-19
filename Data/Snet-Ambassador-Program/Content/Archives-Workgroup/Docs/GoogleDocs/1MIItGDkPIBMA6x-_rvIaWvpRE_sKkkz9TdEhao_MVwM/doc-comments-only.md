@@ -1,3 +1,6 @@
+#### Context - AI
+> * Martin Soki35: My approach ensures that AI systems support rather than replace human decision-making, aligning with contemporary ethical standards. Additionally, I address AI risks such as hallucinations, bias, and security issues, with mitigations through explainability, cultural awareness, and education. This proactive stance will foster trustworthy and accountable AI systems, contributing to ethical, fair, and beneficial outcomes for all stakeholders.
+> 
 #### Context - Attribution and copyright issues
 > * Vanessa Cardui: I think "consent" might cover more than just attribution and copyright.
 
