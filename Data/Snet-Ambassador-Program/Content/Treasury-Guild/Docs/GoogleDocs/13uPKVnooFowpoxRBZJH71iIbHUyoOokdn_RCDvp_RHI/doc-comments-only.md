@@ -1,10 +1,16 @@
+#### Context - Participate or Contribute 12 hours in the last 6 months
+> * Ambassadors SingularityNET: Changed to also include contribute. I think every previous time also did not filter out contributions when I calculated hours.
+If we would also require just participation regardless the amount of contribution, then list would look even smaller (maybe it should)
+Because many contributors are only in visit their own WG sessions
+> 
 #### Context - Archived Contributor List (30) (19.02.23)
 > * Core Swarm: https://docs.google.com/spreadsheets/d/1z18VEjkuOthIru-SNJV2a0DH8fkp1V6yf6tMy7SDK7g/edit?usp=sharing
 > 
 #### Context - Contributor List (51) (last updated 20.04.23)
-> * Tevo Saks: I think for 3rd Iteration of list request we should move to Google Sheet Reports. Easier to archive them and make it useable
+> * Tevo Saks: I think for 3rd Iteration of list request we should move to Google Sheet Reports. Easier to archive them and make it useable (Resolved by Ambassadors SingularityNET)
 >   - Tevo Saks: Assuming somewhere before Q3
 >   - Vanessa Cardui: Agreed
+>   - Ambassadors SingularityNET: https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?gid=0#gid=0
 > 
 #### Context - caue
 > * Vanessa Cardui: like this I mean - highlight those who have been added since last time?
