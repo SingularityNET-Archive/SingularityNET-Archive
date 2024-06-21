@@ -18,7 +18,14 @@ Contribution = Tasks that are rewarded with AGIX
 
 Time-based Recognition
 
-Participate 12 hours in the last 6 months
+Participate or Contribute 12 hours in the last 6 months 
+
+> [Comments]
+> Context - Participate or Contribute 12 hours in the last 6 months
+> * Ambassadors SingularityNET: Changed to also include contribute. I think every previous time also did not filter out contributions when I calculated hours.
+If we would also require just participation regardless the amount of contribution, then list would look even smaller (maybe it should)
+Because many contributors are only in visit their own WG sessions
+>
 
 Contribute at least 6 hours in the last 6 months
 
@@ -40,22 +47,7 @@ For initial implementation: publish list of core contributors and have a week pe
 
 
 
-# Contributor List (41) (last updated 20.04.23)
-
-
-
-
-
-# Archived Contributor List (30) (19.02.23) 
-
-> [Comments]
-> Context - Archived Contributor List (30) (19.02.23)
-> * Core Swarm: https://docs.google.com/spreadsheets/d/1z18VEjkuOthIru-SNJV2a0DH8fkp1V6yf6tMy7SDK7g/edit?usp=sharing
->
-
-
-
-
+Contributor List will be aggregated as an excel list going froward
 
 
 
