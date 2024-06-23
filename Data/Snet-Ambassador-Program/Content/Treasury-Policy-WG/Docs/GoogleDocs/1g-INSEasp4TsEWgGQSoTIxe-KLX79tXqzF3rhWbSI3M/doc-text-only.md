@@ -190,7 +190,7 @@ If there is no blockers the policy will take effect based on the implentation st
 
 ****
 
-## Another Policy Example that builds on first one but gives also different idea into how policies can affect eachother
+## Another Policy Example that builds on the first one but also gives a different idea of how policies can affect each other
 
 **Rule** - In certain conditions whenever bonus rewards are split between group and rewards are kept in the treasury or moved back there the rewards instead will be distributed between the other members in the group.
 
