@@ -1,3 +1,6 @@
+#### Context - documents
+> * Clement Umoh: Well. Are there details for this suggestions I made. I seem to have forgotten though. But its important a lil bit of details about this be added as well
+> 
 #### Context - documents Clement suggested should be written
 > * Vanessa Cardui: For reference, can you say what docs these were?
 >   - Dr Ayo Olu-Ayoola: One: Scripts from which onboarding video guide can be made.
