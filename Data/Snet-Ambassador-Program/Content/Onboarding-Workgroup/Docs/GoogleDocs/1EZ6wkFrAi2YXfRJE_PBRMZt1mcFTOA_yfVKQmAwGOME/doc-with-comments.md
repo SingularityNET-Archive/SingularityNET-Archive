@@ -11,6 +11,9 @@
 Hello, I am Ayo. As I suggested during the session, following up on Duke’s comments, we could consider having a smooth and engaging video. I also volunteered to help with writing the video script and the documents Clement suggested should be written. All to the effect that the onboarding processes can be seamless so that new members on entry can easily find out what’s next for them at every step of the way. 
 
 > [Comments]
+> Context - documents
+> * Clement Umoh: Well. Are there details for this suggestions I made. I seem to have forgotten though. But its important a lil bit of details about this be added as well
+>
 > Context - documents Clement suggested should be written
 > * Vanessa Cardui: For reference, can you say what docs these were?
 >   - Dr Ayo Olu-Ayoola: One: Scripts from which onboarding video guide can be made.
@@ -97,4 +100,6 @@ Hello, I am Kateri. I suggest that we should c onsider implementing a live chatb
 Assign members specifically to help newcomers integrate into the community and understand the ecosystem. I believe that  they should be like 2 or 3 members with the role of welcoming newcomers always and that after each meeting they are to chat them up and help direct them properly.
 
 Hi, i am Martinsoki.
+
+Hi, I am Clement (boy_petrona). I guess I suggested earlier that the entirety of the documents and media we create during this process be merged into a single comprehensive documentation that would serve as a blueprint for the onboarding process. This can then be translated across multiple languages where necessary. I believe having this singular blueprint document would allow minor changes where necessary, rather than having to overhaul major individual documents and media which is sometimes resource intensive.
 
