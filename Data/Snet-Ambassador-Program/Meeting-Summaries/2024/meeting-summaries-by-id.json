@@ -14079,9 +14079,9 @@
       "meetingInfo": {
         "name": "Weekly",
         "date": "2024-06-12",
-        "host": "Onyeka , Guilermo",
-        "documenter": "Onyeka ",
-        "peoplePresent": "WaKa, Ayodele, kateri, Vasu, martinsoki, Peter, Duke, Curtis, Kenichi, Ubiodee",
+        "host": "Guilermo",
+        "documenter": "lord kizzy",
+        "peoplePresent": "WaKa, Ayodele, kateri, Vasu, martinsoki, Peter, Duke, Curtis, Kenichi, Ubiodee, CollyPride, Ubio, Boaz, Oladepo Daniel, Olokoji, osmium, Onize",
         "purpose": "R&D Updates and Discussions ",
         "workingDocs": [
           {
@@ -14132,7 +14132,8 @@
             "title": "R&D Guild Q2 budget Concern Response",
             "link": "https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit"
           }
-        ]
+        ],
+        "timestampedVideo": {}
       },
       "agendaItems": [
         {
@@ -14140,91 +14141,67 @@
           "meetingTopics": [
             "Welcoming new Mmembers and Introduction",
             "Review of last meeting summary Action Items",
-            "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem.",
-            "Operations update: GitHub Board and repositories updates",
+            "Updates status on Development to fill Repo",
+            "AYO: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft",
             "Coleen proposal Discussions on  \"Ethics Quest Game\" ",
-            "Q2 Budget Concerns report",
-            "Q3 Budget proposal"
+            "Q2 Budget report & Q3 Budget proposal discussions",
+            "Discussions on new rules for PROPOSAL planning"
           ],
           "actionItems": [
             {
               "text": "Guillermo to have a call with Ubio on providing assistance to the multilingual project by conecting them with Celeste's team (Audio to text AI DF awarded project)",
               "assignee": "Guillermo",
               "dueDate": "12 June 2024",
-              "status": "in progress"
+              "status": "done"
             },
             {
               "text": "WaKa & Rojo to add their contributions to the R&D _ Q1 Proposal Report _ Template.",
               "assignee": "WaKa, Rojo",
               "dueDate": "12 June 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Kenichi to create a basic explanatory document on his initiatives for the Ambassador program website and present it in the next meeting ",
-              "assignee": "Kenichi",
-              "dueDate": "5 June 2024",
               "status": "done"
             },
             {
-              "text": "Duke to write down a short response on the concerns that was presented on Q2 budget for the guild.",
-              "assignee": "Duke",
-              "dueDate": "5 June 2024",
-              "status": "done"
-            },
-            {
-              "text": "Guilermo to ideate to see how Vasu cam collaborate with guild members on project",
+              "text": "Guilermo to ideate to see how Vasu can collaborate with guild members on project",
               "assignee": "Guillermo",
-              "dueDate": "12 June 2024",
+              "dueDate": "19 June 2024",
               "status": "in progress"
-            },
-            {
-              "text": "Colleen to email Guillermo on her gaming proposal for it to be added to the next meeting's agenda",
-              "assignee": "Colleen",
-              "dueDate": "12 June 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Guillermo and Lord_Kizzy to meet up and have a discussion on creating a Github board repository for the guild ",
-              "assignee": "Guillermo, lord kizzy",
-              "dueDate": "5 June 2024",
-              "status": "done"
             },
             {
               "text": "Ayo to draft out a report on how he could contribute to the Guild ",
               "assignee": "Ayo",
               "dueDate": "12 June 2024",
-              "status": "todo"
+              "status": "done"
             },
             {
               "text": "Guillermo and Lord_Kizzy to meet up and have discussions on Q3 budget preparation",
               "assignee": "lord kizzy, Guilermo",
               "dueDate": "12 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "Colleen to draft out a proposal for her initiative on The Quest for AI Game Design",
+              "assignee": "Colleen",
+              "dueDate": "19 June 2024",
               "status": "todo"
             }
           ],
           "decisionItems": [
             {
-              "decision": "We decided that Duke should go ahead  with his project research and that he would get funded in Q3",
-              "effect": "affectsOnlyThisWorkgroup",
-              "rationale": "there is no need to stop the process, so let him commerce and the funding will come later"
-            },
-            {
-              "decision": "Lordkizzy suggested that all core members of the Guild should head over to the GitHub board and update the status report of projects they are currently working on",
-              "effect": "affectsOnlyThisWorkgroup",
-              "rationale": "The Guild has to present artifacts to build trust with the community by the end of the quarter"
+              "decision": "WEe decided that Colleen should draft out her presentation and share that to the Gamer's guild",
+              "rationale": "We felt that the project is mostt suited for the Gamer's guild",
+              "effect": "mayAffectOtherPeople"
             }
           ],
           "discussionPoints": [
-            "Discussions on R&D Guild budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): there are still ongoing discussions on how the team can collaborate to move the initiative forward in this first stage. Duke suggested that any developer interested in this research should send him a DM, so that he can start making plans for the second part of this project",
-            "Discussions on Operations update:[ GitHub Board and repositories updates ], we have updated our GH operations with 6 new repos, 1 per proposal in execution to begin ordering deliverables for this end of Q2.",
-            "Discussions on KENICHI's proposal for the ambassador website and loyalty system, the guild loved the initiative and want him to collaborate with curtis and guillermo on that, since they are already working on a similar project",
-            "Discussions on Q2 Budget Concerns report, Guillermo created a document  and shared it with the team for feedback before we present it to the community",
-            "Discussion on Q3 Budget proposal, we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget proposal"
+            "Updates status on Development to fill Repo; Duke gave updates on the Inclusivity Research so far there were 3 people scheduled for interviews and once that is done it could added to the repository. Ubio gave updates on his reasearch; \"what we did was simply to convert responses we got from Q1 into Figma on Q2, right? We, we, we are taking that, uh, converting the, we converted the responses and, and the, um, the things we could derive from those response into a, into a design. Yeah. Prototype design. Uh, so now, um, so that's what we did for Q2. Uh, Q3 for us is about now taking that design to back to the community to engage and see what comes out of that.\"",
+            " AYO: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft, ayo shared a draft on this, https://docs.google.com/document/d/1ughN1IkBwgbrBch-3hsimoxacPSNrF6Z8C1OCTQQX8I/edit?usp=drivesdk",
+            "Colly give a presentation on her  \"Ethics Quest Game\" ",
+            "Discussion on Q3 Budget proposal, we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget proposal, Walter suggested an extension on the deadline for Q3 proposal planning and Guillermo made more emphasis presenting Deliverables for this Quarter"
           ]
         }
       ],
       "tags": {
-        "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, Meeting Summaries, Budget Request, Q2 budget, Social media Dashboard, social media, agenda creation, GitHub, Workshop, loyalty system, Budget preparation, github board, Disablities",
+        "topicsCovered": "Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, GitHub, loyalty system, Budget preparation, github board, Disablities, contributors",
         "emotions": "Collaborative, productive, Thoughtful , speedy , Welcoming, Friendly, straightforward"
       },
       "type": "Custom",
