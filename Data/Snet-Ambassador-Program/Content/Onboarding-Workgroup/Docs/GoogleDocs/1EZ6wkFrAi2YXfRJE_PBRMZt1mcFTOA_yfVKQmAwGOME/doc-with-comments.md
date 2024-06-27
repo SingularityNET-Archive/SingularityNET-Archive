@@ -16,7 +16,7 @@ Hello, I am Ayo. As I suggested during the session, following up on Duke’s com
 >
 > Context - documents Clement suggested should be written
 > * Vanessa Cardui: For reference, can you say what docs these were?
->   - Dr Ayo Olu-Ayoola: One: Scripts from which onboarding video guide can be made.
+>   - Ayo: One: Scripts from which onboarding video guide can be made.
 Two: An update/upgrade on the "getting started".
 >   - Vanessa Cardui: they both already exist :-)
 >
