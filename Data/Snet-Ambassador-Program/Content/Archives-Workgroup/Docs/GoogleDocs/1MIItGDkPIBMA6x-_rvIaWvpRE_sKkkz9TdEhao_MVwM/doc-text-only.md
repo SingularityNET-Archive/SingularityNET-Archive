@@ -8,7 +8,7 @@
 
 
 
-Respect for persons
+Respect for Beings, Sentient and non  Sentinet persons
 
 Open Source and Creative Commons licensing
 
@@ -16,7 +16,7 @@ GDPR
 
 
 
-## Beneficent
+## Benefic ial ent
 
 Do no harm
 
@@ -40,7 +40,7 @@ Recognising merit
 
 ## Human-centredness?
 
-AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration,  and will ensure that humans retain control over AI systems and their outputs.
+AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration  , and will ensure that humans retain control over AI systems and their outputs.
 
 
 
@@ -50,7 +50,7 @@ AI systems should be designed to augment and support human decision-making, not 
 
 
 
-## 1. Hallucinations
+## 1. Hallucinations (lies   lol)
 
 Factual errors presented as semantic truths
 
@@ -70,7 +70,7 @@ Explainability - link to the Why of the response and provide sources
 
 
 
-Bias in how sources are structured, retrieved, augmented and generated (presented).
+Bias in how sources are structured, retrieved, augmented , and generated (presented).
 
 
 
@@ -102,7 +102,7 @@ Attribution and copyright issues
 
 Auditing - check provenance of sources
 
-Accountivity - check ownership and licencing
+Accountability Accountivity - check ownership and l i cen s c ing
 
 
 
@@ -136,7 +136,7 @@ Does data augmentation empower the user ?
 
 
 
-# Culture
+# 5. Culture
 
 
 
@@ -156,7 +156,7 @@ Is it a consent based process ?
 
 
 
-# Governance
+# 6. Governance
 
 
 
@@ -166,7 +166,7 @@ Education about benevolent AI lifecycles
 
 AI risk management and mitigation
 
-How to ensure trust and accountability ?
+How to ensure trust and accountability  ?
 
 
 
@@ -178,7 +178,7 @@ We need to consider the scope of the SNet Archive. A broadly based large generat
 
 
 
-# Sources
+# 7. Sources
 
 
 
