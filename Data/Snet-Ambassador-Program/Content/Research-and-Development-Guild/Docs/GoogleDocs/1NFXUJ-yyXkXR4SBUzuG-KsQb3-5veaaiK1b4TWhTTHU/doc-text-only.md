@@ -10,7 +10,7 @@ The SingularityNET ecosystem prides itself on fostering diversity and inclusivit
 
 ## 2. Problem Statement:
 
-Individuals living with disabilities within the SingularityNET community face numerous challenges that hinder their ability to fully engage with the platform and contribute effectively. These challenges include:
+Individuals living with disabilities within the SingularityNET community face numerous challenges that hinder their ability to engage with the platform and contribute effectively fully. These challenges include:
 
 
 
@@ -150,7 +150,7 @@ The research project is expected to span 3 months, with milestones including lit
 
 
 
-A budget of $1,500 will be allocated for expenses related to research materials, participant compensation, subscriptions, software tools, and personnel.
+A budget of $1,500 will be allocated for research materials, participant compensation, subscriptions, software tools, and personnel expenses.
 
 
 
