@@ -40,7 +40,7 @@ Recognising merit
 
 ## Human-centredness?
 
-AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration  , and will ensure that humans retain control over AI systems and their outputs.
+AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration,  and will ensure that humans retain control over AI systems and their outputs.
 
 
 
@@ -70,7 +70,7 @@ Explainability - link to the Why of the response and provide sources
 
 
 
-Bias in how sources are structured, retrieved, augmented , and generated (presented).
+Bias in how sources are structured, retrieved, augmented and generated (presented).
 
 
 
