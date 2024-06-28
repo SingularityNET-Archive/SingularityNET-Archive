@@ -3,6 +3,8 @@
 
 For example, with this one, someone might argue this is a bad idea because sheer numbers isn't in itself something we want to reward, but *meaningful* engagement.
 How would they do that?
+>   - Core Swarm: Next session we explore the other side of the form result :) Policy Feedback Form is another item to deliver
+>   - Core Swarm: process explained under question of how policies get ratified
 > 
 #### Context - Describe Example Policy
 > * Ambassadors SingularityNET: later as we have more information and sources we could use pictures and links to results and how data looks like
