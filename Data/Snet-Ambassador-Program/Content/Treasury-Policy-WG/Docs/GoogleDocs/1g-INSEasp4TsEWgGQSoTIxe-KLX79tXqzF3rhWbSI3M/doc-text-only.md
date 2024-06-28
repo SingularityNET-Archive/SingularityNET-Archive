@@ -8,9 +8,13 @@ This document should be a living document to capture guiding material for
 
 Creating Policies
 
-What is the minimum required information needed to submit a Policy?
+What is the minimum required information to submit a policy?
 
 How are policies managed?
+
+How are policies prioritized?
+
+How are policies rewarded?
 
 Capturing insights from different Ambassador Program core members.
 
@@ -23,10 +27,6 @@ How have they been able to adopt policies and guidelines?
 For the p ast 2 years, the Ambassador Program has used emergent strategies to come up with rules and guiding materials. Our information is shared through our social channels and meeting summaries.
 
 Some made rules and guidelines are consolidated into documents or GitBook but get outdated quickly. For example here is a 2022 Miro Board https://miro.com/app/board/uXjVMG1pF_g=/
-
-
-
-## How the Policies are rewarded?
 
 
 
@@ -72,9 +72,13 @@ Ambassador Program Proposal Guidelines https://miro.com/app/board/uXjVN8kUlbw=/?
 
 ## Guiding Questions:
 
-How
+Is someone on the team trying to adopt new policies and integrate them into group processes?
 
+Have you been in the training or discussion calls that explain how to adopt new rules or guidelines?
 
+How are policy changes communicated in group and how they have been received?
+
+What impact has it had on your workgroups when adopting new policies, templates or guidelines?
 
 ## Insights:
 
@@ -204,11 +208,59 @@ If there is no blockers the policy will take effect based on the implentation st
 
 
 
-**Activation Dependencies** - The member has to be recongised as onboardee. The rewarded member can not exceed more than 2000 AGIX income per month. In case these rewards are instead the remaining members. If all members exceed or reach 2000 AGIX limit, then the rewards will stain in Treasury Guild.
+**Activation Dependencies** - The member has to be recongised as onboardee. The rewarded member can not exceed more than 2000 AGIX income per month. In case these rewards are instead the remaining members. If all members exceed or reach 2000 AGIX limit, then the rewards will stain in the Treasury Guild.
 
 
 
 **Hypothesis** - This policy will enhance the overall engagement within workgroups by distributing the rewards among other members, it will encourage active training sessions.
+
+
+
+## How are policies prioritized?
+
+Monthly Limits
+
+We select 5 policies per month to review.
+
+
+
+If there are more policies we start with those that have less than 3 policies submitted.
+
+If the amount of policies still exceeds the amount that takes time to review, we continue to filter down by the policy amount per person.
+
+
+
+If more than 5 different people submitted a single policy, we will do some async quick checks and sentiment analysis.
+
+
+
+## How the Policies are rewarded?
+
+Policies are valid
+
+Is related to treasury
+
+Is not in place already
+
+Is not a duplicate
+
+How similar is it to existing previous rules?
+
+Monthly Limits
+
+The maximum reward per person is 20 USD in AGIX.
+
+The maximum reward per policy is 10 USD in AGIX.
+
+
+
+When more than 5 policies are submitted in a given month, the reward distribution follows a dynamic calculation. Each submitter receives a share of the total reward pool proportional to their percentage of total submissions. This method ensures that rewards are allocated fairly based on the contribution of each submitter.
+
+
+
+Example from ChatGPT how dynamic rewards would look like if there were 3 people and a total of 10 submissions:
+
+
 
 
 
