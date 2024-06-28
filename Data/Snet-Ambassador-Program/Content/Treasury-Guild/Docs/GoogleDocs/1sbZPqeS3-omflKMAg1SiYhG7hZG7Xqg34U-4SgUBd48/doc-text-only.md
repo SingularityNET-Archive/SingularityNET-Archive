@@ -22,7 +22,7 @@ Commonly mistaken or important information is highlighted in strong yellow
 
 
 
-
+Operation Session Recording, when going through all these steps: https://youtu.be/U-WAF4DFOTA
 
 ## Import Data to Treasury Manager
 
