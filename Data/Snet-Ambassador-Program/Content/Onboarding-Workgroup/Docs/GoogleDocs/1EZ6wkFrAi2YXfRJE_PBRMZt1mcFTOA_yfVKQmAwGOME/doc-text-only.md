@@ -88,3 +88,5 @@ Hi, i am Martinsoki.
 
 Hi, I am Clement (boy_petrona). I guess I suggested earlier that the entirety of the documents and media we create during this process be merged into a single comprehensive documentation that would serve as a blueprint for the onboarding process. This can then be translated across multiple languages where necessary. I believe having this singular blueprint document would allow minor changes where necessary, rather than having to overhaul major individual documents and media which is sometimes resource intensive.
 
+
+
