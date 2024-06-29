@@ -174,7 +174,12 @@ The workgroup that I found myself was the Onboarding WG, the sessions are always
 
 # Our plans for Q3 2024 include:
 
-A refined and more direct 1-2-1 onboarding process, where new people in Discord are guided through basic onboarding as soon as they arrive, invited to ask any questions they might have, and then asked about their skills and signposted to Guilds and Workgroups that are currently doing work that they might find interesting.
+A refined and more direct 1-2-1 onboarding process, where new people in Discord are guided through basic onboarding as soon as they arrive, invited to ask any questions they might have, and then asked about their skills and signposted to Guilds and Workgroups that are currently doing work that they might find interesting. 
+
+> [Comments]
+> Context - A refined and more direct 1-2-1 onboarding process, where new people in Discord are guided through basic onboarding as soon as they arrive, invited to ask any questions they might have, and then asked about their skills and signposted to Guilds and Workgroups that are currently doing work that they might find interesting.
+> * Gorga Siagian: Instead of the onboarders role to be initiated, why is there another 1-2-1 session, is this function different from "onboarders"?
+>
 
 Skillsharing/peer education sessions on key skills that people need in order to onboard effectively into the ecosystem
 
