@@ -1,5 +1,7 @@
 # Zealy Monthly Sprint Rewards Strategy
 
+Personal Doc - Still in ideation
+
 ## Overview
 
 The Zealy Monthly Sprint initiative aims to incentivize active participation and engagement among our community members, referred to as Sprinters. To ensure fairness and maintain excitement, we have devised a tiered rewards structure that adapts to the number of participants each month. This structure not only rewards top performers but also includes random prizes to keep all participants motivated. The following is the detailed breakdown of the rewards and budget allocation across three participation tiers.
