@@ -1,3 +1,6 @@
+#### Context - A refined and more direct 1-2-1 onboarding process, where new people in Discord are guided through basic onboarding as soon as they arrive, invited to ask any questions they might have, and then asked about their skills and signposted to Guilds and Workgroups that are currently doing work that they might find interesting.
+> * Gorga Siagian: Instead of the onboarders role to be initiated, why is there another 1-2-1 session, is this function different from "onboarders"?
+> 
 #### Context - Out of a Q2 budget of $6,305, we spent $X00 . (Reason for outcome to be accounted for after complete assessment of financial statistics from the Treasury)
 > * Tevo Saks: what is meant by complete assessment?
 Isnt this report to be that assessment? 
