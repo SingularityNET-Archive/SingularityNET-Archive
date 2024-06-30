@@ -16,7 +16,7 @@ GDPR
 
 
 
-## Benefic ial ent
+## Beneficial
 
 Do no harm
 
@@ -136,7 +136,7 @@ Does data augmentation empower the user ?
 
 
 
-# 5. Culture
+# Culture
 
 
 
@@ -156,7 +156,7 @@ Is it a consent based process ?
 
 
 
-# 6. Governance
+# Governance
 
 
 
@@ -178,7 +178,7 @@ We need to consider the scope of the SNet Archive. A broadly based large generat
 
 
 
-# 7. Sources
+# Sources
 
 
 
