@@ -12,9 +12,17 @@ Your Ethos ?
 Is it a consent based process ?
 > * Jenni Illona Mayshiogie: I hope for intense discussions about this discourse 🙏
 >   - Colleen Pridemore: ME too Jenni.  I believe the intent of our use of AI, like the ChatGPT  AI Ethics Snet Ambassadors we will use for education both internally and with the rest of the community and ultimately, with the world.
+>   - Vanessa Cardui: Same, Jenn.
+
+I am really interested to think how it specifically applies to archives and record-keeping, since that's what this specific doc is about. I'll give it some thought, but wondered if you had any input?
+
+(One more general question I have is - how can we expect organisations in general - but especially big corporations - to be honest about the **intent** of their use of AI? Corporations lie about their intent all the time...)
 > 
 #### Context - AI
 > * Martin Soki35: My approach ensures that AI systems support rather than replace human decision-making, aligning with contemporary ethical standards. Additionally, I address AI risks such as hallucinations, bias, and security issues, with mitigations through explainability, cultural awareness, and education. This proactive stance will foster trustworthy and accountable AI systems, contributing to ethical, fair, and beneficial outcomes for all stakeholders.
+>   - Vanessa Cardui: Hi Martin - we already have your first point, under the heading "Human-centredness".
+
+Would you like to add your other points to the section below on "risk and mitigation", maybe?
 > 
 #### Context - Attribution and copyright issues
 > * Vanessa Cardui: I think "consent" might cover more than just attribution and copyright.
