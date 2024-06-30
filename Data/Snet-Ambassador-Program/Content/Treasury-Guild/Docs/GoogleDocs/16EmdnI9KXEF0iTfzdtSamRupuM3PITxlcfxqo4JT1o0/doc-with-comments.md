@@ -29,7 +29,7 @@ Increased Async Onboarding Budget from 40$ to 90$ per quarter
 
 This proposal continues to request fund increase to continue Treasury Operations at same pace.
 
-Increased monthly facilitation rewards from 100$ to 120$ between all operators
+Increased monthly facilitation rewards from 400$ to 480$ between all operators
 
 We create a new Treasury Automation Workgroup to build tools to speed up Transaction Creation processes
 
