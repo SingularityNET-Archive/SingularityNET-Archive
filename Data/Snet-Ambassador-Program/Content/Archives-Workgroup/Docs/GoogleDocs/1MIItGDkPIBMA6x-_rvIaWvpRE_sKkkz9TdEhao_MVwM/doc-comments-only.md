@@ -1,3 +1,12 @@
+#### Context - We need to observe what questions get asked and ask why.
+> * Vanessa Cardui: Relates to Colleen's point above, about recording all human-AI interactions.
+
+Feels like a 2-step process - record them, then classify them somehow to understand what TYPES of questions they are. Maybe classify by what (and how many) sources an AI needs to use in order to answer them? Some questions, it will just need to look at 1 line in 1 meeting summary, in isolation; other questions, it'll need to combine sources. Quite a different approach for the AI - and interesting if it's needing to look at (for example) 3 different summaries by 3 different people with 3 different sets of biases...
+> 
+#### Context - But our intent may be to start with narrowly
+> * Colleen Pridemore: I am just curious here.  Why so narrow?  Just because of the situation and the archives growing larger with a fast growing community; hence more data?
+>   - Vanessa Cardui: Clarity and relevance, really. Constraining (e.g. via a RAG retrieval process) the sources that your AI can draw on (for example, in our case, constraining it to the Archives corpus itself, plus maybe linked docs) seems likely to give more accurate and relevant answers, and fewer hallucinations and fabrications. But that's a hypothesis, which we would need to test - hence the whole RAG retrieval work  :-)
+> 
 #### Context - outputs
 > * Colleen Pridemore: ...until such a time where consciousness begins to emerge in the AI then we will have to switch to "Guiding" AI.
 > 
@@ -17,6 +26,25 @@ Is it a consent based process ?
 I am really interested to think how it specifically applies to archives and record-keeping, since that's what this specific doc is about. I'll give it some thought, but wondered if you had any input?
 
 (One more general question I have is - how can we expect organisations in general - but especially big corporations - to be honest about the **intent** of their use of AI? Corporations lie about their intent all the time...)
+>   - Colleen Pridemore: My latest musings are within the document.  Now, there is another document
+which I believe you, (Vani) posted in Discord.  Will these two be "married"
+together?
+
+I've attached it below.
+
+ (WG version) AI Ethics strategies: scoping what they should contain
+<https://docs.google.com/document/d/1eHe5PmGPpjlX7VpCxQECOHwXDEl5RRnQ1jVyUhus1tg/edit?usp=drive_web>
+>   - Vanessa Cardui: Hi Colleen - no, they won't be brought together at this point, as they're for really different purposes - altho ofc they might inform each other, if some of the same people are involved in both.
+
+This doc is for Archives WG, and is about the ethics of how **this group** uses AI, and the ethics of using AI in archiving and recordkeeping generally. It's quite a specific field, and raises some really specific questions - so it would be good to keep that clarity and  focus.
+
+The other doc you've linked is about the GEI, and about the ethics of conducting interviews with the general public about AI. Again, a quite specific field, although of course similar things will come up.
+But I think it's important not to try to converge them at this stage into a generic "soup" of AI ethics issues. I think we at least need to finish working on them before we try to merge them! 
+What do you reckon?
+>   - Colleen Pridemore: Makes complete sense to me.  One is for Snet AI Ethics Workgroup and One is for GEI.  I guess I had a difficult time because they started out with the same wording.
+>   - Vanessa Cardui: not exactly... (sorry for the lack of clarity)
+one (the one you linked) is for GEI/AI Ethics group;
+and one (this one) is for Archives WG :-)
 > 
 #### Context - AI
 > * Martin Soki35: My approach ensures that AI systems support rather than replace human decision-making, aligning with contemporary ethical standards. Additionally, I address AI risks such as hallucinations, bias, and security issues, with mitigations through explainability, cultural awareness, and education. This proactive stance will foster trustworthy and accountable AI systems, contributing to ethical, fair, and beneficial outcomes for all stakeholders.
