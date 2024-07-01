@@ -1,4 +1,4 @@
-# AI Ethics 
+# AI Ethics Strategy for sNET Archives 
 
 > [Comments]
 > Context - AI
@@ -25,7 +25,7 @@ I dunno what people think about this - but it's one of the things I loathe about
 
 
 
-Respect for Beings, Sentient and non  Sentinet persons
+Respect for Beings, Sentient and non Sentient persons
 
 Open Source and Creative Commons licensing
 
@@ -36,6 +36,8 @@ GDPR
 ## Beneficial
 
 Do no harm
+
+Benefits all of humanity, not just segments or groups
 
 
 
@@ -65,7 +67,7 @@ Is there maybe something here about skill or expertise?
 
 ## Human-centredness?
 
-AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration,  and will ensure that humans retain control over AI systems and their outputs.  
+AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration ,  and will ensure that humans re main in the Loop for guidance and have final say tain  control over AI systems and their outputs when necessary. .  
 
 > [Comments]
 > Context - outputs
@@ -91,7 +93,7 @@ Factual errors presented as semantic truths
 
 
 
-LLMs do not understand meaning they only return semantic indices
+LLMs do not understand meaning they only return semantic indices (still can be lies  lol)
 
 
 
@@ -99,7 +101,7 @@ LLMs do not understand meaning they only return semantic indices
 
 
 
-Explainability - link to the Why of the response and provide sources
+Explainability - link to the Why of the response and provide sources (is this also transparency?)
 
 ## 2. Bias
 
@@ -209,11 +211,22 @@ Education about benevolent AI lifecycles
 
 AI risk management and mitigation
 
-How to ensure trust and accountability  ?
+How to ensure trust and accountability  ? I think all human-ai-interaction should be recorded, thus keeping it Decentralized
 
 
 
-We need to consider the scope of the SNet Archive. A broadly based large generative model is often called a Foundation model. But our intent may be to start with narrowly based data sources that are simply augmented with generative tools. In short we may want to start with just being able to ask the Archive simple questions. But even this step will reveal bias and culture. We need to observe what questions get asked and ask why. Only then can we meaningfully audit the results.
+We need to consider the scope of the SNet Archive. A broadly based large generative model is often called a Foundation model. But our intent may be to start with narrowly based data sources that are simply augmented with generative tools. In short we may want to start with just being able to ask the Archive simple questions. But even this step will reveal bias and culture. We need to observe what questions get asked and ask why. Only then can we meaningfully audit the results. 
+
+> [Comments]
+> Context - We need to observe what questions get asked and ask why.
+> * Vanessa Cardui: Relates to Colleen's point above, about recording all human-AI interactions.
+
+Feels like a 2-step process - record them, then classify them somehow to understand what TYPES of questions they are. Maybe classify by what (and how many) sources an AI needs to use in order to answer them? Some questions, it will just need to look at 1 line in 1 meeting summary, in isolation; other questions, it'll need to combine sources. Quite a different approach for the AI - and interesting if it's needing to look at (for example) 3 different summaries by 3 different people with 3 different sets of biases...
+>
+> Context - But our intent may be to start with narrowly
+> * Colleen Pridemore: I am just curious here.  Why so narrow?  Just because of the situation and the archives growing larger with a fast growing community; hence more data?
+>   - Vanessa Cardui: Clarity and relevance, really. Constraining (e.g. via a RAG retrieval process) the sources that your AI can draw on (for example, in our case, constraining it to the Archives corpus itself, plus maybe linked docs) seems likely to give more accurate and relevant answers, and fewer hallucinations and fabrications. But that's a hypothesis, which we would need to test - hence the whole RAG retrieval work  :-)
+>
 
 
 
