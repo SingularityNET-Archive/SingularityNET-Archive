@@ -1,4 +1,4 @@
-# AI Ethics
+# AI Ethics Strategy for sNET Archives
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-Respect for Beings, Sentient and non  Sentinet persons
+Respect for Beings, Sentient and non Sentient persons
 
 Open Source and Creative Commons licensing
 
@@ -19,6 +19,8 @@ GDPR
 ## Beneficial
 
 Do no harm
+
+Benefits all of humanity, not just segments or groups
 
 
 
@@ -40,7 +42,7 @@ Recognising merit
 
 ## Human-centredness?
 
-AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration,  and will ensure that humans retain control over AI systems and their outputs.
+AI systems should be designed to augment and support human decision-making, not replace it. The SingularityNET Archives will promote human-AI collaboration ,  and will ensure that humans re main in the Loop for guidance and have final say tain  control over AI systems and their outputs when necessary. .
 
 
 
@@ -56,7 +58,7 @@ Factual errors presented as semantic truths
 
 
 
-LLMs do not understand meaning they only return semantic indices
+LLMs do not understand meaning they only return semantic indices (still can be lies  lol)
 
 
 
@@ -64,7 +66,7 @@ LLMs do not understand meaning they only return semantic indices
 
 
 
-Explainability - link to the Why of the response and provide sources
+Explainability - link to the Why of the response and provide sources (is this also transparency?)
 
 ## 2. Bias
 
@@ -166,7 +168,7 @@ Education about benevolent AI lifecycles
 
 AI risk management and mitigation
 
-How to ensure trust and accountability  ?
+How to ensure trust and accountability  ? I think all human-ai-interaction should be recorded, thus keeping it Decentralized
 
 
 
