@@ -16704,5 +16704,83 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-07-01",
+      "host": "Billy",
+      "documenter": "Effiom",
+      "peoplePresent": "Billy, Gavriel, Ayo, Peter, Effiom, Kenichi, hogantuso, Slate, Vasu, Advanceameyaw, Photogee, Asad Nadeem",
+      "purpose": "Review of Strategy Guild Q3 Budget",
+      "otherMediaLink": "https://app.read.ai/analytics/meetings/01J1QGEJDXAKMDABD9AN3SMYWS?section=notes",
+      "workingDocs": [
+        {
+          "title": "Strategy Guild Workgroup Agenda",
+          "link": "https://docs.google.com/document/d/1GLfvwLdbq78yVh_InHUa0jPso44YXLk3leqZuBm_tx0/edit"
+        },
+        {
+          "title": "Snet Ambassador - Strategy Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1VpcEllj9j5EUelaCh_PrPfDDGihYxE7n/edit?gid=1502918299#gid=1502918299"
+        },
+        {
+          "title": "Strategy Guild Mission Statement ",
+          "link": "https://docs.google.com/document/d/1bUMpAAwpMXWmfHRouMaH-KHc0iNa-uV59f5NdkRBkEw/edit"
+        },
+        {
+          "title": "Strategy Guild Budget Proposal",
+          "link": "https://docs.google.com/document/d/1OoBnHFgC1UeraWmb9shwoXh606z7evmZFVbA7PR7ZSY/edit#heading=h.5nq6p44lo1za"
+        },
+        {
+          "title": "Strategy Guild Q1 Report",
+          "link": "https://docs.google.com/document/d/1oetSmzKPe0_7VdVUOniZDpBgELiIi68h_lZq2PTQHBI/edit#heading=h.ybfi2uikflvv"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting began with technical issues being addressed and the meeting agenda being shared and made accessible to all team members. The team discussed the use of routine tools and resources such as Discord SNET server, Zoom, and Google Docs. Ayo suggested discussing the budget first due to time constraints and the relevance of the topic. The team discussed the quarterly budget, focusing on the Agix token prices and its impact on the budget.\n\nThey calculated the approximate value in dollars and compared it to the previous quarter's budget. The discussion revolved around the allocation of the budget across different workgroups and guilds. There was a focus on ensuring fair distribution and maximizing the value of the available budget, with concerns raised about excessive allocation to certain areas and the potential impact on the community.\n\nThe team discussed reducing hourly rates and increasing work hours to maintain the total budget at $30. There was a debate on the appropriate hourly rate and the amount of work required for different tasks, leading to a decision to continue the discussion asynchronously on Discord. Gavriel proposed compensating core contributors with $4,000 for 15 hours of strategy development and discussion, with each core member expected to contribute 5 hours.\n\nBilly suggested reducing the hours to 5 or 6 per week for three core members, and emphasized the need to learn and adjust as they go. Gavriel and others discussed the complexity of developing a knowledge management and dissemination strategy, emphasizing the need for strategic alignment across the community. There was a debate about the role of delegation and the overlap with the Knowledge Base workgroup.\n\nBilly and Gavriel addressed concerns about the budget. Ayo clarified the distinction between weekly meetings and workshops, and encouraged everyone to access the strategy budget proposal document for further discussion and input.",
+        "actionItems": [
+          {
+            "text": "Keep notes, create summary for today's meeting, and move to summary tool",
+            "assignee": "Effiom",
+            "dueDate": "5 July 2024",
+            "status": "done"
+          },
+          {
+            "text": "Share the strategy budget proposal document in the public space and make it accessible for everyone to read and make comments",
+            "assignee": "Ayo",
+            "status": "todo"
+          },
+          {
+            "text": "Post the reviewed and updated Strategy guild Q3 budget before the deadline",
+            "assignee": "Ayo, SoundWaves",
+            "dueDate": "1 July 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "An agreed number of hours to be put into supporting and influencing strategic alignments across the community per week",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Overlap of knowledge management and dissemination strategy in budget with Knowledge Base WG",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Strategy Guild, Documentation, contribution, Workshop, Tasks, management, Facilitation",
+      "emotions": "Collaborative, decisive, progressive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
