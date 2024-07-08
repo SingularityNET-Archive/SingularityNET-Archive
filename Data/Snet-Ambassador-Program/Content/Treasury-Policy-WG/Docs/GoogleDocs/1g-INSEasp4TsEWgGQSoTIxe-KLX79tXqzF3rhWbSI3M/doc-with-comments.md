@@ -146,6 +146,10 @@ If there is no blockers the policy will take effect based on the implentation st
 
 ## Mandatory Policy Minimum Requirements
 
+**Policy Name** - Name to recognize Policy easily
+
+****
+
 **Rule** - A clear and concise statement outlining the specific requirement or guideline that must be adhered to within the policy. This rule defines what is mandatory and sets the standard for compliance.
 
 ****
@@ -278,9 +282,9 @@ Example from ChatGPT how dynamic rewards would look like if there were 3 people 
 
 **Documentation Sources**
 
-**Miro Board:**  https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764588020234417&cot=10
+**Miro Board:**  https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764588020234417&cot=10 ****
 
-**Submit Policy Form:**  https://forms.gle/ge4vfBV483oWe5b77
+**Submit Policy Form:**  https://forms.gle/ge4vfBV483oWe5b77 ****
 
-
+**Submit Policy Feedback Form:**  https://forms.gle/rYE3amytdPqu3wkdA
 
