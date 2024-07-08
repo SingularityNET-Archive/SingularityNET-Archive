@@ -6,6 +6,7 @@ Feels like a 2-step process - record them, then classify them somehow to underst
 #### Context - But our intent may be to start with narrowly
 > * Colleen Pridemore: I am just curious here.  Why so narrow?  Just because of the situation and the archives growing larger with a fast growing community; hence more data?
 >   - Vanessa Cardui: Clarity and relevance, really. Constraining (e.g. via a RAG retrieval process) the sources that your AI can draw on (for example, in our case, constraining it to the Archives corpus itself, plus maybe linked docs) seems likely to give more accurate and relevant answers, and fewer hallucinations and fabrications. But that's a hypothesis, which we would need to test - hence the whole RAG retrieval work  :-)
+>   - Colleen Pridemore: I see, yes in using RAG, that makes complete sense. Thanks for the explanation!
 > 
 #### Context - outputs
 > * Colleen Pridemore: ...until such a time where consciousness begins to emerge in the AI then we will have to switch to "Guiding" AI.
