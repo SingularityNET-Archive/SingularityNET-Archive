@@ -10,7 +10,7 @@ WG lead(s): Ambassadors
 
 
 
-## R&D Guild Q3 Update Proposal &
+## R&D Guild Q2 Update Proposal &
 
 ## Q2 Community Concern Response
 
@@ -64,7 +64,7 @@ Proposals in development should incorporate a timeline with estimated developmen
 
 
 
-Notes: R&D Q3 Budgate incorporates a special allocation to support ” **Metta** page, there will be a doc and playground page being launched shortly, input on it before golive would be welcome. & OSS from foundation would be projects like opencog, but also blockchain infra like staking portal, voting portal, bridge (these aren't yet oss but might become in future). ”   proposals or needs of @singularityNET, the ecosystem: Allocation for supporting upcoming open source initiatives from SingularityNET foundation. We'll keep extra singuarityNET needs upon complemetary budget that should come from fundation. **Contingency budget** works on the idea of ​​determining a reserve within the budget to be prepared for any eventuality outside the initial scope. If its use is not necessary, the budget will be maintained in the Guild's reserves as a cumulative supplementary fund.
+Notes: R&D Q3 Budgate incorporates a special allocation to support ” **Metta** page, there will be a doc and playground page being launched shortly, input on it before golive would be welcome. & OSS from foundation would be projects like opencog, but also blockchain infra like staking portal, voting portal, bridge (these aren't yet oss but might become in future). ”  **Contingency budget** works on the idea of ​​determining a reserve within the budget to be prepared for any eventuality outside the initial scope. If its use is not necessary, the budget will be maintained in the Guild's reserves as a cumulative supplementary fund.
 
 New proposal: Budget includes a new proposal for developement presented by @kenichi and approved by the guilds members following the standard procedure established in Q2
 
