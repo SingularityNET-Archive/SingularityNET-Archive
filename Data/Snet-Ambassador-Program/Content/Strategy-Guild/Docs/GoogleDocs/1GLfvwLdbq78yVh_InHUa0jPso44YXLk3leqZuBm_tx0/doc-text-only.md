@@ -2,7 +2,7 @@ Strategy Guild Workshop Agenda
 
 **Date:** 7/1/2024 **Time:** 4:00 PM UTC **Duration:** 1 Hour
 
-### TO BE EDITED . . .
+
 
 ### Routine Sections
 
@@ -295,46 +295,6 @@ Open the floor for any final questions or comments.
 Express gratitude to participants for their time and contributions.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Detailed Budget Review Points
-
-**Operation / Recurrent Tasks:**
-
-Facilitation of Weekly Meetings: $390.00 (645 AGIX) per quarter
-
-Documentation of Weekly Meetings: $390.00 (645 AGIX) per quarter
-
-Preparing Weekly Meetings: $390.00 (645 AGIX) per quarter
-
-Strategy Development and Discussion: $3,900.00 (6452 AGIX) per quarter
-
-Guild Task Management: $650.00 (1075 AGIX) per quarter
-
-Knowledge Management and Dissemination Strategy: $3,120.00 (5161 AGIX) per quarter
-
-**Projects/Workshops:**
-
-Guild Research Projects: $2,400.00 (3970 AGIX) per project
-
-Strategy Workshop: $1,200.00 (1985 AGIX) per workshop
-
-**Contingencies Budget Allocation:**
-
-Contingency Fund: $622.00 (1029 AGIX), 5% of the overall budget
 
 
 
