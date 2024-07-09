@@ -50,13 +50,11 @@ Budget for the Q3
 
 
 
+
+
 # Our plans for Q3 2024.
 
 The guild has a bit of a unique situation in that it did not function for the whole of Q2.
 
 The guild Q3 general direction is covered here.
-
-
-
-
 
