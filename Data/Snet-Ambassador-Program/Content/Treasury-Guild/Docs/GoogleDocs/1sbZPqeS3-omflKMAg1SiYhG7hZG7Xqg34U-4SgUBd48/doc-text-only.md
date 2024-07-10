@@ -22,11 +22,11 @@ Commonly mistaken or important information is highlighted in strong yellow
 
 
 
-Operation Session Recording, when going through all these steps: https://youtu.be/U-WAF4DFOTA
+**Operation Session Recording, when goingthroughall these steps:** https://youtu.be/U-WAF4DFOTA
 
 ## Import Data to Treasury Manager
 
-### CLEAR
+### CLEAR (Button)
 
 Deletes  Insert Contributions Sheet Data Table
 
@@ -38,7 +38,7 @@ Resets all kinds of potential UI issues related to buttons.
 
 
 
-### Open Dework Exporter
+### Open Dework Exporter (Button)
 
 Visit https://public-dework-exporter.netlify.app
 
@@ -70,7 +70,7 @@ You can find more guidelines about exporting on Dework PBL in the 2nd chapter: h
 
 
 
-### Manage Import Folder
+### Manage Import Folder (Button)
 
 **Set-Up and Configurations**
 
@@ -98,23 +98,29 @@ Use the arrow buttons between lists to move files to Import Folder Files. (right
 
 Use the Load All Files button to load all the Excel CSV reports into Excel.
 
+Duplicate contributions are highlighted in red and filtered separately
+
+If possible check the contribution task and confirm that a moving done step was forgotten.
+
+It is possible to reuse the same task with a different assignee
+
 
 
 **Potential Critical Errors**
-
-Retry when date format errors comes up (they come from errors people do in task name)
 
 Internal errors or compute errors. Press the End button on the error pop-up to stop scripts.
 
 
 
-### DELETE Selected Rows
+****
+
+### DELETE Filtered Rows (Button)
 
 Deletes visible rows in Insert Contributions Sheet Data Table
 
 
 
-Usually skipped if no critical contribution rows (fully red rows) are at present and filtered in
+Usually skipped if no critical contribution rows (fully red rows) are at present and filtered inIf there are fully red rows and it says ProofLink already exists, then you can check the Dework task’s activities to see if the task was moved from done back into review. If it hasn't been moved from done to in review and back into done, then it is safe to delete the task. It's possible that the task just wasn't moved to done when it was imported to the treasury manager.
 
 
 
@@ -142,19 +148,35 @@ You can use the Open Proof Link button to open selected Dework link (selected pr
 
 
 
+If Date used in Task Name, we consider it as ground truth.Here are the guidelines on how task dates should be used: https://instance-dework-pbl.vercel.app/course/module/301/3015
+
 ## Check Task Associations
 
-If there are new workgroups, guilds or changes requested from said groups.
+**IF** there are new workgroups, guilds or changes requested from said groups.
 
 Verify if the Group Name and Sub Group are correctly automated.
 
-### FILTER
+Ask in the meeting if anyone wants to change anything
 
-Closes all Extra Columns.
+Check-in Treasury Guild channel if anyone asked to changes for groups
 
-Resets all filters or provides filtering options for all columns
+****
 
-Resets all kinds of potential UI issues related to buttons.
+**IF** there are no information provided for the meeting you can skip this step
+
+
+
+### FILTER (Button)
+
+Pressing button button will:
+
+Close all Extra Columns.
+
+Reset all filters or provides filtering options for all columns
+
+Reset all kinds of potential UI issues related to buttons.
+
+
 
 ## Check Label suggestions
 
@@ -170,13 +192,15 @@ More info about suggested labels https://instance-dework-pbl.vercel.app/course/m
 
 
 
-### FILTER With Task Labels
+### FILTER With Task Labels (Button)
 
-Opens Extra Columns
+Pressing button button will:
 
-Creates Yellow Buttons for adding tags from Label Suggestions to Task Labels
+O pen Extra Columns
 
-Filters Task Labels and in a way that leaves out all blanks
+Create Yellow Buttons for adding tags from Label Suggestions to Task Labels
+
+Filter Task Labels and in a way that leaves out all blanks
 
 ****
 
@@ -192,7 +216,13 @@ Here is a list of commonly used Tags and their meaning: https://instance-dework-
 
 
 
-### FILTER Missing Task Labels
+If there seems to be some issues, then delete the Task Labels.
+
+In the next step we will pick them up and try to automate again.
+
+
+
+### FILTER Missing Task Labels (Button)
 
 Opens Extra Columns
 
@@ -220,7 +250,7 @@ Here is a list of commonly used Tags and their meaning: https://instance-dework-
 
 
 
-### Add to Conf
+### Add to Conf (Button)
 
 This automates adding newly added Task Labels to Configurations for further automation.
 
@@ -270,15 +300,15 @@ Move back to Insert Contributions Sheet to continue with the rest of the process
 
 ## Check Task Names
 
-### Refresh Return Messages
+### Refresh Return Messages (Button)
 
 Recheck all rows for errors and warnings
 
-### FILTER Return Message
+### FILTER Return Message (Button)
 
 It filters in only the same errors, making tackling the same type of errors easier.
 
-### CLEAR Return Messages
+### CLEAR Return Messages (Button)
 
 Delete visible error messages on the Return Message Column. Used if errors are fixed or checked and you no longer want it to show up when pressing the FILTER Return Message button
 
@@ -318,7 +348,7 @@ Task Name can not have an upper commaRemove Upper commas from the Task Name
 
 
 
-### Find Wallet Owners
+### Find Wallet Owners (Button)
 
 Opens Extra Columns
 
@@ -334,7 +364,7 @@ If there are no Wallet Owner Matches, then move to create new accounts with the 
 
 
 
-### Register Wallet Owner
+### Register Wallet Owner (Button)
 
 Use the button to create Accounts that connect Dework Names and Cardano Wallet Addresses
 
@@ -390,7 +420,7 @@ You can use the Task Point Calculator button to help with MINS time calculations
 
 ## Insert Contribution Data to Data Tables
 
-### Update Contributions
+### Update Contributions (Button)
 
 Inserts Contribution Data to Data Tables
 
@@ -406,7 +436,7 @@ https://miro.com/app/board/uXjVOiDYnHs=/?moveToWidget=3458764547936957860&cot=14
 
 ## Archive work
 
-### Archive All Files
+### Archive All Files (Button)
 
 Creates a new copy of the Insert Contributions data table and archives it
 
@@ -420,7 +450,7 @@ Moves all the import files to archive and timestamps them
 
 Press Archive All Files if you imported all files at the beginning of the process.
 
-### Archive Contributions
+### Archive Contributions (Button)
 
 Creates a new copy of the Insert Contributions data table and archives it
 
@@ -438,7 +468,7 @@ Press Archive Contributions if you manually inserted values to the Insert Contri
 
 Move to the Bundle Transactions sheet .
 
-### Refresh
+### Refresh (Button)
 
 Loads all unrewarded contributions inserted to Treasury Manager
 
@@ -452,7 +482,7 @@ You can verify Token Exchange Rate values by selecting the cell value next to it
 
 
 
-### Filter Group
+### Filter Group (Button)
 
 Automatically filters the first Group Name found and checks if it's presented in the Group Name  column.
 
@@ -460,25 +490,25 @@ Pressing the Filter Group button again will ensure that the same Group Name is n
 
 
 
-### Filter Addresses
+### Filter Addresses (Button)
 
 Filters out all blank Wallet Addresses that can not be added to the transaction
 
 
 
-### Convert USD to AGIX
+### Convert USD to AGIX (Button)
 
 Changes the USD values into AGIX values
 
 
 
-### Get Totals
+### Get Totals (Button)
 
 Calculates Contributor amount and calculates transaction costs
 
 
 
-### Get Byte Amount
+### Get Byte Amount (Button)
 
 Calculates the potential Transaction size in bytes.
 
@@ -500,7 +530,7 @@ Task Name already in use
 
 Make sure there are no duplicate tasks. Usually adding Task Date to task name is enough
 
-### Reduce Contribution Rows
+### Reduce Contribution Rows (Button)
 
 Organises Transactions to fit the Contributor amount given in the field Keep Contributors
 
@@ -512,7 +542,7 @@ An average maximum contribution amount is about 60 contributors .
 
 
 
-### Generate JSON
+### Generate JSON (Button)
 
 Generates transaction Json
 
