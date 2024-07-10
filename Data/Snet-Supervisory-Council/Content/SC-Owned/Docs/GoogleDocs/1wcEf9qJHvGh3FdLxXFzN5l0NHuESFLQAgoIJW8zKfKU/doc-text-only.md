@@ -2940,7 +2940,7 @@ There are checks and balances to modifying any framework established that minimi
 
 Establish separate bodies responsible for developing, implementing, and monitoring ethical standards and ensure their implementation across different ecosystem elements (e.g. Deep Funding, the AI Marketplace and Platform, the developer teams in OpenCog Hyperon)
 
-Create open source, living ethics and safety documentation (in line with principles outlined in the Knowledge Management section), which is periodically reviewed by d ifferent stakeholder groups Create open source, living ethics and safety documentation (in line with principles outlined in the Knowledge Management section), which is periodically reviewed by d
+Create open source, living ethics and safety documentation (in line with principles outlined in the Knowledge Management section), which is periodically reviewed by different stakeholder groups
 
 Establish a schedule for internal monitoring and potentially external auditing
 
