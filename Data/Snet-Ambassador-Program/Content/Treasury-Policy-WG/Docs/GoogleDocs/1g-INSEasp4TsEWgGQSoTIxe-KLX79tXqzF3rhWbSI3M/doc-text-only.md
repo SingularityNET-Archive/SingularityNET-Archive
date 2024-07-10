@@ -32,11 +32,13 @@ Some made rules and guidelines are consolidated into documents or GitBook but ge
 
 ## What are our current policies?
 
-Include link to the Google Sheet of all policies
+You can find the submitted policies here
 
 
 
-Yet to be recognized and created, results should arrive around July
+
+
+If you find something interesting, then existing feedback can be found here:
 
 
 
@@ -270,11 +272,21 @@ Example from ChatGPT how dynamic rewards would look like if there were 3 people 
 
 
 
+
+
 **Documentation Sources**
 
 **Miro Board:**  https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764588020234417&cot=10 ****
 
+****
+
 **Submit Policy Form:**  https://forms.gle/ge4vfBV483oWe5b77 ****
 
+**List of Policies:**
+
+
+
 **Submit Policy Feedback Form:**  https://forms.gle/rYE3amytdPqu3wkdA
+
+**List of Policy Feedback:**
 
