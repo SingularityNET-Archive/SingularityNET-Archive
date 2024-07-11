@@ -17168,5 +17168,287 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "a8d542bf-3305-487b-ac3d-04a40b4a8ae9": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-06-27",
+        "host": "Onize",
+        "documenter": "kateri",
+        "peoplePresent": "Onize, kateri, Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, LadyTempestt, Ayo, Gorga Siagian, Advanceameyaw, daniel effiom, godspower egete, Cjfrankie, Kenichi, Slate",
+        "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+        "workingDocs": [
+          {
+            "title": "Getting Started Channel doc ",
+            "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+          },
+          {
+            "title": "Suggestions towards better onboarding processes",
+            "link": "https://docs.google.com/document/d/1EZ6wkFrAi2YXfRJE_PBRMZt1mcFTOA_yfVKQmAwGOME/edit?usp=sharing"
+          },
+          {
+            "title": "Onboarding WG Buddy System survey",
+            "link": "https://forms.gle/BHQuj4UxNotcuuqs8"
+          },
+          {
+            "title": "Skillshare Matrix Doc",
+            "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing"
+          },
+          {
+            "title": "FINAL Onboarding WG budget projections for Q3 2024",
+            "link": "https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit?gid=2014555984#gid=2014555984"
+          },
+          {
+            "title": "  ONBOARDING WG C&S DETANGLE DOCUMENT",
+            "link": "https://docs.google.com/spreadsheets/d/1EN21KSiQQc61aBHwL17ocCMixX6m-mA08wpr1bQF2zI/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Onboarding meeting Chat, 27th June 2024 - Gorga",
+            "link": "https://docs.google.com/document/d/1fDoMj4ASJcmyvLKeqVyitF1A_ohnC1KIU0WooAONarU/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallUpdates": "\n\n",
+          "issues": [
+            "Onboarding Journeys",
+            "Skillshare matrix",
+            "Onboarders team",
+            "Q3 budget"
+          ],
+          "actionItems": [
+            {
+              "text": "LadyTempestt to mentor Onize on giving the TownHall updates from the onboarding group for June",
+              "assignee": "LadyTempestt",
+              "dueDate": "27 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "Onize to give Town Hall update for the WG on 25th June: Onize was unavailable and LadyTempestt gave the update",
+              "assignee": "Onize, LadyTempestt",
+              "dueDate": "27 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "Sucre to rewrite text in Getting Started to remove the Introductory Task, which has been discontinued",
+              "assignee": "SucrenSpice",
+              "dueDate": "27 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "LadyTempestt to prepare a report for the Buddy system",
+              "assignee": "LadyTempestt",
+              "dueDate": "27 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "Vani to prepare another page in the matrix doc where everyone could give their 3 picks of skills that are \"foundational\" for the WG",
+              "assignee": "Vanessa",
+              "dueDate": "27 June 2024",
+              "status": "done"
+            },
+            {
+              "text": "Onize to bring onboarding journey scripts to the next meeting. ",
+              "assignee": "Onize",
+              "dueDate": "4 July 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Lord Kizzy to prepare the facilitation and documentation roster for Q3 and present it in the WG channel. ",
+              "assignee": "lord kizzy",
+              "dueDate": "4 July 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to present results on the selected team of Onboarders in the Onboarding WG channel.",
+              "assignee": "SucrenSpice",
+              "dueDate": "4 July 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to work on editing the budget and present it to the next meeting.",
+              "assignee": "SucrenSpice",
+              "dueDate": "4 July 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to have Sucre work on editing the budget and present it at next week's meeting.",
+              "rationale": "Because we are still waiting to know the lowering percentage for budget fitting, and we will definitely need to make cuts",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to keep the Onboarding WG Skillshare Matrix document open until the next meeting for members to add their input.",
+              "rationale": "Because we are still waiting for members to fill it.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Minutes from the last meeting and action items; we agreed to the minutes of last meeting.",
+            "Onboarding Journeys update: Onize suggested that we make it in a way that the person who is engaging the content sees the ecosystem as a place they get to meet to help with the problem they are experiencing. ",
+            "Skills Matrix: Vani wanted to know if everyone had added their thoughts on the document and said that the document is open till the end of the week for people that still want to put their thoughts down.",
+            "Q3 budget:Our Q3 budget got consent, but since the total requested across all WGs is higher than the total available, budget-fitting will need to be implemented. The Lower percentage is yet to be determined, but we will get less than we asked for.",
+            "Suggestions towards a better onboarding process.",
+            "Facilitation / Documentation Roster: There were some discussions around WHO the next facilitator and documenter was going to be and  Lord kizzy indicated that he was working on a roster and he would present it in the channel before the next meeting.   ",
+            "Gorga said that he had been passed over in the assignment of tasks such as documenting due to xenophobia, prejudice and favouritism, and that the workgroup's practices were untransparent. People in the meeting addressed these issues in the Zoom chat - see doc attached."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Getting Started, onboarding processes, buddy system, Quarterly Report, onboarders team, Facilitation, Documentation, roster, skills matrix, allegation, gorga, Budget , Q3 budget",
+        "emotions": "interesting, misunderstood, argumentative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "becb4c89-3995-44fe-bf41-bd991ad9eb30": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-09",
+        "host": "Peter",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Peter, Haley, Judith, Guillermo, Grace Rachmany, Billy, CollyPride, Clement Umoh, CallyFromAuron, 5oundwave5, WaKa, Mikasa, Zalfred, Photogee, Slate, hogantuso, oep, Jan Horlings, Olokoji, Carlos Sainz, Nebula1224, Iain, Philip, Curtis",
+        "purpose": "Workgroup progress and podcast updates",
+        "townHallNumber": "92",
+        "workingDocs": [
+          {
+            "title": "ASI token merger useful resources",
+            "link": "https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://youtu.be/zVEPsD-0ZGQ?feature=shared",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "00:00 Intro\n00:51 Ambassador Program Overview\n04:28 Merger Discussion Start\n14:55 KYC Discussion\n20:45 Reputation Weighted Voting\n23:26 Issues with One Token One Vote\n37:06 Community Involvement in Decisions\n57:19 Importance of Open Debates\n01:05:00 Centralized vs Public Benefit\n01:08:00 Role of Centralization & Decentralization\n01:13:00 Reputation System Blueprint\n01:14:00 Conclusion & Appreciation"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Discussion of the token merger between AGIX, FET and Ocean\nDiscussion of approaches to voting (KYC, one-person-one-vote, reputation-weighting, plutocracy aka 1-token-1-vote)\nDiscussion of community involvement in decisions, who has power, who gets input.\nThis was also one of the earliest suggestions of a quarterly report or spending report for the previous quarter being a requirement for Workgroups to submit a budget for the next quarter (2:01)\n\nhttps://www.superintelligence.io/",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Token merger, voting, plutocratic, one token one vote, voting reputation, reputation weight, KYC, fetch and ocean, Governance workgroup, Q2 budget decision process, Q2 budget, Q1 quarterly report, moderator workgroup, moderator, Telegram, Discord, Deep Funding Focus Group, Decision Making Process, community governance, community engagement, power, debate",
+        "emotions": "interesting, engaging, critique, insight"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "2791984d-09bd-463e-95fc-b95c7586923c": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-16",
+        "host": "Peter",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Peter, CollyPride, Judith, Nicola Salvagni, Stephen, Curtis, 5oundwave5, Photogee, WaKa, Robert Bedoya, esewilliams, Tevo, osmium, Godfather, Haley, Kenichi, Guillermo, Slate, CallyFromAuron, Gorga Siagian, hogantuso, oep, ToneTech, Will Tatz, Billy",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "93",
+        "workingDocs": [
+          {
+            "title": "ASI token merger useful resources",
+            "link": "https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing"
+          },
+          {
+            "title": "toekn merger vision paper",
+            "link": "https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial%20Superintelligence%20(ASI)%20Alliance%20Vision%20Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479"
+          },
+          {
+            "title": "Gov Sandbox Turn #1 - Testing Tools",
+            "link": "https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://youtu.be/w3s6AImUduE?feature=shared",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "00:00 Introduction and Mentions by Peter.\n00:35 Discussions on Mentions\n01:05 Details on the Ambassador program \n01:40 Deep Funding Updates from judith.\n03:12 Supervisory Council Blueprint.\n14:00 Discussion on Rewards for the Decentralization Blueprint \n27:35 Moderation WG Discussions.\n28:20 Facilitators Collective presentation by Vanessa \n33:00 Merger - Open Discussions\n44:30 Alliance Wide Government \n50:00 Discussion on Decision making and Decentralization \n53:30 Grace on Governance of the system \n01:03:00 Centralization & Decentralization in SingularityNet"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Deep Funding Town Hall will be doing a retrospective of Deepfunding Round 4\n\nSupervisory Council has budget to pay community members for their engagement with the Decentralization Blueprint; discussion of attribution for people's contributions, and open-source ethos; and discussion of how to decide how people will be paid.\n\nMention of new Moderator workgroup, which will be proposed for Q2 2024\n\nMention of the Facilitators' Collective and its self-paced training course for facilitators https://thefacilitatorscollective.wordpress.com/project-type/facilitation-course/\n\nDiscussion of the forthcoming token merger, and how we might collaborate with Fetch and Ocean in terms of governance https://www.superintelligence.io/, and who initiated the merger (46:51)\n\nthe new \"community engagement group\" from Marketing Guild requesting proposals for community engagement projects; questions about who is deciding and what are the criteria?\n\ndiscussion of decision-making tools and testing them\n\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Token merger, voting, fetch and ocean, community governance, Facilitation, facilitators collective, moderator workgroup, moderator, deep funding town hall, Decentralisation Blueprint, RFP, fetch, ocean, Supervisory Council, community contribution, paying for community contribution, payment, community engagement, deep funding round 4, contribution, open source, open source ethos, attribution, Consenz, testing tools, decision making software, Loomio, Ethelo",
+        "emotions": "Discursive, participatory, critique, questioning, holding to account"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "1d0345d5-e8c9-4a0b-864c-baacc5dd2a64": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-18",
+        "host": "LadyTempestt",
+        "documenter": "Gorga Siagian, lord kizzy, CallyFromAuron",
+        "peoplePresent": "LadyTempestt, André, SucrenSpice, CallyFromAuron, Gorga Siagian, lord kizzy, Peter, CollyPride, others unknown",
+        "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+        "mediaLink": "https://youtu.be/Um7Zv5F9TyA?feature=shared",
+        "workingDocs": [
+          {
+            "title": "Treasury Session slides",
+            "link": "https://docs.google.com/presentation/d/1bDNeG1Aumo7LGhICK1-vx_UB4OkA-tboWYLjTm0C9mw/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallUpdates": "\n\n",
+          "issues": [
+            "Next meeting we revert to our normal agenda, and pick up items from our last meeting on 11th April"
+          ],
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Onboarding Workgroup's regular meeting was replaced this week by a session led by André Diamond from Treasury Guild, giving information on how payments are processed in the Snet Ambassador Program, how to identify your rewards and other treasury topics. The session was aimed at new people, to help them onboard by improving their understanding of how the Treasury system works. See https://youtu.be/Um7Zv5F9TyA?feature=shared"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "wallet, Treasury, treasury dashboard, payments, Token merger, yoroi, treasury guild operations, Zealy, Writers WorkGroup, Dework, AGIX, ASI token",
+        "emotions": "interesting, participatory"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
