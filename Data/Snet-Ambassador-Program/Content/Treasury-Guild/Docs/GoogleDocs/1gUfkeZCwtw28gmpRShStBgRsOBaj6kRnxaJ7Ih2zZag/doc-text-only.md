@@ -208,9 +208,9 @@ From 3 operators to 9 Treasury Operators!
 
 **Treasury Guild Space**
 
-No focus on onboarding here, there have been few attempts to do meeting summary
+No focus on onboarding here, there have been few attempts to request meeting summary
 
-Treasury Operations Workgroup Space
+**Treasury Operations Workgroup Space**
 
 Improved guidelines
 
