@@ -1,3 +1,15 @@
+#### Context - Do no harm
+Benefits all of humanity, not just segments or groups
+> * Clement Umoh: I'd also wanna add that as much as we anticipate beneficial outcomes from this, we should also brace up potential issues. Now, it would be important for us to discuss Redress and Remedies which generally involves providing mechanisms for individuals affected by our Archive's AI decisions to seek redress, including access to effective remedies and compensation for harm if need be. :-)
+> 
+#### Context - Respect for Beings, Sentient and non Sentient persons
+Open Source and Creative Commons licensing
+GDPR
+> * Clement Umoh: Beyond this scope. I would suggest that we also include consent considerations around: (i) Third-Party Sharing (Inform individuals if their data will be shared with third parties and obtain separate consent for such sharing, unless sharing is necessary for the fulfillment of the original purpose). This may also include obtaining information on the duration for which their consent is valid and ensure that individuals are informed if there are any changes in how their data will be processed.
+
+ii. Cross-Border Data Transfers:
+If we intend to transfer our Archives data across other systems, do we need to ensure compliance with relevant data protection laws and obtain consent if necessary for such transfers?
+> 
 #### Context - We need to observe what questions get asked and ask why.
 > * Vanessa Cardui: Relates to Colleen's point above, about recording all human-AI interactions.
 
