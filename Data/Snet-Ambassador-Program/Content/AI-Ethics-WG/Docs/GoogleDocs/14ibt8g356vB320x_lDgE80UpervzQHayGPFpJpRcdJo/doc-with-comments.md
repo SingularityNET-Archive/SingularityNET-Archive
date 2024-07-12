@@ -136,7 +136,7 @@ Community voted resources
 
 **Phase 1: BGI Summit - Initial data collection and working group**
 
-We will begin the process at BGI through a survey, mini interviews, and working group. This initiates Critical Element #1 - Human’s sharing opinions, AI accumulating ethics and concerns data into a KG. (planning details listed in: BGI Conference Initiation Section) ****
+We will begin the process at BGI through a survey, mini interviews, and working group. This initi ? at ,m es Critical Element #1 - Human’s sharing opinions, AI accumulating ethics and concerns data into a KG. (planning details listed in: BGI Conference Initiation Section) ****
 
 BGI Survey Follow-Up - To be emailed to participants Monday 18th March
 
