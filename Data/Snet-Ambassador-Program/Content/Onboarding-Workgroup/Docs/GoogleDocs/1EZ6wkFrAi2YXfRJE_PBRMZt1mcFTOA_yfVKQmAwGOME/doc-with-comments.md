@@ -99,7 +99,7 @@ Hello, I am Kateri. I suggest that we should c onsider implementing a live chatb
 
 Assign members specifically to help newcomers integrate into the community and understand the ecosystem. I believe that  they should be like 2 or 3 members with the role of welcoming newcomers always and that after each meeting they are to chat them up and help direct them properly.
 
-Hi, i am Martinsoki.
+Hi, i am Martinsoki. we need adequate customer support? How does implementing a live chatbot sound? Or customer support email?
 
 Hi, I am Clement (boy_petrona). I guess I suggested earlier that the entirety of the documents and media we create during this process be merged into a single comprehensive documentation that would serve as a blueprint for the onboarding process. This can then be translated across multiple languages where necessary. I believe having this singular blueprint document would allow minor changes where necessary, rather than having to overhaul major individual documents and media which is sometimes resource intensive.
 
