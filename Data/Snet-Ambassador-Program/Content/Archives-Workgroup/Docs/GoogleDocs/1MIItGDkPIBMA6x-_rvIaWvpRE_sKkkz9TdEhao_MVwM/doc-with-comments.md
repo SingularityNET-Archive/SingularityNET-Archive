@@ -6,6 +6,21 @@
 >   - Vanessa Cardui: Hi Martin - we already have your first point, under the heading "Human-centredness".
 
 Would you like to add your other points to the section below on "risk and mitigation", maybe?
+>   - Martin Soki35: Hallucinations
+   Risk: AI can give wrong information.
+   Mitigation: Always provide sources for answers.
+
+Bias
+   Risk: AI can be biased.
+   Mitigation: Regularly check for bias and be mindful of different cultures.
+
+Consent
+   Risk: Issues with copyright and correct credit.
+   Mitigation: Ensure sources are properly credited and licensed.
+
+Security
+   Risk: Data misuse and manipulation.
+   Mitigation: Educate users on secure practices and protect data.
 >
 
 
