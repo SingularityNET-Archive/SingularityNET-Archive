@@ -1,6 +1,6 @@
 # Treasury Guild
 
-
+**Next Quarter:**
 
 ## Proposal Request
 
