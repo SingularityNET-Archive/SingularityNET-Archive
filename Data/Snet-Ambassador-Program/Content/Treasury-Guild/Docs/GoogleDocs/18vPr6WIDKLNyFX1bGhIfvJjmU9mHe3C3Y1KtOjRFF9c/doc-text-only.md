@@ -1,6 +1,6 @@
 # Server Side JSON Generator for Treasury
 
-## This project aims to improve SingularityNET Ambassador Program by
+## This project aims to improve the SingularityNET Ambassador Program by
 
 developing a server-side solution for generating transaction JSON files
 
