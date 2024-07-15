@@ -1,6 +1,8 @@
 #### Context - Do no harm
 Benefits all of humanity, not just segments or groups
 > * Clement Umoh: I'd also wanna add that as much as we anticipate beneficial outcomes from this, we should also brace up potential issues. Now, it would be important for us to discuss Redress and Remedies which generally involves providing mechanisms for individuals affected by our Archive's AI decisions to seek redress, including access to effective remedies and compensation for harm if need be. :-)
+>   - Vanessa Cardui: ouff - It's a good point to raise, but the Archives isn't ever likely to be in a position to offer compensation to people who feel they have been harmed. 
+I think our approach to this would **have** to be clear disclaimers /waivers, and clear "here be dragons" outlines of the risks, plus a good-faith attempt to make it as transparent as possible how AI is being used
 > 
 #### Context - Respect for Beings, Sentient and non Sentient persons
 Open Source and Creative Commons licensing
