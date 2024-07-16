@@ -1,3 +1,9 @@
+> * Ambassadors SingularityNET: add back the template bullet points
+> 
+#### Context - Mandatory Policy Minimum Requirements
+> * Ambassadors SingularityNET: Add Experimentation End Time
+>   - Ambassadors SingularityNET: A retrospective to do at the end or before the end to decide if new policy (updating same policy is basically creating new submission with the expected updates)
+> 
 #### Context - Once per month each Workgroup/guild organisers will be rewarded 100 USD in AGIX when 10+ people join their workgroup
 > * Vanessa Cardui: We seem to have process whereby a policy can be tweaked or iterated on (see below) - but not process for how people can say "This is actually a bad idea".
 
