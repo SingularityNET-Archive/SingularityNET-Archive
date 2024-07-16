@@ -98,27 +98,35 @@ Adopting processes and rules suggested by others has improved clarity on work th
 
 
 
-**Insights from Core_Member from Workgroup or Guild perspective**
+**Insights from Peter as a Core Contributor perspective**
 
-description
+If rules get implemented people are aware of the guidelines and rules but as time goes on the documentation is in different places and rules are forgbotten.
 
-
-
-**Insights from Core_Member from Workgroup or Guild perspective**
-
-Description
+There is a lot of meeting Updates that have a lot of decision items. Not all decision affect all workgroups.
 
 
 
-**Insights from Core_Member from Workgroup or Guild perspective**
+**Insights from Ayo as Core Contributor perspective**
 
-description
+I became aware of policies if they affected me directly or if I had to interact with policy.
+
+Would expect a quarterly infographic to learn existing and new policies.
+
+Intepreting Policy can differ from based on person who reads it.
+
+I understand that Policies are meant to protect Ambassador Program and make it sustainable.
 
 
 
-**Insights from Core_Member from Workgroup or Guild perspective**
+**Insights from Daniel from Startegy Guild**
 
-description
+Wasn’t also aware of policies that affected Strategy Guild. Internally this information was shared until tension was raised about issues. Knowledge Base WG has NO items about roadmap and this might be issue that new members don’t know how do we progress from month to month or even quarter to quarter in general in the Ambassador program.
+
+
+
+**Insights from Yemi as New Member**
+
+When you take up activities you come across with policies. I would say there is a lot of information, personally I feel like doing tasks and learning step by step.
 
 
 
@@ -146,7 +154,13 @@ If there is no blockers the policy will take effect based on the implentation st
 
 
 
-## Mandatory Policy Minimum Requirements
+## Mandatory Policy Minimum Requirements  
+
+> [Comments]
+> Context - Mandatory Policy Minimum Requirements
+> * Ambassadors SingularityNET: Add Experimentation End Time
+>   - Ambassadors SingularityNET: A retrospective to do at the end or before the end to decide if new policy (updating same policy is basically creating new submission with the expected updates)
+>
 
 **Policy Name** - Name to recognize Policy easily
 
