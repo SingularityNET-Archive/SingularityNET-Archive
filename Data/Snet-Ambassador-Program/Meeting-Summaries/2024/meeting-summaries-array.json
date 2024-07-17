@@ -16706,6 +16706,116 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-07-02",
+      "host": "Haley, iota_one, aetherblade",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "Haley, iota_one, aetherblade, CallyFromAuron, Clement Umoh, sakujennbornean, Gorga Siagian, CollyPride, guillermolucero",
+      "purpose": "Fortnightly Open Office meeting led by the Global Ethics Initiative (GEI). This meeting is not an AI Ethics WG meeting; but the 2 groups work in tandem, so the meetings are related",
+      "meetingVideoLink": "No video",
+      "transcriptLink": "No transcript",
+      "workingDocs": [
+        {
+          "title": "Ambassador Program AI Ethics WG Q2 2024 Budget proposal",
+          "link": "https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/"
+        },
+        {
+          "title": "Starter document",
+          "link": "https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/"
+        },
+        {
+          "title": "AI ethics, safety, and risk taxonomy and literature",
+          "link": "https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing"
+        },
+        {
+          "title": "AI Ethics WG folder ",
+          "link": "https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing"
+        },
+        {
+          "title": "Interview participant information sheet and informed consent form",
+          "link": "https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Safety and Ethics across sNET\n- Esther is sitting in on interviews with people in the ecosystem re safety and ethics issues\n- Matthew Newman (was on 1st Supervisory Council) is working on creating a structure for developing safety and ethics internally in sNET as a whole\n- LeeLoo is working on similar with the spinoffs\n\nHow to gauge interest from Ambassador Program in attending AGI24?\n- Visa concerns will be stronger as it's in the US and it's soon.\n- Can offer a letter of invitation from Program chair, which might help people secure a visa.\n- Virtual engagement is possible too - GEI is planning a virtual Round Table on 7th August and a 6-month followup.\n- Hoping to have some of the roundtable discussions at AGI24 virtually too - would be great to have Ambassador program involved\n\nNaming competition\n- Want to announce the GEI's existence at AGI24 - hence, naming competition will launch soon.\n- If winner is inappropriate, how will we choose?\n- Planning to use Jokerace - but should there be a proxy vote system for those who don't wish to connect a wallet?\n- How is voting weight determined on Jokerace? Group members will test it. If it is plutocratic (i.e. 1 token 1 vote) we will not use.\n- How to publicise it on socials?\n- A 1-pager has been written to outline what the GEI is and ensure people understand what they are naming. Guillermo will transdlate to Spanish and Portuguese.\n\n\nAsia/Pacific Internet governance networks\n- Jenn is working with these - they have an initiative to learn about AI ethics. Can it be integrated with the GEI?\n- LeeLoo: education is a huge part of the GEI, but in the longer term. Current focus is on gathering the public's opinion. We can connect in a few months, when we move more towards education.\n\nScope of GEI survey\nClement: is it within sNET< or wider?\nHaley: It's for all voices, including those not in WEb3 groups.\nLeeLoo: I have a good grasp of marginalised communities that don't use much tech, and how to engage them.\n\nLicensing of materials collected from surveys and interviews\n - Agree Creative Commons all the way!\n - CC BY-NC sharealike preferred\n - Do we licence material to individual interviewees? Always best to licence to a person, not an organisation, since organisations change; but this could be fiddly to manage and a problem if people do not want to be named.\n- To be discussed further\n \n\n",
+        "actionItems": [
+          {
+            "text": "Find out feasibility of Ambassador Program attending the 2 forthcoming AI events: still considering; will depend on budget. GEI has secured some funding from the Foundation for this (they have matched the AI Ethics WG's Q2 budget, c. $3,800)",
+            "assignee": "Haley, Esther",
+            "status": "in progress",
+            "dueDate": "16 July 2024"
+          },
+          {
+            "text": "Request Info Merge for Current Regulations Worldwide from Janet: done, and in LeeLoo's https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing doc",
+            "assignee": "LeeLoo, Esther",
+            "status": "done",
+            "dueDate": "2 July 2024"
+          },
+          {
+            "text": "Meet with Ecosystem to aggregate information on what ethics policy or committees we have already - big piece of work, and will be ongoing indefinitely - maybe assess progress at the end of the quarter",
+            "assignee": "LeeLoo",
+            "status": "in progress",
+            "dueDate": "30 September 2024"
+          },
+          {
+            "text": "Haley will write something on what Ambassador Program attendees at AGI24 need to achieve",
+            "assignee": "Haley",
+            "dueDate": "16 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo will raise the iissue of Ambassador attendance at AGI24 at Ambassador TH",
+            "assignee": "Guillermo",
+            "dueDate": "9 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo will translate the 1-pager about the GEI for the naming competition into Spanish and Portuguese",
+            "assignee": "Guillermo",
+            "dueDate": "16 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Colleen, Esther, Haley and Clement to test Jokerace",
+            "assignee": "CollyPride, Clement Umoh, Esther, Haley",
+            "dueDate": "16 July 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Naming competition will be launched in next week or two, with a 1-week window for people to sugggest names. Probably using Jokerace. $50 prize.",
+            "rationale": "need to get new name in place ideally before AGI24",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We'll link up with Jenn's Asia-Pacific Internet Governance networks at some point in future months",
+            "rationale": "because at the moment the focus for GEI is on collecting opinion, not education",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We'll return to the discussion on licencing and Creative Commons in a future meeting",
+            "rationale": "need to determine WHO we should licence material from interviews to?",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AI ethics, Global ethics initiative, AGI24, visa, Jokerace, naming competition, plutocracy, 1 token 1 vote, education, survey , survey scope, marginalised communities, inclusion, Creative Commons, licensing, Asia Pacific, Internet governance network, South East Asia, SE Asia, Translation, virtual participation, virtual round table",
+      "emotions": "Businesslike., interesting, Organised, good humored"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
@@ -17052,6 +17162,264 @@
     "tags": {
       "topicsCovered": "wallet, Treasury, treasury dashboard, payments, Token merger, yoroi, treasury guild operations, Zealy, Writers WorkGroup, Dework, AGIX, ASI token",
       "emotions": "interesting, participatory"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-06-24",
+      "host": "CallyFromAuron",
+      "documenter": "Ayo, CallyFromAuron",
+      "peoplePresent": "aetherblade, Clement Umoh, duke peter, Peter, Effiom, PeeGee, SucrenSpice, Malik., Slate, CallyFromAuron, Ayo, LadyTempestt, CollyPride, Gorga Siagian, 5oundwave5, Asad Nadeem, hogantuso, osmium, Olokoji",
+      "purpose": "Fortnightly meeting of the AI Ethics WG.",
+      "meetingVideoLink": "No video",
+      "transcriptLink": "https://app.read.ai/analytics/meetings/01J15C2RV7JF1SDYTA7VKF91H1?utm_source=Share_CopyLink&section=notes",
+      "workingDocs": [
+        {
+          "title": "Ambassador Program AI Ethics WG Q2 2024 Budget proposal",
+          "link": "https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/"
+        },
+        {
+          "title": "Starter document",
+          "link": "https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/"
+        },
+        {
+          "title": "AI ethics, safety, and risk taxonomy and literature",
+          "link": "https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing"
+        },
+        {
+          "title": "AI Ethics WG folder ",
+          "link": "https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing"
+        },
+        {
+          "title": "Interview participant information sheet and informed consent form",
+          "link": "https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing"
+        },
+        {
+          "title": "Meeting Agenda, 24th June 20024.",
+          "link": "https://docs.google.com/document/d/1WQW1rxFLLgttNSPgsQYJQ5QFFJbjYutx4oBUK7v_3bc/edit#heading=h.d588fff1bjm4"
+        },
+        {
+          "title": "Global Ethics Initiative",
+          "link": "https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly Workgroup Budget Calculator",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+        },
+        {
+          "title": "AI Ethics Workgroup Stuff!",
+          "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+        },
+        {
+          "title": "Selecting people for AI Ethics WorkGroup Q3 roles (cryptpad)",
+          "link": "https://cryptpad.fr/pad/#/2/pad/view/QhThseH7IJssdKnZ6isg0QEaRVdpIwJRazuWTXepzO8/"
+        },
+        {
+          "title": "AI Ethics WG Quarter 2 payments and budget",
+          "link": "https://docs.google.com/spreadsheets/d/1G9gvX5h3VQQTmOXRaM6y1dXOHVP2I1g_V2R4lOUtnDo/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Attendee Count: 19 unique individuals, 20 devices.\n\nMeeting Narrative:\n\nMembership Criteria: Vani referenced the previous meeting - people do want membership, and a 2 tier system has been suggested but not yet agreed, and [7:33] mentioned her impression that hierarchical membership structures appeal to some, but not all. LadyTempestt [9:20] agreed with keeping it simple, and starting by giving tag to people who have attend meetings. Aetherblade suggested in Chat that there's a difference between people who look and people who contribute. Vani suggested [9:47] instead of meeting attendance, use contribution/posting in Discord, since it's hard to find a meeting time that everyone can do, but Discord posting can be in own time. After mention of several options, consent (no objections) to giving tag to anyone who comments in the WG Discord, and reassess later if we find we need tiers. Soundwaves confirmed that adding the tag to those active in Discord can be automated using the ME6 bot that we already have [9:20].\n\nStrategy-drafting: [11:47] the 3 writers and 2 editors for each strategy have all confirmed (see AI Ethics Workgroup stuff! spreadsheet). There will be an orientation meeting with Esther and Haley for each team, to define scope and discuss content; then teams will self-organise. Completion dates: third week in July (Fri 19th) for writing and 2nd August 2024 for editing.\n\nQ2 Budget and Spend [22:08]: see \"AI Ethics WG Quarter 2 payments and budget rec\" spreadsheet. Vani explained how this doc takes the Q2 budget written by Peter, Esther and herself, and fits it to the work that's actually been done, including the strategy drafting work (with more money than originally planned); and Vani's own work in setting up the WG. No objections. BUT it was noted that Colleen did some co-ordinating work in Q2 that needs to be added.\n\nA Co-chair[26:33] Consensus is reached, the WG is to have a Co-chair who will work with the Global AI Ethics Initiative (GEI) team (Haley, Esther) and with LeeLoo as the other Co-Chair, but from the Foundation side.\n\nSelecting Co-ordination Roles for Q3 [29:58]: A Cryptpad document will be created so anyone/everyone can drop anonymous comments in favour (or otherwise) of the “contestants” for various posts including the Co-chair role, to help us decide. \nThose interested: \nCo-chair: Colleen, Clement, Duke, Vani.\nWG Reportbacks: Jenn\nAsync work support: Love, Gorga, Malik, Slate.\nWG internal management: Kenichi, Sucre, Ayo.\n\nQ2 quarterly report, and Budget for Q3 [41:28]: Have been submitted, Members of the WG who are Core Contributors are reminded to submit consent forms for the WG budget and for other G and WG budgets.\n\nForum for AI ethics discussions [42:12]: Peter will create the forum. Clement signified interest in moderator role, which will be rewarded from the contingency budget.\n\nWhen to meet [54:47]: Meeting time will move to 14:00 UTC, and next meeting is 8th July 2024.\n\nMeeting ends: 59:17.\n\nNote: this meeting summary significantly amended and tidied by Vani - issues such as lack of clarity in narrative section and some things incorrectly documented; not including things as decisions/action items; not using decision rationales",
+        "actionItems": [
+          {
+            "text": "Ayo to document and archive meeting summary for this meeting",
+            "assignee": "Ayo",
+            "status": "done",
+            "dueDate": "28 June 2024"
+          },
+          {
+            "text": "Peter to create a forum sapce for ethics discussions on Discord: done during the meeting itself",
+            "assignee": "Peter",
+            "status": "done",
+            "dueDate": "24 June 2024"
+          },
+          {
+            "text": "Vani to schedule future meetings for 14:00 UTC",
+            "assignee": "CallyFromAuron",
+            "status": "in progress",
+            "dueDate": "8 July 2024"
+          },
+          {
+            "text": "Vani to create a document for anonymous comments for WG members on assigning admin roes for Q3",
+            "assignee": "CallyFromAuron",
+            "dueDate": "25 June 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani and LeeLoo to set up orientation meetings next week for the three strategy-drafting teams with Haley and Esther",
+            "assignee": "CallyFromAuron, aetherblade",
+            "dueDate": "5 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to add costing for Colleeen's Q2 work to \"AI Ethics WG Quarter 2 payments and budget rec\" spreadsheet ",
+            "assignee": "CallyFromAuron",
+            "dueDate": "1 July 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "There will be a co-chair role",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "useful to have liaison with GEI"
+          },
+          {
+            "decision": "Meeting time will stay on Mondays, fortnightly, but will move to one hour earlier (14:00 UTC) ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "to suit timing needs of the people who are mainly attending",
+            "opposing": "none"
+          },
+          {
+            "decision": "We will have an open but tightly moderated forum for AI ethics discussion; and it will be placed outside of the Ambassador Program section of Discord",
+            "effect": "mayAffectOtherPeople",
+            "rationale": "Moderation, to ensure all threads are specifically about AI ethics; placement of the Forum is so that it's seen by all, not just Ambassador program."
+          },
+          {
+            "decision": "Discord tag will be given to anyone who comments in the WG Discord; will try to automate it.",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "because it's a form of contribution, and might be better than basing it on meeting attendance , since it's hard to find a meeting time that everyone can do, but Discord posting can be in own time.",
+            "opposing": "Some have said there might need to be a hierarchy of Discord membership tags, as there is a difference between those who look, and those who really participate. We agreed to rethink and add a hierarchy later if it feels needed."
+          },
+          {
+            "decision": "Strategy-drafting teams to consciously work async e.g. via shared docs",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "because people are in different time zones, and we have quite tight deadlines."
+          },
+          {
+            "decision": "We agreed to the budget allocations for Q2 outlined in the \"AI Ethics WG Quarter 2 payments and budget rec\" spreadsheet",
+            "rationale": "it rewards the work we are actually doing in Q2, and makes reasonable sense with the original budget",
+            "opposing": "none",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Moderation of the Forum will be rewarded from our contingency budget for Q3",
+            "rationale": "since we forgot to include a specific budget line for it in the Q3 budget",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AI ethics, Global ethics initiative, drafting strategy documents, Budget , forum, Discord, membership, workgroup membership, co-chair, co-chair selection, role selection, date of next meeting, meeting time, Q2 budget, Q3 budget, Q2 quarterly report, Async, strategy, writing, editing, ME6 bot, membership criteria",
+      "emotions": "interesting, contributive, Collaborative, insightful"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-07-08",
+      "host": "CallyFromAuron",
+      "documenter": "CollyPride",
+      "peoplePresent": "Clement Umoh, sakujennbornean, Gorga Siagian, LadyTempestt, PeeGee, Advanceameyaw, Onize, Tevo, Stephen [QADAO], Duke, Ayo, CallyFromAuron, aetherblade, PeterE, SucrenSpice",
+      "purpose": "Regular Meeting of the AI Ethics WG",
+      "meetingVideoLink": "No video",
+      "transcriptLink": "No transcript",
+      "workingDocs": [
+        {
+          "title": "Ambassador Program AI Ethics WG Q2 2024 Budget proposal",
+          "link": "https://docs.google.com/document/d/1nSifu3pDc--ZzZ91QvTQ0y1ALbkxZ5r7erEzsT82UF0/"
+        },
+        {
+          "title": "Starter document",
+          "link": "https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/"
+        },
+        {
+          "title": "AI ethics, safety, and risk taxonomy and literature",
+          "link": "https://docs.google.com/spreadsheets/d/1cmHgsHqsESL-OPu8GPOUQIvdQ3ZtlOJM0THrSt5X2zE/edit?usp=sharing"
+        },
+        {
+          "title": "AI Ethics WG folder ",
+          "link": "https://drive.google.com/drive/folders/1pUGsT8pju83nU17bVjSJn0tq-a933yS0?usp=sharing"
+        },
+        {
+          "title": "Interview participant information sheet and informed consent form",
+          "link": "https://docs.google.com/document/d/1E8xIl3Yge3uCN1Nk1J68XaoNE9-_Ou5PpHejVmFRwP4/edit?usp=sharing"
+        },
+        {
+          "title": "AI Ethics Workgroup TAG Username List",
+          "link": "https://docs.google.com/document/d/1w66IDx9W2-43lhL0R59NC2xADgJfa4ZtB6sP_d0ZFuo/edit?usp=sharing"
+        },
+        {
+          "title": "AI Ethics Workgroup stuff! ",
+          "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Fill in your usernames for Github and Discord on AI Ethics Workgroup TAG username list spreadsheet\n\nPeter has created an AI Ethics Forum for open discussion, in the General area. To be heavily moderated with notice at top saying only AI Ethics Discussions -no other conversations. Moderators TBD but Clement was interested\n\nQ3 Workgoup Admin Roles - Duke declined \"co-chair mentee\" position and passed role to Colleen\nClement did not receive any comments in spreadsheet nor this meeting\n\nRoles confirmed as:\n - Co-chair GEI: Vani\n - Co-chair role mentee: Colleen\n - Reportbacks to GEI meetings: Jenn\n - WG Async work support: LadyTempestt\n - Internal WG management: Sucre\n\n\nNow that Sucre is confirmed as internal WG manager, she will be prepping agendas and facilitating meetings, not Vani\n\nAGI2024: Budget will not allow for many people to be funded for travel to the conference - TBD- LeeLoo will find out more\n\nQ3 Budget fitting - (need to lose c. $1500, exact amount TBC) - halving the number of community interviews or moving some to Q4; \"producing resources to demystify AI terminology\" could be moved to Q4 as well\n\nInformal AI Ethic Chats with a least 2 people and data involved - put ideas on \"AI Ethics WG Stuff!\" spreadsheet\n\nWe are changing task tracking from Dework to Github - see project board here https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2 Please add both your usernames for Discord and Github to AI Ethics WG tag and username list, to be invited to GitHub organisation and be able to be assigned to tasks. Some invitations have already gone out - check your email.\n\nChanging this meeting time to 14 UTC (this was agreed last meeting, but Vani forgot!)\n\nWhich Ambassadors will be funded for travel to AGI2024 in August - Budget concerns\n\nAmbassador travel needs to be decided on earlier in the year - how early? 6 months?\n\nThose working on Strategy drafting Teams (writing and editing groups) should ideally create Discord private chat groups to progress their work and liaise. LadyTempestt will offer support as needed. \n\n\n\n",
+        "actionItems": [
+          {
+            "text": "Moderators of AI Ethics Forum - Clement, and others TBC if needed. Roles might need to be assigned - Peter?",
+            "dueDate": "14 July 2024",
+            "status": "in progress",
+            "assignee": "Clement Umoh, Peter"
+          },
+          {
+            "text": "Vani to create recurring meeting invite at 1400 UTC fortnightly on Mondays - Peter to add to Ambassadors Calendar",
+            "assignee": "CallyFromAuron, Peter",
+            "dueDate": "14 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Create Discord DM goups for strategy writing and editing groups and invite LadyTempestt as well",
+            "dueDate": "9 July 2024",
+            "status": "in progress",
+            "assignee": "all"
+          },
+          {
+            "text": "all to add ideas to AI Ethics Workgroup Stuff spreadsheet for \"AI conversations\" work, to be discussed next meeting",
+            "assignee": "all",
+            "dueDate": "22 July 2024",
+            "status": "todo"
+          },
+          {
+            "text": "all to add GitHub names to AI Ethics WG tag and username list, or DM to Vani or Sucre, asap",
+            "assignee": "all",
+            "dueDate": "15 July 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "New AI Ethics Forum has been created",
+            "effect": "mayAffectOtherPeople",
+            "rationale": "Note at top of channel saying AI Ethics discussions only, all other conversation will be deleted"
+          },
+          {
+            "decision": "Fewer people than originally thought will go to AGI2024 due to budget restrictions. Travel to any future AI Conferences needs to be decided farther ahead in the future",
+            "rationale": "to allow people time to get visas if needed",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Budget fitting cuts will likely include the item for creating learning resources, and halving the number of interviews to be done with the public",
+            "rationale": "More interviews can be done in Q4; and we could move learning resources to Q4 because then we'll have a better idea of what kinds of resources might be needed",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup tags, forum moderators,  Admin Roles, change meeting time, Budget cuts, AGI conference attendees, forum, visa, Q3 budget, AI Ethics conversations, learning resources, GitHub",
+      "emotions": "friendly , informative, calm, engaging, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
