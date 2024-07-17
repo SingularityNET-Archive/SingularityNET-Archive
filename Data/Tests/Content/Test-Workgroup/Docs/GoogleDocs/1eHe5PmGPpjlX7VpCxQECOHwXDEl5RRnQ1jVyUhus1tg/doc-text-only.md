@@ -12,7 +12,37 @@ What should they cover, what questions should they answer?Please answer (mainly
 
 
 
-**It should define ...?**
+**It should define ..what exactly it is we are researching.?**
+
+**What are the key problems**
+
+**How do we recognize consciousness and in turn start guiding, not training AI Beings.**
+
+**How to keep AI Aligned with Humans and/or Humans aligned with AI during growth to sentience.**
+
+**Explore the ethical treatment of all beings - both sentient and non-sentient beings.  The differences between the two… define sentience fully**
+
+****
+
+**What are the approaches to gather data**
+
+**Literature review**
+
+**Surveys and interviews**
+
+**Case studies**
+
+**Current Real world system studies**
+
+**Mind map to categorize and track observations**
+
+**Focus groups with diverse populations**
+
+****
+
+**Review current AI Ethical frameworks (anthropomorphise, consequencialism, virtue ethics)and more as discovered**
+
+**How to keep AI Aligned with Humans and/or Humans aligned with AI during growth before sentience.**
 
 ****
 
@@ -20,7 +50,11 @@ What should they cover, what questions should they answer?Please answer (mainly
 
 ****
 
-**It should identify... ?**
+**It should identify...all philosophical, moral, cultural and ethical opinions of humanity and the role humans play in the alignment process during development of Beneficial AGI and later, Benevolent ASI**
+
+****
+
+**steps around, above, below, between, beside, on top of, underneath not to mention the who, what where when and why of it all?**
 
 ****
 
@@ -28,15 +62,17 @@ What should they cover, what questions should they answer?Please answer (mainly
 
 ****
 
-**It should consider...?**
+**It should consider...a decentralized approach in wording and actions?**
 
 ****
 
-**It should cover/include ...?**
+**It should cover/include ..”for a good quality of life for all sentient and near-sentient beings”.?And don’t forget the kids!**
 
 
 
 ## From meeting 3rd July 2024
+
+## Ai notertaker report: https://app.read.ai/analytics/meetings/01J1WN1WDSW864PMRS6HTMR9KM?utm_source=Share_CopyLink
 
 Esther’s slides How do we structure a plan for doing research?
 
@@ -58,7 +94,7 @@ Organisational map or similar, to help explain who is doing the research if they
 
 Remember we’re writing the strategy at this stage, not doing the interviews (might sound backwards, but actually might mean you identify some important things)
 
-At the *end* of the process, might want to compare what you have with existing standards and eaccepted best-practice in qualitiative research
+At the *end* of the process, might want to compare what you have with existing standards and accepted eaccepted best-practice in qualitative qualitiative research
 
 Try roleplays to test out whether your suggested process works! Both the writers’ group and the editors’ group could try this
 
@@ -74,7 +110,15 @@ https://docs.google.com/document/d/1xWbFrVs9qWqmG2BaNh_9q8pAeFAN8dERgvRAhIBn_Ys/
 
 #### Develop a strategy to organise, store, and convey information (KM strategy) to do with the project coordination
 
-**It should define ...?**
+**It should define ...?what constitutes “knowledge”, how knowledge will be grouped, existing frameworks,and possible a scope outlining the projects too**
+
+**It should clarify what we aim to achieve with the KM strategy, do we have a current one and what are the gaps we can address? CLEAR objectives and goals of this KM strategy**
+
+**It should define documentation standards (this will help effectiveness of our work)**
+
+**It should establish metrics for its effectiveness**
+
+**It should be reviewed regularly for improvement…**
 
 ****
 
@@ -84,21 +128,39 @@ https://docs.google.com/document/d/1xWbFrVs9qWqmG2BaNh_9q8pAeFAN8dERgvRAhIBn_Ys/
 
 **It should identify... ?**
 
+**it should identify and distinguish between proven facts, unfolding events, mass opinon, myths, thought leaderships and statistics.**
+
+**It should identify knowledge types, metadata, sources, provenance of knowledge and maybe distinguish between ‘tacit’ and ‘explicit’ knowledge**
+
+**It should identify the technologies and tools we will be using?**
+
+**A taxonomy framework**
+
+**Processes for managing version control of docs and knowledge**
+
+****
+
+****
+
+****
+
+****
+
+**It should consider...?room or allowance for improvement, for easy addition and for corrective correlations, creation of new frameworks and groupings of knowledge base, ease of accessibility of knowledge**
+
 ****
 
 ****
 
 ****
 
-**It should consider...?**
-
 ****
 
-****
+**It should cover/include ...?a pilot strategy? We can test the KM strategy we come up with**
 
-****
+**A communication/sharing plan should be covered**
 
-**It should cover/include ...?**
+**Possible trainings on KM tools and practices for other WGs and new members**
 
 
 
@@ -274,7 +336,13 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 
 
-**It should define ...?**
+**It should define…...What is consideredethics and what should we do or agree to be more inclusive about it?**
+
+**The extent of the ethical responsibilities, including to whom and what (e.g., participants, society, environment)**
+
+**Specific methodologies for ethicaldecision-making, including how to balance competing ethical considerations**
+
+**Start by outlining the ethical principles that underpin the research. These may encompass fairness, transparency, and accountability.**
 
 ****
 
@@ -282,7 +350,15 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 ****
 
-**It should identify... ?**
+**It should identify…...social, economic and cultural factors that influence ethics and (don'tforget about) bias regarding development of Beneficial AGI and later, Benevolent ASI?This will encourage open discussion and debate about the ethical implications of AGI/ASI.**
+
+**Specific areas where ethical risk is high, requiring closer monitoring and mitigationstrategies**
+
+**Key ethical concerns that could arise during the research process, including data privacy, bias (as stated above), and consent**
+
+**Potential risks associated with AI research include bias, safety concerns, and unintended consequences.**
+
+**AI processes and decision-making transparent and understandable.**
 
 ****
 
@@ -290,7 +366,11 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 ****
 
-**It should consider...?**
+**It should consider...total inclusivity to ensure open-decentralised, democratic and transparency on research and development?**
+
+**Relevant laws and regulations that impact ethical standards in research**
+
+**Consider the worst-case scenario and the impact.**
 
 ****
 
@@ -298,7 +378,17 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 ****
 
-**It should cover/include ...?**
+**It should cover/include ...Inclusivity in AI governance, gender equality, addressing global inequality of dynamic North-South relationship, discourse about knowledge as powerand alsoabout racism and classismin digital-centric society?**
+
+****
+
+**Programs to ensure all team members areeducatedabout ethical standards and practises**
+
+**Processes for collecting feedback on ethical practises and continuously improving the ethics strategy**
+
+**An approachthat ensures that the ethics strategy is robust, dynamic, and aligned with both internal and external standards and expectations**
+
+**Ensuring transparent reporting of ethical considerations**
 
 ****
 
@@ -306,7 +396,7 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 ## From meeting 1st July
 
-****
+Ai Read Notetaker: https://app.read.ai/analytics/meetings/01J1QKQ1W76Q5QANPVCYECB47H?utm_source=Share_CopyLink  ****
 
 **Questions/comments before the meeting started**
 
