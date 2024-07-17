@@ -40,7 +40,9 @@ Resets all kinds of potential UI issues related to buttons.
 
 ### Open Dework Exporter (Button)
 
-Visit https://public-dework-exporter.netlify.app
+Visit - https://workspace-csv-exporter.netlify.app/deworkexports
+
+(previous app - https://public-dework-exporter.netlify.app )
 
 
 
@@ -184,17 +186,21 @@ Reset all kinds of potential UI issues related to buttons.
 
 **Configurations**
 
-In the conf sheet, you can automate the suggestions for labels.
+In the conf sheet, we can automate the suggestions for labels
 
-More info about suggested labels https://instance-dework-pbl.vercel.app/course/module/201/2018
+Currently there is no guiding material how does the Configurations work..
 
 
+
+More info about labels in general can be found in Dework PBL module “ How to Manage Tasks?”
+
+https://instance-dework-pbl.vercel.app/course/module/201/2018
 
 
 
 ### FILTER With Task Labels (Button)
 
-Pressing button button will:
+Pressing button will:
 
 O pen Extra Columns
 
@@ -278,7 +284,7 @@ If the above matches have been found then Task Label Keys will be used as Task L
 
 Change Matching String from Task Name to match with future potential task names that most likely would give similar task label results
 
-Remove all unrecurring words and labels
+Remove all unrecurring words and labels (like date and token amounts)
 
 
 
@@ -320,6 +326,8 @@ Sometimes, the Task Name is already in use, or there are duplicates
 
 
 
+Choose one of these solutions:
+
 If the task seems to be a one-time or unique contribution
 
 You can use the Add Date to Task Name button to write the Date Column value into the Task Name to make it unique.
@@ -329,6 +337,8 @@ You can use the Add Date to Task Name button to write the Date Column value into
 If the task seems to be a recurring contribution
 
 You can use the  Add Task Name to Conf … button to allow similar task names to be rewarded again.
+
+Remove all unrecurring words and labels (like date and token amounts)
 
 
 
@@ -341,6 +351,12 @@ Delete those weird characters in the Task Name
 
 
 Task Name can not have an upper commaRemove Upper commas from the Task Name
+
+****
+
+****
+
+**Note:** You can skip other unrelated errors
 
 
 
