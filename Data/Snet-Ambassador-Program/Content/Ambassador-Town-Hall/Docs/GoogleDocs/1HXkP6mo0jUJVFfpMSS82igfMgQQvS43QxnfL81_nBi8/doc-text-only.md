@@ -30,6 +30,14 @@ Joint statement from the Foundation and the Supervisory Council, 9th April 2024 
 
 Handy conversion tool https://asi.kremalicious.com/
 
+Migration Dapp:  https://www.singularitydao.ai/migrate-asi
+
+Migration Guide:  https://bit.ly/ASI-Merger-Guide1
+
+Video Tutorial:  https://bit.ly/Phase1-Tutorial
+
+
+
 July 2024 - **DF - Deep Funding Payments from AGIX to ASI -** an approved doc on the transition form AGIX to ASI https://docs.google.com/document/d/1VvYO53diErtYeIdhvPNLYm1BonAbpPRSVmjz2vhdhZo/edit?usp=sharing
 
 
