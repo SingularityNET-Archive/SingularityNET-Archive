@@ -8,8 +8,6 @@
 
 Artificial Superintelligence (ASI) Alliance Vision Paper https://www.superintelligence.io/artificial-superintelligence-alliance/artificial-superintelligence-asi-alliance-vision-paper
 
-Official Q&A for AGIX holders https://www.superintelligence.io/artificial-superintelligence-alliance/questions-for-usdagix-holders
-
 Blogpost from Ben Goertzel on the Vision Paper, plus information on the community vote https://blog.singularitynet.io/announcing-the-artificial-superintelligence-vision-paper-da4af715f6c4
 
 Blogpost on the community vote https://blog.singularitynet.io/community-governance-vote-joining-the-artificial-superintelligence-alliance-bf11f39077bb
