@@ -17679,6 +17679,198 @@
       "canceledSummary": false
     }
   ],
+  "dfcf7bba-8ef0-4fa5-94dd-f187714c9b2c": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-10",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "Clement Umoh, kateri, osmium, WaKa, malik, Slate, Photogee, Kenichi, Mikasa, GorgaSeagian, sakujennbornean, Franklynstein",
+        "purpose": "- Tasks Update go through dework  - Review sheet post productions and rework showcase - Ai for beginners and Learn about Decentralized AI merge ?  - Clement's infographic showcase  - Gorga's proposal - fetch and Ocean resources start off ",
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Tasks Update go through dework ",
+            "Review sheet post productions and rework showcase",
+            "Ai for beginners and Learn about Decentralized AI merge ? ",
+            " Clement's infographic showcase ",
+            "Gorga's proposal ",
+            "Fetch and Ocean Task distribution "
+          ],
+          "actionItems": [
+            {
+              "text": "Assign tasks for Fetch and ocean infographic and Kenichi's initial document ",
+              "assignee": "Slate",
+              "dueDate": "11 July 2024",
+              "status": "done"
+            },
+            {
+              "text": "Find out the budget amount after cut and fit accordingly ",
+              "assignee": "Slate",
+              "dueDate": "17 July 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Osmium and Waka to take up  Fetch infographic ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Diverse knowledge regarding the project",
+              "opposing": "Nil "
+            },
+            {
+              "decision": "Malik and Gorga to take up Ocean Infographic ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Able to deliever fast and research properly ",
+              "opposing": "nil "
+            },
+            {
+              "decision": "Kenichi to be making initial document for his project under education \"presentation series\"",
+              "rationale": "project is proposed by kenichi ",
+              "opposing": "nil ",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Merge \"Understanding Decentralized AI\" & \"Ai for beginners \"",
+              "rationale": "Everybody agreed ",
+              "opposing": "Nil ",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Slate started the meeting welcoming everybody ",
+            "Notified and discussed task assigned and the updates on the task on dework ",
+            "Slate mentioned that it was decided in the previous meeting that Ese will be taking up the intiial document for Ai for beginners",
+            "There was a discussion regarding merging of AI for beginner and Understanding Decentralized Ai into one single project as \"Ai for beginners\"",
+            "SNET reworked infographic was discussed ",
+            "Kenichi was advised to bring up the initial document for his project \"webinar series\" ",
+            "Osmium said that we dont currently need any rework for Awakening Health video ",
+            "Osmium and Photogee will be discussing that whether a rework of that video is needed or not ",
+            "Gorga shared his proposal of making a website wiki for SNET and Ambassador Program and everybody liked the idea ",
+            "Fetch and Ocean infographics are assigned and the work on it had started concluding from the discussion on it in todays meeting ",
+            "There was also a discussion for a landing page for ACP/ CCCP"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "fetch and ocean, task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion , projects merger",
+        "emotions": "productive,  Collaborative, Businesslike."
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "cd482db7-e305-4ff1-a425-0b30a9097728": [
+    {
+      "workgroup": "Gamers Guild",
+      "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-07-13",
+        "host": "Slate",
+        "documenter": "devon",
+        "peoplePresent": "martinosoki, oep, lord kizzy, Gorga Siagian, flyn, Photogee, rebel, scarecrow, hufiumer69, hotasiro",
+        "purpose": "The meeting focused on workgroup creation updates.",
+        "mediaLink": "https://drive.google.com/drive/folders/1jH4jnpQ6Zx0R2wUw2xMk2yugICsTcThM?usp=sharing",
+        "workingDocs": [
+          {
+            "title": "Mentors Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1RIXcGennBuz-wN6NKjAB2U1CyNgBll-To89y2ihIy6Q/edit?gid=0#gid=0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "\n",
+          "gameRules": "Last Man Standing - Battle Royale game - final survivor wins the game. \nPlayers: Devon, Martin, lord kizzy, photogee, hotasiro, rebel, hufiumer, flyn, scare crow, Gorga.\n",
+          "leaderboard": [
+            "Hufiumer"
+          ],
+          "actionItems": [
+            {
+              "text": "Department Creation - Education Guild",
+              "assignee": "malik, hufiumer69",
+              "status": "in progress",
+              "dueDate": "27 July 2024"
+            },
+            {
+              "text": "Department Creation -  Treasury Guild",
+              "assignee": "martinsoki, scare-crow",
+              "status": "in progress",
+              "dueDate": "27 July 2024"
+            },
+            {
+              "text": "Department Creation - Archival Workgroup",
+              "assignee": "GorgaSeagian, kateri",
+              "dueDate": "27 July 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Department Creation - Dework PBL",
+              "assignee": "rebel, Photogee",
+              "dueDate": "27 July 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Department Creation - RnD Guild",
+              "assignee": "oep, CollyPride",
+              "dueDate": "27 July 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Animation & Dialogue System (Video Workgroup)",
+              "assignee": "lord kizzy, GorgaSeagian",
+              "dueDate": "27 July 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Avoid using NPCs that look like anime characters.",
+              "rationale": "for a professional look"
+            },
+            {
+              "decision": "Dialogue boxes used should not be copyrighted.",
+              "rationale": "The game can be taken down by their use."
+            },
+            {
+              "decision": "All the destined departments to be created in the quarter ",
+              "rationale": "To ensure presentation in the quarterly report and avoid concerns about unfulfilled deliverables."
+            }
+          ],
+          "discussionPoints": [
+            "Slate outlined the meeting agenda",
+            "Malik presented the education guild department, suggesting the building should resemble a school or college. Each classroom would represent a spin-off project with corresponding infographics on the board. (Watch the education guild video in the drive folder link under the media section)",
+            "Scare-crow provided the Treasury guild creation update, They have created 6 NPCs representing guild members, who were well-received. Creation of the building is ongoing. (Watch the Treasury guild video in the drive folder link under the media section)",
+            "Gorga provided update on the creation of the archival working group, stating that it is in the initial stages and will demonstrate progress at the upcoming meeting.",
+            "Rebel updated that the Dework PBL working group creation is in its initial phase. He showed NPCs representing guild members as anime characters. Members proposed they be depicted as humans for a more professional look.  (Watch the Dework PBL video in the drive folder link under the media section).",
+            "OEP announced that the progress of creating the R&D guild department will be shown at the upcoming meeting.",
+            "Slate emphasized the need to achieve the proposal goals by all means.",
+            "Slate inquired about the mentors' progress and found that Lord Kizzy, Gorga, and Slate have finished mentoring their assigned students, but Malik was unable to do so. (see the mentor sheet doc under the working docs section)",
+            "Slate answered Lord Kizzy's questions, demonstrating how to animate the prop, attach it to the NPCs, and set up the dialogue box. He also noted that we can use dialogue boxes from the toolbox as long as they are not copyrighted.",
+            "Lord Kizzy updated on video workgroup creation progress, showcasing NPCs animations and mentioning upcoming character and animation additions. (Watch the video workgroup video in the drive folder link under the media section)"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Roblox, metaverse, department Creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation",
+        "emotions": "Friendly, Collaborative, Deliberative, informative, focused on reporting",
+        "gamesPlayed": "Battle Royale"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "b26e152e-4454-467e-990c-86968a3a1d2f": [
     {
       "workgroup": "AI Ethics WG",
@@ -18242,6 +18434,433 @@
       "tags": {
         "topicsCovered": "consent, consent decision making, Q2 budget, core contributors, Decision Making Process, Treasury, Archives WorkGroup, R&D guild, Education Guild, Knowledge Base Workgroup, Marketing Guild, Writers WorkGroup, moderator workgroup, onboarding workgroup, RAG retrieval process, AI searches, archives search, AI ethics, open source ethos, open source, Governance GitBook, Decentralization Blueprint, attribution, Creative Commons, Intellectual property",
         "emotions": "long"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "38f6bbc6-68a2-4d03-8a2f-4bd4f77258a6": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-17",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "Clement Umoh, kateri, osmium, WaKa, malik, Slate, Photogee, GorgaSeagian, Peter, Yemi Solves, Effiom, MartinSoki, esewilliams",
+        "purpose": "- Dework Go through - Osmium video on Nunet (Rework) - Awakening Health Video - Ai for Beginners Initial Document by Ese - resouce sheet revamp - Website building ",
+        "workingDocs": [
+          {
+            "title": "Ai For Beginners",
+            "link": "https://docs.google.com/document/d/1k41rkHr21lrskZnhPx9JRpxCfhYFIHcMe4hch2ToXyE/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Dework Go through",
+            "Osmium video on Nunet (Rework)",
+            "Awakening Health Video ",
+            " Ai for Beginners Initial Document by Ese",
+            " resouce sheet revamp",
+            "Website building "
+          ],
+          "actionItems": [
+            {
+              "text": "Assign task for Revamping sheet to Malik and Osmium ",
+              "assignee": "Slate",
+              "dueDate": "17 July 2024",
+              "status": "done"
+            },
+            {
+              "text": "Take sample websites from the Applicants",
+              "assignee": "Slate",
+              "dueDate": "24 July 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Malik and Slate to start the revamp of the sheet ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Malik being SMM and Slate knows where all the resources can be extracted ",
+              "opposing": "Nil "
+            },
+            {
+              "decision": "Slate to take website samples from the ones interested in creating website for CCCP",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Able to deliever fast and research properly ",
+              "opposing": "nil "
+            },
+            {
+              "decision": "Add Comments on AI for beginners document ",
+              "rationale": "Better understanding and implementing better ideas ",
+              "opposing": "nil ",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Slate started the meeting welcoming everybody ",
+            "Notified and discussed task assigned and the updates on the task on dework ",
+            "We then went through Osmium video on Nunet - Everybody liked the video and approved ",
+            "Then ese gave presentation of the project \"Ai for Beginners\" and took feedback from everybody ",
+            "Then there was a discussion on Rework of \"Awakening Health Video\"",
+            "Slate mentioned that we need to organize the current delieverables we have into a more specific style ",
+            "Malik agreed to do so as he is the current SMM of video wg and can carry out putting unlisted videos there",
+            "Regarding the website building Slate said that he will be taking sample website from the ones that were interested in building of websites ",
+            "Osmium mention we can use notion for implementing demos "
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion , projects merger, Dework Go through, Initial docs, Quiz deadlines, Resource sheet revamp",
+        "emotions": "productive,  Collaborative, Businesslike."
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "417eefd4-1cbf-478b-ba7f-41dc8f499d1d": [
+    {
+      "workgroup": "Writers Workgroup",
+      "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-06-28",
+        "host": "Kenichi, Cjfrankie ",
+        "documenter": "cjfrankie ",
+        "peoplePresent": "Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Slate, Ayo, Onize, Kareem, Pablos, Nebula1224, Advance Ameyaw, Ines, kateri",
+        "purpose": "Reflection on the WWG Q2 achievements, discuss the points system and how to increase transparency, and updates from Zealy and Notion side of things.",
+        "otherMediaLink": "https://snetambassadorprogram.substack.com/",
+        "workingDocs": [
+          {
+            "title": "WWG Scribblers Onboarding Form",
+            "link": "https://forms.gle/yLzrMbtUjjhcgWUj9"
+          },
+          {
+            "title": "AI's Impact on Jobs and Workforce",
+            "link": "https://medium.com/singularitynet-ambassador-community-page/ais-impact-on-jobs-and-workforce-ec1ecb41b530"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with Cjfrankie welcoming everyone to the meeting, and then Advance Ameyaw introduced himself, highlighting his skills and interest in the writer's workgroup. Following that, Cjfrankie asked Lady Tempestt, and Devon to share updates on their task, which they did!\n\nKenichi hops on the call and takes the wheel. As Q2 2024 concludes, the WWG reflects on our achievements in Q2. With screen sharing, Kenichi shares the community page progress — so far, four authors have published their articles, namely Ines, Devon, Cjfrankie, and Lady Tempestt.\n\nProgressively, Kenichi shared an update from the Zealy and Notion sides of things, highlighting our journey and the progress the workgroup has achieved in the last few months. We also talked about our substack and how to implement a comment session for people to voice their opinions as they read the monthly recap. Kenichi also pointed out that we have a French speaker in the person of Emmanuel Isaac — going forward, he will be managing the WG French page on X.\n\nMomentarily, Onize, who recently took the WWG, asked, “Can aspirants who didn't pass the WWG test still take on tasks?” This question was followed up with Kenichi’s reply, saying that the WG might implement the “taskforce mechanism.” The idea is to enable people without the Scribbler tag who possess certain skills like graphics, to be able to pick up tasks and earn rewards for their contributions.\n\nWe reached our Q2 KPIs through collaborative efforts - see y'all next quarter!\n\nWe had discussions centered around the points system and how to increase transparency  — Lady Tempestt, who emphasized making the system more transparent because many people in the community seem to have little knowledge about how it works. Kenichi shares the metrics, and what’s being measured, and how contributors earn the allocation. In view of the points system allocation and how to be more transparent, Lady Tempestt suggests that the WG could write a detailed document that highlights how the points are assigned and why people get a certain share.\n\nThe meeting ended with Kenichi announcing the trivia session that would be held today, noting that everyone should get ready for a thrilling session. Everyone expressed their thoughts, and we talked about the current people leading the trivia and how they could make room for other people to win; we all laughed, and we called it a day! See y'all next quarter.\n",
+          "decisionItems": [
+            {
+              "decision": "Having gone through the SNET ambassador’s substack, it's clear that we have published only one article — given the fact that the SNET ambassador program recaps go out once a quarter. We have decided that the monthly recap will go out every month moving forward.",
+              "rationale": "Publishing the recaps on a monthly basis will bootstrap the substack engagement and it will open door for more acquisition.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We are looking to add a comment section on the substack to allow readers to voice their thoughts after they digest the monthly recaps.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "learningPoints": [
+            "With screen sharing, Kenichi showcases how the points system works. We learned about the metrics he tracks (meeting attendance, note-taking, article suggestions — to name a few!)"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Notion, Q2 report, Taskforce, medium, monthly substack, Zealy sprint, community page, points system, budget reserve",
+        "emotions": "interesting, Discursive, lengthy, Welcoming, funny "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "bc2bdfe0-6d9c-48c3-aee3-b1f4063889f6": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-16",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Felix, Photogee, CallyFromAuron, PeterE, osmium, guillermolucero, SucrenSpice, Duke",
+        "purpose": "Weekly GovWG Meeting",
+        "workingDocs": [
+          {
+            "title": "Governance Sandbox - tool testing",
+            "link": "https://docs.google.com/document/d/11Di7zoyldMjQxuiMwAn_SHiB2OruyhOB6kFYZOBz_kA/edit?usp=sharing "
+          },
+          {
+            "title": "google form used for the Q1 budget - use as a model for the other decisions",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeRPU26UXer7i0a5rNUo1njrZwnhjrOfFMcClGBYBVcfjQGyw/viewform  "
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "On “naming”,\n- How to frame it? This quarter, we are trialling consent decision-making processes, so we need a proposal. Should it be \"change the name\" or \"don't change it\"? Which one is used would probably affect the results, since generally people tend to agree with a proposal rather than argue against it.  Proposal is that it should be a 2 step process: “Change the name” but without specifying what to change it to, and then decide what the new name should be afterwards.\n- We need a context-setting doc to explain what decision is being made, and maybe collate some pros and cons that have been shared in the community already. These should be sourced (i.e. not our opinions, but things that have been said up to now, ideally with links). Onboarding WG can do this.\n- Citizen OS (the proposed decision making tool for this decision) seems quite intuitive, so altho Onboarding could also look at creating a video walkthru of it, this is probably not needed.\n- We didn’t agree how we will progress the naming decision, or who will share it with Core Contributors and when.\n\nOn tooling,\n- We discussed using Citizen OS or Unanimous tool (both free and OS) for the Naming and Q2 Budget decisions, and agreed on Citizen OS\n- Unanimous could give us a demo: Week of 22nd April?\n- People could also use both of these tools in their workgroups - either for real decisions, or simulated ones\n- We didn’t decide whether we will try to use 1 account or everyone create their own.\n- We agreed that whenever a tool is used, the users should collect some feedback on how it went. - There was discussion of what the criteria should be to assess a tool - suggestions are being drafted in the doc Gov Sandbox Turn #1 - Testing Tools but we didn’t finalise it or decide how and where to share the criteria.\n- Concerns were raised on privacy/transparency - we don’t know who can see people's responses in Citizen OS and agreed we need to find out, and tell people, before we ask them to use the tool.\n\nOn Q2 budget:\n- We agreed there should be individual decisions on each WG’s budget. There are 14 WGs in total, but not all of them will need to submit a budget request for Q2 due to rise in token price and/or budget elements from Q1 carrying over, so it will be fewer then 14 decisions.\n- There was discussion of whether we should set a deadline for all budgets to be submitted and only ask Core Contributors to decide once all the budgets are in, because then we can make informed assessment of the budget allocation overall; or whether it should be a rolling process to accommodate WGs who submit their budget late. We decided to set a deadline for Q2 budgets to be submitted, but didn’t agree on the date.\n- Briefly discussed what the criteria should be for making a decision on a budget, and what should be shared with Core Contributors about this; but didn’t make a decision on this. Carry over to next Governance meeting.\n- We started drafting in the Governance Sandbox:Tool Testing doc how the decision will be set up in Citizen OS. Agreed Guillermo will set it up but we didn’t agree a date - just some time in April.\n\nTo be discussed further in a Treasury meeting:\n- whether budget approval should be related to the WG’s quarterly report for the previous quarter, and whether they have done what they said they would do?\n- what level of flexibility a WG should have to reassign their agreed budget in response to changing conditions. Not definitely agreed on?\n",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Onboarding will produce a doc to explain what the decision on naming is, and collate some pros and cons that have been shared in the community already.",
+              "assignee": "Onboarding WG members",
+              "dueDate": "23 April 2024"
+            },
+            {
+              "text": "Guillermo to set up the Q2 budget decision in CitizenOS",
+              "assignee": "guillermolucero",
+              "dueDate": "30 April 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "On “naming”, the decision that core contributors will be asked to make is only about the name of the role, nothing else. ",
+              "rationale": "We should not try to change anything except the name of the role at this point. We are currently meant to be trialling a specific approach (a flat structure based on “you either meet the criteria to be a core contributor, or you don’t”) for the whole of Q2; and we will need to complete that, and get some feedback and analysis of how it worked, before trying to test a different structure.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will use CitiZenOS for both the Ambassador Naming decision, annd the Q2 budget decision; and will run it as a consent process (i.e. asking for objections, and for what would need to change in order for an objector to give their consent)",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "As a way of trying out the tool; and to fit with our decision to trial consent decisionmaking throughout this Quarter"
+            },
+            {
+              "decision": "We agreed to consent on each WG’s Q2 budget individually, in contrast to how it was done in Q1 where the consent process was for the budgets as a whole.",
+              "opposing": "Counter argument that WGs should be free to decide internally what they think is valuable, so the decision should just be on consenting to the overall total across all WGs; but this was a  minority view.",
+              "rationale": "To allow people to differentiate between WGs whose budgets they approve, and those they don't.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed there should be the same deadline for all WGs for Q2 budget submission, but we didn’t say what that date should be.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Naming decision",
+            "Q2 budget decision",
+            "Testing decision making tooling",
+            "Whether budget approval should depend on submission of a quarterly report for the previous quarter",
+            "Criteria for making a decision about a WG's budget."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "tooling, consent process, deadlines, Q2 budget, Naming, core contributors, Ambassadors, workgroups, simulated decisions, CitizenOS, criteria, what WGs value, values, Unanimous, budget flexibility",
+        "emotions": "Good natured, Only a few of those present spoke, woolly, indecisive, Discursive, muddled"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "1b0c893a-bb5e-40d7-9b84-7abb90f40b12": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-03",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "esewilliams, Clement Umoh, Slate, sakujennbornean, martinsoki, oep, malik",
+        "purpose": "- Budget Cuts Distribution -Ese assignment of AI for beginner project - ACP Blueprint deadline - redistribution of tasks ",
+        "workingDocs": [
+          {
+            "title": "Education Info and Vids ",
+            "link": "https://docs.google.com/spreadsheets/d/1LLTuBxAV4Q8nKuBdbh4unKRg10pKfOOm4_wEeVz3YxU/edit#gid=0"
+          },
+          {
+            "title": "Review Sheet for quizzes ",
+            "link": "https://docs.google.com/spreadsheets/d/18OHO1HZ7gPRvlQhy9QHVijg_Nanv2z0T4bH3h2EETdU/edit?usp=sharing"
+          },
+          {
+            "title": "Budget Request Concerns ",
+            "link": "https://docs.google.com/spreadsheets/d/1eTDWvqulA6J4oQuvwI4-Sk_p8Uiv-pZOxK-fQpxWyvY/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Budget Cuts Distribution",
+            "Ese assignment of AI for beginner project ",
+            "ACP Blueprint deadline ",
+            "redistribution of tasks "
+          ],
+          "decisionItems": [
+            {
+              "decision": "Ese task creation for blueprint ",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "merge \"Ai for beginners\" and \"understanding Decentralized Ai\" docs",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Slate started the meeting welcoming everybody ",
+            "we had a discussion on how to fit our budget with all the projects ",
+            "Ese to take up blueprint of Ai for beginners to highlight its objectives and tasks related to it ",
+            "Commenting of ACP blueprint will last till friday ",
+            "Task redistribution was done to active members for delayed tasks ",
+            "Clement said that he is sick and will soon be deleivering his info as he gets better"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "ACP, Blueprints , Budget , project assignment , AI for beginners",
+        "emotions": "productive,  Collaborative, Businesslike., speedy "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "aa515962-d3de-4ebe-aad3-af0f9232585c": [
+    {
+      "workgroup": "Treasury Guild",
+      "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-07-01",
+        "host": "Tevo",
+        "documenter": "Effiom",
+        "peoplePresent": "Tevo, CallyFromAuron, Peter, osmium, Effiom, lord kizzy, Onize, kateri, malik, SucrenSpice, Advanceameyaw",
+        "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+        "meetingVideoLink": "https://youtu.be/dmlm69zChBA",
+        "miroBoardLink": " https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764588331185840&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+        "workingDocs": [
+          {
+            "title": "Quarterly Workgroup Budget Calculator",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+          },
+          {
+            "title": "Treasury Guild Proposal Q3 2024",
+            "link": "https://docs.google.com/document/d/16EmdnI9KXEF0iTfzdtSamRupuM3PITxlcfxqo4JT1o0/edit#heading=h.9t5jkakh8028"
+          },
+          {
+            "title": "Treasury Guild Report for 2024 Q2 Proposal",
+            "link": "https://docs.google.com/document/d/1gUfkeZCwtw28gmpRShStBgRsOBaj6kRnxaJ7Ih2zZag/edit#heading=h.1w2fce1nfvp0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Review of Increase in Q3 Budget",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Work on budget-fitting for Q3",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "8 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Budget fitting will be applied to all Q2 budget request once all proposals are finalized",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "The proposal budget can be reduced and increased after submission in each iteration",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "If the budget is increased above 10% after first submission, a new consent round is needed",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Each Guild/WG manages their own budget and decides what to they don't do or where they lower funds",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "How would budget-fitting be managed?",
+            "The need to inform Guild/WG whose budget have been approved of a tentative lowering percent figure before budget-fitting is finalised",
+            "Possibilities of increasing the budget of the entire Ambassador Program",
+            "What should be the tentative lowering percent figure be?"
+          ]
+        },
+        {
+          "agenda": "Next Steps on finalising Q3 Budget",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Prepare consent form for next round if required",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "9 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Another consent round might be needed if WG completely change their proposals",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Gov WG Review 9th July",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "IF NEEDED: new Consent Forms on 10th July",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "The proposed timeline for the consent round is 10th - 14th July 2024",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Final Treasury Guild Review 15th July",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Gov WG Retrospective on whole process on 16th July",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Discuss on the new timelines for the final phase of Q3 proposals",
+            "Proposed dates for the final iteration",
+            "Would there be need for another iteration and consent round?",
+            "Potential retrospective look at Q3 budget process during Gov WG on 16th July"
+          ]
+        },
+        {
+          "agenda": "Summer Time",
+          "status": "resolved",
+          "decisionItems": [
+            {
+              "decision": "Entire month of August off for Treasury Guild",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Guilds/WG to decide how they would navigate their activities during the summer break",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "No significant decision to be made during the summer break",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Outlook of program activities during summer break",
+            "The effectiveness of having a vacation calendar?",
+            "Summer break might aid WG in managing their budget for Q3"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Budget fitting, Q3 budget, consent, Summer break, Lowering percent, management, Iteration",
+        "emotions": "decisive, bit quiet, Collaborative"
       },
       "type": "Custom",
       "noSummaryGiven": false,
