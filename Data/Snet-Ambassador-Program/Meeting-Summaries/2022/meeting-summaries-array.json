@@ -1,0 +1,42 @@
+[
+  {
+    "workgroup": "Deep Funding Town Hall",
+    "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2022-06-24",
+      "host": "Jan Horlings",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Johann Sammy, Austin, XyrisKenn, ParagOza, PeterE",
+      "purpose": "Discussion of Deep Funding Round 1 Projects Kickoff | Part 1",
+      "workingDocs": [
+        {
+          "title": "Deep Funding awarded teams - Community Questions",
+          "link": "https://forms.gle/QFEEvqHZGGQXnjbu7"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=jdyoPr5mNZ0&list=PLAJnaovHtaFSltKLFFqQ4N7JGdCxq3i9q&index=30",
+        "intro": "This is a recording of the first kick-off session for awarded teams of Deep Funding Round 1, where the projects further introduce themselves.\n\nIf you have any questions to the teams, please fill in this form:\nhttps://forms.gle/QFEEvqHZGGQXnjbu7\n\nTeams and their proposals on this session:\n\nCarbix & Xyris - Avatar 2 Human Learning: Net Zero and Carbon Negative Emissons | \nhttps://proposals.deepfunding.ai/graduated/accepted/d592f698-9c0c-4617-a7ef-2ebed820d9ad\n\nHetzerk - Decentralized Physics Simulation | \nhttps://proposals.deepfunding.ai/graduated/accepted/b213135a-0c0c-43a9-a73f-cbed776c5b48\n\nZero2ai - Simply AI with trust | \nhttps://proposals.deepfunding.ai/graduated/accepted/97cb76b2-a0a7-421e-acf6-70126d2c493e\n",
+        "timestamps": "2:05 Metaverse Installation\n2:33 Process Flowchart\n7:56 Avatar Communication\n11:16 Text to Speech\n17:22 Project To Implement Decentralized Physics Simulations\n19:15 State of the Standard Model of Physics \n29:30 Hypercycle\n36:59 Does Your Model Only Apply to Organics or is it  Can Be Used for Inorganic Molecules\n41:32 Demo Of the Zero2bi Platform"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Deep Funding round 1, Projects Kickoff, Part 1, Simply AI, Decentralized, Net Zero and Carbon",
+      "emotions": "enthusiastic, energetic, hopeful, small"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  }
+]
