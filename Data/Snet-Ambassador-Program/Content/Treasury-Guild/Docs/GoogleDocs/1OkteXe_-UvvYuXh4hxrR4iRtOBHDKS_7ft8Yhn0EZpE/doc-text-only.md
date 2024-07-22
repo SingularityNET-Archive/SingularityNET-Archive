@@ -20,6 +20,10 @@ Miro Boards: https://miro.com/app/board/uXjVM7pbrwc=/?moveToWidget=3458764559983
 
 ### How many people Contributed to the proposal delivery?
 
+Optional - List workgroup leads who are mainly driving the initiative forward
+
+
+
 Ambassador Program Contribution Dashboard: https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=05.2024%2C04.2024&workgroups=All+workgroups&tokens=AGIX%2CMinutes&labels=All+labels
 
 
@@ -37,8 +41,6 @@ If no Proposal Deliverables provided then Reporting only on Proposal budget shou
 Sources to find deliverables
 
 Public Contribution List
-
-
 
 
 
