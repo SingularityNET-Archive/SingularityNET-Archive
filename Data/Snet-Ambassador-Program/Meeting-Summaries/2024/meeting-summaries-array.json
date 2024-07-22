@@ -18025,6 +18025,72 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-07",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "5oundwave5, Clement Umoh, CollyPride, guillermolucero, Duke, Robert Bedoya, CallyFromAuron, WaKa, Billy, Will Tatz, Gorga Siagian, SucrenSpice, PureRelativity(Curtis), Tevo, oep, Slate, lord kizzy",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "96",
+      "workingDocs": [
+        {
+          "title": "Ambassador Program Core Contributors (explanation)",
+          "link": "https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Core Contributors (spreadsheet)\t\t\t",
+          "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing"
+        },
+        {
+          "title": "Blueprint for Decentralization Living Document V1.1",
+          "link": "https://docs.google.com/document/d/1wcEf9qJHvGh3FdLxXFzN5l0NHuESFLQAgoIJW8zKfKU/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner ",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Tools",
+          "link": "https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/edit?usp=sharing"
+        },
+        {
+          "title": "Decision Software Review Sheet (some of the work that Strategy Guild was doing)",
+          "link": "https://docs.google.com/spreadsheets/d/1lpi6nrQpzI4_KklPLmy5pSiYGVbJVnu7NS3OwmNL7_0/edit?usp=sharing"
+        },
+        {
+          "title": "Grassroots Ethics of the SNET Ambassador Program ",
+          "link": "https://docs.google.com/document/d/1DOO2TKNkLBKSFFa5jvgAHm30wjNpRj0uXiVz6YRtI9E/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/N5Ny_xm_Cuc?si=P6bsRM7V8UeM5X1x",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "00:23 agenda \n01:17 What the ambassador program is\n03:40 Strategy Guild, looking back at what it did, and whether to revive it\n05:49 Open session (random questions)\n08:54 Open Sourcing our stuff\n36:41 Session on Q1\n52:30 Remarks/Questions"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Main topics this Town Hall include:\n\n- the idea of reviving Strategy Guild, the things it did in the past (including testing of decision-making tools), and brief opinions on why it faded. (Note in Chat - Ways to find out what they've done in the past are  their past budgets; their archived meeting summaries; and their Discord.)\n\n- In-depth discussion of open source ethos and culture. Open-source is more than just tools and licences; Open-source also is meant to prevent hidden changes or functionality; \"open source\" doesn't have to mean working for free, getting ripped off, etc; Open-source is a very specific culture, originally - but has it expnded beyond its original limits?; Do we need to pay more attention to open-source approaches in our work?; Archives' work on how to open-source our documents; idea of building our own open-source tooling, and only using 3rd-party tools temporarily; listing the tools we do use (and note this was done in the past - see \"Grassroots Ethics of the SNET Ambassador Program\", https://docs.google.com/document/d/1DOO2TKNkLBKSFFa5jvgAHm30wjNpRj0uXiVz6YRtI9E/edit?usp=sharing , which is an outline of tools used in the Program and the ethics behind them, created October 2023 by Incubation Guild; and \"Ambassador Tools\" https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/edit?usp=sharing , a list of tools used and how they are used in the Program. \n\n",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "open source, open source ethos, Quarter 1 2024, recap, Decentralization Blueprint, Q2 budget decision process, Q2 budget, Strategy Guild, tools, tool ethics",
+      "emotions": "engaging, participatory, interesting, sense of community"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
@@ -18436,6 +18502,59 @@
     "tags": {
       "topicsCovered": "Budget fitting, Q3 budget, consent, Summer break, Lowering percent, management, Iteration",
       "emotions": "decisive, bit quiet, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-14",
+      "host": "Tevo",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "Tevo, PeterE, jay05|judithW, CallyFromAuron, WaKa, PureRelativity(Curtis), Will Tatz, guillermolucero, CollyPride, Robert Bedoya, Zalfred, Effiom, Clement Umoh, esewilliams, Olokoji",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "97",
+      "workingDocs": [
+        {
+          "title": "Ambassador Program Core Contributors (explanation)",
+          "link": "https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Core Contributors (spreadsheet)\t\t\t",
+          "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing"
+        },
+        {
+          "title": "Blueprint for Decentralization Living Document V1.1",
+          "link": "https://docs.google.com/document/d/1wcEf9qJHvGh3FdLxXFzN5l0NHuESFLQAgoIJW8zKfKU/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner ",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/anMMO6h1txE?si=BzqqyCtojT6Ljumk",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall was a retrospective on the Ambassador program over the past year, using (and trialling) the AI-powered Swarm tool from Unanimous https://unanimous.ai/swarm/ to vote on several questions on how things are going. These were the same questions we used in a similar Town Hall session a year ago. They were:\n- How well are our repetitions organised?\n- How predictable is our funding?\n- Do we gather often enough?\n- How well have we organised our reputation-building?\n- How clear are our set of principles and roadmaps to sustain growth?\n- Have we established a good environment to connect and share meaning?\n",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "funding, Ambassador Program funding, reputation, principles, roadmaps, community, community governance, connect, meaning, gather, retrospective, Analysis, AI tooling",
+      "emotions": "funny , entertaining, Thoughtful , repetitive, superficial, analytical"
     },
     "type": "Custom",
     "noSummaryGiven": false,
