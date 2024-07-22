@@ -1,12 +1,14 @@
-# Treasury Guild Report for 2024 Q2 Proposal
+# Treasury Guild
 
-Proposal Link:
+Quarterly Report - Q2 2024, 1st April to 30th June
 
-Google Drive:
+**Proposal Link:**
+
+**Google Drive:**
 
 
 
-Dashboard: https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=05.2024%2C04.2024&workgroups=treasury-guild&tokens=AGIX%2CMinutes&labels=All+labels
+**Dashboard:** https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=05.2024%2C04.2024%2C06.2024&workgroups=treasury-guild&tokens=AGIX%2CMinutes&labels=All+labels
 
 ****
 
