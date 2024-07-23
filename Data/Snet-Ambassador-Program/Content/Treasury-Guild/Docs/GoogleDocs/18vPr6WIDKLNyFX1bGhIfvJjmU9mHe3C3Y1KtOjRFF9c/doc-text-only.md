@@ -110,15 +110,13 @@ Opportunity to be part of project development lifecycle and help prepare team fo
 
 # Roadmap
 
-
-
 Initially we kick off with Proposal introduction.
 
 Then we Distribute deliverables and Roles and Schedule date and time for monthy stand up sessions.
 
 
 
-In the first phase we update Documentations so that we have appropriate research and knowledge on exact things we need build and which order. This may require additional meetings at early stage.
+In the first phase we update DoDcumentations so that we have appropriate research and knowledge on exact things we need build and which order. This may require additional meetings at early stage.
 
 
 
