@@ -46,7 +46,15 @@ Visit - https://workspace-csv-exporter.netlify.app/deworkexports
 
 
 
-Export csv files of all the rows that have more than 0 Fund Request (column Fund Request)
+Export csv files (with few expectations listed above) of all  the rows that have more than 0 Fund Request (column Fund Request)
+
+
+
+**Expectations:**
+
+We don’t export space names that only contain person name
+
+
 
 **NB!** Do only one at the time ****
 
@@ -74,6 +82,10 @@ You can find more guidelines about exporting on Dework PBL in the 2nd chapter: h
 
 ### Manage Import Folder (Button)
 
+This button will open Import Manager panel
+
+****
+
 **Set-Up and Configurations**
 
 Import into Excel - Requires **Desktop** Drive Access ( treasuryguildoperations@gmail.com )
@@ -94,7 +106,7 @@ Include the Download Folder in the conf sheet to recognize importable files from
 
 ****
 
-**Import Manager**
+**Import Manager features**
 
 Use the arrow buttons between lists to move files to Import Folder Files. (right side)
 
@@ -105,6 +117,8 @@ Duplicate contributions are highlighted in red and filtered separately
 If possible check the contribution task and confirm that a moving done step was forgotten.
 
 It is possible to reuse the same task with a different assignee
+
+Delete Above Selected File button deletes the selected file on the right window
 
 
 
@@ -122,7 +136,7 @@ Deletes visible rows in Insert Contributions Sheet Data Table
 
 
 
-Usually skipped if no critical contribution rows (fully red rows) are at present and filtered inIf there are fully red rows and it says ProofLink already exists, then you can check the Dework task’s activities to see if the task was moved from done back into review. If it hasn't been moved from done to in review and back into done, then it is safe to delete the task. It's possible that the task just wasn't moved to done when it was imported to the treasury manager.
+Usually skipped if no critical contribution rows ( fully red rows ) are at present and filtered inIf there are fully red rows and it says ProofLink already exists, then you can check the Dework task’s activities to see if the task was moved from done back into review. If it hasn't been moved from done to in review and back into done, then it is safe to delete the task. It's possible that the task just wasn't moved to done when it was imported to the treasury manager.
 
 
 
@@ -312,11 +326,13 @@ Recheck all rows for errors and warnings
 
 ### FILTER Return Message (Button)
 
+It filters the first error found.
+
 It filters in only the same errors, making tackling the same type of errors easier.
 
 ### CLEAR Return Messages (Button)
 
-Delete visible error messages on the Return Message Column. Used if errors are fixed or checked and you no longer want it to show up when pressing the FILTER Return Message button
+This button d eletes visible error messages on the Return Message Column. Used if errors are fixed or checked and you no longer want it to show up when pressing the FILTER Return Message button
 
 
 
@@ -524,31 +540,9 @@ Calculates Contributor amount and calculates transaction costs
 
 
 
-### Get Byte Amount (Button)
-
-Calculates the potential Transaction size in bytes.
-
-The maximum Transaction size is around 55000 bytes per transaction.
-
-
-
-Calculating Byte Amount is is a heavy computational process, may take several minutes, depends on computer CPU speed.
-
-
-
-**NB!** Try not to do anything in Excel while its calculating the byte amount
-
-
-
-**Optional Errors:**
-
-Task Name already in use
-
-Make sure there are no duplicate tasks. Usually adding Task Date to task name is enough
-
 ### Reduce Contribution Rows (Button)
 
-Organises Transactions to fit the Contributor amount given in the field Keep Contributors
+This button o rganises Transactions to fit the Contributor amount given in the field Keep Contributors
 
 And deletes all the overflowing contribution rows
 
