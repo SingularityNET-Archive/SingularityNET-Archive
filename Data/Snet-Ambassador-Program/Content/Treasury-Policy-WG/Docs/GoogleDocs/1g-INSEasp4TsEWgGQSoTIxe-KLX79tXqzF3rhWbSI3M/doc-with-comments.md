@@ -138,17 +138,25 @@ When you take up activities you come across with policies. I would say there is 
 
 The process is yet to be fully fleshed out however the initial plan is as follows:
 
+Read Treasury Policy Template
+
 Submit Policy via Google Form
+
+Within 1 week the selected policy should be announced to all Core Contributors
+
+Review Submitted Polcies via Google Form
 
 Policy Selectors will Review Policies and suggest policies to be investigated further
 
-Selected Policy will now be reviewed by everyone who is interested via Policy Feedback Google Form
-
 Treasury Guild sessions are used to discuss if Policy should be moved for ratification
+
+Within 2 weeks after announcing submission policies only have positive reviews agenda item should be picked up if possible.
 
 Policy selected for ratification will go trough Consent Google Form
 
 If there is no blockers the policy will take effect based on the implentation start time
+
+
 
 
 
@@ -175,6 +183,10 @@ If there is no blockers the policy will take effect based on the implentation st
 
 
 **Implementation Start Time** - The designated date and time when the mandatory policy will begin to be enforced. This provides a clear timeline for preparation and ensures that all stakeholders are aware of when compliance is expected to start.
+
+
+
+**Implementation End Time** - When policy will end to check back again assess the effect of the policy. Considering the first ratification more of an experimentation.
 
 
 
