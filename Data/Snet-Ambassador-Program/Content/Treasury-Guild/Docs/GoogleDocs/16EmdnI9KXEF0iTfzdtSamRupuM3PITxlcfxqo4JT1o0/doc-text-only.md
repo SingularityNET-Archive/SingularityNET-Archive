@@ -54,6 +54,8 @@ kenichi -  Treasury Automation WG, Treasury Guild
 
 Olokoji - Treasury Automation WG, Treasury Guild
 
+YemiSolves - Treasury Automation WG
+
 
 
 ## Full Proposal Details:
