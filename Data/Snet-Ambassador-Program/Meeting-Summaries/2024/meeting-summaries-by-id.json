@@ -19175,6 +19175,141 @@
       "canceledSummary": false
     }
   ],
+  "5de5221d-b937-4c45-9b0c-23cd78694997": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-06-25",
+        "host": "Guillermo",
+        "documenter": "Ines",
+        "translator": "Ines, Caue",
+        "peoplePresent": "Guillermo, Ines, Andrea Dekovic, Martin Rivero, Daniela Alves, Caue, Maria Carmo",
+        "purpose": "Operations of the Program / #3 Town Hall @SNET_Latam Ambassadors 'El Power Latino de SingularityNET",
+        "meetingVideoLink": "https://youtu.be/CYkuiJfZsCE?si=8uK_lAeTpO5dG1Pt",
+        "transcriptLink": "https://otter.ai/u/UafNGpTD-8AsmVMddZmAmgOkHLY?view=transcript",
+        "workingDocs": [
+          {
+            "title": "TH#3 _ LATAM AMBASSADORS GUILD _ 250624",
+            "link": "https://docs.google.com/presentation/d/1YKnmpc21ykmh_Jeoqfu_bI5_WTq0CnzoLCg1GphOYtA/edit?usp=sharing"
+          },
+          {
+            "title": "Spanish _ Roadmap Expansión Regional del Programa LATAM Ambassadors Guild Proposal _ 180724",
+            "link": "https://docs.google.com/document/d/1fBJ2YKc1P0cyS8N3XMBvo75t8_huBza6gqjBrh3wLEQ/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Strategy Sub-Group",
+          "status": "carry over",
+          "narrative": "At the third meeting for the regional expansion of the Ambassadors program for the LATAM region, the conversation revolved around the importance of community-funded projects, inclusive communication strategies, and decentralization in achieving social impact. Speakers emphasized the need for a clear moment to launch projects, a solid plan, and inclusive communication. They also discussed the potential of blockchain in Latin America, the importance of creating a clear constitution and fair voting system, and the need for a diverse team to handle content creation and marketing. The overall theme was the importance of collaboration, teamwork, and ethical considerations in achieving success.\n",
+          "actionItems": [
+            {
+              "text": "Finalize selection of initial team and continue onboarding new members",
+              "assignee": "Guillermo, Ines",
+              "dueDate": "23 June 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Compile budget and work proposals for next community report",
+              "assignee": "Guillermo",
+              "dueDate": "2 July 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Review timelines and ensure deliverables are met",
+              "assignee": "Guillermo, Ines",
+              "dueDate": "9 July 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Coordinate community events and achievement tracking",
+              "assignee": "Guillermo",
+              "dueDate": "9 July 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Submit translated meeting summaries and group updates",
+              "assignee": "Ines",
+              "dueDate": "9 July 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Onboarding evaluation and selection of members"
+            }
+          ]
+        },
+        {
+          "agenda": "Onboarding Sub-Group",
+          "status": "carry over",
+          "narrative": "The discussion revolved around the importance of communication and collaboration in fostering both personal and professional growth. Andrea Caballero and Martinez, representing Mexico, Argentina, and Brazil, delved into the promising potential of blockchain technology in the LATAM region. We shared our diverse experiences in product design and AI, reflecting on both its positive advancements and the challenges it presents. Additionally, we exchanged insights on organizing hackathons in Mexico, underscoring our commitment to promoting inclusivity within the tech industry. Inclusivity in AI development was a recurring theme, as we acknowledged its critical role in shaping ethical and effective AI solutions. We also highlighted Chico Labs' remarkable efforts in decentralized development and their fruitful collaborations with various African initiatives. We proposed creating a dedicated team of ambassadors to onboard individuals from Spanish-speaking and Portuguese-speaking regions, recognizing the importance of a strategic approach and strong community engagement in welcoming new members. Additionally, we discussed our intellectual commitment to our work and proposed a new party line to align our goals and values moving forward.\n",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Follow up onboarding form, study and select candidates for final inteview",
+              "assignee": "Guillermo, Ines, Caue",
+              "dueDate": "2 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Beginning Onboarding evaluation and selection of members",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        },
+        {
+          "agenda": "Marketing Sub-Group",
+          "status": "carry over",
+          "narrative": "We underscored the crucial importance of decentralized AI development in LATAM, stressing the need for community involvement and ethical considerations to ensure responsible progress. We emphasized the value of collaboration and the necessity of avoiding conflicts to build an efficient communication system that benefits everyone. Our collective effort is focused on enhancing communication among team members, recognizing that strong, clear communication is fundamental to our success and growth as a cohesive unit.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Communication Strategy Draft Q3",
+              "assignee": "Andrea Dekovic, Ines",
+              "dueDate": "10 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Beginning Onboarding evaluation and selection of members",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        },
+        {
+          "agenda": "Operations Sub-Group",
+          "status": "carry over",
+          "narrative": "In our recent discussions, we focused on creating a comprehensive roadmap for decentralized operations, ensuring that our processes are efficient and adaptable. We proposed a detailed roadmap for inclusive onboarding, incorporating diverse perspectives to enrich our community. Our conversation also covered important logistical aspects such as budget, workload, and team dynamics, aiming to balance our resources effectively. We explored various notification and communication strategies to improve interactions with colleagues, recognizing our team's responsibility to provide clear documentation and transparent communication to support our collective goals.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Finalize On boarding "
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We develop the titles by priority and agree on the translation work to be shared in the next meetings.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation",
+        "emotions": "Collaborative, Friendly, Thoughtful , funny , entertaining, challenging",
+        "other": "Step by Step"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "6c96cabf-cf7d-45da-871e-364822ed8767": [
     {
       "workgroup": "Archives Workgroup",
