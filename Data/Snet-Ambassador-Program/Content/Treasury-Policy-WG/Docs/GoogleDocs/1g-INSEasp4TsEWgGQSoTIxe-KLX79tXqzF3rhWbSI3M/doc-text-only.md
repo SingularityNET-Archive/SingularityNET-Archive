@@ -158,6 +158,24 @@ If there is no blockers the policy will take effect based on the implentation st
 
 
 
+## What is the proper quorum for policy selection and ratification?
+
+**Policy Selection**
+
+Quorum: Not mandated.
+
+Approval Criteria: Positive responses (affirmative YES) must outweigh negative responses (affirmative NO) and abstentions.
+
+Threshold: Only policies receiving at least 60% positive responses will proceed to the ratification stage.
+
+
+
+**Policy Ratification**
+
+Quorum: Mandated to ensure proper and healthy inclusion in policy approval.
+
+Approval Criteria: At least 80% of responses must be affirmative YES, outweighing NO responses and abstentions.
+
 
 
 
@@ -285,6 +303,10 @@ When more than 5 policies are submitted in a given month, the reward distributio
 
 
 Example from ChatGPT how dynamic rewards would look like if there were 3 people and a total of 10 submissions:
+
+
+
+
 
 
 
