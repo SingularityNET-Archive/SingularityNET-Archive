@@ -132,35 +132,29 @@ When you take up activities you come across with policies. I would say there is 
 
 
 
+**Insights from YOUR_NAME as PERSPECTIVE**  (please comment or edit for new insights)
+
 
 
 ## How new policies will be ratified and moved into effect?
 
-The process is yet to be fully fleshed out however the initial plan is as follows:
+The process divides into 3 main steps which each have sub activities and describe ratification requirements to complete each step.
+
+
+
+Creating Policies
 
 Read Treasury Policy Template
 
 Submit Policy via Google Form
 
-Within 1 week the selected policy should be announced to all Core Contributors
+Within 1 week the new policies should be announced to all Core Contributors
+
+Selecting Policies
 
 Review Submitted Polcies via Google Form
 
 Policy Selectors will Review Policies and suggest policies to be investigated further
-
-Treasury Guild sessions are used to discuss if Policy should be moved for ratification
-
-Within 2 weeks after announcing submission policies only have positive reviews agenda item should be picked up if possible.
-
-Policy selected for ratification will go trough Consent Google Form
-
-If there is no blockers the policy will take effect based on the implentation start time
-
-
-
-## What is the proper quorum for policy selection and ratification?
-
-**Policy Selection**
 
 Quorum: Not mandated.
 
@@ -168,9 +162,13 @@ Approval Criteria: Positive responses (affirmative YES) must outweigh negative r
 
 Threshold: Only policies receiving at least 60% positive responses will proceed to the ratification stage.
 
+Ratifing Policies
 
+Treasury Guild sessions are used to discuss if Policy should be moved for ratification
 
-**Policy Ratification**
+Within 2 weeks after announcing submission policies only have positive reviews agenda item should be picked up if possible.
+
+Policy selected for ratification will go trough Consent Google Form
 
 Quorum: Mandated to ensure proper and healthy inclusion in policy approval.
 
@@ -180,15 +178,17 @@ Approval Criteria: At least 80% of responses must be affirmative YES, outweighin
 
 
 
-## Mandatory Policy Minimum Requirements  
+## Mandatory Policy Minimum Requirements 
 
 > [Comments]
 > Context - Mandatory Policy Minimum Requirements
-> * Ambassadors SingularityNET: Add Experimentation End Time
+> * Ambassadors SingularityNET: Add Experimentation End Time (Resolved by Core Swarm)
 >   - Ambassadors SingularityNET: A retrospective to do at the end or before the end to decide if new policy (updating same policy is basically creating new submission with the expected updates)
 >
 
-**Policy Name** - Name to recognize Policy easily
+
+
+**Policy Name** - Name to recognize Policy easily. Each submission is considered as new Policy including small edits or wordings.
 
 ****
 
@@ -229,7 +229,7 @@ Approval Criteria: At least 80% of responses must be affirmative YES, outweighin
 > * Vanessa Cardui: We seem to have process whereby a policy can be tweaked or iterated on (see below) - but not process for how people can say "This is actually a bad idea".
 
 For example, with this one, someone might argue this is a bad idea because sheer numbers isn't in itself something we want to reward, but *meaningful* engagement.
-How would they do that?
+How would they do that? (Resolved by Core Swarm)
 >   - Core Swarm: Next session we explore the other side of the form result :) Policy Feedback Form is another item to deliver
 >   - Core Swarm: process explained under question of how policies get ratified
 >
@@ -241,6 +241,10 @@ How would they do that?
 ****
 
 **Implementation Start Time -** Policy enforcement begins on July 1, 2024.
+
+****
+
+**Implementation End Time -** Policy enforcement ends in 3 months
 
 ****
 
@@ -265,6 +269,10 @@ How would they do that?
 
 
 **Implementation Start Time** - Policy enforcement begins on July 2, 2024.
+
+****
+
+**Implementation End Time -** Policy enforcement ends in 3 months
 
 
 
