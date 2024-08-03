@@ -34,7 +34,7 @@ Active members of a cause-based open organization have a distinct set of wants a
 >   - Curtis Myers: good point, I originally was thinking accuracy would be an improvement made later. But your point is strong in making that an initial target
 > 
 #### Context - gather feedback to continuously improve
-> * Walter Karshat: Feedback and update process is negotiated later
+> * Walter Karshat: Feedback and update process is negotiated later (Resolved by Ade-Williams Iyinoluwa)
 >   - Curtis Myers: This was to get them thinking about how they can continue to improve the value they get out of this tool, less about feedback to say the RID Guild. But maybe that is not relevant at this stage?
 > 
 #### Context - so that we can properly measure the success of implementation
