@@ -20,7 +20,7 @@
 
 > [Comments]
 > Context - gather feedback to continuously improve
-> * Walter Karshat: Feedback and update process is negotiated later (Resolved by Ade-Williams Iyinoluwa)
+> * Walter Karshat: Feedback and update process is negotiated later (Resolved by A J)
 >   - Curtis Myers: This was to get them thinking about how they can continue to improve the value they get out of this tool, less about feedback to say the RID Guild. But maybe that is not relevant at this stage?
 >
 
