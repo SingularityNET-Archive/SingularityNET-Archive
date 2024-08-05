@@ -40,9 +40,7 @@ Resets all kinds of potential UI issues related to buttons.
 
 ### Open Dework Exporter (Button)
 
-Visit - https://workspace-csv-exporter.netlify.app/deworkexports
-
-(previous app - https://public-dework-exporter.netlify.app )
+Opens new Dework Exporter Page
 
 
 
