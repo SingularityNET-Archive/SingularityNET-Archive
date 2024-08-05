@@ -358,7 +358,7 @@ this is an research we did a while ago and it speaks of excerises just like that
 
 **Potential risks associated with AI research include bias, safety concerns, and unintended consequences.**
 
-**AI processes and decision-making transparent and understandable.**
+**AI processes anddecision-making are transparentdecision-making transparentand understandable.**
 
 ****
 
