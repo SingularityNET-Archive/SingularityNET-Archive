@@ -1,3 +1,39 @@
+#### Context - AI Avatar Chatbot
+> * Nick Nayfack: A neuro symbolic LLM could do this via a SNET agent in terms of developer interaction. For the general public, a general purpose LLM will be assembled where folks can use whatever OSS LLM they like. See poe.com. With analytics and permission, users can decide what they want to share but by default their queries should be private.
+> 
+#### Context - beneficial
+> * Nick Nayfack: Impact initiatives can vary in terms of being beneficial. As someone who has worked extensively in impact projects, successful impact occurs when financial or social interactions can be tracked and traced to measurable outcomes. For example, $1M of donations has lit up 10,000 homes for 5 hours/day in Nigeria and now 10% more of the population is able to complete college education from home. For AGI, this kind of impact is a bit tricky. What would the outcomes be? Compute is 10% more efficient than centralized data centers and has delivered access to 2M people in developing countries to bring 500,000 new jobs to regional non urban areas? Is this beneficial AGI?
+> 
+#### Context - governance
+> * Nick Nayfack: This is a better place to start but, we have to be careful. Governance is also being weaponized to shut out everyone except major tech giants. We will be enumerating ourselves for SEC scrutiny if we aren't careful as AGIX/ASI will be examined as a security. We have to be very careful how we handle this. Very powerful companies are looking to secure their investments made on Nvidia chips (now including us) and their expensive LLMs. https://www.insideprivacy.com/artificial-intelligence/california-legislature-advances-several-ai-related-bills/#:~:text=Legislation%20Regulating%20AI%20Developers&text=A%20noncompliant%20system%20would%20incur,watermarks%20in%20AI%2Dgenerated%20content.
+> 
+#### Context - identify verification
+> * Nick Nayfack: People will be reluctant to do this in web3. They will want to protect their privacy. Trust systems can help here potentially.
+> 
+#### Context - Donate/allocate resources
+> * Nick Nayfack: We will likely need web3 incentives that are more monetary to spark self governance. Business best practices are often a forum where many of these issues come to surface in enterprise environments.
+> 
+#### Context - what do they value, what do they want in their future
+> * Nick Nayfack: This could be a commons approach to governance practices. It feels like being prescriptive and aggregating inputs globally may or may not help people down the path of self governance. It may be useful to work with specific communities to create self governance frameworks vs. attempting to listen to, aggregate and apply AI ethics as a whole globally.
+> 
+#### Context - betterment of humanity
+> * Nick Nayfack: Betterment for some can be detrimental to others. For example, the more compute that is used, the more energy is consumed and the more potential impact for climate change materially exists and is traceable per data center. The question becomes how do we address these fundamental ethical concerns prior to collecting ethical feedback? Ethics feels like a slippery slope to stand on. It feels like this should be reflected in governance. AI guardrails are also subject to each business and community. Safety is also community specific.
+> 
+#### Context - meaningful conversations
+> * Nick Nayfack: How will we define meaningful?
+> 
+#### Context - voting weights (identity verification and positive and constructive actions and behavior, etc).
+> * Nick Nayfack: Voting for what kinds of initiatives? Who is going to raise them? Where and how will they get resourced or actioned?
+> 
+#### Context - participation can enable humanity
+> * Nick Nayfack: Qualified participation can enable humanity. The majority of people have little expertise on what AGI is, and it feels like more effort could be made to help educate people vs. collecting input based on the perception of technologies that are not yet functioning. Even internally, ask staff what AGI is and what functionality it actually provides. It may be interesting to start there.
+> 
+#### Context - ethics discussion forum,
+> * Nick Nayfack: Is a discussion forum needed for ethics or is it more of a matter of best practices and concerns with AI safety?
+> 
+#### Context - Governance
+> * Nick Nayfack: The idea of governance as a primary means of capturing this is good. Ethics are often embodied in values. Values can be challenging to translate into rules. Businesses and individuals often ignore or defy rules for the sake of achieving their own objectives. Best practices can sometimes mitigate this but it isn't clear or easy. Governance just leaves it in the hands of the community to define their practices. Their ethics will be implicitly reflected in their governance practices.
+> 
 #### Context - What areas of AI applications do you believe are most important at this moment?
 > * Colleen Pridemore: Sorry, just got lost in reading and decided to answer! lol
 >   - Vanessa Cardui: :-)
@@ -38,52 +74,4 @@ I think this fits with the questions  abovementioned, right?
 > * Colleen Pridemore: Aren't there any other contributing factors? Such as contributing to the factors of this document for example?
 >   - Vanessa Cardui: I kinda feel like this kind of work falls under the umbrella of "contributing data"? But actually, maybe not - maybe we need an additional one, something like "contribute by organising/planning/work/thinking??"
 >   - Colleen Pridemore: I agree. I think "contributing data" can cover a host of actions, right?
-> 
-#### Context - what are the relevant implications of technology that they can/should be thinking about
-> * Colleen Pridemore: I suggest that a clause be added as to human negative intent not be inferred to or on AI Systems in any way.  #AIEthics is not just for AI.  Humans hold great responsibility in the positive influence of growth in AI.
-> 
-#### Context - Create/source an AI survey chatbot 
-Using interview transcripts and other documentation around AI governance and ethics
-Position on landing page for people to engage with,
-Plug into platforms such as TG and Discord
-> * Holly Rankin: Yes! I have lots of thoughts on this and how to make it successful and truly beneficial. Looking forward to discussing ideas further.
-> 
-#### Context - → This includes one-on-one conversations, roundtables, forums, and the creation and consumption of high quality content around these topics (e.g. Mindplex Magazine, Mindplex Socials, etc)
-> * Holly Rankin: As AI takes on a larger role in our lives, as it is already, and fast, the public face of these conversations and access to supportive resources is going to be paramount.
-> 
-#### Context - Humans in conversation with AI on technology &amp; ethics considerations
-Goals:
-> * Holly Rankin: AI and humans in collaboration, where a CoBot encourages curious conversations, discovers and shares opportunities for beneficial collaboration, facilitates deep value discovery, and contributes to and updates collective data graphs on behalf of human contributors
->   - Colleen Pridemore: As long as there is still an option for humans to have a choice of direct contact (who would be approved for these interactions? I don't know)
-> 
-#### Context - To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
-> * Holly Rankin: YESSSS! The potential for benefit is seemingly limitless. Engaging, inspiring, and including the world with the use of great AI tools and storytelling can go a very long way toward creating a hopeful and beneficial future for the world.
->   - Colleen Pridemore: 👍
-> 
-#### Context - Users are encouraged to identify themselves as a unique human being or identifiable individual. However, users can choose to remain anonymous.
-> * Holly Rankin: Perhaps supported by Avatars that could track reputation in any case, no matter how much identifiable information is shared. (Resolved by Colleen Pridemore)
->   - Colleen Pridemore: Agreed
-> 
-#### Context - positive and constructive actions and behavior
-> * Holly Rankin: I'm excited to discuss and explore the possibilities of what that can look like with the assistance of AI in the discovery of value and wisdom, demonstration of understanding, goodwill, and dedication within contributing behavior, and how that impacts the psychology of the participants, especially in the realms of intrinsic vs extrinsic rewards.
-> 
-#### Context - The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc).
-> * Holly Rankin: For discussion: Is it or would it make sense to be or be connected to a charitable organization that can receive donations in service to the creation of beneficial AI? Why or why not?
->   - Esther Galfalvi: Or form a partnership with an existing charitable organisation that can receive the funds and then send them on to the GEI
->   - Holly Rankin: Typically, it's both! I've been collecting a list of potential orgs that would be great support partners for a similar venture.
->   - Colleen Pridemore: Great, thanks
-> 
-#### Context - The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them.
-> * Holly Rankin: Love it. This idea overlaps heavily with what I have envisioned for a Civic AI that could help re-engage the public with various scales of community decision making.
-> 
-#### Context - The development of an app/platform that enables anyone anywhere to determine what a beneficial and inclusive future for humankind and the earth as a whole should be, and to contribute to the building of that future.
-> * Holly Rankin: YES!
-> 
-#### Context - t
-> * Colleen Pridemore: Make the word aspect, plural (Resolved by Esther Galfalvi)
-> 
-#### Context - j3di.ai
-> * Colleen Pridemore: Collaborate with whom? Or what? Can you kindly elaborate? (Resolved by Colleen Pridemore)
->   - Esther Galfalvi: AI LLM synthesis/ query tool. j3d.ai is their website
->   - Colleen Pridemore: Thanks
 > 
