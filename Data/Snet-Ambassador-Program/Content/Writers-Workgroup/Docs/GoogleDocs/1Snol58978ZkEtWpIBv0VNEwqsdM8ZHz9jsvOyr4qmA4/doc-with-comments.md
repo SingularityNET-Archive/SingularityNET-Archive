@@ -21,7 +21,7 @@ Application/Interest from Scribblers
 
 ## Responsibilities
 
-At least 1 Recurring Task(s)
+At least 1 recurring task(s)
 
 15 hours monthly
 
