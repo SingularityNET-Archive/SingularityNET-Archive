@@ -33,10 +33,10 @@ Plus it's important to note that the Discord server is for *the whole of sNET* -
 > * Vanessa Cardui: NOTE: when adding links, it's better and more streamlined to add them inline, like this, trather than typing out "Here is a link to..." (Resolved by Vanessa Cardui)
 > 
 #### Context - here
-> * Vanessa Cardui: add the link to the report when it's ready
+> * Vanessa Cardui: add the link to the report when it's ready (Resolved by Vanessa Cardui)
 > 
 #### Context - here
-> * Vanessa Cardui: we'll need to add this link when the report is ready - should be next week
+> * Vanessa Cardui: we'll need to add this link when the report is ready - should be next week (Resolved by Vanessa Cardui)
 >   - Love Owokere: Yep
 I'll get on it soon
 > 
