@@ -125,7 +125,7 @@ Goals:
 
 ****
 
-**Critical Element #3:** Donate/allocate resources (NuNet or Rejuve style, or Deep style) 
+**Critical Element #3:** Donate/allocate resources 
 
 > [Comments]
 > Context - Donate/allocate resources
@@ -262,7 +262,7 @@ The use of processing power, data or funds contributed will be divided among pro
 
 Member-run projects that are approved (by some democratic process) can post "calls for volunteers" via the member network, as well
 
-A key aspect would be ease of access, making it really easy to join and participate, for anybody with a phone and typical phone-usage skills....
+A key aspect would be ease of access, making it really easy to join and participate, for anybody with a phone and typical phone-usage skills.... Non-web3 / non-crypto wallet front end interface
 
 
 
@@ -403,9 +403,13 @@ Transparency:  We will provide a clear roadmap for RFP development and disbursem
 
 Later, payments could be made through the app to categories of AI development, or to specific projects.
 
-Like Deep Funding, project selection would take place in rounds. People would be “nudged” via chat and discussion channels that it is time to vote or contribute to new rounds.
+Like Deep Funding, some project selection would take place in rounds. People would be “nudged” via chat and discussion channels that it is time to vote or contribute to new rounds.
 
 (There could even be specific topics assigned to rounds to concentrate interest, e.g. intersecting with global events. For example, environmental and regenerative causes can be focused on during climate summits, when they are in the public eye.)
+
+Other project selection could be directly funded, kickstarter style.
+
+Yet others would collect funds within categories, and RfPs developed out of the insight gathered from the general population.
 
 A subsection of contributions could be assigned to recirculate as rewards for other resource contributions such as time (a certain percentage? How would we calculate this?). In time, once the system is self-sustaining, this could also pay the wages of the contributors involved in operations.
 
