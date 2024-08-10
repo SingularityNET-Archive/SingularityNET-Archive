@@ -30,10 +30,10 @@ We have collaborated with Governance Guild this Quarter to create context-settin
 > * Vanessa Cardui: NOTE: when adding links, it's better and more streamlined to add them inline, like this, trather than typing out "Here is a link to..." (Resolved by Vanessa Cardui)
 >
 > Context - here
-> * Vanessa Cardui: add the link to the report when it's ready
+> * Vanessa Cardui: add the link to the report when it's ready (Resolved by Vanessa Cardui)
 >
 > Context - here
-> * Vanessa Cardui: we'll need to add this link when the report is ready - should be next week
+> * Vanessa Cardui: we'll need to add this link when the report is ready - should be next week (Resolved by Vanessa Cardui)
 >   - Love Owokere: Yep
 I'll get on it soon
 >
@@ -89,7 +89,7 @@ We introduced members to The Facilitators' Collective (a Cardano Project Catalys
 
 ### Onboarding Session r esearch
 
-We conducted a survey to assess the community’s feelings about our quarterly Onboarding sessions for new people. You can read the report here, and see what changes we propose to make as a result of the data.
+We conducted a survey to assess the community’s feelings about our quarterly Onboarding sessions for new people. You can read the report here , and see what changes we propose to make as a result of the data.
 
 ### One-to-one e ngagement
 
@@ -141,10 +141,6 @@ The remainder of $ Y will be kept in the Treasury reserve.
 
 
 All Onboarding workgroup budget info for this quarter can be found  here .
-
-
-
-
 
 
 
