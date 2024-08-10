@@ -58,7 +58,7 @@ We introduced members to The Facilitators' Collective (a Cardano Project Catalys
 
 ### Onboarding Session r esearch
 
-We conducted a survey to assess the community’s feelings about our quarterly Onboarding sessions for new people. You can read the report here, and see what changes we propose to make as a result of the data.
+We conducted a survey to assess the community’s feelings about our quarterly Onboarding sessions for new people. You can read the report here , and see what changes we propose to make as a result of the data.
 
 ### One-to-one e ngagement
 
@@ -93,10 +93,6 @@ The remainder of $ Y will be kept in the Treasury reserve.
 
 
 All Onboarding workgroup budget info for this quarter can be found  here .
-
-
-
-
 
 
 
