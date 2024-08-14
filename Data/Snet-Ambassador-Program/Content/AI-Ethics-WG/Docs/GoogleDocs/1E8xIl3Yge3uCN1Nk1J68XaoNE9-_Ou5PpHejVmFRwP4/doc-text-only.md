@@ -10,7 +10,7 @@ This interview is part of an initiative to gather thoughts from the general publ
 
 
 
-**Interviews are expected to last about 5-10 minutes, and will include 3-4 questions about AI ethics and governance. The questions are not definitive; you can expand to other topics if they arise.**
+**Interviews will include 3-4 questions about AI ethics and governance. The questions are not definitive; you can expand to other topics if they arise.**
 
 
 
