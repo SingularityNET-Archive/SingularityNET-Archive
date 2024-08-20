@@ -18143,6 +18143,73 @@
       "canceledSummary": false
     }
   ],
+  "907652f5-3538-4674-9a37-1f9d45737e60": [
+    {
+      "workgroup": "Africa Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-04",
+        "host": "Clement Umoh",
+        "documenter": "Advanceameyaw",
+        "peoplePresent": "Peter, Sucren, esewilliams, Kenichi, Ayodele, Clement Umoh, Isaac",
+        "purpose": "Identify and touch base virtually with other AI/Web3 communities across Africa ",
+        "workingDocs": [
+          {
+            "title": "Africa Guild Q3 Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307"
+          },
+          {
+            "title": "Pan African Research on best countries to penetrate and onboard with the African guild ",
+            "link": "https://docs.google.com/document/d/1v7da6pucrdgEcLgo0quw3_j2p_UDBK-yfNu3pNbuI24/edit?usp=drive_link"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with Clement greeting everyone, whilst Ese was not around to greet in all languages, Emmanuel (advanceameyaw) was on the spotlight to greet in his but had background noise challenges.\nAction items from the last meeting\nThere are as follows:\nIdentify and touch base virtually with other AI/Web3 communities across Africa \nhttps://www.wada.org/\nhttps://www.wims.io/\nAfrican Leadership University (ALE) Rwanda\nSucre and Love to create an onboarding structure for new members (everyone is free to participate) - *Completed*\nClement to conduct research on best countries to spread and penetration strategies (Phase 1 completed)\nClement apologized for delays in the second phase of the project due to health issues. He plans to integrate recommendations from the last meeting summary and aims to complete this by the next meeting.\n\nAyo to create Initiative and Contribution Framework Document.\nAyo emphasized that while the document framework has been established, the focus now shifts from creation to active contribution. Given its comprehensive nature involving multiple sections, Ayo stressed that completing it shouldn't fall solely on one person but should be a collective effort. He highlighted the importance of avoiding redundancy within the document, noting specific sections like onboarding influenced by Sucre n Spice's work and strategy linked to other aspects. Ayo underscored the need for initiative and widespread contribution, proposing a timeline dedicated to collaborative contributions to finalize the document efficiently.\n.\n\nDiscussion item: How do we get more African countries to join the guild and participate in the program? (take outs from suggestions of previous meeting - surveys, merchandise, virtual meets, physical workshops, etc).\n\nClement recapped the last meeting's takeaways, including conducting surveys and collaborating with other institutions to promote the guild and SingularityNet initiative. He requested input on potential partner organizations and announced that he will create a document for these recommendations in the second phase of research. Clement also reminded the guild to contribute resources to support individual projects that align with the guild's objectives.\n\nMarketing Initiatives for the Guild\nAyo and Clement discussed marketing initiatives for the Guild, including incentivizing quality people to join and creating a template for sourcing individuals from other African countries. Ayo proposed forming a team to work on clear-cut marketing initiatives. He suggested we can have a four person’s team for that.\nSo the team comes with a series of marketing initiatives for the next meeting that we all can deliberate on and decide how to move forward.\n\nBounty to upload our past meeting summaries\nClement  suggested uploading past meeting summaries to a summary tool developed by the archives group and proposed offering a bounty for volunteers interested in this task. Ayo and Issac volunteered to do that.\n\nAMA Session Update\n\nWe reviewed the successful AMA session, which engaged five countries, with active participation from Kenya, Cameroon, and Ghana, and established contact with Rwanda.\n Ayo highlighted the need for a larger budget due to the extensive effort involved, with team members dedicating over seven hours each. Contributions from Ese, Clement, Onizi, and Ayo were praised. Clement emphasized customizing innovations to fit African needs, such as developing an African-specific language model. Overall, the session achieved its goals of outreach and meaningful AI discussions for Africa.\n\nQ3 Budget Updates\n\nClement noted that recent token prices are unfavorable, necessitating budget adjustments. Sucre suggested postponing final Q3 budget decisions until the treasury clarifies the percentage cut on July 10th, which is expected to be between 23% and 30%. While waiting, Sucre recommended identifying items to potentially reduce. Clement agreed to keep the Q3 budget pending, and Ayo concurred, especially since many guild members were absent. Clement emphasized that swift consent from the first batch of guilds shows strong support for core initiatives, allowing for a focused and strategic budgeting approach essential for solidifying the African guild's structure.",
+          "actionItems": [
+            {
+              "text": "Ayo to put a link to the framework document  on the discord channel (time frame should be included.)",
+              "assignee": "Ayodele",
+              "dueDate": "20 July 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Everyone to contribute to the framework document.",
+              "assignee": "All Members",
+              "status": "in progress"
+            },
+            {
+              "text": "A session on Africa Guild Marketing Initiative.",
+              "assignee": "All Members",
+              "status": "todo"
+            },
+            {
+              "text": "Ayo and Isaac to upload our past meetings  summaries in the summary tool.",
+              "assignee": "Ayodele, Isaac",
+              "status": "in progress",
+              "dueDate": "18 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to postpone the Q3 Budget for discussion after treasury clarifies the percentage cut.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates",
+        "emotions": "Friendly, funny , cool"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "b504f348-c3e0-47b4-aec4-9822b1f45203": [
     {
       "workgroup": "Video Workgroup",
@@ -21880,6 +21947,152 @@
       "canceledSummary": false
     }
   ],
+  "23fbce89-85ea-44d6-b858-5dd993c71b23": [
+    {
+      "workgroup": "Africa Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-11",
+        "host": "Duke",
+        "documenter": "esewilliams",
+        "peoplePresent": "Sucren, esewilliams, Isaac, Duke Peter, Ayo, Photoghee, Emmanuel Ameyaw, Isaac Daniel",
+        "purpose": "Identify and touch base virtually with other AI/Web3 communities across Africa ",
+        "workingDocs": [
+          {
+            "title": "Africa Guild Q3 Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307"
+          },
+          {
+            "title": "WG Agenda",
+            "link": "https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit#heading=h.bni3waqetleu )"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Topics Discussed based on the Meeting Agenda: \n\nDiscussion on Meeting time and Guild Initiatives\n\nClement Umoh raised concerns about the recurring scheduling conflicts and suggested finding a permanent solution to avoid wasting time. \n\nDuke Peter proposed two options: complaining to governance or changing the meeting time. The discussion also included updates on uploading past meeting summaries and the need to ideate on strategies to increase African participation in the guild.\n\nDuke Peter: AI Ethics Expo Planning and Members Collective\n\nDuke Peter provided details about the upcoming AI Ethics Expo in Nigeria, emphasizing the collaboration between the AI Ethics Work Group and the African Guild. They outlined plans for the event, including securing a venue, engaging speakers, and budget allocation. Additionally, they explained the purpose and process of the member's collective initiative, which aims to fund ideas from guild members to contribute to the guild's growth and achievement of KPIs.\n\nPlanning the AI Ethics Expo\n\nEse Williams questions the roles of the four participants for the AI Ethics Expo, leading to a discussion on the implementation of proposed ideas and the need for volunteers to assist with the event. The conversation also addresses the selection process, potential locations for the event, and the possibility of covering travel expenses for participants.\n\nQ3 Budget Updates\n\nDuke Peter addresses the need to revise budgets in light of pending approvals from the treasury for strategy, marketing, and writers. They express the possibility of budget cuts and emphasize the need for careful spending, as the current budget lacks contingency provisions. The discussion also touches on the majority of the budget being allocated to recurring operational work.\n\nFeedback on African Guild progress\n\nDuke Peter asks for feedback on the African Guild's progress and receives positive comments from Clement Umoh.\n\nDuke Peter leads a discussion on the progress of the African Guild, with Ese Williams expressing satisfaction with the experience and suggesting improvements in organization and time management. \n\nDuke Peter seeked opinions on the pace of progress and coordination, while also considering the idea of providing giveaways for consistent meeting attendance. \n\nMember concerns: Discussion on AAG Token and Guild Outreach Initiative\n\nEse Williams expresses confusion about the AAG token and its legitimacy, prompting Clement Umoh to caution against engaging with it. Duke Peter shares plans for the African Guild AI Ethics Expo as the first outreach initiative and encourages input from the group. The meeting concludes with plans for future meetings and a reminder to communicate any scheduling conflicts.\n\nGeneral Summary:\n\nDuke Peter proposed two options to address scheduling conflicts: complaining to governance or changing the meeting time. \n\nThe group also discussed plans for an AI Ethics Expo in Nigeria, with a proposed collaboration between the AI Ethics Work Group and the African Guild.\n\n The event is projected for August or September, with a focus on securing a suitable venue and speakers, and a budget split between the two groups.\n\nAdditionally, they highlighted the importance of the members' collective initiative for generating ideas to drive the guild forward. The group also discussed the need to revise budgets due to pending approvals from the treasury for strategy, marketing, and writers. They anticipate potential budget cuts and emphasize the importance of diligent spending in the upcoming quarter.\n\nThe meeting also included a feedback session on the African Guild's progress, with positive remarks from Clement Umoh. The conversation then transitioned to concerns about the meeting venue, with issues of overlapping meetings and difficulties accessing the platform discussed. Potential solutions, such as addressing the overlapping meetings or changing the meeting time, were proposed and put to a vote, with the group ultimately deciding to move the meeting to 5 p.m. on Thursdays.\n\nThe group also discussed the progress of the African Guild, with Ese Williams expressing positive feedback and suggesting improvements in organization and time management. Duke Peter sought opinions on the pace of progress and the need for better coordination, while also mentioning the possibility of giveaways for consistent meeting attendance. Finally, the group announced the African Guild AI Ethics Expo as the first outreach initiative and invited thoughts from the group.\n",
+          "actionItems": [
+            {
+              "text": "Members will indicate their interest and specify the particular roles they are willing to take on for managing the volunteer workforce from the SingularityNet community.",
+              "assignee": "All Members",
+              "status": "in progress"
+            },
+            {
+              "text": "Duke Peter will revise the budget based on feedback from the Treasury",
+              "assignee": "Duke",
+              "status": "in progress"
+            },
+            {
+              "text": "Clement would go over his research work in the next meeting",
+              "assignee": "Clement Umoh",
+              "status": "todo"
+            },
+            {
+              "text": "Ese Williams would an update on the marketing guild initiatives members",
+              "assignee": "esewilliams",
+              "status": "in progress"
+            },
+            {
+              "text": "Duke Peter will provide updates on the African Guild AI Ethics Expo",
+              "assignee": "Duke",
+              "status": "todo"
+            },
+            {
+              "text": "Duke Peter will coordinate with Peter to move the meeting time by an hour",
+              "assignee": "Duke",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Should the meeting time be moved to a different day?",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "What is the feedback on the progress of the African Guild?"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "African, African guild, Marketing initiative, AMA Session Updates, Q3 Budget Updates, change meeting time",
+        "emotions": "Friendly, funny , cool, speedy , Thoughtful "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "5a49f6dd-cb09-4bdf-b517-945c30d46d2e": [
+    {
+      "workgroup": "Africa Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-18",
+        "host": "Clement Umoh",
+        "documenter": "esewilliams",
+        "peoplePresent": "Clement, LadyTempest, Ese Williams, Udonma Obu, Clement Umoh, Emmanuel Ameyaw",
+        "purpose": "Identify and touch base virtually with other AI/Web3 communities across Africa ",
+        "workingDocs": [
+          {
+            "title": "Africa Guild Q3 Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Summary:\n\nThe meeting began with Clement discussing the research strategy for the African guilt propagation, focusing on regulatory environments in Nigeria, Cameroon, and Rwanda. He emphasized the need for contributions and partnerships and highlighted the challenges and opportunities in each country's regulatory landscape. The team also discussed modifying strategies for the marketing section, and Love Owokere raised concerns about the marketing initiative channel and meeting scheduling with Ese Williams. Ese explained the process of scheduling and clarified the approach taken.\n\nThe meeting section focused on the initial formation of a four-man group and the potential expansion of the team. Clement led a detailed discussion on the AI Ethics Expo, covering the event's physical location in Nigeria, the roles of participants in content creation, documentation, media, and monitoring, and evaluation, and the idea of project pitching as part of the event's content. The team also discussed the need for concrete updates on progress in the next meeting and the potential for wider participation in the event.\n\nFinally, the team discussed the need to remind Peter about updates for a time change and make a general announcement. They also addressed access issues with Zoom and assigned tasks for onboarding new members onto the platform.\n\nChapters & Topics:\n\n Research Strategy and Regulatory Environments\n\n Clement presents the research strategy for African guilt propagation, detailing the regulatory environments in Nigeria, Cameroon, and Rwanda. He stresses the importance of contributions and partnerships and shares personal experiences with regulatory challenges in Nigeria. \n\nAdditionally, he outlines potential engagement strategies and partnerships with tech companies and academic institutions in the target countries.\n\n* Stakeholders and partnerships in Nigeria, Cameroon, and Rwanda\n* Research on regulatory environments in Nigeria, Cameroon, and Rwanda\n\n Discussion on Marketing Initiatives and Onboarding Process\n Clement and Ese Williams address the onboarding process, noting that many new members are unfamiliar with the platform and have not completed the necessary steps. Ese then outlines a plan for a marketing initiative to collaborate with new members from other parts of Africa and expand efforts in various locations, including translating materials into native languages.\n\n Discussion on Marketing Initiative Channel and Meeting Scheduling\n Clement initiates a discussion on modifying strategies for the marketing section, and Love Owokere addresses concerns about the marketing initiative channel and meeting scheduling with Ese Williams. Ese explains the process of scheduling and justifies the approach taken, while Udoma Obu expresses interest in the marketing initiative.\n\n Planning for African Guild initiatives and AI Ethics Expo\n\n Ese Williams and others discussed the formation of a four-man group and the possibility of expanding it in the future. Clement led a discussion on the upcoming AI Ethics Expo, including the event's location, content creation, and the idea of project pitching. The team also considered the roles and responsibilities of participants in the event.\n* SNET African Guild and AI Ethics Expo update\n\n Budgets Subsidies\n Clement addressed the need to subsidize transportation for physical meeting attendees due to budget reasons and the ongoing discussion on this matter. He also confirmed the budget percentage at 23% and expressed hope for no further reductions in the future. Love Owokere also briefly participated in the discussion.\n\n* Budget and dates for upcoming events\n\n AOB and Action Items\n Ese Williams took responsibility for reminding Peter about the time change updates and making a general announcement. There was a discussion about access issues with Zoom, and tasks were assigned to onboard new members onto the platform, with Love being tasked to help with onboarding and reaching out to new members.\n",
+          "actionItems": [
+            {
+              "text": "Clement will verify if the members have made submissions for the research",
+              "status": "todo"
+            },
+            {
+              "text": "Clement will reach out to Duke for updates on roles for the  AI Ethics Expo",
+              "status": "todo"
+            },
+            {
+              "text": " Ese Williams will follow up with Peter for updates on the time change and make a general announcement on the channel",
+              "status": "todo"
+            },
+            {
+              "text": "Clement will put out a notification on the channel about the change in time and reach out to Duke and Peter to make the updates on the official calendar.",
+              "status": "todo"
+            },
+            {
+              "text": " Love Owokere will onboard new members from different parts of Africa into Discord and assist with their wallets and work integration.",
+              "status": "todo"
+            },
+            {
+              "text": "Clement will share contacts of new members with Love for onboarding",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "What are the updates on the SNET African Guild and AI Ethics Expo?"
+            },
+            {
+              "decision": "What is the budget and the proposed dates for upcoming events?"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Meeting, Guilds , Blockchain, Research, Event, Initiatives, Marketing, AI ethics, community engagement",
+        "emotions": "Friendly, Casual, Collaborative, interesting, accountability"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "12e230ec-8b4b-46c6-bb4d-7994afbdcc38": [
     {
       "workgroup": "Governance Workgroup",
@@ -22481,110 +22694,6 @@
       "tags": {
         "topicsCovered": "Treasury System, Miro Board, Automation, tooling, participation vs contribution, process, API, Backend, Documentation, json, projects, Nunet",
         "emotions": "insightful, reflective, decisive, bit quiet"
-      },
-      "type": "Custom",
-      "noSummaryGiven": false,
-      "canceledSummary": false
-    }
-  ],
-  "772063ca-feb3-48ec-8c61-8e5e16c3977e": [
-    {
-      "workgroup": "Research and Development Guild",
-      "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
-      "meetingInfo": {
-        "name": "Weekly",
-        "date": "2024-07-31",
-        "host": "lord kizzy",
-        "documenter": "lord kizzy",
-        "peoplePresent": "Kenichi, AJ, Clement Umoh, Rojo, osmium, Pascal, Duke, Yemi Solves, PeterE",
-        "purpose": "R&D Updates and Discussions ",
-        "workingDocs": [
-          {
-            "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
-            "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
-          },
-          {
-            "title": "Kenichi's proposal: LEGACY v0.1",
-            "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
-          },
-          {
-            "title": "R&D Guild Q2 budget Concern Response",
-            "link": "https://docs.google.com/document/d/1tE6T_OLUZ1DgEGHnBfEhrI7iQuwwTE6eUD0w17UvTbk/edit"
-          },
-          {
-            "title": "Reputation System using SoulBound Tokens (SBTs) ",
-            "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
-          },
-          {
-            "title": "R&D Guild Q2 Quarterly Report / R&D Guild Proposal & Q2 Community Concern Response",
-            "link": "https://docs.google.com/document/d/19W8jlC20q2JVdknBMwBrtI95LQFYizraQvrnxAw68Wc/edit?usp=sharing"
-          },
-          {
-            "title": "Q3 Research & Development Guild Budget",
-            "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
-          },
-          {
-            "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
-            "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
-          },
-          {
-            "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
-            "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
-          },
-          {
-            "title": "LEGACY vs Web3 Contributor Dashboard",
-            "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
-          },
-          {
-            "title": "R&D Guild Q3 Operations Update ",
-            "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
-          }
-        ]
-      },
-      "agendaItems": [
-        {
-          "status": "carry over",
-          "meetingTopics": [
-            "Welcoming new Members and Introduction",
-            "Review of last meeting summary Action Items",
-            "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! ",
-            "SHOWCASE FINISHED PROPOSAL",
-            "NEW OPERATIONS SYSTEM GOING FORWARD"
-          ],
-          "actionItems": [
-            {
-              "text": " Guillermo and Lord kizzy to have a discussion with Rojo and Kenichi on similarities between their projects and to see if there is a possibility for collaboration ",
-              "assignee": "guillermolucero, lord_kizzy",
-              "dueDate": "7 August 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Clement to reach out to Duke to create an infographic to project presentation on Discord",
-              "assignee": "Clement Umoh",
-              "dueDate": "24 July 2024",
-              "status": "todo"
-            }
-          ],
-          "decisionItems": [
-            {
-              "decision": "We decided that AJ was going to continue the \"Skills Collaboration Database\" previously done by Curtis ",
-              "rationale": "This selection was done based on AJ's skills and also due to lack of communication with Curtis",
-              "effect": "affectsOnlyThisWorkgroup"
-            }
-          ],
-          "discussionPoints": [
-            "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting",
-            "UPDATE STATUS ON DEVELOPMENT: Rojo gave the updates on Social Media Automation; The platform is currently in testing. The way the platform will interact with social media is that there is an API contact and some of these APIs need some time to be approved. We got approval from Google, YouTube API, and we're waiting for X (Twitter) and for Facebook. We're doing some testing. We are polishing the UI. We will do a push for the GitHub. Probably today or tomorrow we should be doing a push. Rojo shared a major challenge: he came across  an open source project called Mixpost. This open source project is basically like an open source replica of Buffer.com, which does social media automation and social media dashboarding and team coordination, which is what the Guild is aiming for. He is currently testing this solution and the major issue is if while testing this solution, it does prove itself to be as good as what he seen so far, would it be a good idea to actually use this solution and part of the funding for our project so far would go to hosting and maintaining this solution rather than keeping working on the previous one and trying to improve it to reach the same level because our aim from the beginning was to build an open source project for this exact case. And it is sad that we had to build so far all of these things and just to realize that there was a solution already available, but it might be a more judicious and a smarter thing to do is to actually build upon previous open source solution that are already existing. ",
-            "UPDATE STATUS ON DEVELOPMENT: Rojo gave the updates on the Web3 dashboard:  He is done with the UI design. Talks will commence with Treasury Guild  so that we can have the data access. Once we have the data access, we will be building from that.",
-            "UPDATE STATUS ON DEVELOPMENT: Kenichi gave the updates on the Legacy website",
-            "SHOWCASE FINISHED PROPOSAL: The Town Hall presentation for the Research on Inclusivity of people with disabilities was conducted by Clement on 30th of July 2024, now it's just left with the public announcement",
-            "NEW OPERATIONS SYSTEM GOING FORWARD: Lordkizzy shared the new operations system going forward"
-          ]
-        }
-      ],
-      "tags": {
-        "topicsCovered": "Guilds , Tool Development, AI tooling, contributors, Operations, Core team, Presentation, Voting process, deliverables, open source, disability, disability research, Collaboration, skills database, skills",
-        "emotions": "Casual, Collaborative, speedy , Welcoming"
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -23402,6 +23511,116 @@
       "canceledSummary": false
     }
   ],
+  "6d9fc0e2-47ab-4dcc-8a85-baaf01eee773": [
+    {
+      "workgroup": "Dework PBL",
+      "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-07-31",
+        "host": "Tevo",
+        "documenter": "Effiom",
+        "peoplePresent": "effiom, gorga, lord_kizzy, malik434, merryman, oluAyoola7D, photogee, tevo, Yemi",
+        "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+        "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764594009805680&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+        "workingDocs": [
+          {
+            "title": "VIDEO - Tooling to compare Participation vs Contribution",
+            "link": "https://www.youtube.com/watch?v=VMSKB79fkbg"
+          },
+          {
+            "title": "Dework PBL Quarter 2 2024 Report",
+            "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Updates on Participation vs Contribution Tooling",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Test tooling in use to for workgroups - September",
+              "assignee": "Tevo",
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Now you can make select members to create the group of people who are in meeting ",
+            "New parameter columns created for Total AGIX Contribution amount and Selected contribution percent",
+            "Finished Source Data table which can now shows all different contribution types",
+            "We used Knowledge Base WG to demonstrate updates"
+          ]
+        },
+        {
+          "agenda": "Constructing the algorithm and the next steps for Implementation",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Implement algorithms to simulate results",
+              "assignee": "Tevo",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We use levels of differences in ratio to create rewarding weight ",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Final rewards per meeting will have a cap on total cost, hourly rate per person and personal limits",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Total Weighted Rewards will be fitted to total cost",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Final Rewards over personal limits will not be redistributed",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "How do we construct the algorithm to be fair and incentivize expected behavior?",
+            "How do we use AGIX ratio?"
+          ]
+        },
+        {
+          "agenda": "Future Session Facilitation",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Tevo to make sure zoom calls can be opened with phone, in case we need to open any Dework PBL Session",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "If meeting is cancelled still do the meeting summary if applicable",
+              "rationale": "Based on previously cancelled meeting, summary was done were applicable",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Ensure to open call for atleast 15mins before closing call if no one attends",
+              "rationale": "Some Treasury Operators taking call might join call for assistance and 15mins is enough time to accomodate late comers",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Future Session Facilitation",
+            "How to access zoom call while Tevo is on break?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Dework, Miro Board, tooling, implementation, Facilitation"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "ca23afa2-7514-48ce-8124-05f0025df442": [
     {
       "workgroup": "Treasury Policy WG",
@@ -23875,6 +24094,122 @@
       "canceledSummary": false
     }
   ],
+  "dbef94af-f3d7-4878-8a1a-303d6ef69022": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-08",
+        "host": "Ayo",
+        "documenter": "LadyTempestt",
+        "peoplePresent": "Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, MartinSoki, Ayo, Cjfrankie, Gorga Siagian, Eric, Photogee, Kateri",
+        "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+        "workingDocs": [
+          {
+            "title": "Skillshare Matrix Doc",
+            "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting agenda",
+            "link": "https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?usp=sharing"
+          },
+          {
+            "title": "BUDGET-FITTED Onboarding WG budget Q3 2024",
+            "link": "https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?gid=2014555984#gid=2014555984"
+          },
+          {
+            "title": "Onboarding Journey Scripts 1",
+            "link": "https://docs.google.com/document/d/13AO_46FarBVOpzklI1WD5HfzEkS-Jt1dugm6TRG8K2c/edit?usp=sharing"
+          },
+          {
+            "title": "Onboarding Journey Scripts 2",
+            "link": "https://docs.google.com/document/d/146NsS-e3S0yReVwoTTNDCbNYWSKoNOz7VtE2atGPX9o/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallUpdates": "1. Update on how the Onboarders team are doing with new members coming along.\n\n2. The documentation session will take place on 15th August. There will be a recording and slides of this session made available to everyone.\n",
+          "actionItems": [
+            {
+              "text": "Gorga is to reach out to CJ Frankie to fix a date to sort out his allegations against the WG.",
+              "assignee": "Gorga Siagian",
+              "dueDate": "5 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to edit the Onboarding WG facilitation/documentation roster to reflect our current plan.",
+              "assignee": "Sucre n Spice",
+              "dueDate": "5 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "CJ Frankie will give Onboarding WG town hall updates on the 27th of August.",
+              "assignee": "Cjfrankie ",
+              "dueDate": "27 August 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Gorga will mentor CJ Frankie in giving TH updates for the month of August.",
+              "assignee": "Gorga Siagian",
+              "dueDate": "27 August 2024",
+              "status": "todo"
+            },
+            {
+              "text": "CJ Frankie to create an infographic on the 15th August documentation session and publicize it on SNET Discord before Tuesday or Wednesday next week.",
+              "assignee": "Cjfrankie ",
+              "dueDate": "13 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Lord Kizzy to reach out to Timmy and find out if he's interested in being mentored as a documenter by shadowing Lord Kizzy at our next meeting on the 5th of September. ",
+              "assignee": "lord kizzy",
+              "dueDate": "5 September 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to have the focus group decide what needs to be cut out of our budget before doing more items on our Q3 budget proposal.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to have Eric Davies as one more member and then close our WG till next year. So from now till next year we will not give people tags or tasks.",
+              "rationale": "It will be unfair to leave him hanging till next year if we open up our WG as he is 1 meeting away from being a member"
+            },
+            {
+              "decision": "We agreed that the Onboarding journey scripts finetuned by Onize and Vani are great and should be used!",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Minutes from the last meeting",
+            "Action items from the last meeting ",
+            "Facilitation/Documentation roster ",
+            "TownHall Updates",
+            "Onboarding Journeys Scripts - no decisions on what to do with them yet as it is budget-dependent",
+            "SkillShare Matrix",
+            "Temporarily closing the WG",
+            "Documentation Session on 15th",
+            "AOB(Gorga’s Allegations)"
+          ],
+          "learningPoints": [
+            "What should we do next year with new members who have been attending our meetings this year without the tags since the WG is currently closed?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "TH Update , Budget , Session, Onboarding Journey Scripts, Workgroup closure",
+        "emotions": "Collaborative, tense, argumentative, funny "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "a5312c49-3e63-4ad0-8294-93121d881db6": [
     {
       "workgroup": "Video Workgroup",
@@ -24249,6 +24584,413 @@
       "tags": {
         "topicsCovered": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format",
         "emotions": "Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "59a96267-1209-46dc-9d8c-5dc0efcbf7b0": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-07-24",
+        "host": "Tevo",
+        "documenter": "Effiom",
+        "peoplePresent": "effiom, lord_kizzy, tevo, YemiSolves, Gorga Siagian",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594943442339&cot=10",
+        "otherMediaLink": " https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Async Organising Process",
+            "link": "https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62"
+          },
+          {
+            "title": "Ambassador Program Analysis (Miro Board) ",
+            "link": "https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14"
+          },
+          {
+            "title": "Process Guild Q2 Report",
+            "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Configuration and testing of ChatGPT model",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Create an Excel file to feed our history and add our historic data of how we organize items to GPT to learn from",
+              "assignee": "Tevo",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will take GPT model into use if we continue to organize new items",
+              "rationale": "From the test done, the results were good and the insights are useable"
+            }
+          ],
+          "discussionPoints": [
+            "Continue improving ChatGPT model with guiding material and organizing structure",
+            "Are the results from the LLM what we expected?",
+            "Surprisingly good results and insights that are useable",
+            "Does the insight from the test gives us better understanding of the next steps in training GPT?"
+          ]
+        },
+        {
+          "agenda": "Reviewing Item - Ambassador Program Analysis (Miro Board) ",
+          "status": "resolved",
+          "decisionItems": [
+            {
+              "decision": "We kept the Item in Category Behavioral Patterns under the section 'How do we resolve conflicts and tensions?'",
+              "rationale": "The item falls under that category and the section"
+            }
+          ],
+          "discussionPoints": [
+            "Asset link: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14",
+            "What is the difference between identification and resolution of conflicts?"
+          ]
+        },
+        {
+          "agenda": "Q2 Proposal Report",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Draft Knowledge Based section of Q2 Report",
+              "assignee": "Effiom",
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/",
+            "Shared current progress made of the Q2 Proposal Report"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "LLM development, ChatGPT, Testing, Results, Insights, review, Conflicts, Q2 quarterly report",
+        "emotions": "educational, insightful, Collaborative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "747a2021-1ea9-4b52-8ffe-6582fb22d9d7": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-08-07",
+        "host": "lord kizzy",
+        "documenter": "Effiom",
+        "peoplePresent": "effiom, lord_kizzy, advanceameyaw, hamzat, Photogee, Gorga Siagian, YemiSolves",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594944356009&cot=14",
+        "otherMediaLink": " https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Async Organising Process",
+            "link": "https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.rrq7vksufe62"
+          },
+          {
+            "title": "Writers Workgroup Async Resource Collections",
+            "link": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14"
+          },
+          {
+            "title": "Knowledge Base WG Onboarding Feedback (Responses)",
+            "link": "https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey#gid=1012113575"
+          },
+          {
+            "title": "Knowledge Base WG Infographic",
+            "link": "https://drive.google.com/file/d/1S24dJki0gT7oZrDy96IfA5Tz8OkyHm9l/view"
+          },
+          {
+            "title": "Scribbler Onboarding Form (Google Form)",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Knowledge Base WG Onboarding and Feedback Form",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Publicise the feedback form again by sharing it",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Check feedback form again in next meeting or by next month",
+              "rationale": "The check should be monthly as the feedback is usually valuable to the WG",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "A new member joined the meeting",
+            "Used the infographic to onboard new member",
+            "There was no new feedback to be reviewed"
+          ]
+        },
+        {
+          "agenda": "Writers WG Items to be added to Gitbook",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Move the 6 items to Miro board Kanban to be organised async",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Meeting notes are already archived on Archives Gitbook, hence they should not be organised again ",
+              "rationale": "Meetings notes are not valid items to be organised",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "6 Writers' WG items were selected as valid assets for Ambassador Gitbook",
+              "rationale": "These items were agreed on by WG members",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "4 Writers' WG items were not selected as valid Gitbook assets",
+              "rationale": "These items were agreed on by WG members",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Writers WG Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14",
+            "11 writers WG items to be selected for Gitbook",
+            "What is a valid item for Gitbook?",
+            "Are meeting notes valid assets to be organised for Gitbook?"
+          ]
+        },
+        {
+          "agenda": "Reviewing Item - Scribbler Onboarding Form (Google Form)",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Item to be moved here https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764595177345598&cot=10",
+              "assignee": "lord kizzy, Effiom",
+              "dueDate": "8 August 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We removed item from 'How do we manage financial resources' under Executive functions ",
+              "rationale": "When somebody asks how do you manage Ambassador Program Resources, handing them this form will not do much",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Item was removed from 'How do we evaluate Ambassador Program' under Evaluation Criteria",
+              "rationale": "The scribblers onboarding form doesn't show how we evaluate the entire ambassador program",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We removed item from 'How do we identify issues and challenges' under Identification Process",
+              "rationale": "This form is only related to one WG not the entire ambassador program",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Asset link: https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform",
+            "Live review of organised Writers' WG asset"
+          ]
+        },
+        {
+          "agenda": "Workgroup Planning - Next Session",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Notify both the facilitator and documenter ahead of the next meeting",
+              "assignee": "Effiom",
+              "dueDate": "20 August 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Ayo to facilitate next session and Effiom as backup if he is unavailable",
+              "rationale": "Ayo had indicated interest to facilitate",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Gorga to document next session",
+              "rationale": "Gorga indicated interest and it was agreed",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Next session is on 21.08.24",
+            "Facilitation and documentation of the next session"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ambassador GitBook, Miro Board, Onboarding, Feedback Form, feedback, Writers WorkGroup, Items, Facilitation, Documentation",
+        "emotions": "Collaborative, interesting, Deliberative, fun"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "93eaeeee-601f-4764-a0d6-7eb54fc0afa1": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-14",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "Kenichi, Billy, Clement Umoh, esewilliams, malik, osmium, Mikasa, Yemi Solves, lord kizzy, kateri, King David, martinsoki, Merryman, Photogee, thisruti, WaKa, Slate, Gorga Siagian",
+        "purpose": "- Overview of the overall progress with the Core Contributor Certification Program  - Slate Automation Setup for Core Contributor Certification Program  - Quizzes Distribution - Malik NFT for Certification - Kenichi's Presentation Series Project "
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Overview of the overall progress with the Core Contributor Certification Program",
+            "Slate: Automation setup for Core Contributor Certification Program  ",
+            " Quizzes Distribution ",
+            "Malik NFT for Certification",
+            " Kenichi's Presentation Series Project"
+          ],
+          "actionItems": [
+            {
+              "text": "Work on completing the automation",
+              "assignee": "Slate",
+              "status": "done",
+              "dueDate": "21 August 2024"
+            },
+            {
+              "text": "task assignment for NFT to Malik ",
+              "assignee": "Slate",
+              "dueDate": "14 August 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "70% will be the passing score for each quiz ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "most of the group agreed",
+              "opposing": "Nil "
+            },
+            {
+              "decision": "Test the automation",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "nil",
+              "opposing": "nil "
+            },
+            {
+              "decision": "Gorga and Osmium to shift all the quizzes from Google docs to Google forms ",
+              "rationale": "nil ",
+              "opposing": "nil "
+            }
+          ],
+          "discussionPoints": [
+            "Slate started the meeting welcoming everybody ",
+            "Then Slate explained the overall progress with the \"CCCP\" , in which he mentioned that we have complete all the 17 spin off project infographics and their videos ",
+            "Then he moved over to the quizzes progress in which he showcased that out 17 quizzes, 12 have been reviewed and paid out while 5 are in progress whose completion is necessary for the CCCP to go live ",
+            "Then he showcased the automation he set up for the certification program. it was mentioned that since we are going to be having 17 classrooms, one for each spin-off project, each classroom will have three things: an infographic, a video and the quiz for that spin-off project ",
+            "Inititally 1 classroom code is going to be shared with every core contributor, and in order to receive the next classroom code the core contributor will have to pass the quiz for that specific classroom. If they are not able to pass in one attempt, the journey for the certification will come to an end and that core contributor will have to wait till the next batch of the certification program.",
+            "In case of passing the quiz , the automation will come in place and take it from there and will automatically evaluate if you have passed the quiz or not. If you have, you will receive an email to your given email address, which will give you the classroom code for the next  classroom, and so on until you reach the end of  certification program and complete all 17 spin off projects.",
+            "In order for everything to be transparent, a \"Dashboard Sheet \" will also be shared with everybody which will automatically fetch all the data from all the classrooms and display everyone's results and how much progress they have made.",
+            "Then Slate advised Malik to start the creation of the NFTs for certification. ",
+            "Slate also prepared a small test for testing the automation, in which 3 forms were given to everybody and each form was completely automated. The automations were perfectly tested and finalized.",
+            "Then Slate distributed some quizzes to the meeting participants ",
+            "Then Kenichi gave a presentation for the project he proposed which is \"Presentation Series\", everybody really liked the presentation.",
+            "The automation also received a lot of positive remarks and everybody is looking forward to the final product."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Automation , Presentation, Testing, Task Assignment, passing criteria ",
+        "emotions": "productive,  Collaborative, Businesslike."
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "1ef51976-7ff4-4696-9a37-6e7dd845b311": [
+    {
+      "workgroup": "Africa Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-06-27",
+        "host": "esewilliams",
+        "documenter": "LadyTempestt",
+        "peoplePresent": "Peter, Sucren, esewilliams, Kenichi, Ayodele, Clement Umoh, Isaac, 5oundwave5, LadyTempestt, Fani, Sama, martinsoki, Onize, Onyeka, Emmanuel, kateri",
+        "purpose": "Research on best African countries to spread the guild",
+        "otherMediaLink": "https://www.wada.org/",
+        "workingDocs": [
+          {
+            "title": "Doc 2",
+            "link": "https://docs.google.com/forms/d/1ICRk-4ycBZ7LZkbVVnISnlQKhB-7K73kL4wHu0EL91I/edit"
+          },
+          {
+            "title": "African Guild Meeting Agenda: 15th August, 2024",
+            "link": "https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing"
+          },
+          {
+            "title": "SingularityNET Africa AMA Registration",
+            "link": "https://docs.google.com/forms/d/1ICRk-4ycBZ7LZkbVVnISnlQKhB-7K73kL4wHu0EL91I/edit"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with Ese greeting everyone in all the African languages. \n\nAction items from the last meeting:\n\nIdentify and touch base virtually with other AI/Web3 communities across Africa \nhttps://www.wada.org/\nhttps://www.wims.io/\nAfrican Leadership University (ALE) Rwanda\n\nSucre and Love to create an onboarding structure for new members (everyone is free to participate) - *Completed*\nEveryone to contribute to Skill Database Form (completed and paid out).\nClement to conduct research on best countries to spread and penetration strategies (Phase 1 completed). Clement says he will start rolling out phase two soon and share it in the next meeting \nAyo to create Initiative and Contribution Framework Document.\nTownhall Updates by Tuso 25th\nEse and Ayo gave updates on the AMA session; Onize is working on the banner and graphics for it. Ayo says we should try and bring in other African countries members to join in the session through a marketing strategy. \n\nBudget fitting: we got consent but we need to discuss how to cut down costs in our budget because of limited AGIX during our next meeting.\n\nDiscussion item: How do we get more African countries to join the guild and participate in the program? \na) Onize suggested doing a survey or research on what will get people from different countries involved. She also suggested reaching out to open-ended communities with enough people from different African countries by asking them to fill out a survey form on if they would like to get involved with the SNET ambassador community or SNET in general.  \nb) Fani from Rwanda suggested giving out merchandise to AI-based students to introduce SingularityNET to them.\nc) Kenichi suggested offering people we are reaching out to something tangible like a contribution framework on how we work to get them interested.  \nd) Boaz said that physical workshops work best in the Democratic Republic of Congo.  \ne) Sama Lesky said that in the Cameroon context, we can partner with organizations that organize tech competitions and boot camps. \nf) Emmanuel(advanceameyaw) from Ghana suggested virtual workshops and meetups based on Blockchain and AI, like SingularityNET, the vision, what they seek to achieve, the benefits of having a decentralized AI marketplace.\n\nWe discussed whether we should have a cap on the number of ambassadors we want in the African guild from each African country including Nigeria, and think about incentivizing people to bring in members from other African countries outside Nigeria within budget.",
+          "actionItems": [
+            {
+              "text": "Clement to conduct research on best countries to spread and penetration strategies - he is to bring an update on phase 2 to our next meeting.",
+              "assignee": "Clement Umoh",
+              "dueDate": "4 July 2024",
+              "status": "done"
+            },
+            {
+              "text": "Ayo to share the document on Initiative and Contribution Framework Document on Discord for everyone to add comments to it.",
+              "assignee": "Ayodele",
+              "status": "done",
+              "dueDate": "11 July 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to have our first AMA session tomorrow (28th June) by 5pm UTC.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "African, African guild, AMA Session Updates, membership, membership cap, engaging other African countries, virtual events, physical events, DRC, Ghana, Cameroon, Rwanda, merchandise, student, Partnership, contribution framework, contribution, survey , Budget fitting, skills database, Wada, Wims",
+        "emotions": "funny , contributive"
       },
       "type": "Custom",
       "noSummaryGiven": false,
