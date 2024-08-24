@@ -39,6 +39,8 @@ Automates transaction JSON handoff from Treasury Manager to Treasury dApp
 
 
 
+**Last Quarter Report:**
+
 
 
 **People who are interested in implementing parts of the proposal:**
