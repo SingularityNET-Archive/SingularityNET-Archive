@@ -70,21 +70,29 @@ Personally, I feel the basics here is that we don't have a straightforward onboa
 
 I would also love to see that the Onboarding Workgroup will become the first point of contact for new members and we use the last 10mins of our meetings to engage with new members, know their skills and help them locate the best workgroup based on their skills.
 
-As regards to the survey, there were lots of comments for a one on one session, I also think we can implement that by assigning members to actual help newcomers into the program, I feel the work is too much for one person and I also noticed that the green leaf thingy that Peter and Vani talked about in one of our previous meetings can only be seen if you are using discord through a PC
+As regards to the survey, there were lots of comments for a one on one session, I also think we can implement that by assigning members to actual help newcomers into the program, I feel the work is too much for one person and I also noticed that the green leaf thingy that Peter and Vani talked about in one of our previous meetings can only be seen if you are using discord through a PC.
+
+
 
 Hello my name is Gorga Siagian, I would like to share my suggestions regarding this onboarding meeting. We recommend that in this onboarding meeting, there should be subtitles other than in English so that participants can understand what is being discussed, because each vocabulary issued by the person speaking is different so it can help if there are subtitles other than English. Then I made a suggestion that in our discord we should make a welcome bot, so that to welcome people who have just joined the SNET discord and we know it and can direct them to the ambassador program if they are interested.
 
+
+
 Hi I am Daniel Oladepo. I believe in the Onboarding session there should be a document shared that includes details and steps of how new members can benefit in the community or contains information they should be aware of.
+
+
 
 Hey I’m Onize, I want to suggest we foster and grow collaboration with other WGs and guilds. It will favor the ecosystem and new folks too. We can create a doc showing actionable points to this, and the main goal which is to help new folks in each WGs understand the SingularityNET ecosystem.
 
 
 
-Hello, I am Kateri. I suggest that we should c onsider implementing a live chatbot for immediate assistance because it is not possible that someone can be active 24/7 to attend to new members.
+Hello, I am Kateri. I suggest that we should c onsider implementing a live chatbot for immediate assistance because it is not possible that someone can be active 24/7 to attend to new members.Assign members specifically to help newcomers integrate into the community and understand the ecosystem. I believe that  they should be like 2 or 3 members with the role of welcoming newcomers always and that after each meeting they are to chat them up and help direct them properly.
 
-Assign members specifically to help newcomers integrate into the community and understand the ecosystem. I believe that  they should be like 2 or 3 members with the role of welcoming newcomers always and that after each meeting they are to chat them up and help direct them properly.
 
-Hi, i am Martinsoki. we need adequate customer support? How does implementing a live chatbot sound? Or customer support email?
+
+Hi, I am Martinsoki. we need adequate customer support? How does implementing a live chatbot sound? Or customer support email?
+
+
 
 Hi, I am Clement (boy_petrona). I guess I suggested earlier that the entirety of the documents and media we create during this process be merged into a single comprehensive documentation that would serve as a blueprint for the onboarding process. This can then be translated across multiple languages where necessary. I believe having this singular blueprint document would allow minor changes where necessary, rather than having to overhaul major individual documents and media which is sometimes resource intensive.
 
