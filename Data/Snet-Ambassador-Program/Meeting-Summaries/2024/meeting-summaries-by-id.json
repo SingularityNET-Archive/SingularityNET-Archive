@@ -24997,6 +24997,112 @@
       "canceledSummary": false
     }
   ],
+  "99704b48-ff35-47e1-8f2c-dd2d936943d9": [
+    {
+      "workgroup": "Research and Development Guild",
+      "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-21",
+        "host": "lordkizzy",
+        "documenter": "lord kizzy",
+        "peoplePresent": "AJ, Advanceameyaw, Clement Umoh, lord kizzy, Seun Tunde, Ubiodee, Yemi Solves",
+        "purpose": "R&D Updates and Discussions ",
+        "workingDocs": [
+          {
+            "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+            "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+          },
+          {
+            "title": "Kenichi's proposal: LEGACY v0.1",
+            "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+          },
+          {
+            "title": "Reputation System using SoulBound Tokens (SBTs) ",
+            "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+          },
+          {
+            "title": "Q3 Research & Development Guild Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+          },
+          {
+            "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+            "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+          },
+          {
+            "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+            "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+          },
+          {
+            "title": "LEGACY vs Web3 Contributor Dashboard",
+            "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+          },
+          {
+            "title": "R&D Guild Q3 Operations Update ",
+            "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+          },
+          {
+            "title": "R&D Guild Proposal Template",
+            "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+          },
+          {
+            "title": "New Collaboration Skills Database Proposal",
+            "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Welcoming new Members and Introduction",
+            "Review of last meeting summary Action Items",
+            "UPDATE STATUS ON DEVELOPMENT ",
+            "NEW OPERATIONS SYSTEM GOING FORWARD: R&D Proposal Template"
+          ],
+          "actionItems": [
+            {
+              "text": "Guillermo to dispurse funds to Duke (The final part of project's allocation) and ROJO (For Licenscing and hosting)",
+              "assignee": "Guillermo",
+              "dueDate": "21 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Guillermo and Lord kizzy to present the final draft for the new Operations System",
+              "assignee": "Guillermo, lord kizzy",
+              "dueDate": "21 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences",
+              "assignee": "lord kizzy",
+              "dueDate": "28 August 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We have decided to procced with the transisition from the development of the Socioal Media Automation tool to an Open source platform called MixPost",
+              "rationale": "a poll was conducted to approve this decision and a Fianal report will be presented at the end of the Quarter.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting",
+            "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the workdone so far visually, and requested for feedback on if it would be suitable to add existing Data to the Database, Lordkizzy made some clarity on the scope of the project and suggested that the exisiting data gets differentiated from the new data, they also requested for more two weeks from the inital deadline for development and testing.",
+            "R&D Guild Proposal Template: Lord kizzy presented the final draft of the proposal template the group for feedback, here is the document: https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit , he also highlighted the timeline for this process; New Proposal Submission Applications: August 27th - September 3rd Review process: September 4th - 10th Community voting: September 11th - 18th"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, skills database, Database",
+        "emotions": "Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "33c6c30a-4d6e-4018-98de-48e1e9db2daf": [
     {
       "workgroup": "Governance Workgroup",
@@ -25103,6 +25209,82 @@
       "tags": {
         "emotions": "Friendly, decisive, focused",
         "topicsCovered": "consent process, Q4 2024 budgets, Q3 2024 quarterly reports, consent forms, core contributors, deadlines, publicity, community engagement, timeline, Budget , Quarterly Report, minimal budget, late submission"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "3091c0ef-2a2f-4a71-a21d-47ba2748c795": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-06",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, Effiom, hogantuso, CollyPride, Will Tatz, Sucre n Spice, osmium, Billy, Zalfred, Cjfrankie ",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "110",
+        "timestampedVideo": {
+          "url": "https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "00:00 Intro \n00:11 Agenda\n01:24 What is the Ambassador Program?\n01:58 Mentions\n02:02 AGI-24 conference currently live; livestream presentations plus Chillout room run by AI Ethics Workgroup.\n02:28 Budget constraints due to fall in token price - OpenGov WG\n03:58 Onboarding WG - training session on documentation skills\n05:25 Open round \n05:44 Quick temperature check on budget consent process"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Today's Town Hall was short, since attendance was low due to it being August and many people being on holiday, and overlap with the AGI-24 virtual conference.\n\nMentions this week included:\n- AGI-24 conference opened today (13th-16th Aug 2024) https://agi-conf.org/2024/, with livestream presentations each day plus a chillout room/watch party run by the Ambassador Program's AI Ethics Workgroup\n\nPossible budget constraint implications of the recent fall in token price - will be further discussd in Open Goverance WG on Thurs\n\nForthcoming training session from Onboarding WG on 15th August, on documentation skills\n\nTimeline has been established in today's Governance WG call for the Q4 budget decision process:\n\n- Budgets and Q3 reports submitted:  Monday 9th Sept 23:59 UTC\n- Deadline for first consent form: Thurs 12th September, 23:59 UTC\n- Individual forms are shared for any WGs that have a \"don't consent\" Fri 13th Sept\n- Deadline for core contributors to submit these: Monday 16th Sept, 23:59 UTC\n- First discussion meeting: Tues 17th Sept in the Governance WG call.\n- WGs with outstanding concerns after this meeting have till Sunday 22nd Sept, 23:59 UTC to amend and resubmit their budgets\n- Last round of consent forms go out  Mon 23rd Sept\n- Deadline for core contributors to submit forms Weds 25th Sept, 23:59 UTC\n- Final discussion meeting: Thurs 26th September in the Open Governance meeting\n\n\n\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AGI-24, conference, chillout, chill room, AI Ethics WG, Budget , Documentation, training, Onboarding WG, token price, budget constraints, consent process, Q4 budget decision",
+        "emotions": "relaxed, brief, short, friendly "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "7e08175e-5702-4d75-866e-ff6e655bac4f": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-13",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, Effiom, hogantuso, CollyPride, Will Tatz, Sucre n Spice, osmium, Billy, Zalfred, Cjfrankie ",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "110",
+        "timestampedVideo": {
+          "url": "https://youtu.be/MFS-b5aCsEw?si=preYo7doO7LdJAvA",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "00:00 Intro \n00:11 Agenda\n01:24 What is the Ambassador Program?\n01:58 Mentions\n02:02 AGI-24 conference currently live; livestream presentations plus Chillout room run by AI Ethics Workgroup.\n02:28 Budget constraints due to fall in token price - OpenGov WG\n03:58 Onboarding WG - training session on documentation skills\n05:25 Open round \n05:44 Quick temperature check on budget consent process"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Today's Town Hall was short, since attendance was low due to it being August and many people being on holiday, and overlap with the AGI-24 virtual conference.\n\nMentions this week included:\n- AGI-24 conference opened today (13th-16th Aug 2024) https://agi-conf.org/2024/, with livestream presentations each day plus a chillout room/watch party run by the Ambassador Program's AI Ethics Workgroup\n\nPossible budget constraint implications of the recent fall in token price - will be further discussd in Open Goverance WG on Thurs\n\nForthcoming training session from Onboarding WG on 15th August, on documentation skills\n\nTimeline has been established in today's Governance WG call for the Q4 budget decision process:\n\n- Budgets and Q3 reports submitted:  Monday 9th Sept 23:59 UTC\n- Deadline for first consent form: Thurs 12th September, 23:59 UTC\n- Individual forms are shared for any WGs that have a \"don't consent\" Fri 13th Sept\n- Deadline for core contributors to submit these: Monday 16th Sept, 23:59 UTC\n- First discussion meeting: Tues 17th Sept in the Governance WG call.\n- WGs with outstanding concerns after this meeting have till Sunday 22nd Sept, 23:59 UTC to amend and resubmit their budgets\n- Last round of consent forms go out  Mon 23rd Sept\n- Deadline for core contributors to submit forms Weds 25th Sept, 23:59 UTC\n- Final discussion meeting: Thurs 26th September in the Open Governance meeting\n\n\n\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AGI-24, conference, chillout, chill room, AI Ethics WG, Budget , Documentation, training, Onboarding WG, token price, budget constraints, consent process, Q4 budget decision",
+        "emotions": "relaxed, brief, short, friendly "
       },
       "type": "Custom",
       "noSummaryGiven": false,
