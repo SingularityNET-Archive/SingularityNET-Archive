@@ -24704,6 +24704,114 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-28",
+      "host": "Guillermo",
+      "documenter": "lord kizzy",
+      "peoplePresent": "AJ, Advanceameyaw, Clement Umoh, lord kizzy, Yemi Solves, Guillermo, Nengi, Ese Williams, osmium, CollyPride, Kenichi, barnabas",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "Follow Up > New Operations System Deployment:  Announcements and Follow Up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges",
+          "Kenichi on NDA for the Legacy project."
+        ],
+        "actionItems": [
+          {
+            "text": "Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences",
+            "assignee": "lord kizzy",
+            "dueDate": "4 September 2024",
+            "status": "todo"
+          },
+          {
+            "text": "kenichi to present the Skeletal framework for the Legacy system.",
+            "assignee": "Kenichi",
+            "dueDate": "4 September 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Team members to update the Repository with a documentation of the progress so far ",
+            "assignee": "AJ, Advanceameyaw, Kenichi, Rojo, WaKa",
+            "dueDate": "28 August 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided that workgroup leads, development team and the team of onboarders will get the admin status to the data from the Collaboration Skills Database",
+            "rationale": "Workgroup leads and the team of onboarders can use this data to onboard new members into the program",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting",
+          "Guillermo gave an introduction to the new members on the updates from the guild so far.",
+          "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the workdone so far visually, and requested for feedback on if it would be suitable to add existing Data to the Database, should individuals be allowed to share re edit their data, also who are the individuals that would be granted the admin access for the projects and so on.  Lordkizzy made some clarity on the scope of the project and suggested that the existing data gets differentiated from the new data, admin access should be granted to the Onboarders, WG leads and the Development team,  they also requested for more two weeks from the initial deadline for development and testing.",
+          "UPDATE STATUS ON DEVELOPMENT: Kenichi gave the updates on the Legacy System. he spoke about the necessity of having an NDA for the project, he also mentioned that work is ongoing on the landing page so that WGs can incorporate all the work they have been doing, and a presentation will be done in the next call showing the skeletal system showing the wire frame with some UI on the Legacy System. ",
+          " New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process, Kenichi presented some concerns on the clarity of the announcement that was  posted on our social media"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, Documentation, voting, skills database",
+      "emotions": "Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised, Friendly"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
