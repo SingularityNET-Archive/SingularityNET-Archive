@@ -2,6 +2,14 @@
 
 Building a comprehensive loyalty system using SoulBound Tokens (SBTs) to track contributions and key performance indicators (KPIs) across various guilds and workgroups is an ambitious and innovative project.
 
+
+
+Q4 Focus: ****
+
+**Expected costs:**
+
+**Comment:** $1000 is not feasible for the success of this milestone, unless we remove some items and work at the pace, 1000 USD will get us.
+
 ### 1. Define Objectives and Requirements
 
 Objectives:
