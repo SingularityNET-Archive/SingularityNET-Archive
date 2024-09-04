@@ -103,7 +103,7 @@ Treasury Automation Workgroup Sessions
 
 Distribution documentation - Transaction metadata auditing, registering and analyzing.
 
-Tooling to make reward distribution easier (Also)
+Tooling to make reward distribution easier
 
 Treasury Manager Updates ( provided by Swarm Treasury Guild Service)
 
@@ -260,8 +260,6 @@ Provide a monthly stand-up to coordinate and plan next steps for Treasury Automa
 
 
 Provide additional weekly sessions for the opportunity and lessons to manage Ambassador Program Treasury transactions.
-
-
 
 # Documentation
 
