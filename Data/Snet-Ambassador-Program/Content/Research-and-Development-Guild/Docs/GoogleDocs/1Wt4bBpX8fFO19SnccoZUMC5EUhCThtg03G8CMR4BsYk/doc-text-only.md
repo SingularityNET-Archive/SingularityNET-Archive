@@ -66,7 +66,7 @@ Automate KPI tracking where possible using integrated tools (e.g., content manag
 
 Blockchain Selection:
 
-Choose a blockchain platform (e.g., Ethereum, Binance Smart Chain) based on scalability, cost, and community support.
+Choose a blockchain platform (e.g., Ethereum, Cardano) based on scalability, cost, and community support.
 
 Smart Contracts:
 
