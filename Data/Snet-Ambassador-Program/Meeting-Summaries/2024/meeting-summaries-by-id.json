@@ -24997,6 +24997,126 @@
       "canceledSummary": false
     }
   ],
+  "2423702f-cc42-4899-a259-c56f1861e893": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-05",
+        "host": "Ayo",
+        "documenter": "Effiom",
+        "peoplePresent": "Ayo, Effiom, Peter, Gorga, Yemi, Clement, Kenichi, Onyeka, Kateri Nick, Tuso, Mikasa, Cjfrankie, Tevo, Zalfred, Photogee, Merryman, Billy, Ese Williams, martinsoki, Vasu, Aguboss, King David",
+        "purpose": "Strategy Guild Workshop Day Two - Solution Framework Session One",
+        "otherMediaLink": "https://app.read.ai/analytics/meetings/01J4HM6C1FQS90ACHVRJ4Y1X3V?utm_source=Share_CopyLink",
+        "workingDocs": [
+          {
+            "title": "Strategy Guild Membership",
+            "link": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit"
+          },
+          {
+            "title": "Possible Survey Questions [Strategy Guild]",
+            "link": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+          },
+          {
+            "title": "Strategy Guild Working Document",
+            "link": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+          },
+          {
+            "title": "Strategy Guild 5th August Session Agenda",
+            "link": "https://docs.google.com/document/d/1vWGBp2qI75-aFT5KTpDh2mcifxjYYcnOwhqSzaMu8m8/edit"
+          },
+          {
+            "title": "Strategy Guild Meeting Notes - 29th July 2024",
+            "link": "https://docs.google.com/document/d/1GhsrimDSiQRtmyb_Ije1jWJ6q1GXtJ4ofGDnBQPtpeg/edit#heading=h.6fyp3cl3ve7w"
+          },
+          {
+            "title": "Strategy Guild Workshop Day Two Solution Framework Session One",
+            "link": "https://docs.google.com/document/d/1TAP-LkM7nxBQPnPwrU3WT_0MXkTouE0ZQ8DwE9pLaGc/edit"
+          },
+          {
+            "title": "Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One",
+            "link": "https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit"
+          },
+          {
+            "title": "Ideation Workshop Session Report",
+            "link": "https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Everyone to contribute to the Possible Survey Questions [DONE]\n\n3. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n4. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n5. YemiSolves to document and share the Workshop Session [DONE]\n\n6. Onyeka to mentor Yemisolves [DONE]\n\n7. Adopt Last Meeting Notes [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - 2 new people (i.e. Yedi and Martin Soki) have indicated an interest in becoming core members of the Strategy Guild since the last meeting, however, they haven’t met the requirements.\n\nAyo explained how everyone can become a member, and also contribute and be a part of what is happening within the guild.\n\n\nSTRATEGY GUILD CORE TAG (VERIFICATION AND ASSIGNING) - There is a need for verification of those who have met the requirements and are eligible for the Strategy Guild core member tag. \nCurrently, 5 people have met the requirement (i.e. Ayo, Gorga, Effiom, Tuso, and Lord Kizzy). Their other Gs and WGs tags need to be verified.\n\nAyo highlighted that this is meant to be an async process and should be managed by someone. Effiom was nominated to take up this role and he accepted.\nOther points raised during this discuss;\n* Should there be tags for intending members of the guild who are yet to meet all the requirements to become Core members?\n\n* Which of the requirements should be relaxed for this category?\n\n\nSTRATEGY GUILD Q3 RESEARCH - The document is closed, no more contributions. The next phase is discussions on the execution.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE ONE - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n* Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions\n",
+          "actionItems": [
+            {
+              "text": "Continue contribution to the Guild’s working document",
+              "status": "todo"
+            },
+            {
+              "text": "Core members should indicate interest in facilitating the new sheet in the working doc",
+              "status": "todo"
+            },
+            {
+              "text": "Effiom to verify the 5 people that have already met the requirements for the Core member tag",
+              "assignee": "Effiom",
+              "status": "todo"
+            },
+            {
+              "text": "Yemi Solves to document and share notes of the Workshop Session",
+              "assignee": "Yemi Solves",
+              "status": "todo"
+            },
+            {
+              "text": "Effiom to draft and make meeting notes available",
+              "assignee": "Effiom",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The Strategy Guild Core Membership tag verification and assignment process to be managed by Effiom",
+              "rationale": "This is an important aspect of the Guild membership process, hence the need to have a verification process for all intending members",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Intending members of the Guild can get another tag, but to be a Core member of Strategy Guild you have to meet all the requirements",
+              "rationale": "There is a need for tag differentiation because some of the requirements to be a Core member of the Strategy Guild doesn't solely depend on the intending member, for instance the core contributor requirement.",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "The survey question for the Research has been closed, from next section we would start talking about execution",
+              "rationale": "The document has been opened for over a month, and in the last week no contribution was made. Also, there is need to start the research",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "The next meeting would be about improvements and execution",
+              "rationale": "This based on the workshop schedule",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Participants from other WGs are to join the next sessions",
+              "rationale": "This was communicated to participants before the start of the workshop",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Brainstorm, planning, ideating, interesting, Collaborative ",
+        "topicsCovered": "Guild Membership, Workshop, Ideas and Improvements, Core Membership, survey , Research, participation, contribution"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "4d051d48-0a35-45bb-af6e-50a8ceb79a51": [
     {
       "workgroup": "WG Sync Call",
@@ -25696,6 +25816,233 @@
       "tags": {
         "emotions": "Friendly, decisive, focused",
         "topicsCovered": "consent process, Q4 2024 budgets, Q3 2024 quarterly reports, consent forms, core contributors, deadlines, publicity, community engagement, timeline, Budget , Quarterly Report, minimal budget, late submission"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "60aaa417-7835-49d2-996f-68b2f5492374": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-12",
+        "host": "Ayo",
+        "documenter": "Effiom",
+        "peoplePresent": "Ayo, Effiom, Peter, Gorga, Yemi, Onyeka, Kateri Nick, Tuso, Mikasa, Cjfrankie, Photogee, Merryman, Billy, Ese Williams, King David, AJ",
+        "purpose": "Strategy Guild Workshop Day Three - Solution Framework Session Two",
+        "otherMediaLink": "https://app.read.ai/analytics/meetings/01J53MYQSR3B3GXMG4R3NA6HXD?utm_source=Share_CopyLink",
+        "workingDocs": [
+          {
+            "title": "Strategy Guild Meeting Notes - 5th August 2024",
+            "link": "https://docs.google.com/document/d/1a4S9jdv7BqNCk7QcB3-oE8CHygJR72abXYXJbpggOis/edit#heading=h.6fyp3cl3ve7w"
+          },
+          {
+            "title": "Strategy Guild 12th August Session Agenda",
+            "link": "https://docs.google.com/document/d/173h19fPORvau785j3KPEUB7hhwumG9KXOEO9-74TEmE/edit#heading=h.shxqnobd9709"
+          },
+          {
+            "title": "Ideation Workshop Session Report",
+            "link": "https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Strategy Guild Workshop Day Three Solution Framework Session Two",
+            "link": "https://docs.google.com/document/d/1gjkhZX0sQpa7SBL4uY0ZTjawdCS90YOvgLFzg4-fINA/edit"
+          },
+          {
+            "title": "Notes: Strategy Guild Workshop Day Three Solution Framework Session Two",
+            "link": "https://docs.google.com/document/d/1WinQlmlKoJY_P6DQ81QulCgpQcb70VrywjJeboY0jKE/edit"
+          },
+          {
+            "title": "Possible Survey Questions [Strategy Guild]",
+            "link": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+          },
+          {
+            "title": "Strategy Guild Membership",
+            "link": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit"
+          },
+          {
+            "title": "Strategy Guild Working Document",
+            "link": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "INTRODUCTION - Ayo delivered a welcome address, he stated that this meeting was the 3rd session of the Workshop being that we already had the Ideation session which was the 1st session, and the last meeting was the 2nd session. He highlighted that the next session would be the close-out session and it would be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt Last Meeting Notes - 05.08.2024 [DONE]\n\n6. Effiom to verify the 5 people who have already met the requirements for the Core member tag [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, 3 new people (i.e. Photogee, Kenichi, and Cjfrankie) have indicated an interest in becoming core members of the Strategy Guild.\n\nHaving met all the requirements, Kenichi was welcomed as a core member of the Strategy Guild. The document on how to become a core member of this guild is the Strategy Guild Membership docx\n\n\nSTRATEGY GUILD Q3 RESEARCH - Effiom shared updates on the Strategy Guild research and the positive collaborative nature of this survey.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE TWO - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n* Notes: Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions",
+          "actionItems": [
+            {
+              "text": "Continue contribution to the Guild’s working document",
+              "status": "todo"
+            },
+            {
+              "text": "Core members should indicate interest in facilitating the new sheet in the working doc",
+              "status": "todo"
+            },
+            {
+              "text": "Yemi Solves to document and share notes of the Workshop Session",
+              "assignee": "Yemi Solves",
+              "dueDate": "16 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Effiom to draft and make meeting notes available",
+              "assignee": "Effiom",
+              "dueDate": "19 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Yemi Solves to create and share a sheet for Gs/WGs rep to add other contributions to aid with the report and analysis of the workshop",
+              "assignee": "Yemi Solves",
+              "dueDate": "16 August 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The next meeting would be focused on report analysis, adoption, and adaptation.",
+              "rationale": "This is based on the outline for the Strategy Guild Workshop",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Participants from other WGs are to join the next sessions",
+              "rationale": "Representatives from Video WG, Writers WG and Marketing Guild are required for the Workshop and were duly notified",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guild Membership, Workshop Ideation, Core Membership, Research, survey , participation, contribution",
+        "emotions": "Brainstorm, planning, Ideating, interesting, Collaborative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "2ce3b325-0f24-4c3a-8489-b55bd34a63d0": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-19",
+        "host": "Ayo",
+        "documenter": "Effiom",
+        "peoplePresent": "Ayo, Effiom, Gorga, Yemi, Onyeka, Tuso, Cjfrankie, Photogee, Merryman, Billy, Kenichi, SubZero",
+        "purpose": "Strategy Guild Workshop Day Four - Solution Adoption Session",
+        "otherMediaLink": "https://app.read.ai/analytics/meetings/01J53MYQSR3B3GXMG4R3NA6HXD?utm_source=Share_CopyLink",
+        "workingDocs": [
+          {
+            "title": "Strategy Guild Meeting Notes - 12th August 2024",
+            "link": "https://docs.google.com/document/d/1LIO5AZIY86p7iFQYNUoSQ57qnwp3EDgYPvTmdNSxdxs/edit#heading=h.6fyp3cl3ve7w"
+          },
+          {
+            "title": "Strategy Guild Meeting Notes - 19th August 2024",
+            "link": "https://docs.google.com/document/d/1ZpiMlAUHPtIt8PGFK4xwb56NWYv4i5u0VmGeK9blR5Q/edit"
+          },
+          {
+            "title": "Strategy Guild 19th August Session Agenda",
+            "link": "https://docs.google.com/document/d/1vJzabpbpsFIhHpiPBDyNv4ILO7bUlC4Sn3A1CSIRSQk/edit"
+          },
+          {
+            "title": "Strategy Guild Working Document",
+            "link": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+          },
+          {
+            "title": "Strategy Guild Membership",
+            "link": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit"
+          },
+          {
+            "title": "Strategy Workshop Sessions (Report and Analysis)",
+            "link": "https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Strategy Guild  Workshop Ideation Session Questions Framework",
+            "link": "https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit"
+          },
+          {
+            "title": "Workshop Ideation Session Notes: Strategy Guild 29th July 2024",
+            "link": "https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w"
+          },
+          {
+            "title": "Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One",
+            "link": "https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit"
+          },
+          {
+            "title": "Notes: Strategy Guild Workshop Day Three Solution Framework Session Two",
+            "link": "https://docs.google.com/document/d/1WinQlmlKoJY_P6DQ81QulCgpQcb70VrywjJeboY0jKE/edit"
+          },
+          {
+            "title": "Strategy Guild Workshop Day Four Solution Adoption Session",
+            "link": "https://docs.google.com/document/d/1PwLP-zhdjkRJNzqfxftwKvTlcHY06kQMmn05BBFzTrw/edit"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "INTRODUCTION - The purpose of this meeting is on the final session of the Strategy Guild Q3 workshop and will be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt Last Meeting Notes - 12.08.2024 [DONE]\n\n6. Yemi Solves to create and share a sheet for Gs/WGs rep to add other contributions to aid with the report and analysis of the workshop [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Two intending members (Photogee and Cjfrankie) were encouraged to keep attending meetings as they have met all but one of the requirements to become Core Members of the Strategy Guild\n\nAyo highlighted the importance of active involvement in the Strategy Guild and that people can still show interest in facilitating the working document.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION ADOPTION SESSION - The session focused on discussing how these solutions could be best deployed and adopted by the different WGs, with various representatives providing insights and perspectives on the proposed strategies.\n\nHighlights and takeaways from the Solution Adoption Session\n\n1. In-WG/G Solutions Discussion: Gs/WGs representatives were advised to take a few minutes to share the solutions from the workshop at their respective meetings. Also, Adoption should be easier, hence the reason for proper representation of WGs during the 4 days of the workshop\n\n2. Solutions for improving Social media engagement and visibility: In a bid to speed up the Substack publication, Writers WG decided to assign Scribblers to various Gs/WGs meetings within the program.\n* Premium tool subscription and the importance of keyword research drawing insights from the “AI Cryptography” article by Mikasa. \n* The social media mixed post automation solution which is in the testing phase at R&D Guilid will be utilized by Video and Writers WG.\n* Content Calendar optimization based on the algorithm suggestions on the best time for social media post.\n\n3. Solutions roles/tasks and budgeting: Gs/WGs would decide on this and the Strategy Guild would follow up on the feedback.\n\n4. Solutions Feedback System for the Strategy Guild: Feedback Template and Form (Open/Monthly/Quarterly), and Tracking Sheet.\n\n5. Solutions Audit and Improvement Process/Plan for the Strategy Guild\n\n6. Gs/WGs have autonomy on whether to adopt these solutions. However, a feedback system would be created to assess the impact of the workshop\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions",
+          "actionItems": [
+            {
+              "text": "Continue contribution to the Guild’s working document",
+              "status": "todo"
+            },
+            {
+              "text": "Core members should indicate interest in facilitating the new sheet in the working doc",
+              "status": "todo"
+            },
+            {
+              "text": "Effiom to prepare and make meeting notes available",
+              "assignee": "Effiom",
+              "dueDate": "26 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Workshop Documenter Yemi Solves to Prepare the Final Workshop Report",
+              "assignee": "Yemi Solves",
+              "dueDate": "26 August 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Participants are to share the solutions from the workshop at their respective meetings",
+              "rationale": "Video WG, Writers WG and Marketing Guild representatives who were part of the workshop proposed these solutions",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Continue the conversation on the Strategy Guild Workshop adoption, impact, and Feedback system",
+              "rationale": "A retrospective look at the outcome of the workshop is important as it would be capture in the Q3 deliverables of the Guild and it would inform on the next steps for Q4",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "The proposed solution for the X channel within the SNET Discord should be discussed in the Marketing Guild",
+              "rationale": "This is part of the feedback representatives from Marketing Guild are to take back to their meetings",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "There is no autonomy or individual ownership of the solutions proposed and discussed during this workshop",
+              "rationale": "The workshop was a collaborative effort, hence the reason for proper representation of WGs during the 4 days of the workshop",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guild Membership, Workshop Ideation, Core Membership, Adoption, Solutions, Feedback Loops, Social Media Automation, Feedback system, content calendar, Keyword Research",
+        "emotions": "Brainstorm, Collaborative, insightful, funny , planning, new ideas, interesting, interactive"
       },
       "type": "Custom",
       "noSummaryGiven": false,
