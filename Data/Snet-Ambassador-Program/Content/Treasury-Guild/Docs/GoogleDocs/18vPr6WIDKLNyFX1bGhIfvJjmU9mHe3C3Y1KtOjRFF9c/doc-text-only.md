@@ -116,7 +116,7 @@ Then we Distribute deliverables and Roles and Schedule date and time for monthy 
 
 
 
-In the first phase we update DoDcumentations so that we have appropriate research and knowledge on exact things we need build and which order. This may require additional meetings at early stage.
+In the first phase we update documentation so that we have appropriate research and knowledge on exact things we need build and which order. This may require additional meetings at early stage.
 
 
 
