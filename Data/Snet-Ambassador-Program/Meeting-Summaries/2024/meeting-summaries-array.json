@@ -24394,6 +24394,74 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-07",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "Slate, malik, osmium, esewilliams, kateri, Billy, Clement Umoh, GorgaSeagian, lord kizzy, Photogee, Merryman",
+      "purpose": "- Updates regarding quiz reviewing by Slate - Budget Update by Slate - Ese and Osmium Presentation on \"Ai for Beginners\" ",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Updates regarding quiz reviewing by Slate",
+          "Budget update by Slate",
+          "Ese and Osmium, presentation on \"Ai for Beginners\" "
+        ],
+        "actionItems": [
+          {
+            "text": "Update the Notion page ",
+            "assignee": "esewilliams, osmium",
+            "status": "in progress",
+            "dueDate": "14 August 2024"
+          },
+          {
+            "text": "Assign NuNet quiz to Osmium ",
+            "assignee": "Slate",
+            "dueDate": "7 August 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "keep both \"centralised Ai\" and \"decentralised Ai\" as part of the course",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          },
+          {
+            "decision": "Distributing the video in sections of 2-5 min ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "Suggested by majority of the group ",
+            "opposing": "nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting welcoming everybody ",
+          "Slate discussed the shortcoming from the reviews regarding the quizzes and updated Osmium regarding it ",
+          "An update regarding the leftover budget was given to the group, that only approx $2,100 is left for education guild for this quarter ",
+          "Then the room was given to osmium and Ese to present the Notion page they set up for \"Ai for Beginners\"",
+          "There was discussion regarding course structure, teams, and video structure ",
+          "Slate conveyed that the project is proposed to be taken as an ideation in this Quarter, to set up a proper baseline for further proceeding with it .",
+          "osmium and Ese will make adjustments to the Notion page and present it in the next meeting ",
+          "Slate discussed that only one person is needed for Google Classroom setup."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Presentation, Ai for beginners, Rewards, ideation, Nunet, quizzes, Notion, video, centralised AI, decentralised AI, Course structure",
+      "emotions": "productive,  Collaborative, businesslike"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
@@ -24448,6 +24516,97 @@
     "tags": {
       "topicsCovered": "African, African guild, AMA Session Updates, membership, membership cap, engaging other African countries, virtual events, physical events, DRC, Ghana, Cameroon, Rwanda, merchandise, student, Partnership, contribution framework, contribution, survey , Budget fitting, skills database, Wada, Wims",
       "emotions": "funny , contributive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-08-17",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "lord kizzy, Gorga Siagian, Photogee, rebel, hotasiro, Berick, Tevo, Bles, martinsoki, kateri, malik, Merryman",
+      "purpose": "The meeting focused on budget problems, Sophiaverse collaboration, and the creation of video workgroup building.",
+      "mediaLink": "https://drive.google.com/file/d/1wPHHQIWjWzilwjWLWtAMTjcnPQqs4YZ9/view?usp=sharing",
+      "workingDocs": [
+        {
+          "title": "Gamers Guild Q3 Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1V3uSMWG-7e8P2fQpCa3ET0AE0aPhd58elvxI1iiMGqA/edit?gid=0#gid=0"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting commenced with Slate extending a warm welcome to all attendees. With everyone settled, Slate introduced an exciting new collaboration with Sophiaverse, where the focus would be on testing an advanced dialogue system within Roblox. The goal was to enhance NPC (non-player character) interactions using cutting-edge AI technology. Slate mentioned that a representative from Sophiaverse, Berick, would soon join the meeting to explain the details of the dialogue system.\n\nThe discussion then shifted to the pressing issue of the ongoing low AGIX token price, which was expected to impact the payment structure. After a brief deliberation, the group decided to halt payments for game preparation tasks and refrain from assigning new mentors. Additionally, payments for asset creation would be delayed until the AGIX token price stabilized.\n\nFollowing this, Lord Kizzy took the stage to present the completed video workgroup building. In his presentation, Lord Kizzy provided a comprehensive overview of the building. Upon entering the video workgroup, players are greeted by Killy, an NPC who welcomes new members and encourages them to have fun. Inside, players can find details about ongoing meetings, which are held every Friday at 16 UTC. Devon, another NPC, operates the display, while Malik and CryptoFly NPCs participate in the meeting, and Slate NPC is seen recording the session. Rojo NPC, as the workgroup lead, is seen facilitating the meetings. Players can interact with him through a proximity prompt to ask questions about joining the video workgroup. Rojo introduces himself and engages players in conversation, providing information on how to join the workgroup. Another NPC, representing Cardano Class, welcomes members and provides information about tasks for senior members, including roles like task manager, social media manager, and meeting facilitator. Judith NPC is seen documenting the session. Players can also visit the workstation area, where they are greeted by Lily Cupcake NPC. OEP NPC is busy working on a video, while in the Task Manager's Office, players meet Lord Kizzy's NPC, who is creating tasks for group members. The office also features a mini TV and refreshment center. In the Social Media Manager's Office, players can view YouTube awards and meet Osmium NPC, who is editing social media content. The presentation was well received by the members.(Watch the workgroup video via the link in the media section for better understanding.)\n\nSlate then showcased a new feature called the Rolling Camera for Workgroups. This feature automatically directs the camera to the required NPC when a player enters a workgroup building, enhancing the immersive experience.\n\nThe group then moved on to assigning the quarterly report task, which was given to Lord Kizzy.\n\nWith the formalities out of the way, the meeting transitioned into a gaming session, featuring the game \"Capture the Flag.\" During the game, Berick, the representative from Sophiaverse, joined the session. He encouraged the group to continue enjoying the game while he made preparations for his presentation on the dialogue system. The group had a great time playing the game.\n\nOnce the game concluded, Berick delivered his presentation on the advanced dialogue system. He introduced a system designed to enhance narrative-driven interactions in Roblox by integrating a Language Model (LLM) to role-play characters. This system generates automatic prompts based on contextual information, such as available dialogue options and scripted dialogue. It then sends these prompts to the LLM, which processes them and returns responses, allowing characters to engage in unique, dynamic conversations each time, rather than relying solely on pre-scripted dialogue.\n\nBerick highlighted several key features and functions of the system:\n\nDynamic Dialogue Generation: The system can take scripted lines (e.g., \"Welcome to the Gamers Guild. What would you like to know?\") and enhance them with additional context or flair, making each interaction slightly different and more engaging.\n\nContextual Awareness: The system integrates contextual data, like the state of the game or events (e.g., an enemy attacking), into the prompt, ensuring that the character’s responses are relevant to the current situation.\n\nResponse Handling: When a player asks a question (e.g., \"I want to make games like this\"), the system fetches the relevant scripted response, processes it through the LLM, and provides a personalized reply. The system is designed to guide conversations back to the game’s narrative if players go off-topic, ensuring a coherent and immersive experience.\n\nDialogue Tree Integration: While the system is primarily built around a dialogue tree structure, it can also incorporate other types of contextual data, such as ongoing or past discussions, allowing for intelligent off-topic chitchat while eventually steering the conversation back to the main narrative.\n\nCharacter-Specific Knowledge: Each character in the game can have its own data container, meaning that they are knowledgeable only about specific areas relevant to their role. For example, a treasury manager would refer players to someone else for onboarding information, maintaining a realistic and immersive character interaction.\n\nLooking ahead, Berick emphasized the importance of testing the system to identify and resolve potential issues, such as handling off-topic responses or preventing the LLM from generating irrelevant content. The ultimate goal is to create smarter, context-aware NPCs in Roblox that deliver more engaging and dynamic dialogues while adhering to the game’s narrative structure.\n\nSlate concluded the meeting by thanking all participants for their contributions. Overall, it was a productive and engaging session.\n",
+        "gameRules": "Capture the Flag: The first team to capture three flags wins.\nRed Team: Devon, Berick, Blesian Rusak, Kahteri, Lord kizzy, Zaif Malik\nBlue Team: Hotasiro, Greatnessone4, martinsoki, Merryman, photogee",
+        "leaderboard": [
+          "Red Team"
+        ],
+        "actionItems": [
+          {
+            "text": "Department Creation - Education Guild",
+            "assignee": "malik, hufiumer69",
+            "status": "in progress",
+            "dueDate": "31 August 2024"
+          },
+          {
+            "text": "Department Creation -  Treasury Guild",
+            "assignee": "martinsoki, scare-crow",
+            "status": "in progress",
+            "dueDate": "31 August 2024"
+          },
+          {
+            "text": "Department Creation - Archival Workgroup",
+            "assignee": "GorgaSeagian, kateri",
+            "dueDate": "31 August 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - Dework PBL",
+            "assignee": "rebel, Photogee",
+            "dueDate": "31 August 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - RnD Guild",
+            "assignee": "oep, CollyPride",
+            "dueDate": "31 August 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Quarterly Report Creation",
+            "assignee": "lord kizzy",
+            "dueDate": "14 September 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The group decided to suspend payments for game preparation tasks and not assign new mentors. Payments for asset creation would also be postponed until the AGIX token price stabilized.",
+            "rationale": "To cope with the ongoing low AGIX price"
+          },
+          {
+            "decision": "Lord Kizzy will create the quarterly report.",
+            "rationale": "He has relevant experience in creating quarterly reports."
+          }
+        ],
+        "discussionPoints": [
+          "Low AGIX token price was discussed ",
+          "We had a discussion on advance dialogue system presented by sophiaverse representative",
+          "Lordkizzy presented the video workgroup building and NPC animations, which were well received."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Roblox, metaverse, department Creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, sophiaverse",
+      "emotions": "Friendly, Collaborative, Deliberative, informative, focused on reporting",
+      "gamesPlayed": "capture the flag"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -24934,6 +25093,88 @@
     "tags": {
       "topicsCovered": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, skills database, Database",
       "emotions": "Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-21",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "Duke, Kenichi, lordkizzy, Ayo, Felix, guillermolucero, Effiom, PeterE, CallyFromAuron, Stephen [QADAO], Sucre n Spice",
+      "purpose": "Weekly GovWG Meeting. This meeting focused on objections to Writers' WG's Q2 budget.",
+      "mediaLink": "https://app.read.ai/analytics/meetings/01HYDQ846FYREVCXV6PJ7818JY?utm_source=Share_CopyLink&section=transcript",
+      "workingDocs": [
+        {
+          "title": "WWG (Writers' WorkGroup) Q1 Report",
+          "link": "https://docs.google.com/document/d/1mmwuXvgzN2c9Stat8UBvL2Zy4spZrmzKhpAlSYaQ14A/edit?usp=sharing"
+        },
+        {
+          "title": "WWG Q2 Proposal",
+          "link": "https://docs.google.com/document/d/1rLNtM-hkxjPg31L9x1wtsPHuxdIg5jZ3sJhj05T3HK0/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Writers Workgroup Budget Proposals Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1uD_yi7UyZNaNIsGUnEQ3gqXGUdzS0GNWLmtF5dbTEvM/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We noted that the objections raised in round 1 of consent process to Marketing Guild’s budget have been resolved, so Marketing is now approved.\n\nObjections in Consent Round 1 to Writers’ WG were because their budget was not submitted in time. But it has now been updated, and there have been further objections in this consent round. The objections are shown in the budget calculator sheet; they include asking for:\n- detailed budget breakdown, including hours spent on tasks\n- clearer deliverables\n- tracking of past achievements, including more detail on outputs - e.g. number of posts, conversion rate to followers on social platforms, email signups\n- reasons for increased budget, plus the overall size of the increase (50% higher than Q1)\n\n1. and 2. The meeting accepted that there *is* a detailed budget breakdown and info on deliverables, including hourly rates; altho the link to it wasn’t obvious and had been missed by some people. (learning point for the group: make the link a bit more obvious next time.)\n\n3. Info on past achievements is in the group’s Q1 report. The meeting noted that Zealy’s free plan has limitations on analytics, but it can track number of participants and number of quests claimed, and these have been included in the Q1 report. On article views on Substack and Medium, the meeting noted the difference between views and actual reads: Kenichi said the number of reads was not in the report, but shared his screen to show read numbers - due to export limitations, detailed analytics are only shared during WG meetings. (Learning point:for all workgroups, try and include your achievements in your budget somehow.)\n\n4. The budget increase is for \n- mainly, the points system (which rewards various tasks and supports onboarding new scribes)\n- new social media (Twitter in Pidgin, French, and Spanish)\n- Zealy (supporting Zealy Sprints, which were previously biweekly but are now monthly at $450 per sprint, with rewards for top contributors and random participants). \nNo other items saw an increase.\n\nQuestions were raised on creation of additional Twitter accounts - is there collaboration with Translation workgroup, LatAm or African Guild, rather than expanding the budget? Kenichi said he plans to talk to Inés about Spanish translations, and engage native Spanish and French speakers for Twitter channels.\n\nThe meeting noted Video WG’s social media budget is lower; but Writers’ WG’s social media has wider responsibilities.\n\nDiscussion of centralised approach and distribution of responsibilities in WWG: the budget was not submitted in time because Kenichi was ill and nobody else could do it. Kenichi said there are efforts to improve: Scribe role can now manage tasks like budget submission.\n\nDiscussion of the points system: several people felt it is untransparent, and that it pushes the WG’s budget up. Kenichi acknowledged that it is untransparent, but assured that it is designed fairly; he also argued it improves engagement and scalability, with rewards scaling based on participation and a fixed budget cap.\n\nR&D Guild members raised concerns about governance consistency: similar issues re R&D’s budget have been handled differently from Writers’ issues. (Specifically, one R&D Guild project was accidentally omitted from R&D’s total budget; it was added before the deadline, but the total on the budget spreadsheet was accidentally not updated, so if people were looking at the total rather than at R&D’s budget, they might have been consenting to the wrong total - and the decision was made in a previous meeting to remove the late-added project from R&D’s budget). There was a suggestion that the Experiments pool could be used to address the extra R&D proposal.\n\n\n",
+        "actionItems": [
+          {
+            "text": "Kenichi will share the scribe and scribbler requirement documents, and the WG entry tests, with the Governance workgroup for review and feedback.",
+            "assignee": "Kenichi",
+            "status": "todo",
+            "dueDate": "22 May 2024"
+          },
+          {
+            "text": "Kenichi will share info on today's discussion in the Writers Workgroup Discord today to get more comments on the first draft of the budget, and will work towards making it better and fairer for everyone.",
+            "assignee": "Kenichi",
+            "status": "todo",
+            "dueDate": "21 May 2024"
+          },
+          {
+            "text": "Kenichi to provide a written response addressing all objections listed to their budget proposal. ",
+            "assignee": "Kenichi",
+            "dueDate": "23 May 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Marketing Q2 budget is now approved.",
+            "rationale": "Objections have all been addressed",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Kenichi will share a written response addressing all raised objections.",
+            "rationale": "Objections to the Writers' WG budget are not resolved; people who are not in this meeting might need to see a full response addressing all the points."
+          }
+        ],
+        "discussionPoints": [
+          "Marketing WG's Q2 budget was approved",
+          "Discussion of objections to Writers' WG Q2 budget",
+          "Discussion of WWG's points system and reward structure",
+          "Discussion of error which led to omission of one of R&D Guild's project from the budget total"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Points system, Scribe role, Scribblers, Zealy, medium, Substack, Writers WorkGroup, Marketing Guild, consent process, Q2 budget, Translation, Twitter/X, Twitter, Pidgin, French, Spanish, LatAm, African guild, R&D guild, social media, social media management, Governance, transparency",
+      "emotions": "Frustration ,  Impatience,  Optimism ,  Confidence , Collaboration, engagement, Cautious Optimism , Uncertainty,  Satisfaction , Desire for Clarity , Openness, concern, determinatiion, skeptical, open"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -25666,6 +25907,100 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-08-31",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "Gorga Siagian, Photogee, hotasiro, martinsoki, kateri, malik, Merryman, CollyPride, SubZero",
+      "purpose": "The meeting focused on budget allocation for various tasks.",
+      "workingDocs": [
+        {
+          "title": "Budget Request for Q4(Gamers Guild)",
+          "link": "https://docs.google.com/spreadsheets/d/1ZNbHXepnCglgrX_4HhGemwdD521KTPocuQaPJUTZRLI/edit?gid=0#gid=0"
+        },
+        {
+          "title": "Sophiaverse Collaboration Document",
+          "link": "https://docs.google.com/document/d/1n21IBNuY7l5sSq65Au0NM1Zaoco1x6ScCPMKk-Gbcl0/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "gameRules": "Capture the Flag: The first team to capture three flags wins.\nRed Team: devon, hotasiro, \nBlue Team: Sub zero, zaif malik, ",
+        "leaderboard": [
+          "Red Team"
+        ],
+        "actionItems": [
+          {
+            "text": "Department Creation - Education Guild",
+            "assignee": "malik, hufiumer69",
+            "status": "in progress",
+            "dueDate": "14 September 2024"
+          },
+          {
+            "text": "Department Creation -  Treasury Guild",
+            "assignee": "martinsoki, scare-crow",
+            "status": "in progress",
+            "dueDate": "14 September 2024"
+          },
+          {
+            "text": "Department Creation - Archival Workgroup",
+            "assignee": "GorgaSeagian, kateri",
+            "dueDate": "14 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - Dework PBL",
+            "assignee": "rebel, Photogee",
+            "dueDate": "14 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - RnD Guild",
+            "assignee": "oep, CollyPride",
+            "dueDate": "14 September 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Quarter 4 Budget got finalized ",
+            "rationale": "as it was the final meeting before the budget submission.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Slate discussed the meeting agenda.",
+          "The budget, including some new tasks (Retrospective Guidance and Support for WG Creators, Collaboration with Sophiaverse Testing, Deep dive Platforms Decentraland & Sandbox, Main Game Aspect Development, Map Creation of VR) was then discussed. ",
+          "Retrospective Guidance and Support for WG Creators - Unlike mentoring, which offers one-time guidance, this task focuses on rewarding those who assist workgroup creators in developing specific elements, such as creating a designated room in the building for them..",
+          "Collaboration with Sophiaverse Testing - This task focuses on integrating the Sophiaverse dialogue system into the Roblox platform, testing the dialogue system, and having each member create a report on their findings.",
+          "Deep dive into platforms like Decentraland and Sandbox to assess their suitability for VR creation. Participants will test these platforms and compile a report, as Slate noted their similarities to Roblox.",
+          "Main Game Aspect Development - This task focuses on rewarding the enhancements made to the main VR Game other than WG Creations like the cafeteria, gym, and similar features.",
+          "Map Creation of VR - Slate introduced a small city VR map which will include the Ambassador program university, the players will spawn in the city and will be guided to the university.  To develop this city, two WG creators will be selected based on their performance to aid Slate in modeling this city.",
+          "Slate discussed asset creation, noting that members can create up to 8 assets each month. He also highlighted the two assets created by Gorga that were approved by the members.",
+          "Slate showcased the quarterly report by Lord Kizzy",
+          "Slate explained the dialogue system Doc that Berick shared. The system uses a JSON file structure to manage dialogue layers, reply information, and choices. Slate mentioned that while Roblox lacks certain features like emotion systems available in other game engines (e.g., Unity), the system still supports essential dialogue elements like choices and flowchart design. Slate noted that some advanced features, like history tracking and valence settings, are not supported in Roblox but are available in other engines.",
+          "Slate concluded by mentioning the potential benefits, including recognition, financial rewards, and increased budgets for contributors who will test the dialogue system effectively.",
+          "Slate also demonstrated the health system within Roblox, detailing how health can deplete and be restored through various means.",
+          "He also showed the working tutorials for each separate deliverable on YouTube."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Roblox, metaverse, department Creation, work updates, Collaboration, mentorship, Dialogue Systems, Animation, sophiaverse, Budget Request, Q3 report",
+      "emotions": "Friendly, Collaborative, Deliberative, informative",
+      "gamesPlayed": "capture the flag"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
@@ -25909,6 +26244,419 @@
     "tags": {
       "topicsCovered": "Zealy, Points system, Task updates , Onboarding, WWG Test, Twitter, sprinters, Governance, Q3 Updates, tools, Townhall, Cogito, medium, Q3 2024 report, Q4 2024 budget",
       "emotions": "Collaborative, informative, insightful, forward-thinking"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-23",
+      "host": "Ayo",
+      "documenter": "Photogee",
+      "peoplePresent": "Ayo, Photogee, Aguboss, Cjfrankie, Eric Davies, esewilliams, GorgaSeagian, Hamzat_iii, Kareem, Kateri, Olokoji, Malik., lord kizzy, SubZero, Yemi Solves",
+      "purpose": "Marketing Guild weekly meeting.",
+      "workingDocs": [
+        {
+          "title": "Meeting Agenda",
+          "link": "https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709"
+        },
+        {
+          "title": "Roles and Responsibility",
+          "link": "https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing"
+        },
+        {
+          "title": "Q3 Marketing Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing"
+        },
+        {
+          "title": "Roles and Responsibility Doc.",
+          "link": "https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a"
+        },
+        {
+          "title": "Notion Decision",
+          "link": "https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit"
+        },
+        {
+          "title": "Taskforce Roles and Responsibility",
+          "link": "https://docs.google.com/spreadsheets/d/1OnTnImKP--NK9Gf7FJPQKOpKm2cexVRIAcsMEaOBpvI/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Membes should fill out the form for the Notion payment decision.",
+            "status": "in progress"
+          },
+          {
+            "text": "Lord Kizzy to draft pout the quarterly report",
+            "status": "done"
+          },
+          {
+            "text": "Kenichi to add Photogee to the comms channel.",
+            "status": "done"
+          },
+          {
+            "text": "Lord Kizzy to create a taskforce interest document.",
+            "assignee": "lordkizzy",
+            "status": "done"
+          },
+          {
+            "text": "Photogee to reach out to all marketing guild core teams for monthly report.",
+            "assignee": "Photogee",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Notion payment decision yet to be reached due to some members’ difference in opinion.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "There is going to be a monthly assessment that entails the proof of work of all core members and also taskforce."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, Rewards, Role Proposal Requirements, workgroup updates",
+      "emotions": "Friendly, Casual, Collaborative, contributive, warm, exploratory"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-30",
+      "host": "Ayo",
+      "documenter": "Eric Davies",
+      "peoplePresent": "Ayo, Eric Davies, Photogee, Gorga, esewilliams, Advanceameyaw, Aguboss, kateri, Olokoji, Cjfrankie, Kareem, hamzat, malik, SubZero, lord kizzy",
+      "purpose": "Marketing Guild weekly meeting",
+      "workingDocs": [
+        {
+          "title": "Meeting Agenda",
+          "link": "https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709"
+        },
+        {
+          "title": "Marketing Survey",
+          "link": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing"
+        },
+        {
+          "title": "Roles and responsibility sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing"
+        },
+        {
+          "title": "Marketing Guild Global Outreach document",
+          "link": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing"
+        },
+        {
+          "title": "Q3 Marketing Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+        },
+        {
+          "title": "Notion Decision",
+          "link": "https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing"
+        },
+        {
+          "title": "Governance Document Ideation",
+          "link": "https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Lord kizzy to work on Q3 Marketing Guild budget report",
+            "assignee": "lord kizzy",
+            "status": "in progress"
+          },
+          {
+            "text": "Ese to work on content engagement campaign",
+            "assignee": "esewilliams",
+            "status": "in progress"
+          },
+          {
+            "text": "CJ Frankie is tasked with preparing documentation on the number of people we have on the SingularityNet Discord and the ratio of those who are active.",
+            "assignee": "Cjfrankie ",
+            "status": "in progress"
+          },
+          {
+            "text": "Aguboss is to work on the Contributor Spotlight for last week from Onboarding WG, archives for the next session, and WG and Guilds Spotlight for the month.",
+            "assignee": "Aguboss",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Rewards for members who fail to complete their tasks for a consecutive amount of time will be re-evaluated and allocated to the members who stand in for them.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Drafting a community survey for this quarter has been decided.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Progress with the Foundation: Updates on follow-ups and the content engagement campaign.",
+          "Communications Department: Submission of the monthly report on activities and outcomes."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, Budget , Roles, survey , Marketing, Marketing Guild",
+      "emotions": "Collaborative, warm, Thoughtful "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-16",
+      "host": "lord kizzy",
+      "documenter": "Photogee",
+      "peoplePresent": "Ayo, Photogee, Cjfrankie, Eric Davies, esewilliams, GorgaSeagian, Kareem, Kateri, Olokoji, lord kizzy, SubZero, Yemi Solves",
+      "purpose": "Marketing Guild weekly meeting.",
+      "workingDocs": [
+        {
+          "title": "Meeting Agenda",
+          "link": "https://docs.google.com/document/d/1oZJZXc8OvPigbMA0F5tlmN1VBTAi_70FceMkUQtLmLc/edit"
+        },
+        {
+          "title": "SNET marketing survey",
+          "link": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing"
+        },
+        {
+          "title": "MG global outreach",
+          "link": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing"
+        },
+        {
+          "title": "MG Q3 budget",
+          "link": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing"
+        },
+        {
+          "title": "Budget Planner",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+        },
+        {
+          "title": "Governance Documentation Ideation",
+          "link": "https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1"
+        },
+        {
+          "title": "MG Roles and Responsibilities KPI document",
+          "link": "https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "A structure for the Rejuve cross-colab is to be made by Kenichi.",
+            "assignee": "Kenichi",
+            "status": "in progress"
+          },
+          {
+            "text": "Photogee to reach out to core team members on tasks assigned to them.",
+            "assignee": "Photogee",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Community driven initiatives is going to be move to next quarter due to the fall in AGIX price",
+            "rationale": "Fall in AGIX price",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Zealy cross-colabs has been moved from Q3 to Q4.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Allocation has been made for taskforce members in all sections of the marketing guild (opp, comms, design, analytics) that do their work ‘adequately’.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "There is going to be a monthly assessment that entails the proof of work of all core members and also taskforce.",
+          "Allocation for FIGMA has also been made and ready for payment.",
+          "Roles and responsibilities of members document has been updated and has more clarification.",
+          "For the sake of working effectively in a ‘singular’ and not divided pattern, decisions being made in the marketing guild should not be made public and outside the guild henceforth."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, Rewards, Role Proposal Requirements, workgroup updates",
+      "emotions": "Friendly, Casual, Collaborative, contributive, warm, exploratory"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Knowledge Base Workgroup",
+    "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-09-04",
+      "host": "Tevo",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "Advance Ameyaw, Tevo, LadyTempestt, Gorga Siagian, Vasu, Onyeka, Thandi, Prefina, Celiwe, Effiom, Mapula",
+      "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+      "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764594944505096&cot=14",
+      "otherMediaLink": " https://app.dework.xyz/singularitynet-ambas/process-guild",
+      "workingDocs": [
+        {
+          "title": "Q2 quarterly report",
+          "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/edit?usp=sharing"
+        },
+        {
+          "title": "Q3 quarterly report",
+          "link": "https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/edit?usp=sharing"
+        },
+        {
+          "title": "Knowledge Base WG Proposal",
+          "link": "https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "Open Questions - Why do we not do more async organizing?",
+        "status": "resolved",
+        "discussionPoints": [
+          "Currently, we have run out of funds",
+          "We should refocus on planning, reporting and proposals to continue our work effectively",
+          "Use LLM first to organize the items before we start with team",
+          "Lets have an onboarding kick-off session so that we can reach and involve more people into organising Ambassador assets."
+        ]
+      },
+      {
+        "agenda": "Open Questions - What LLM experiments is Knowledge Base WG doing?",
+        "status": "carry over",
+        "discussionPoints": [
+          "we have a working ChatGPT Prototype",
+          "Currently we have ideas to improve it even further",
+          "What other LLM experiments Knowledge Base could do?"
+        ]
+      },
+      {
+        "agenda": "New participation-based rewarding model for Knowledge Base WG",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Participation is captured using the Process Guild service to import from Zoom",
+            "assignee": "Tevo",
+            "dueDate": "18 September 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Review the results of the next and last session this quarter",
+            "dueDate": "18 September 2024",
+            "status": "todo",
+            "assignee": "all"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Most people leaned towards including weighting the individual rewards before calculating participation rewards. Except Onyeka and AdvanceAmeyaw who suggested after.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "What is the Rewarding Model? This is a new model to reward people who attend our meetings and participate in discussions.",
+          "Do we want to change the current facilitation mechanism to participation reward distribution based on contributions?",
+          "The current model does not consider how long a person was in the meeting and applies rewards equally regardless if they were in the call 10 minutes or 100 minutes.",
+          "Do you think we should differentiate that?",
+          "When should we apply reward changes weight based on how long the person was in the meeting?"
+        ]
+      },
+      {
+        "agenda": "Review Q2 & Q3 Proposal Report",
+        "status": "carry over",
+        "decisionItems": [
+          {
+            "decision": "We moved around some items such as average attendance metrics, deliverables, etc.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "We went through the Quarterly reports while Tevo listed tasks/deliverables and other items carried out so far under the Knowledge Base Section.",
+          "The main aim of Process Guild which is to maintain open spaces and support Knowledge Base WG and Dework PBL WG.",
+          "Process Guild Q2 Proposal",
+          "Process Guild Q3 Proposal"
+        ]
+      },
+      {
+        "agenda": "Q4 Knowledge Base WG Proposal",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Draft Knowledge Base Q4 WG Proposal.",
+            "assignee": "Tevo",
+            "dueDate": "9 September 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to include it in the Process Guild Q4 budget. It's a useful tool, and we will use that if we get funded with the proposal.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Knowledge Base WG will have its own GitBook instead of focusing on introducing items to Ambassador GitBook. The sentiment here is that this will allow the Process guild to automate and be consistent with their structure of adding information and storing assets.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Should the Q4 proposal include a ChatGPT yearly subscription for use in async organization work?",
+          "Is a separate Gitbook from the Ambassador Gitbook a good idea?"
+        ]
+      },
+      {
+        "agenda": "Workgroup Administration",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": " Tevo to create a section of Knowledge Base WG in Ambassador GitBook and add proposals there if the work continues.",
+            "assignee": "Tevo",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Should we include this workgroup's info in the main Ambassador program GitBook?"
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "contributive, insightful, quiet",
+      "topicsCovered": "Ambassador GitBook, Miro Board, Quarterly Report, Budget , Q4 2024 budget, Q3 2024 quarterly report, GitBook, ChatGPT, participation, Rewards, rewarding model"
     },
     "type": "Custom",
     "noSummaryGiven": false,
