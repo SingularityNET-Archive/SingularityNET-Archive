@@ -41,13 +41,13 @@ Be rewarded with 1000+ AGIX for contributions in the last 3 months
 
 Allow anyone to nominate or apply to be a core contributor.
 
-No clear process has been implemented, we will come up with it based on the demand and interest
+No clear process has been implemented, we will come up with it based on the demand and interest.
 
-For initial implementation: publish list of core contributors and have a week period for further manual nominations. To be confirmed by the initial list, through discussion. Aim to be lenient initially.
+For initial implementation: publish a list of core contributors and have a week period for further manual nominations. To be confirmed by the initial list, through discussion. Aim to be lenient initially.
 
 
 
-Contributor List will be aggregated as an excel list going froward
+Contributor List will be aggregated as an Excel list going forward
 
 
 
