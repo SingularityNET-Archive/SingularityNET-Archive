@@ -532,6 +532,11 @@ Pressing the Filter Group button again will ensure that the same Group Name is n
 
 **Check WG Budget**
 
+> [Comments]
+> Context - Check WG Budget
+> * Daniel Effiom: Action: Filter out WGs that have exceeded their budget or have little funds to make payments
+>
+
 Check the Treasury Dashboard and see if any groups are out of budget or have very little funds left https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=07.2024%2C08.2024&workgroups=All+workgroups&tokens=AGIX&labels=All+labels
 
 Custom changes
