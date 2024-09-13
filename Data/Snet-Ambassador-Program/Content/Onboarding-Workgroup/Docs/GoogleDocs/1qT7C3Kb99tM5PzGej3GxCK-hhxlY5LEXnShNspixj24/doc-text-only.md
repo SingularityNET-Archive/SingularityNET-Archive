@@ -1,4 +1,4 @@
-# A suggested process for starting a Workgroup in the Ambassador program
+# 3 A suggested process for starting a Workgroup in the Ambassador program
 
 
 
@@ -12,7 +12,7 @@ The initial suggestion for a new WG should be made by one person - the “propos
 
 
 
-To avoid wasting the proposer’s time and effort, this initial suggestion should be simply “I propose a new WG on XYZ”, rather than a fully worked proposal. Thus, if there is strong opposition, the proposer will be aware of it before they have invested lots of effort.
+To avoid wasting the proposer’s time and effort, this initial suggestion should be simply “I propose a new WG about XYZ”, rather than a fully worked proposal. Thus, if there is strong opposition, the proposer will be aware of it before they have invested lots of effort.
 
 
 
