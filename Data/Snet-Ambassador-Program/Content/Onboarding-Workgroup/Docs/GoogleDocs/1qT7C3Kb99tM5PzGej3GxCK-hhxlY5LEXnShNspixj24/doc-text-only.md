@@ -1,4 +1,4 @@
-# 3 A suggested process for starting a Workgroup in the Ambassador program
+# A suggested process for starting a Workgroup in the Ambassador program
 
 
 
