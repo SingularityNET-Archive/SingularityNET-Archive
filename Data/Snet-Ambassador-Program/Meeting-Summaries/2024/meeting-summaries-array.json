@@ -26250,6 +26250,125 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Archives Workgroup",
+    "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-09-04",
+      "host": "André",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "André, CallyFromAuron",
+      "purpose": "Regular fortnightly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+      "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+      "workingDocs": [
+        {
+          "title": "SNET Archive AI features (draft of possible features an AI tool might have)",
+          "link": "https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing"
+        },
+        {
+          "title": "How to make a document community owned",
+          "link": "https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing"
+        },
+        {
+          "title": "Docs management tool",
+          "link": "https://snet-doc-manager.netlify.app/#"
+        },
+        {
+          "title": "New Summary Tool Features",
+          "link": "https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing"
+        },
+        {
+          "title": "draft Q4 budget"
+        },
+        {
+          "title": "Meeting issue ",
+          "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/198"
+        },
+        {
+          "title": "draft Q3 quarterly report",
+          "link": "https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116  - no response yet from Ayo. Vani will DM him.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "4 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Stephen was to decide how best to present the \"Open-source paradigm\" work at this meeting, but he's not present. TBD next meeting.",
+            "assignee": "Stephen [QADAO]",
+            "dueDate": "18 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Vani to submit the budget and quarterly report by Monday",
+            "assignee": "CallyFromAuron",
+            "dueDate": "9 September 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Sucre to finish updating Ambassador gitbook to reflect changes to the Onboarding process by the end of the Quarter",
+            "assignee": "Sucre n Spice",
+            "dueDate": "30 September 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Summary tool redesign: See issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/181 - André and Vanessa to meet to discuss priorities",
+            "effect": "mayAffectOtherPeople",
+            "rationale": "Because want to focus initially on things that will have the biggest effect on ease of use of the tool"
+          },
+          {
+            "decision": "PDF export function in the Summary tool is broken again - André has decided to replace it with export to Google Doc",
+            "rationale": "This is a feature that people have requested too - it makes it easier to share a draft meeting summary with other memebers of your WG and get their comments. This will also obviate the need for more complex tooling to allow people to comment within the tool itself, which was a suggested new feature at one point.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We went through the Q4 budget, and were sad to acknowledge that a lot of the work we would like to do, we cannot afford, so it has had to be cancelled for the coming Quarter.",
+            "rationale": "due to token price drop in August, we had to move some core work to Q4, leaving not enough for routine but less valuable tasks",
+            "opposing": "some people felt understandably unhappy that their tasks have had to be cut.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We also acknowledged in the Q3 quarterly report (https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing) the problems raised by an increasing uncritical reliance on Read.ai summaries. We noted that the problem is that superficially, Read.ai summaries can seem fine; and it is only when one reads with attention and with some knowledge of the Program that it becomes clear that they do not make any sense. We suggested that documentation for WGs such as Treasury and Governance, which are about the Program as a whole rather then the internal activities of a WG, should no longer be seen as an entry-level task, since they require considerable understanding of the program to document well.",
+            "rationale": "This has been a big issue this quarter, and has slowed down the meeting summary process since many summaries have needed to be extensively corrected or redone.",
+            "opposing": "We recognised that it is ironic that we are an AI ecosystem and yet one of our stumbling-blocks is an AI tool - but we noted that the problem is people trying to use Read.ai's documentation *uncritically*, or without skilled and knowledgeable human intervention. We also noted that it may actually be an *ethical* issue to understand the limitations of any AI tool, and not to expect it to work beyond its limitations.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We noted how many corrections core members of this WG are needing to make to summaries at the moment; and that there is a need for ongoing training for new documenters. Onboarding WG recently (15th August) delivered some training on documentation; perhaps other WGs can take this on within their own WG to some extent.",
+            "rationale": "Training is needed not only to learn how to document a meeting, but also to understand the limitations of Read.ai summaries, and the ethical issues raised by using AI tools."
+          },
+          {
+            "decision": "We agreed that anyone who does need to do extensive corrections to a summary should add their name to the \"Documenter\" field alongside that of the original documenter",
+            "rationale": "as a way of noting that correction has been done",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed that we need to find ways to raise the issues around read.ai summaries, perhaps in a WG Sync call. Suggestion that perhaps we need a Reviewers' Circle to review summaries; or a Documenters' circle to avoid poor summaries in the first place",
+            "rationale": "Because over-reliance on Read.ai is an issue that affects the documentation of several WGs, and perhaps could be addressed at Program level",
+            "effect": "mayAffectOtherPeople"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted",
+      "topicsCovered": "Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
@@ -26658,6 +26777,94 @@
     "tags": {
       "emotions": "contributive, insightful, quiet",
       "topicsCovered": "Ambassador GitBook, Miro Board, Quarterly Report, Budget , Q4 2024 budget, Q3 2024 quarterly report, GitBook, ChatGPT, participation, Rewards, rewarding model"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-09-14",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "Gorga Siagian, hotasiro, martinsoki, malik, CollyPride, SubZero, scarecrow, hufiumer69, rebel, Tevo",
+      "purpose": "The meeting centered around a demonstration of various models and tools in Roblox. Participants showcased their progress, discussed improvements, and explored the use of specific plugins to enhance their designs.",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "gameRules": "Game: Last Man Standing Battle royale\nParticipants: Devon, Malik, Rebel, Slate, Hufiumer, Scarecrow, Hotasiro, Subzero.\n",
+        "leaderboard": [
+          "Rebel"
+        ],
+        "actionItems": [
+          {
+            "text": "Animation & Dialogue System - Education Guild",
+            "assignee": "malik, hufiumer69",
+            "status": "in progress",
+            "dueDate": "28 September 2024"
+          },
+          {
+            "text": "Department Creation -  Treasury Guild",
+            "assignee": "martinsoki, scare-crow",
+            "status": "in progress",
+            "dueDate": "28 September 2024"
+          },
+          {
+            "text": "Department Creation - Archival Workgroup",
+            "assignee": "GorgaSeagian, kateri",
+            "dueDate": "28 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - Dework PBL",
+            "assignee": "rebel, Photogee",
+            "dueDate": "28 September 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - RnD Guild",
+            "assignee": "oep, CollyPride",
+            "dueDate": "28 September 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Malik to remove a joke in the dialogue box from his workgroup.",
+            "rationale": "It had not been well-received by some members.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Rebel needs to resolve an issue with an overlay message that appears on top of his workgroup model in Roblox.",
+            "rationale": "It felt like a watermark."
+          },
+          {
+            "decision": "the Treasury Automation and Treasury Policy groups would be part of the Treasury Guild model, but the exact placement (whether on one floor or two) would be determined based on further exploration by Scarecrow.",
+            "rationale": "These two groups are permanent according to Tevo and linked to the treasury system."
+          }
+        ],
+        "discussionPoints": [
+          "Slate outlined the meeting agenda",
+          "Slate started the meeting by demonstrating the use of a plugin called Scene Tools on Roblox. He highlighted how this plugin could be used to create spinning objects for decoration. By showing how a part could be made to rotate upon its axis, Slate emphasized the ease of using Scene Tools to make workgroups in Roblox appear more dynamic. He further demonstrated how to add an image (such as an NFT) to the part and how to scale and position the image label. However, Slate encountered a minor issue when using GIFs, which the plugin couldn’t load properly. He showed how the part, when decorated with infographics and light rays, could create an eye-catching element in a virtual workspace.",
+          "Rebel shared his work on the building model of the Dework PBL Workgroup. He had made changes from the previous iteration, including adding a second floor and designing various functional spaces such as an entrance, meeting room, and classroom. Rebel highlighted the use of teleporters for navigation between floors, using a proximity prompt for interaction. He also demonstrated the design of a computer lab, aquarium, and other virtual elements. There was a brief discussion about an overlay message on the screen that needed to be removed, but overall, Rebel received positive feedback for his design.",
+          "Malik presented his model of the Educational Guild workgroup. Malik explained the various sections he had built, including an entry section with an NPC to welcome users, a meeting schedule board, and a digital twin representation based on the Twin Protocol. He also created an ideation room, initially meant for an AI project, but later adjusted to serve as a space for brainstorming and initiatives like the AI for Beginners project. Malik had also included infographics, but ran into some challenges with implementing rotating elements, for which Slate had offered earlier assistance. The Education Guild Building got finalized.",
+          "Scarecrow showcased his Treasury Guild model, which was designed to resemble a bank, fitting the theme of treasury management. He walked through the design of a parking lot, meeting areas, a cash counter, and a security vault. Scarecrow used NPCs to represent key members of the guild, with each NPC placed strategically in the model to depict the work they do within the guild. He also discussed future plans for expanding the model, possibly to the second floor.",
+          "Lord Kizzy provided input regarding the Treasury Guild workgroup, discussing the structure of two sub-workgroups: Treasury Automation and Treasury Policy. He suggested these could be housed on different floors, but was unsure about the logistics due to the lack of documentation and the newness of the groups. He explained that while the Treasury Automation group was a temporary project, the Treasury Policy group would likely be more permanent. This led to a discussion on how best to accommodate these within Scarecrow’s existing model.",
+          "Colleen joined towards the end of the meeting and provided an update on the R&D Guild workgroup. She mentioned that she had not been able to get a response from her partner OEP, but was willing to continue development. Slate suggested that Gorga(their mentor) could assist Colleen in moving the project forward.",
+          "Slate demonstrated another useful plugin called Archimedes. This plugin is used to create circular arrangements of parts, which is typically difficult to achieve in Roblox. Slate walked through how to spawn parts and use the plugin to form perfect circles, which could be useful in a variety of design contexts. He also mentioned another plugin, 3D Text, which could be used to create 3D labels for workgroups, adding a professional touch to virtual environments",
+          "Slate introduced the design of the VR map for the game, featuring three layers: a city, a river with a bridge, and Ambassador University. Players start in the city, where they earn AGIX currency by completing tasks, before moving to the university to finish quests and gain admission. The map development will utilize six baseplates and will require two best modelers to assist Slate with development of the city, river, and university sections. Players can explore all areas freely, but passes can be bought for faster progression. Slate also mentioned the potential to create portals linking different games or spin-off projects after players complete the Ambassador program."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Roblox, metaverse, department Creation, work updates, mentorship, Animation, RobloxPlugIns, Map creation",
+      "emotions": "Friendly, Collaborative, informative, Building, contributive",
+      "gamesPlayed": "Battle Royale"
     },
     "type": "Custom",
     "noSummaryGiven": false,
