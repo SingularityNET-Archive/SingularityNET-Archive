@@ -38,47 +38,7 @@ Resets all kinds of potential UI issues related to buttons.
 
 
 
-### Open Dework Exporter (Button)
-
-Opens new Dework Exporter Page
-
-
-
-Export csv files (with few expectations listed above) of all  the rows that have more than 0 Fund Request (column Fund Request)
-
-
-
-**Expectations:**
-
-We don’t export space names that only contain person name
-
-
-
-**NB!** Do only one at the time ****
-
-**NB!** Verify if the Export csv button downloaded the file! (Dework might be lagging)
-
-
-
-**Unique Errors:**
-
-Nigerian networks internet service provider allows the use of dework without VPN but the normal mobile network service providers don’t allow thus the use of vpns
-
-Session Timeouts, If the page loads for more than 2 minutes, try a refresh
-
-
-
-**if still doesn’t work**
-
-then Check the Dework platform itself to Export files
-
-https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240/settings/general
-
-You can find more guidelines about exporting on Dework PBL in the 2nd chapter: https://instance-dework-pbl.vercel.app/course/module/301/3015
-
-
-
-### Manage Import Folder (Button)
+### Manage Files (Button)
 
 This button will open Import Manager panel
 
@@ -125,6 +85,44 @@ Delete Above Selected File button deletes the selected file on the right window
 Internal errors or compute errors. Press the End button on the error pop-up to stop scripts.
 
 
+
+### Open Dework Exporter (Button)
+
+Opens new Dework Exporter Page
+
+
+
+Export csv files (with few expectations listed above) of all  the rows that have more than 0 Fund Request (column Fund Request)
+
+
+
+**Expectations:**
+
+We don’t export space names that only contain person name
+
+
+
+**NB!** Do only one at the time ****
+
+**NB!** Verify if the Export csv button downloaded the file! (Dework might be lagging)
+
+
+
+**Unique Errors:**
+
+Nigerian networks internet service provider allows the use of dework without VPN but the normal mobile network service providers don’t allow thus the use of vpns
+
+Session Timeouts, If the page loads for more than 2 minutes, try a refresh
+
+
+
+**if still doesn’t work**
+
+then Check the Dework platform itself to Export files
+
+https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240/settings/general
+
+You can find more guidelines about exporting on Dework PBL in the 2nd chapter: https://instance-dework-pbl.vercel.app/course/module/301/3015
 
 ****
 
