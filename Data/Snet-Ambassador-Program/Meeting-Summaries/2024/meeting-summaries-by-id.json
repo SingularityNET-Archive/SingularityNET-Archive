@@ -25878,6 +25878,68 @@
       "canceledSummary": false
     }
   ],
+  "16877e1b-68a9-432c-8f5f-321dc89cf53c": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-15",
+        "host": "Clement Umoh",
+        "documenter": "Cjfrankie ",
+        "peoplePresent": "Clement, Advanceameyaw, Duke, Cjfrankie, SucrenSpice, kateri, Yemi Solves, Eric Davies, Ayo, Martin Soki, Isaac Daniel, Photogee",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "workingDocs": [
+          {
+            "title": "The African Guild Framework and Initiatives Super Document",
+            "link": "https://docs.google.com/document/d/1BttursD5aCwzqEUgJzkh6eb2YGnCHqnfwkxKFkYPgoo/edit"
+          },
+          {
+            "title": "2024-08-15 14.09.50 Onboarding Workgroup",
+            "link": "https://drive.google.com/drive/folders/1THKlYv0zA0IFGHmAXG7YoaVKxDHMdMgn?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with Clement welcoming everyone, and then he highlighted the meeting agenda. Following that, Advance, Kateri, and Yemi extended their greetings in their native languages.\n\nThe meeting started strongly with the Initiative and Contribution Framework document; following a discussion with the action items from the last meeting, Ayo stated that the document itself is ready and that people only need to put in valuable comments and feedback.\n\nThe meeting also featured a discussion centered around the GitHub migration; Clement asked whether the old tasks from dework should be migrated to Github or it should only be the new tasks. Everyone was of the opinion that we should migrate all the old tasks, too! For the sake of accountability. Sucre also added that the entire program hasn't fully recognized GitHub, therefore, the GitHub board will showcase the projects that were completed and marked as done. More so, the new tasks will still be created and assigned via Dework for the weekly payouts.\n\nAI Ethics EXPO: Clements sheds more light on the forthcoming in-person event in Nigeria. He mentioned that the African Guild and AI Ethics Alliance event will take place in September; however, the date of this event will be announced as we move further along! He also added that there would be streaming platforms available to enable community members to catch a glimpse of the event from the comfort of their homes.\n\nAs a matter of finality, Clement talked about the Q3 budget reduction and the price of AGIX; momentarily, he cited a discussion from a recent Treasury meeting where workgroups were asked to consider moving mi or tasks to Q4 whilst giving more hand to major projects within their workgroup.\n",
+          "actionItems": [
+            {
+              "text": "Sucre to share the recently concluded documentation session slide and the session recordings in the African Guild channel.",
+              "assignee": "Sucren",
+              "status": "done"
+            },
+            {
+              "text": "Clement and the African Guild core team to make a documentation roster for the guild before the next meeting.",
+              "assignee": "Clement Umoh",
+              "dueDate": "22 August 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "In view of the AGIX token drop, we have agreed to focus primarily on key projects this quarter while rolling over minor tasks to quarter 4.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We have decided that Sucre should update the GitHub board with old tasks from Dework and then upload the latest entries.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "GitHub, AI Ethics EXPO, Q3 budget, Documentation Roster, Treasury,  Event, Tasks, Dework, Quarter 4",
+        "emotions": "short, informative, calm, insightful",
+        "other": "Kateri raised a question about the African Guild documentation 📝 roster, and swiftly, Clement cleared the air by saying that the core team would get it done before the week runs out!  "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "d5f5d426-9405-4dc3-b87f-6a69921309da": [
     {
       "workgroup": "Writers Workgroup",
@@ -25951,6 +26013,56 @@
         "topicsCovered": "Zealy, medium, Cogito, AGIX, Twitter threads, Points system, WWG Test, Governance, MIXPOST, Treasury, Researve, R&D guild, Marketing Guild, Marathon",
         "emotions": "funny , Deliberative, insightful, informative",
         "other": "Following a discussion with the AGIX token price, Kenichi stated that the writer's WG might reach out to the marketing guild to pull in some funds to backup the next Zealy sprint."
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "8c267db7-839d-48fd-b035-29df8c71d360": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-22",
+        "host": "Duke",
+        "documenter": "Kateri",
+        "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, SucrenSpice, Yemi Solves, Eric Davies, Martin Soki, Photogee, Duke, Kateri, lord kizzy, LadyTempestt, daniel effiom, Tert, Ngala Daryl, Judith Soulamite",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "workingDocs": [
+          {
+            "title": "2024-08-15 14.09.50 Onboarding Workgroup",
+            "link": "https://drive.google.com/drive/folders/1THKlYv0zA0IFGHmAXG7YoaVKxDHMdMgn?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with Duke welcoming everyone, then he shared the meeting agenda. Duke, Lady Tempestt, Yemi Solves, Lord Kizzy, Emmanuel, Ngala, Tert extended their greetings in their native languages.\n\nThe minute of the last meeting was agreed.\n\n\nAI Ethics EXPO: Duke mentioned that during the last AI Ethics WG meeting, we presented our update and to furthermore reach out to the prospective speaker we expect from them. He stated that we are to produce two speakers (OBO Obum, who is in the program and is an AI and blockchain expert and John Obidi, who is not in the program but however he is one of our partner’s for our deep funding proposals and he is the founder for head start Africa which is one of our industry partners for our deep funding proposal that have been funded). He also stated that we are expecting to have Leeloo and either Haley  or EstherG  from AI Ethics WG and both of them will be speaking respectively on AI ethics and AI governance. \n\nBudget Reduction for Q3: Due to the token merger and the drastic drop in AGIX, we need to reduce our budget. Duke proposed the idea of taking a break to save funds, while Kateri suggested updating our weekly meetings to a biweekly schedule. Lady Tempestt recommended pushing some items from this quarter to the next, and Lord Kizzy echoed Kateri's suggestion but proposed biweekly meetings only for this quarter. Duke initiated the WG budget discussion, but due to time constraints, he recommended scheduling another call focused entirely on budgeting.\n\nDo we need a core contribution role/tag? Duke clarified what a core contributor role/tag was, he explained that any person who would be a core contributor in the Guild will more naturally have a higher stake in the affairs of the African Guild. He went ahead and said it could be a core contributor role or just any other role within the Guild that we can use. Lady Tempestt said that we need to firstly describe the role in order for us to get the right tags for the role. Duke further clarified that he values people who are more active in terms of presence and contribution.\n\n\nDocumentation circle and operation: Clement presented the documentation roster and explained it. He further clarified that the names listed are not fixed and will be updated regularly. Several suggestions were made regarding the core team, review team, and documentation circle.\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to make our meeting Biweekly.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to merge the review circle and focus group as part of the responsibilities of the core team.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI Ethics EXPO, Q3 budget, Documentation Roster, Treasury, Core team, review team ",
+        "emotions": "informative, insightful, long",
+        "other": "We congratulated Duke on his wedding."
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -27460,6 +27572,57 @@
         "topicsCovered": "Roblox, metaverse, department Creation, work updates, mentorship, Animation, RobloxPlugIns, Map creation",
         "emotions": "Friendly, Collaborative, informative, Building, contributive",
         "gamesPlayed": "Battle Royale"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "92831370-a519-447f-b4d6-dfb60a3a2b27": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-07-25",
+        "host": "Duke Peter",
+        "documenter": "Advanceameyaw",
+        "peoplePresent": "Duke Peter, Ese Williams, Ayo, Kenichi, Nebula, Yemi Solves, Kateri, Photogee, Bassey Udom, Effiom, Martin Soki, Sucre n Spice, Eveline Trinite, Advanceameyaw, lord kizzy, Clement Umoh, Tuso",
+        "purpose": "Identify and touch base virtually with other AI/Web3 communities across Africa ",
+        "workingDocs": [
+          {
+            "title": "Africa Guild Q3 Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=369292307#gid=369292307"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting started with our general welcoming greeting to recognize our diversity.\nDuke Peter emphasized the importance of reviewing our meeting summary notes to ensure accuracy, noting that members can be rewarded for each comment on a mistake or missing details.\n\nAyo addressed the lack of contributions to the Initiative and Contribution Framework document, despite the availability of templates and guidelines. To resolve this, he proposed forming a small team with a two-week deadline to ensure the framework's timely completion. He explained that this document is critical for the African Guild's mission to democratize AI in Africa, serving as a blueprint for organizing initiatives and ensuring the guild's efforts are aligned with its long-term goals.\n\nNebula, a new member, introduced himself and expressed a need for guidance on AI and SingularityNet. Duke welcomed him and suggested he work with Ayo on the Initiative and Contribution Framework document, highlighting the importance of mentorship for new members. \n\nClement updated the group on ongoing discussions about merchandise with the African Leadership University, and the importance of community input on research documents. Ayo proposed forming a team with Yemi and Nebula to work together on research and documentation, ensuring that new members are integrated and contributing effectively to the guild’s activities.\n\nDuke Peter proposed the creation of a document review circle to ensure that the guild's documents are thoroughly reviewed before submission to the ambassador program. This team would consist of qualified members who would work with document creators to make necessary modifications, thus maintaining high standards. Additionally, he raised concerns about the potential use of the guild's documents outside the SingularityNet ecosystem, with Ese Williams advising against such usage due to sensitive information and copyright issues. Duke suggested that the guild might consider a Creative Commons license and proposed the creation of a GitHub repository to solidify the African Guild’s work and ensure proper credit is given.\n\nAI Ethics Expo update: Duke provided updates on the planning for the SNET African Guild and AI Ethics Expo, emphasizing the importance of selecting an appropriate location in Nigeria, with Lagos and Abuja as potential options. The event will involve a team handling content curation, documentation, media, and event evaluation, with virtual participation from key figures in the GEI (Global AI Ethics Initiative).\n\nQ3 Budget update: Duke Peter announced a reduction in the Q3 budget by $2,000 to meet quarterly requirements, affecting areas such as facilitation, meeting summaries, and AMA sessions. The budget now stands at $6,680 USD. Despite these cuts, Duke encouraged members to continue proposing initiatives and projects through the Members Collective document, emphasizing that funding is still available for initiatives that contribute to the guild’s growth.\n\nAfrican Guild Survey and Soulbound Token Project: Kenichi introduced a survey related to the African Guild’s responsibilities, offering incentives for participation, including early access to a new website and involvement in a loyalty system. The project involves creating a website for the ambassador program featuring a Soulbound token, a non-transferable NFT used for claiming badges and building a reputation system.\n\nAOB:\nTag for Members: A tag for African Guild members will be created to better identify and engage contributors in the region.\n",
+          "actionItems": [
+            {
+              "text": "Ayo to schedule a call with Yemi and Nebula on Discord to discuss forming a team on the collaborative framework document and put them through what is required for their research and documentations.",
+              "status": "todo",
+              "assignee": "Ayo"
+            },
+            {
+              "text": "Clement to update at Town Hall for Tuesday, 30th of July.",
+              "status": "todo",
+              "assignee": "Clement Umoh"
+            },
+            {
+              "text": "Kenichi to create a tag for African Guild members",
+              "status": "todo",
+              "assignee": "Kenichi"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "African Guild Survey, Q3 Budget, AI Ethics Expo, Budget cuts, Soulbound tokens, reputation, loyalty system, GEI, tag, membership, documents, document review, review, new member, merchandise",
+        "emotions": "Exciting, Collaborative, inclusive, fun"
       },
       "type": "Custom",
       "noSummaryGiven": false,
