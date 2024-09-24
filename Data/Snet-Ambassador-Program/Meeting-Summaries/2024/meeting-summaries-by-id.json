@@ -27488,6 +27488,402 @@
       "canceledSummary": false
     }
   ],
+  "32a048af-5acf-493c-8441-ea86c805f60d": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-02",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "GorgaSeagian, LadyTempestt, Clement Umoh, barnabas, Yemi Solves, Effiom, Duke, PG, Ayo, CollyPride, Eric Davies, Ese Williams, Advanceameyaw, CallyFromAuron, aetherblade, osmium, Sucre n Spice",
+        "purpose": "Regular meeting of the AI Ethics WG",
+        "meetingVideoLink": "No video",
+        "transcriptLink": "No transcript",
+        "workingDocs": [
+          {
+            "title": "AI Ethics Workgroup stuff! ",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          },
+          {
+            "title": "AI Ethics GitHub project board",
+            "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2"
+          },
+          {
+            "title": "AI Ethics WG Quarter 4 2024 budget DRAFT",
+            "link": "https://docs.google.com/spreadsheets/d/19ZoVkCc8ylk_R1tYIyh1xiy1USM-Yl-pYHGRB5WbtTg/edit?gid=0#gid=0"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting worked through \"in progress\" tasks on the Board, and then \"to do\".\n\n\"In Progress\":\nWe worked through the Admin team's tasks.\n\nWe noted that Colleen's work as \"co-chair mentee\" has focused more on community engagement than learning about the co-chair role itself - but this is a positive, since she has created a role that the WG needed. We agreed therefore to add this as a role in the Q4 budget.\n\nVani noted that in future, where it's useful to do so, we can distribute the WG's connection with the GEI - it shouldn't necessarily only be via the co-chair role. (For example, Duke wll be in touch with Esther and LeeLoo as speakers for the AI Ethics Expo in Nigeria).\n\nVani noted the usefulness and importance of the \"async work support\" role, given the kind of work we are doing.\n\nWe noted that we still don't know the cost of Clement's Q3 role of moderating the AI Ethics forum https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/32 - Clement will suggest a price based on how the Moderator WG costs things. He will also add the same amount to the budget for Q4.\n\nWe will create individual GitHub Issues for people's work at AGI-24, as it now looks as if the Foundation will be able to pay the work via the normal Ambassador process.\n\nThe Admin team has looked at the interviewing projects that people proposed for Q3, and have brought them within budget; so these will go ahead, ideally by the end of Q3 (although if it goes a little over, that is OK). We note that we have a really good range of people being interviewed. Any interviews that had to be cut can be re-proposed in Q4, as there will be more budget for interviews then. \n\nThe training for interview skills will now be 1 session not 2, and will be run by Vani and Peegee. Date: Wednesday, September 11th, 12:00 UTC, lasting 2 hours. It will be recorded for anyone who cannot make it, but Peegee explained how we'd like people to attend live if they can, as it will be participatory. It's open to all - but especially we'd like those who are doing Q3 interviewing to attend.\n\n\nTo Do:\nWe discussed reallocating the Q3 budget line for further work on the Strategies, because it has turned out that all the work that's needed can be covered by Vani's role as co-chair, and by Esther's input.\n\nThe AI Ethics Expo event in Nigeria (collab with African Guild) has a date: Sat 28th September. The planning element of our budget contribution has been done (venue and publicity) and the other elements (speakers and volunteers) will be paid after the event. Duke is liaising directly with LeeLoo and Esther as speakers from the GEI side.  \n\nVasu suggested that he could do some Q4 interviewing at an AI event in Dubai on 11th and 12th December, which he will be attending. Vani encouraged him to note it in the WG's Q4 interview planning spreadsheet (in the \"AI Ethics Stuff!\" doc).\n\nQ4 budget:\n - We discussed reducing meeting frequency to monthly, but there was significant enough oppositon to decide against it.\n\n- We discussed the budget line for Jenn's reportbacks to GEI - are they useful? Does GEI want them? We discussed this, but did not reach a conclusion. LeeLoo suggested that we might need the reports more once interviewing is in progress; possibly they are also good for transparency.\n\n- We agreed on budgeting for 40 interview hours this Quarter; conducting a small amount of work to share the GEI survey; and creating some educational resources.\n\n- We noted that comments and revisions to the budget need to be made by Fri 6th Sept, to allow for final editing before the submission deadline on September 9th. ",
+          "actionItems": [
+            {
+              "text": "All to comment on the Q4 budget draft by Fri 6th",
+              "assignee": "all",
+              "dueDate": "6 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to add an update to her GitHub Issue for internal WG management by the end of the quarter https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/21",
+              "assignee": "Sucre n Spice",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Colleen to add an update to her GitHub issue for Co-Chair Mentee by the end of the Quarter https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/27",
+              "assignee": "Colleen",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani or Sucre to create individual GitHub issues for people's work at AGI-24",
+              "assignee": "CallyFromAuron, Sucre n Spice",
+              "dueDate": "16 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani to create a Zoom and add the forthcoming interview training session to the calendar",
+              "assignee": "CallyFromAuron",
+              "dueDate": "6 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Clement to add a suggested price to the Q4 budget for his AI ethics forum moderation ",
+              "assignee": "Clement Umoh",
+              "dueDate": "6 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani to post draft of Q3 quarterly report in the Discord channel for comments",
+              "assignee": "CallyFromAuron",
+              "dueDate": "5 September 2024",
+              "status": "todo"
+            },
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Vani's Q2 task to monitor the strategy-drafting work and maintain the strategic approach of the WG https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/3 was closed.",
+              "rationale": "Because the task is complete for Q2. We noted that the strategy drafts that were written were broader in scope than needed, but this shows that it was a learning exercise, and people were engaging with it.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "for Jenn's \"GEI reportbacks\" task https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/20, there were no GEI meetings in August; we agreed this shouldn't affect Jenn's pay.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Because the cancellations were beyond her control."
+            },
+            {
+              "decision": "We agreed to add a new role for community engagement in the Q4 budget, to be taken by Colleen",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "because Colleen's work as co-chair mentee in this quarter has taken her in this direction, and it seems to be a role that is needed"
+            },
+            {
+              "decision": "We agreed to reallocate the Q3 budget line for further work on the Strategies, and use it to compensate those doing Q3 interviewing to attend the Interview Skills training, as this training will cover how the strategies are going to be practically implemented. Priority would go to those who are assigned to do interviews in Q3; anyone else is fisrt-come, first-served.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Because the further work this quarter on the strategies has been started by Esther and Vani, and the meetings we budgeted for are not really needed any longer",
+              "opposing": "We note that this was a budget element we were going to cut completely when token price was low - so using it this way will depend on token price."
+            },
+            {
+              "decision": "We agreed that the current admin workers will stay in their roles, except that Colleen will move to a new community engagement role, and there will be budget for a new Co-Chair Mentee in Q4.",
+              "rationale": "because continuity is needed at the moment, and to avoid too much mentoring/handover overhead ",
+              "effect": "affectsOnlyThisWorkgroup",
+              "opposing": "There was a suggestion that those in admin roles should not have first refusal on other tasks."
+            },
+            {
+              "decision": "After discussion, some people felt uncomfortable with the suggestion of  moving to monthly meetings; so we will continue to budget for fortnightly meetings in Q4",
+              "rationale": "Some members were uncomfortable with the  suggestion of monthly meetings, and argued that fortnightly meetings will enable new people more opportunities to engage and contribute; and that monthly meetings can make it harder for new people to learn how things work in the Program overall.",
+              "opposing": "The suggestion to move to monthly was to minimise unnecessary costs - partly because the particular work we do doesn't require meetings, but works better in small groups - especially in the coming Quarter, when we will be focused on interviewing; and partly because we are unlikely to have many tasks to invite new people to, so having extra meetings to engage new people might raise false expectations. ",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "review q2 task completion, Roles, compensation, interviews, training session, Budget , Q3 quarterly report, Nigeria event, Q4 budget draft, Collaboration",
+        "emotions": "Collaboration, ideas, insights"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "7bb64d7e-8d48-4f4e-90aa-cdd3d0913cc5": [
+    {
+      "workgroup": "Treasury Guild",
+      "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-02",
+        "host": "Tevo",
+        "documenter": "Effiom",
+        "peoplePresent": "callyfromauron, effiom, gorga1103, tevo",
+        "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+        "meetingVideoLink": " https://youtu.be/k7jzP5ZqIdE",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764597506440113&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+        "workingDocs": [
+          {
+            "title": "Ambassador Tools",
+            "link": "https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/"
+          },
+          {
+            "title": "Treasury Policy Submission Form (Responses)",
+            "link": "https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250"
+          },
+          {
+            "title": "Ambassador Account Permissions - Access List",
+            "link": "https://docs.google.com/spreadsheets/d/1BBKJnSWwiGRgtq88wufm49EyDMZN1vyEc8lzqG6qmIA/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Concerns over permission sharing [GOOGLE FORM]",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSezM4WCsidZw_6gLMa7hk17LWkWTj3p47zyHMNVuO0I4ZHpqQ/viewform"
+          },
+          {
+            "title": "Treasury Guild Quarterly Report - Q3 2024",
+            "link": "https://docs.google.com/document/d/1acxnPRihpShLFF4visFPrkr32U_Eizge9HBdOon4qiQ/edit#heading=h.1w2fce1nfvp0"
+          },
+          {
+            "title": "Treasury Guild Proposal Q4 2024",
+            "link": "https://docs.google.com/document/d/169g5QOg0AY1bRQ_28hWrzl5U93Bv_j-_V9ABsc4wFiw/edit#heading=h.9t5jkakh8028"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Ambassador Account Permissions",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Create a Google Sheet list of those who should have access - 06.09.2024",
+              "assignee": "Effiom",
+              "dueDate": "6 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Create Form under Swarm Account to collect anonymous information",
+              "assignee": "Tevo",
+              "status": "done",
+              "dueDate": "6 September 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The headers for the google sheet for requesting access were agreed on",
+              "rationale": "This was decided based on the relevant information the person requesting needs to provide, like Discord name, Position, Tools they use (Zoom, Google Drive etc.), Comments, Is the account accessible etc.",
+              "opposing": "None"
+            },
+            {
+              "decision": "We agreed to keep the process simple, hence, no need for quorum",
+              "rationale": "Deciding on a quorum can be a stretch and would definitely make the process longer",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "There should be a degree anonymity in the decision-making progress, in case people have reservations about the people requesting for access. Hence, the feedback form should be created under Swarm Account",
+              "rationale": "It is expected that whoever is requesting is a Core contributor and might have access to view the feedback. For these reasons, there is a need for anonymity and to achieve this the form would be created from an account outside SNET",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Permission Granted (in 3 working days)",
+              "rationale": "This number of days is ideal for the process",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "How many and which tools are tied to the Ambassador account? ",
+            "Ambassador Tools: https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/",
+            "Who and how do we decide account permission changes?",
+            "How do we update Ambassador Account Permissions?",
+            "What is the quorum required to grant a person access?"
+          ]
+        },
+        {
+          "agenda": "Coordinate Treasury Guild Q3 Report and Q4 Proposal",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Draft and share the Q4 proposal",
+              "assignee": "Tevo",
+              "status": "todo"
+            },
+            {
+              "text": "Draft Q3 proposal Report after Tevo has created and shared template",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "In quarterly report we highlight things that not yet completed",
+              "rationale": "Because the quarterly is being prepared before the end of the quarter",
+              "opposing": "None"
+            },
+            {
+              "decision": "Adjust dates in Q4 Report to include the Q3 final date and Q4 Report creation date",
+              "rationale": "It would better represent the reporting cycle, as quarterly report are usually prepared before the end of the quarter",
+              "opposing": "None"
+            },
+            {
+              "decision": "In Q4 report we have section to address Q3 Proposal deliverables that was not completed in Q3 report",
+              "rationale": "This would allow us capture all our deliverables accurately",
+              "opposing": "None"
+            },
+            {
+              "decision": " We reduce the number of Treasury Guild meetings when we get budget fitting",
+              "rationale": "It made sense to adjust the meeting schedule to accommodate budget fitting",
+              "opposing": "None"
+            },
+            {
+              "decision": "Propose to create a tool to calculate Core Contributor List that provide different outputs for updating and sharing public lists under Treasury Automation WG",
+              "rationale": "This is an automation and since Automation WG is getting a different budget from Treasury Guild, It made sense to move it",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "How best to capture the deliverables of the quarter in the report since it would be shared before end of Q3?",
+            "Do we update Report Later by the end of the quarter? ",
+            "Planning ahead for budget fitting; the preferred approach"
+          ]
+        },
+        {
+          "agenda": "Review the newly selected policy - Slow Start",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Add to agenda of Treasury policy WG session on 09.09.2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The policy should be moved to ratification",
+              "rationale": "The policy meets the requirement to be moved to ratification",
+              "opposing": "None"
+            },
+            {
+              "decision": "Next week in Policy WG further review and possibly assign last action items to help see this through",
+              "rationale": "Policy WG has an upcoming meeting on 09.09.2024",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "Policy list link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/ ",
+            "The current treasury policy template",
+            "Should we move to ratify this policy?"
+          ]
+        },
+        {
+          "agenda": "Consent Recognition",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Mint INF Tokens for consent recognition",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We don't include MINS as it is hard to assess",
+              "rationale": "Hard to assess and overhead to request or track",
+              "opposing": "None"
+            },
+            {
+              "decision": "Include Auditing and Decision labels to represent decision making",
+              "rationale": "For better representation",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "Bare minimum Recognition Influence",
+            "Is the need for any additional tokenomics? ",
+            "Tokens with tickers (INF)",
+            "Should we include label to represent Decision Making?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy",
+        "emotions": "interactive, decisive, interesting"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "ed637705-fc45-45a2-ac11-a9e9e007fa3a": [
+    {
+      "workgroup": "Video Workgroup",
+      "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-07",
+        "host": "Slate",
+        "documenter": "Hogantuso",
+        "peoplePresent": "malik, killy, Zalfred, lord kizzy, Slate, SubZero, osmium, AndrewBen, oep, Hogantuso",
+        "purpose": "Weekly updates ",
+        "workingDocs": [
+          {
+            "title": "Video WG Content Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120"
+          },
+          {
+            "title": "Zealy Updates",
+            "link": "https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing"
+          },
+          {
+            "title": "Video Workgroup Q3 Report.",
+            "link": "https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ_TZ-IcDtgxrgZr7Y/edit#heading=h.jadhio64tftq"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Devon to reach out to kenich on the delay posting from zealy for the next monthly.",
+              "assignee": "devon",
+              "status": "todo"
+            },
+            {
+              "text": "LORD KIZZY to give DEVON access to the KPI sheet for effective posting",
+              "assignee": "lord kizzy",
+              "status": "todo"
+            },
+            {
+              "text": "SLATE to send in five (5) topics for voting ",
+              "assignee": "Slate",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "we are not including the animation into the next quater for budget reduction proposal "
+            }
+          ],
+          "discussionPoints": [
+            "UPDATE from the task manager by ZALFRED as he did list the various task created during the week, budget fitting discussions operational calls by MALIK and LORD KIZZY, updating for KPI sheet from LORDKIZZY, two clips form LORD KIZZY, two clip from SUB ZERO, and a clip from ANDREWBEN, he also added MALIK as a co assingne to work with OSIMUM on the narrow AI video. and did create task on operational call for LORDKIZZY, MALIK and ZALFRED for a more efffective communication line between the editors, task manger and the review team in smoothing the process and navigation around the sheet. call with ROJO and LORD KIZZY for their concluded opearional calls on the monthly analytics on the budget review and zealy task allocation and gave updates on the uploaded town halls TH 111, 112, 113 as uploaded on the KPI sheet.",
+            "UPDATE from the zealy by DEVON as he did submit a total number of 10 video for the monthly zealy and gave update on the issues he was having with the KPI sheet including suggesting ideas in other to make it easy to access with different socials and colunms. as they should be a task for every social media post. ",
+            "Reviewing the KPI sheet with LORD KIZZY explaining the new sheet and the process on task creation and giving feedback on the social media role as a permanent role due to the new tool which is yet to be implemented on."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Rewards, Budget fitting, zealy quest, Zealy Updates, Collaboration",
+        "emotions": "Organised, informative, interactive, inconclusive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "56025112-65e5-4c98-81aa-2014501b3b40": [
     {
       "workgroup": "Gamers Guild",
@@ -27578,6 +27974,110 @@
       "canceledSummary": false
     }
   ],
+  "2b97167c-7894-49ca-8b11-673acb487641": [
+    {
+      "workgroup": "Video Workgroup",
+      "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-13",
+        "host": "Slate",
+        "documenter": "Hogantuso",
+        "peoplePresent": "malik, killy, Zalfred, lord kizzy, Slate, SubZero, osmium, AndrewBen, oep, Hogantuso, Cjfrankie ",
+        "purpose": "Weekly updates ",
+        "workingDocs": [
+          {
+            "title": "Video WG Content Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120"
+          },
+          {
+            "title": "Zealy Updates",
+            "link": "https://docs.google.com/spreadsheets/d/1suSzs5UM063hz2GHlmJsysba8XeX7S9MEgEmoT5tkqE/edit?usp=sharing"
+          },
+          {
+            "title": "Video Workgroup Q3 Report.",
+            "link": "https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ_TZ-IcDtgxrgZr7Y/edit#heading=h.jadhio64tftq"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "We decided that Devon will keep the zealy role for one more month, while we experiment on the time impact of the social media automation tool on the Social Media Management role\n",
+              "assignee": "devon",
+              "status": "todo"
+            },
+            {
+              "text": "ROJO taking up the social media manager The allocation hasn't been decided since we said we are going to experiment this month and decide after that.\n",
+              "assignee": "Rojo",
+              "status": "todo"
+            },
+            {
+              "text": "All members to join the next governance meeting.",
+              "assignee": "All Members",
+              "status": "todo"
+            },
+            {
+              "text": "Task manager role for the month of september ",
+              "assignee": "hogantuso",
+              "status": "todo"
+            },
+            {
+              "text": "Facilitator for the month of september ",
+              "assignee": "Slate",
+              "status": "todo"
+            },
+            {
+              "text": "Town hall edit for the month of september ",
+              "assignee": "AndrewBen",
+              "status": "todo"
+            },
+            {
+              "text": "Town hall summary for the month of september ",
+              "assignee": "killy",
+              "status": "todo"
+            },
+            {
+              "text": "Meeting summary for the month of september ",
+              "assignee": "oep",
+              "status": "todo"
+            },
+            {
+              "text": "Review team for the month of september ",
+              "assignee": "Zalfred, lord kizzy",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We are adopting MASTODON as a new social platform for the video work group."
+            },
+            {
+              "decision": "Collective operational Call on the challengies the work group members are facing in other to perform their task properly",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "UPDATE from the task manager by ZALFRED as he did create task for the approved topics for vidoe creation for this quater, also updated the KPI sheet with the video links ready for uploaded and had an operational call with MALIK and LORD KIZZY on the smooth communication with the review team.",
+            "UPDATE from the social meadia manager by OEP as 4 long vidoes has been uploaded to all social media platforms and having a good number of engagement so far also mentioned the challengies he's facing due to delay. ",
+            "UPDATE from the zealy by DEVON as he did mention that he'd be sending out more task from monday as the sprint comes to and end.",
+            "Reviewing and discussions on the Governance work group by LORD KIZZY presenting the questions and challengies discussed about the vidoe work group pertaining to the numbers of video creation, budget fitting and approval for Q4 budject proposal.",
+            "Presentation on navigating the new tool for the social media role by ROJO, gave a comprehensive explanation on how seemless to navigate the tool posting through various platforms and suggested to introduce LINKEDIN AND MASTODON as part of the new social platform added to the role. "
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Rewards, Budget fitting, zealy quest, Zealy Updates, Collaboration, Roles, mentorship",
+        "emotions": "Organised, informative, interactive, productive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "92831370-a519-447f-b4d6-dfb60a3a2b27": [
     {
       "workgroup": "African Guild",
@@ -27623,6 +28123,130 @@
       "tags": {
         "topicsCovered": "African Guild Survey, Q3 Budget, AI Ethics Expo, Budget cuts, Soulbound tokens, reputation, loyalty system, GEI, tag, membership, documents, document review, review, new member, merchandise",
         "emotions": "Exciting, Collaborative, inclusive, fun"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "07292841-eb22-4e49-afbf-40d29208aa1b": [
+    {
+      "workgroup": "Treasury Policy WG",
+      "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-09",
+        "host": "Tevo",
+        "documenter": "Effiom, Tevo",
+        "peoplePresent": "Tevo, Effiom, Peter",
+        "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+        "miroBoardLink": "https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764593379439090&cot=10",
+        "otherMediaLink": " https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+        "workingDocs": [
+          {
+            "title": "Policy Template",
+            "link": "https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit#heading=h.1o9zi3c2t69v"
+          },
+          {
+            "title": "Treasury Policy Submission Form (Responses)",
+            "link": "https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250"
+          },
+          {
+            "title": "Treasury Policy Feedback",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform"
+          },
+          {
+            "title": "Responses for Budget-Fitting Policy",
+            "link": "https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g"
+          },
+          {
+            "title": "Ratification Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform"
+          },
+          {
+            "title": "Policy Publicity Messages",
+            "link": "https://docs.google.com/document/d/1Mln0dvt62ESzRPUIRdnL77UsbETwwUeykKTUV3SuYaQ/edit#heading=h.83jkznc9gpfg"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Welcome, Workgroup Updates, and Meeting Agenda",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Policy Operations to be carried over to the Treasury Guild",
+              "status": "todo"
+            },
+            {
+              "text": "The ratification deliverable is planned for the end of the month; the final update will be in the Q4 Report",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Today's meeting is the last session of Policy WG",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "How best to report activities of the WG in Quarter 4?"
+          ]
+        },
+        {
+          "agenda": "Drafting of Policy Ratification Google Form",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Share the Policy Ratification form in the decision-making channel in Discord",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The Treasury Guild agreed to move the policy \"Slow Start\" to the final stage",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Based on how the form was drafted, every new policy would require a new form during ratification",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "How best to draft the form?",
+            "What should be the content of the form?",
+            "The ratification quorum decision was made in the last WG meeting."
+          ]
+        },
+        {
+          "agenda": "Review New Policy submission - sentiment metrics",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Include policy related topics (i.e. new policy submission and status of old policies) in next Treasury Guild agenda",
+              "status": "todo"
+            },
+            {
+              "text": "Draft a publication message about new policies",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "16 September 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The current version of the policy is not acceptable"
+            }
+          ],
+          "discussionPoints": [
+            "Understanding the rule activation dependencies",
+            "Implementation End time deliberation"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Miro Board, Treasury Policy, Ratification, Sentiment"
       },
       "type": "Custom",
       "noSummaryGiven": false,
