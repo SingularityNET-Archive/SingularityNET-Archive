@@ -27884,6 +27884,126 @@
       "canceledSummary": false
     }
   ],
+  "4bc10f6c-ba2f-4630-8809-d6da65399162": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-02",
+        "host": "Ayo",
+        "documenter": "Effiom",
+        "peoplePresent": "Ayo, Effiom, Gorga, Ese Williams, Yemi Solves",
+        "purpose": "The Strategy Guild Q3 Report and Q4 Budget proposal.",
+        "workingDocs": [
+          {
+            "title": "Strategy Guild Meeting Notes - 26th August 2024 ",
+            "link": "https://docs.google.com/document/d/1u-HgM64X4Bj_A8zwd41EKd6e_QXELriB5zwJ3JBpkKo/edit"
+          },
+          {
+            "title": "Strategy Guild 2nd September Session Agenda",
+            "link": "https://docs.google.com/document/d/1-c_giwGzr1RjJKf8Of32hXMIp1FOO9Jl0Lby0RrUPBg/edit"
+          },
+          {
+            "title": "Strategy Guild Meeting Notes - 2nd September 2024 ",
+            "link": "https://docs.google.com/document/d/1HdLjxBLdx5_M46HtLjgoqcpJQu1OSn2L7Z9VVK-pwoI/edit"
+          },
+          {
+            "title": "Strategy Guild Working Document",
+            "link": "https://docs.google.com/document/d/1u-HgM64X4Bj_A8zwd41EKd6e_QXELriB5zwJ3JBpkKo/edit"
+          },
+          {
+            "title": "Strategy Guild Membership",
+            "link": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit"
+          },
+          {
+            "title": "Report: Strategy Guild Workshop Q3 2024",
+            "link": "https://docs.google.com/document/d/1s5NjLoXFrUtlMmLtoabYWAHEyPnT7C535A9edSmTFcw/edit#heading=h.rrkpida8lqgw"
+          },
+          {
+            "title": "Strategy Workshop Sessions (Report and Analysis)",
+            "link": "https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0"
+          },
+          {
+            "title": "FEEDBACK SURVEY FORM (WORKSHOP SESSIONS)",
+            "link": "https://forms.gle/26PQLtzKGqGb7FNNA"
+          },
+          {
+            "title": "Strategy Guild Q4 Budget",
+            "link": "https://docs.google.com/spreadsheets/d/1fs4p6fR13u0OEPiDSmd8Q3iSW-M-UjUN2ho0AHUOKM8/edit?gid=0#gid=0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "INTRODUCTION - The purpose of this meeting is on the Strategy Guild Q3 Report and Q4 Budget proposal.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [CLOSED]\n\n3. Effiom to draft and share last meeting summary [DONE]\n\n4. Ayo to add Q3 Report and Q4 budget discussions to the 02.09.2024 agenda [DONE]\n\n5. Yemi Solves to create and share feedback form with Gs/WGs representatives [DONE]\n\n6. Adopt Last Meeting Notes - 26.08.2024 [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, no new person has indicated an interest in becoming a core member of the Strategy Guild.\n\n\nCORE MEMBER/GUILD MEMBERSHIP TAG [Effiom] - Ayo, Effiom, Gorga, Lord_kizzy, Tuso, Kenichi, and  Cjfrankie have been verified and are eligible for the Strategy Guild Core Membership tag. However, this would be assigned once Peter is back from break.\n\n\nUPDATE ON WORKSHOP FEEDBACK FORM FOLLOW-UP [Yemi Solves] - The form was shared but only 2 participants have shared feedback at the moment. The next steps is to follow up with those yet to fill form.\n\n\nREVIEW OF THE STRATEGY GUILD MEETING TIME - Should the Strategy Guild Meeting to be bi-weekly for the rest of the quarter?\n\nEveryone on the call voted that our meeting should be bi-weekly going forward and weekly when it is workshop season. Feedback would be gotten from others who were not in the meeting via a poll in the Strategy Guild Discord channel.\n\n\nTHE Q3 REPORT AND Q4 BUDGET DISCUSSIONS - Discussions on the ideal cap for the Q4 budget. We would work on the Strategy Guild Q3 Report and Q4 Budget proposal async. \n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.",
+          "actionItems": [
+            {
+              "text": "Continue contribution to the Guild’s working document",
+              "status": "todo"
+            },
+            {
+              "text": "Create a poll in Discord for other people to vote on the preferred meeting schedule for the guild",
+              "assignee": "Gorga Siagian",
+              "dueDate": "3 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Follow up with other Gs/WGs representatives that are yet to filled the form",
+              "assignee": "Yemi Solves",
+              "dueDate": "4 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Draft and make meeting notes available",
+              "assignee": "Effiom",
+              "dueDate": "6 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Continue working on the Strategy Guild Q3 Report and Q4 Budget proposal async",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Facilitation interest has been suspended so a roster can be created ahead of Q4",
+              "rationale": "Meeting facilitation roster would be prepared for Q4. In order to achieve this, we decided to suspend the action item of core members indicating interest",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Create a poll for other people to vote on the preferred meeting schedule for the guild",
+              "rationale": "Only 5 people were at the meeting, hence the need to get feedback from a wider audience via a poll",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that the deadline for filling the form is 06.09.2024, so the feedback can be added to our quarterly report",
+              "rationale": "The feedback would be valuable community feedback to be added in the Q3 report, and so the should be made available before the submission deadline of 09.09.2024",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": " Continue discussions on the Strategy Guild Q3 Report and Q4 Budget proposal async",
+              "rationale": "The deadline for submission is 09.09.2024, and that is the date for our next meeting. So we have to work async if we would meet the deadline.",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guild Membership, Workshop Feedback, Core Membership, Q3 Report, Feedback Systems, Workshop Report, Q4 Proposal and Budget, poll, Meeting Schedule",
+        "emotions": "inclusive, decisive, Collaborative, fun, interesting"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "56025112-65e5-4c98-81aa-2014501b3b40": [
     {
       "workgroup": "Gamers Guild",
@@ -28247,6 +28367,757 @@
       ],
       "tags": {
         "topicsCovered": "Miro Board, Treasury Policy, Ratification, Sentiment"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "bacab42e-4750-4962-a1b0-96adb3534ea2": [
+    {
+      "workgroup": "Writers Workgroup",
+      "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-13",
+        "host": "Kenichi",
+        "documenter": "Cjfrankie ",
+        "peoplePresent": "Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Nebula, King David, Emmanuel Issac, Nengi, Darah-mola, Evelyn Robert, Nebula1224",
+        "purpose": "Weekly meeting of the writers workgroup.",
+        "timestampedVideo": {}
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "2dc673c9-eefe-429d-b10f-9173e3cde39d": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-20",
+        "host": "Ayo",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Ayo, Eric Davies, Photogee, esewilliams, Kareem, malik, lord kizzy, Mikasa, Kenichi, SubZero, kateri, Moitlheki, kevin Frey, daniel effiom, gorga",
+        "purpose": "Marketing Guild weekly meeting",
+        "workingDocs": [
+          {
+            "title": "Marketing Guild 20th September Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Survey on FAQs for SingularityNET, Its Ecosystem, and the Ambassador Program",
+            "link": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Guild: Global Outreach",
+            "link": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing"
+          },
+          {
+            "title": "Ambassador Program Budget Planner",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+          },
+          {
+            "title": "Meeting Summary - Marketing Guild - 13 September 2024",
+            "link": "https://docs.google.com/document/d/1r_szvTmJCU3KM1zCZ2Mzg9NWhTLOpjGNwjTQ3k8gdpA/edit?usp=sharing"
+          },
+          {
+            "title": "RE-KPIs Version: Roles and Responsibilities",
+            "link": "https://docs.google.com/document/d/1rMxZA9qhTBXF7AhilNPQ_93-UdYhW5JEDAXGjtVn5nY/edit#heading=h.qt25uhu2cl6a"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Kenichi to finalize setting up the Notion link and ensure access is granted to all members by the end of the week.",
+              "assignee": "Kenichi",
+              "status": "in progress"
+            },
+            {
+              "text": "Kevin to meet with Ese and discuss potential improvements for streamlining the onboarding process",
+              "assignee": "kevin Frey, Ese Williams",
+              "status": "in progress"
+            },
+            {
+              "text": "All members are expected to submit their September reports on Notion",
+              "assignee": "All Members",
+              "status": "in progress"
+            },
+            {
+              "status": "in progress",
+              "assignee": "comms",
+              "text": "Comms to create an ideation document where everyone can drop their ideas"
+            },
+            {
+              "text": "Ese to talk about the Community creative campaign at TH",
+              "assignee": "Ese Williams",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The team decided to stick to the existing budget for Q4, but agreed that the financial reporting process needs improvement. ",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Notion Migration: Kenichi completed the migration of the database to Notion.",
+            "Q4 Budget Approval Status: Kizzy presented the Q4 budget objection summary, addressing key concerns and items that may impact approval.",
+            "Festival Engagement Strategy: Kenichi proposed that the Marketing Guild explore a festive campaign to boost engagement during the upcoming holiday season.",
+            "Ambassador Program Onboarding: Kevin introduced an idea to streamline and simplify the onboarding process for the Ambassador Program, aiming to improve efficiency.",
+            "Committee Review: Kenichi made mention of a committee review consisting of three members, with a focus on workflow optimization. ",
+            "Budget Items: The Ops team briefly discussed several budget-related topics",
+            "Adding More Deliverables: Kenichi suggested that additional deliverables are necessary, beyond those already planned, to meet project objectives."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Notion, Budget , Marketing, Governance, Engagement",
+        "emotions": "engaging new people, Thoughtful , Collaborative, warm"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "aeddaa58-936f-4544-aaa1-1025aeb34036": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-04-04",
+        "host": "Jan Horlings, Judith",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Jan Horlings, Judith, Juan Pablo Barea, CallyFromAuron, Mauro Andreoli, Steve, Duke, Franklynstein, Rafael Presa, zk, Clement Umoh, esewilliams, soubhir, guillermolucero, read.ai meeting notes, WaKa, Ubiodee, PeterE, LadyTempestt, Mario Casiraghi, Headelf, killy, Jon Grove, electronige, Ana Paula Pereira, Photogee, Alex, Loic",
+        "purpose": "Discussion of Deep Funding Round 4 Pools and DF Branding Manual and Guidelines",
+        "timestampedVideo": {
+          "url": "https://youtu.be/qU9gdhMdPIY?si=b3ZF77sSnsmzHpgZ",
+          "intro": "DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+          "timestamps": "00:03 Intro and discussion on the upcoming token merger of SingularityNet, Fetch AI, and Ocean Protocol.\n04:06 ASI Token Merge impact on Treasury and Deep Funding's scope\n09:38 Engaging with Ocean and Fetch for joint proposals\n12:37 Discussion on potential delay in starting Deep Funding round four\n18:05 Discussion about potential downsides to the token merger and pricing impact.\n20:21 Conservative approach in awards led to valuable saved tokens for future beneficial use\n25:15 Deep Funding's intention to become more decentralized\n27:47 Discussion on shared or co-funded pools and RFPs\n32:44 Deep Funding and Deep Funding Treasury will remain separate.\n35:13 Merger will bring ASI to Cardano and Ethereum with enhanced utility.\n40:02 Proposal related to AI services integration with Ocean's predictor framework\n42:24 Discussion on the necessity of storing data on-chain\n47:16 Openness to partnership with organizations for decentralized AI\n49:41 Accelerated minting for decentralized computing power.\n54:49 Migration to ASI and Bridges between Blockchains\n57:16 Minting ASI tokens for the same value with less hassle\n1:02:16 Timing is right for building potential partnerships\n1:04:33 Discussion on the name of the new Alliance\n1:09:32 Migration contract may take some time\n1:12:03 Discussion on time differences and meeting scheduling\n1:16:54 Introducing RFP proposals for funding\n1:19:28 Consider using RFPs for high-value proposals\n1:24:01 Optimizing platform performance and migration to new service provider\n1:26:32 Using AI to create a world model for predicting weather globally"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This TH was primarily an AMA with the DeepFunding team about the ASI token merger; it also touched on how the merger might affect plans for DeepFunding Round 4, RFPs, and partnerships.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "deep funding round 4, RFP, ASI token, Token merger, ocean, fetch, AMA, Partnership, Treasury, Decentralization, Decentralisation, shared pools, shared RFPs, onchain data, DF platform, weather",
+        "emotions": "informative, participatory, questioning"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "079fb5ba-dab0-4f57-ab18-6c4856a1c47f": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-23",
+        "host": "CallyFromAuron",
+        "documenter": "LadyTempestt",
+        "peoplePresent": "GorgaSeagian, LadyTempestt, Clement Umoh, barnabas, Effiom, Duke, PG, CollyPride, Ese Williams, aetherblade, osmium, Sucre n Spice, Onize, TheFreysDeFi, Peter, CallyFromAuron",
+        "purpose": "Regular meeting of the AI Ethics WG",
+        "meetingVideoLink": "No video",
+        "transcriptLink": "No transcript",
+        "workingDocs": [
+          {
+            "title": "AI Ethics Workgroup stuff! ",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          },
+          {
+            "title": "AI Ethics GitHub project board",
+            "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2"
+          },
+          {
+            "title": "AI Ethics WG Quarter 4 2024 budget DRAFT",
+            "link": "https://docs.google.com/spreadsheets/d/19ZoVkCc8ylk_R1tYIyh1xiy1USM-Yl-pYHGRB5WbtTg/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Interview Training Slides",
+            "link": "https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Tasks on Github\n\nWe started by going through tasks “in progress”;\n-We went through feedback from the Admins (Co-chair and mentee by Vani & Colleen, WG async support by LadyTempestt, GEI reportbacks by Jenn and the WG internal management by Sucre) on Github where Sucre suggested that we pick 2 or 3 skilled documentors for our meetings to rotate by Q4 and that meeting summaries need to be completed before the end of the week so they can be closed out. These issues will be closed next week and Vani will create a fresh one against quarter 4 if we get funded.\n\n-Event in Nigeria: Duke gave an update on the event holding in Nigeria in collaboration with African Guild this week; he said they are currently publicizing the event, everything is going as planned and it will take place this weekend(on Saturday). He said that he will share the virtual link for those who will watch online. Vani added that by next week we should be able to get a report back from Duke on how everything went.\nModeration of the AI Ethics forum: The admin team will take a look at what is the best way forward for payment before the next meeting.\n\n-Leeloo gave an update on payments for the AGI-24 pre-conference and the main conference contributors said that GEI is still working on how to make it seamless through the ambassador program or GEI directly instead of using the foundation’s suggestion of an invoice since some people involved might not be allowed to use that payment method. She added that Esther would reach out to Vani concerning the people who can send invoices for their payment.\n\n-Documenting GEI Open Office: Jenn is doing them in batches and will get the second one in by Wednesday this week.\n\nWe went onto tasks in “to-do”;\n-We talked about paying people who came to the training session for interviews now that the token price is good. \n\n-Q4 budget: We got one objection( the objector said they were not clear on what exactly our WG does or our main objectives) but it is not really a strong one since we have made this clear in our reports and WG description so every core contributor was requested to go approve our proposal if they think we should get funding. We also discussed a few items on the budget.\n\n-Concerning the Q3 interviews, the task has been transferred to personal issues for everyone involved and every assigned person is expected to move their issue on GitHub to “in progress” once they begin the process and add comments on how the interview went I.e hours spent, reference number, any thoughts on what can be changed and improved. Clement is the first interviewer who got the task done, he said that he followed the steps gotten from the interviews’ training and it made everything seamless. Ese asked if interviewers are to formulate questions for the interview themselves and Vani said that there were not any definite rigid questions but there are general principles about what kind of questions one needs to focus on in the slides Interview training AI Ethics WG from the interviews training session and if she or anyone is unsure, they could post their questions to seek advice in the private channels for Interviewers.\n\n-Q4 Interviews: We asked anyone up for it to jump in and put in their name although the budget for it will be dependent on what we get for funding next quarter. Duke and Vasu expressed interest in it. We will be clear about the budget next week.\n\n-AI Ethics conversations: This issue on Github will remain under “to-do” for a while since we have done that already during the AGI-24 Pre-conference and the chill-out rooms during the main conference although it might be revisited when we come to look at our budget for Q1 2025. \n\n-AI Ethics WG: Money questions \nIf a person does a task badly, should we pay them? And who decides what is bad? Is there an issue about capability when assigning tasks? Does the WG have the capacity to mentor people? Colleen suggested an Ad-hoc decision cos it's subjective and a voting system. Love asked how do we rate “How badly a task is?” PG suggested having expectations for a task established in advance, and measuring what people do against guidelines. Leeloo suggested a rotation of self-elected reviewers. Ese asked “How do we judge “badly”? Sometimes task execution style varies per organization. She made an example by saying that what she might view as bad might be different from what Vani sees as bad. Vani pointed out that PG’s suggestion above might sort that out and that if a task is so bad that it has to be done again then that becomes a problem. Leeloo suggested that maybe just seeing things as either incomplete(didn't do the task) and partial complete (did the task but missing needed material?) might work.\n\n-Vani and Love also shared a belief that If someone does not know how to do a task, they should not step up. They could also ask for mentorship - but this is ONLY if the WG has the time and money to do that; LeeLoo agreed by adding that we will always make out time to train people when necessary like we did for interviewers so they should come for it if they are interested and that if there is no time for such training then WG members should evaluate their skills and make sure they are not putting themselves up for something they can not do. Vani also added that there are going to be times when the WG won't have the time or money to offer mentorship.\nOn the topic of subjective; Vani pointed out that just because something is subjective it doesn't mean that we can not decide on it and that so many things we think are objective are not.\n\n-We also discussed some guidelines(what is expected from the interviews) and possible issues that could come up with payment for WG members doing interviews this quarter and the next. The guidelines are in this sheet AI Ethics Workgroup stuff!  and have been posted in the private channels for interviewers.\n",
+          "actionItems": [
+            {
+              "text": "Vani to get in touch with Jenn so she can add a document with an update on GEI reportbacks for 10th September.",
+              "assignee": "Vanessa",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani will reach out to Clement and agree on how much moderating the AI Ethics forum really costs after meeting with the admin team.",
+              "assignee": "Vanessa",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani to create individual issues for people involved in tasks during AGI-24 pre-conference and the chill-out rooms during the main conference.",
+              "assignee": "Vanessa",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani to pin the link to the consent forms for the interviews in the AI Ethics WG channels.",
+              "assignee": "Vanessa",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Duke is to post the link to watch the AI Event in collaboration with the African Guild online in the AI Ethics WG channel.",
+              "assignee": "Duke Peter",
+              "dueDate": "30 September 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to use the stated guidelines for the interviews this quarter and the next.",
+              "rationale": "This was to clarify what we expect from the interviews assigned to some WG members",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that having expectations on a task in advance is a great idea.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to meet again next week so as not to mess up the current calendar.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to have as many interviews done by October 14.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Q3 and Q4 interviews, Budget , money issues, Event In Nigeria, AGI-24 payments",
+        "emotions": "contributive, interesting, Deliberative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "ddc1a08d-7597-415b-aaa8-94618252b9c1": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-04-18",
+        "host": "Rafael Presa",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Jan Horlings, jay05|judithW, Rafael Presa, Ubiodee, Tommy Frey, others unknown",
+        "purpose": "DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "timestampedVideo": {
+          "url": "https://youtu.be/MhhIeJyZU2g?si=RVk_3S9hLQvO01uC",
+          "timestamps": "00:00 Start\n00:11 Decentralization of artificial intelligence for web 3.0\n03:13 Successful round with new features and improvements\n09:20 Platform opening on April 22 for account creation and proposal submission\n12:10 Community involvement and expert reviews during proposal process\n18:08 Introduction to new funding pools\n20:55 Proposals must align with SingularityNet mission and abide by general requirements for the decentralized AI Marketplace.\n26:09 Be open to funding guidelines and follow mandatory fields for eligibility\n28:41 Review period guidelines and expectations\n33:45 Rules of Eligibility are clear\n36:21 Proposal submission timing optimization\n40:45 Encouraging decentralization and community participation\n43:10 Discussing the integration of AI projects with Singularity Net\n48:02 Discussion on creating new projects and using the miscellaneous pool\n50:17 Deep funding pools provide financial support for project development.\n55:43 Introduction of the miscellaneous pool to promote community creativity\n58:14 Proposal and voting without guard rails as an experiment\n1:03:16 Creating an RFP Advisory Board for RFP selection process and budget allocation.\n1:05:41 Importance of RFP specification and limiting the number of RFPs\n1:10:17 Community driven RFP and transition to organic RFP process\n1:12:36 RFPs and Pools Discussion\n1:18:27 Contributors rewarded with logo merchandise and potential expert review group invitation.\n1:21:27 Opportunity for AGIX reward and expert review groups participation\n1:26:08 Different funding mechanisms have varying financial requirements\n1:28:30 Setting budget and balancing requirements in RFPs\n1:33:19 Difference between RFPs based on idea focus and detailed specifications\n1:36:04 Community-driven proposal submission and award process\n1:41:10 Appreciation for community participation"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Town Hall was mainly an outline of the timeline and rules for Deep Funding Round 4.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "decentralized AI, Web3, deep funding round 4, Deepfunding proposal platform, expert reviews, community, funding pools, AI marketplace, Proposal eligibility, review, Proposals, Miscellaneous, Miscellaneous pool, creativity, voting, testing voting behaviours, RFP, RFP advisory board, Community RFPs, timeline, Deepfunding Round 4 timeline, RFP design pool, knowledge graph",
+        "emotions": "monologue, long, detailed"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "918d4056-6380-46b9-aa1a-8cbb912a158c": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-04-25",
+        "host": "jay05|judithW, Rafael Presa",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "jay05|judithW, Clement Umoh, Rafael Presa, Kenric Nelson, Juan Pablo Barea, XyrisKenn, Boaz, Billy, ben, PureRelativity(Curtis), Duke, 5oundwave5, Ale Marin, Jan Horlings, Haley Lowy, WaKa, Sucre n Spice, Daniel, Robert Bedoya, oep, Headelf, others unknown",
+        "purpose": "DeepFunding Town Hall is a fortnightly meeting led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "townHallNumber": "31",
+        "timestampedVideo": {
+          "url": "https://youtu.be/XLorMq-AYeQ?si=e77SPn3KivyYbDKx",
+          "timestamps": "00:03 Intro\n02:56 Understanding the funding proposal process\n08:57 Understanding funding allocation based on available budget\n12:06 Platform evolving for better connections\n17:54 New project funding details\n20:26 Craft concise and detailed descriptions for your project.\n25:40 Key factors for increasing chances of funding\n28:13 Opportunity for revenue sharing with Deep Funding program\n33:50 Payment upon completion of milestones\n36:31 Understanding project descriptions and ideation is key to increase chances of funding.\n41:26 Building alignment with sponsors is crucial for funding success.\n43:42 Importance of demonstrating past work and project roles\n48:29 Significant growth in sales and projects with Deep Funding\n51:07 Networking is crucial for successful funding.\n56:02 Utilizing previous experience and partnerships in Singularity Net proposal\n57:58 Diverse experience in AI development and funding process\n1:01:57 Showing a personal connection to the project is most successful for getting funded.\n1:03:54 Different proposals focused on varied areas for better community appeal\n1:08:12 Build connections through teamwork and Discord\n1:10:27 Visibility and trust are crucial for funding success\n1:15:19 Understanding the two levels of proposal reviews\n1:17:45 Quality assessment by community experts\n1:22:37 Deep funding requires alignment with Singularity net's mission and vision\n1:25:05 Deep Funding aims to create a community of builders"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Town Hall was mainly a discussion of the proposal submission process, and how to maximise your chances of getting funded in Deep Funding round 4",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "proposal submission, deep funding round 4, Budget , Deepfunding proposal platform, revenue sharing, AI marketplace, milestones, networking, personal connection, Discord, visibility, trust, alignment, mission and vision, Singularitynet mission, Rewards",
+        "emotions": "monologue, in depth, detailed, step by step"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "1b8369d7-2e20-41a4-b3da-f62747f52c4d": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-02",
+        "host": "jay05|judithW",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "jay05|judithW, Emotu, Juan Pablo Barea, Nicola Salvagni, tom (Aprendo), Mihai Bărbulescu, ines gavina, Jan Horlings, XyrisKenn, Ale Marin, Duke, logan, Clement Umoh, 5oundwave5, Sucre n Spice, Diego G, Boaz, jerry king, Mikasa, Ese Williams, Ubiodee, MayorDefi, Kenichi, oep, samuel chukwu, Tomas Octavio, read.ai meeting notes, fireflies notetaker Mercy, Kings Ghedosa, edet ekpenyong",
+        "purpose": "DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "timestampedVideo": {
+          "url": "https://youtu.be/pvuEsME3Ao0?si=flAOQCwDL5O8qCZP"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Town Hall was a session where personal questions were asked of some of the main participants in DeepFunding, as a \"get-to-know-you\" exercise.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "personal, participatory, long, ice breaker, game, individuals, people, ideals",
+        "topicsCovered": "community, community engagement, questions, turn-taking, projects, education, Africa, AGI"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "c888111e-155e-4605-b35f-edda9229d32b": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-09",
+        "host": "jay05|judithW",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "jay05|judithW, Jan Horlings, Juan Pablo Barea, S. B. van Houten, 5oundwave5, Ayo, Clement Umoh, Robert Bedoya, XyrisKenn, Udai Solanki, Billy, Sucre n Spice, MayorDefi, Ubiodee, Daniel, Kings Ghedosa, PureRelativity(Curtis), Digital Ark's Fathom Notetaker, Musonda Bemba, Omni Ark",
+        "purpose": "DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "townHallNumber": "33",
+        "timestampedVideo": {
+          "url": "https://youtu.be/U8zYifE7wJM?si=Horqybhkif3PQbuQ",
+          "timestamps": "00:03 Intro\n03:05 Round 4 funding targets and marketing proposals\n08:14 Plan to have regional town halls and community website for coordination\n10:50 New RFP process and limitations for Town Hall proposals.\n16:24 Building a community aligned with Singularity net's mission\n18:47 Feedback on platform notifications and improvements\n23:08 Feedback without replicating full discussion\n25:39 Clarifying milestones and funding usage for grants.\n30:13 Positive feedback on Singularity Network community\n32:27 Introduction to trivia segment\n36:59 Setting up for trivia game night\n39:15 Contest winners and future trivia plans\n44:21 Trivia game night begins with a countdown\n47:13 Round four funding amount and trivia game results\n52:42 Discussion on past funding rounds and current player rankings.\n55:21 The new proposal submission portal for testing was launched by Deep Funding.\n1:00:47 Discussion on technical issues during gameplay\n1:02:56 Trivia game results and questions discussed\n1:08:19 Deep funding round four key points\n1:11:09 Deep Funding Town Hall Q+A Session Highlights"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Town Hall was mainly a Q&A about the current Deep Funding round 4; followed by a trivia quiz.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "regional expansion, regional town halls, community website, deep funding website, Marketing, marketing proposals, targets, RFP, alignment, singularitynet mission, Deepfunding proposal platform, proposal platform, milestones, community, game, trivia",
+        "emotions": "informative, good humoured, self-congratulatory, fun, interesting, surprising"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "72f7d2bf-70d5-4850-b41e-423bae5e1420": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-28",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, Tevo, WaKa, CallyFromAuron, Clement Umoh, hogantuso, guillermolucero, Will Tatz, Felix, Mikasa, Zalfred, Ese Williams, Onize, aetherblade, Boaz, Effiom, Haley Lowy, Ayo, Nefertiti Strong, Kenichi, Holly Rankin, Nicola Salvagni, lord kizzy",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "workingDocs": [
+          {
+            "title": "Global Ethics Initiative ",
+            "link": "https://docs.google.com/document/d/14ibt8g356vB320x_lDgE80UpervzQHayGPFpJpRcdJo/edit?usp=sharing"
+          },
+          {
+            "title": "Ambassador DF proposals",
+            "link": "https://docs.google.com/spreadsheets/d/1jrOKJK2BrrS4Z5vLNyQqTxgJpt85ny0YsQ2kCuzPCog/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://youtu.be/Mlmxntd4zH4?si=vbVfRNX_gCN8KcHH",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "00:00 Introduction by Peter\n01:10 Deep Funding round 4\n02:17 Beyondthecode.ai\n16:32 Workgroup Updates\n17:08 Knowledge Base WG\n18:35 Dework PBL WG\n19:35 Treasury Guild\n22:05 Archives WG\n27:49 Educational WG\n30:01 R&D Guild\n33:08 LatAm Guild\n38:25 Onboarding WG\n40:46 Marketing Guild, and the issue of guild leadership and how to select Guild leaders\n44:20 Writers WG\n50:31 Video WG\n53:26 Strategy Guild\n54:40 Governance WG\n57:16 Ai Ethics WG\n1:00:27 Open Discussion - should we start recognising participation in Town Halls again? We used to, but now do not.\n1:12:00 WaKa's list of Deep Funding R4 proposals that are from people in the Ambassador Program"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Today's Town Hall consisted mainly of the regular monthly updates from each WorkGroup. \n\nThere was also a presentation from https://www.beyondthecode.ai, an immersive documentary series about Ben Goertzel and AGI.\n\nThere was also a discussion on whether we should start recognising participation in Town Halls again? We used to, but now do not. Main points raised:\n- Could Video WG's summaries of TH include listing who is present? \n- Can we use a Dework template for it? We used to do so - but around Town Hall #49 the template was changed\n- How do we handle it if anyone present at TH does not have a Dework account?  Can we ask them async to create one, and thus support the onboarding process?\n- It is best to have one person responsible for capturing TH attendees via Read.ai, Zoom signups, etc - ideally someone who knows the community and will recognise people's Discord names\n- Should we try to catch up on the THs where we did not capture attendance? It would be a lot of manual work. Or should we just say that we used to do it, it was a useful experiment and we learnt from it, and look now at how we can improve the process so we can start afresh?",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "workgroups, monthly updates, beyondthecode.ai, documentary, deep funding round 4, RAG retrieval process, Knowledge base, ambassador system design, dework PBL, students, Treasury, Treasury Policy, Q3 2024 proposals, Q2 2024 report, LLMs, open source, document management, archival dissociation, ethics strategy for Archives, GitHub, good meeting summaries, google doc header, doc header, spinoffs, fetch, ocean, quizzes, videos, Infographics, learn with AI, certification, R&D guild, transparency, budget concerns, prototypes, Q2 2024 budget, disability, disability research, LatAm, new members, Argentina, Colombia, Brazil, regional expansion, Translation, Decentralization Blueprint, global ethics document, treasury training session, Onboarding survey, Marketing guild lead, guild leadership, Medium publications, Trivia sessions, trivia topics, Zealy, pupil tag, Pidgin, Spanish, Twitter/X, Notion, Writers WorkGroup, video WG, Strategy Guild, strategy guild revival, Q1 budget allocation, Q2 budget, retrospective, budget retrospective, governance experiments, Core Contributor, renaming Ambassadors, decentralized decision making, Governance workgroup, AI ethics, research, GEI, Global AI Ethics Initiative, town hall participation, Dework, template, people without Dework account, deepfunding R4",
+        "emotions": "informative, detailed, friendly "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "3db2ce7c-8678-418d-933b-cceeba09bd0d": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-27",
+        "host": "none",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "others unknown",
+        "purpose": "DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "In the last week of May 2024, Deepfunding Town Hall organised 3 \"Spotlight Day\" events, where proposers in Deep Funding Round 4 could present their proposals with a 3-minute video pitch.\n\nThese events took place on:\n- Mon 27th May\n- Weds 29th May\n- Thurs 30th May.\n\nYou can view all the pitches on the following YouTube playlist https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "deep funding round 4, DeepFunding, money, Proposals, proposers, pitch, Marketing",
+        "emotions": "informative, varied, money-led"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "06640e49-0101-46e0-9e57-4a9b62e50f30": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-29",
+        "host": "none",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "others unknown",
+        "purpose": "DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "In the last week of May 2024, Deepfunding Town Hall organised 3 \"Spotlight Day\" events, where proposers in Deep Funding Round 4 could present their proposals with a 3-minute video pitch.\n\nThese events took place on:\n- Mon 27th May\n- Weds 29th May\n- Thurs 30th May.\n\nYou can view all the pitches on the following YouTube playlist https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "deep funding round 4, DeepFunding, money, Proposals, proposers, pitch, Marketing",
+        "emotions": "informative, varied, money-led"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "c5c63086-69f9-4139-8421-5d9e03b039f0": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-30",
+        "host": "none",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "others unknown",
+        "purpose": "DeepFunding Town Hall is a (usually) fortnightly meeting (although for a short period, it has been weekly) led by the SingularityNET Ambassador community, where we share updates, presentations & conversations about topics that relate to Deep Funding and SingularityNET.",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "In the last week of May 2024, Deepfunding Town Hall organised 3 \"Spotlight Day\" events, where proposers in Deep Funding Round 4 could present their proposals with a 3-minute video pitch.\n\nThese events took place on:\n- Mon 27th May\n- Weds 29th May\n- Thurs 30th May.\n\nYou can view all the pitches on the following YouTube playlist https://www.youtube.com/playlist?list=PLC_2LlWfxxoeDVDDlq8GLIfzuHQ9_PbDp\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "deep funding round 4, DeepFunding, money, Proposals, proposers, pitch, Marketing",
+        "emotions": "informative, varied, money-led"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "26c162f1-5888-4f6d-b201-2ab5903833b6": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-05-21",
+        "host": "jay05|judithW",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "jay05|judithW, Billy, Olokoji, CollyPride, WaKa, Duke, Clement Umoh, Will Tatz, Temiloluwa Hamzat, Ese Williams, Sucre n Spice, oep, Effiom, hogantuso, Tevo, Kenichi, Gorga Siagian, Zalfred, osaborme Ehiz, osmium",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "98",
+        "timestampedVideo": {
+          "url": "https://youtu.be/6Hg3ZHl91fo?si=rLhGfnEE-3CTIVt0",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+          "timestamps": "0:32 Agenda\n1:29 Interest in marketing lead \n1:54 What is expected of a marketing lead\n7:31 How do we appoint/select the new Marketing Guild lead? Could it be anyone? Do they need a marketing background? Should they submit a CV? Should there be a vote?\n10:33 How would you present your skill set? Should we prioritise education or experience? Should we ask applicants what KPIs or deliverables they would want the Guild to achieve?\n14:47 How would everyone vote on a proposal?\n57:27 Analyzing the marketing guild\n1:18:59 Conclusion"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Town Hall was mainly focused on discussion of how to select a new lead for Marketing Guild, following Judith's resignation.\n\n",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Marketing Guild, guild lead, lead, marketing task force, community engagement, voting",
+        "emotions": "long, in depth"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "7e719b2f-1d2b-4bb2-b6fe-a8a8f09e74c5": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-06-13",
+        "host": "Ayo",
+        "documenter": "Onize, CallyFromAuron",
+        "peoplePresent": "Ayo, Onize, CallyFromAuron, Duke, Sucre n Spice, PeterE, lord kizzy, Clement Umoh, Kateri Nick, Effiom, LadyTempestt, Gorga Siagian, Photogee, Kenichi, guillermolucero, daniel oladele, Timmy, Gavriel Shaw, Cjfrankie ",
+        "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+        "workingDocs": [
+          {
+            "title": "Skillshare Matrix Doc",
+            "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing"
+          },
+          {
+            "title": "ONBOARDING WG C&S DETANGLE DOCUMENT",
+            "link": "https://docs.google.com/spreadsheets/d/1EN21KSiQQc61aBHwL17ocCMixX6m-mA08wpr1bQF2zI/edit?usp=sharing"
+          },
+          {
+            "title": "FINAL Onboarding WG budget projections",
+            "link": "https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG_TtVw/edit"
+          },
+          {
+            "title": "Onboarding WG quarterly report Q2 2024",
+            "link": "https://docs.google.com/document/d/1x4HDcJxTpVQH7NuEcsYauStAbAUl61UOgZZav5HyGpU/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "issues": [
+            "skillshare matrix",
+            "Q3 budget",
+            "Q2 quarterly report"
+          ],
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Onize to edit the onboarding journeys scripts and flesh them out as a script.",
+              "assignee": "Onize",
+              "dueDate": "20 June 2024"
+            },
+            {
+              "text": "Everyone to consider the foundational skills in the skillshare matrix sheet",
+              "assignee": "All Members ",
+              "dueDate": "20 June 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Everyone to review the Q2 report draft done by Clement.",
+              "assignee": "All Members",
+              "dueDate": "20 June 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to work on a complete redraft of the information in the Getting Started document when everyone is done adding comments.",
+              "assignee": "Sucre n Spice",
+              "dueDate": "20 June 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Everyone to look into the ONBOARDING WG C&S DETANGLE DOCUMENT and identify any suggestions that have already been worked into the Q3 budget",
+              "assignee": "All Members",
+              "dueDate": "20 June 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to add Gorga to the facilitation rotation list for Q3\n",
+              "assignee": "Sucre n Spice",
+              "dueDate": "1 July 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to set up a team of Onboarders who will do 1 on 1 introductions with newbies. We will work out the criteria for interested WG members to become a part of this team. Suggested: Need to be a Core Contributor with a certain amount of time (how long is TBD) in the program.",
+              "rationale": "to check individually that new people have all the info they need to thrive in the program.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will brainstorm urgently on the budgets for some tasks in the Q3 budget; regular and one-off",
+              "rationale": "We particularly need to look at the budget for mentorship; and whether we need a budget line for \"contingency\".",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided we will include a budget line for a research project in our Q3 budget; and, if funded, we will decide then exactly what it will be. We want to research using 1-2-1 or small focus groups rather than a survey.",
+              "rationale": "Because there were several suggestions for what the research should cover, and we hadn't time to discuss properly in this meeting.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Business:\nWe agreed the minutes of the last meeting\nAction items from the last meeting\n\n",
+            "Onboarding Journeys update: Vani has drafted the script and handed it over to Onize to edit and add anything else.\n",
+            "Skillshare matrix: we encouraged WG members to add to their skillsets if they have missed anything off; and pick out which skills they think are \"foundational skills\" both for the whole community, and for this WG.",
+            "Q3 budget: regular and one-off tasks, mentorship and contingency budgets.",
+            "Research project for Q3",
+            "Revamping the Getting Started channel in Discord",
+            "Q2 Quarterly report update from Clement",
+            "The onboarding focus group"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "skills matrix, q2 2024 report, q3 2024 budget, mentorship, foundational skills, 1-2-1 onboarding",
+        "emotions": "informative, funny , long, Collaborative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "fe3fbd94-5dd2-44c3-9bdf-f5fe10a41d96": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-15",
+        "host": "LadyTempestt",
+        "documenter": "hogantuso, CallyFromAuron",
+        "peoplePresent": "LadyTempestt, CallyFromAuron, Eric Davies, Photogee, CollyPride, Sucre n Spice, Gorga Siagian, hogantuso, Onize, Cjfrankie, Advanceameyaw, Merryman, others unknown",
+        "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+        "mediaLink": "https://youtu.be/sTRa37Hslts",
+        "workingDocs": [
+          {
+            "title": "Documentation training slides",
+            "link": "https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing "
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "This week, our regular meeting was replaced by a training session on documentation skills, led by LadyTempestt."
+          ],
+          "learningPoints": [
+            "We cannot rely on unmediated AI summaries - so how CAN we make use of AI tools, and what CAN they do?\n ",
+            "Do documenters need to be present at a meeting to document well? Probably yes - especially because you can ask questions if anything is unclear - although it is possible to do it from a recording. \n",
+            "How can we distinguish between a suggestion, and a decision? Often it's the facilitator who signals that an actual decision needs to be made\n",
+            "A good facilitator can support good documentation, e.g. by signalling when a decision is being made; noting when there is an action item to be done and making sure it's assigned; calling out the names of who is present; making it clear when the meeting moves to the next item on the agenda; etc\n",
+            "What exactly is an action item? It's something that is assigned to a particular person to do, ideally with a due date.\n",
+            "Should a documenter attribute comments to individuals or not? It might depend on the type of meeting. Attribution recognises what someone contributes, and makes sure people are heard. It might be less important in more routine, \"businesslike\" meetings, and more important in more discursive or ideas-orientated meetings.\n",
+            "Good documentation captures the interactive, fluid, non-static nature of most meetings, and the fact that people's thoughts develop and change during it.",
+            "To document well, you probably need to know the Program and the ecosystem quite well - it is probably not an entry-level task. It's good to attend 2 or 3 meetings of a workgroup before you try to document it."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "useful documentation, Documentation, action items, decisions, tracking decisions, sources , what is a meeting, conciseness, accuracy, decision rationales, AI tooling, ai tooling problems, limitations of AI, limitations of AI for documentation, read.ai, read.ai limitations, Ethics, speaker identification, subjectivity, dynamic conversations, attribution",
+        "emotions": "warm, Discursive, informative"
       },
       "type": "Custom",
       "noSummaryGiven": false,
