@@ -27161,27 +27161,31 @@
         "date": "2024-08-30",
         "host": "Ayo",
         "documenter": "Eric Davies",
-        "peoplePresent": "Ayo, Eric Davies, Photogee, Gorga, esewilliams, Advanceameyaw, Aguboss, kateri, Olokoji, Cjfrankie, Kareem, hamzat, malik, SubZero, lord kizzy",
-        "purpose": "Marketing Guild weekly meeting",
+        "peoplePresent": "Ayo, Eric Davies, Ese Williams, Olokoji, Photogee, Advanceameyaw, Kareem, Cjfrankie, kateri, lord kizzy, Gorga, hamzat, Aguboss, malik, SubZero",
+        "purpose": "Marketing Guild weekly meeting\n",
         "workingDocs": [
           {
-            "title": "Meeting Agenda",
-            "link": "https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709"
+            "title": "Marketing Guild 23rd August Meeting Summary",
+            "link": "https://docs.google.com/document/d/1Muv4yEU0p76C8KieeiHZRvKxEp037tQdGQwWyzzdG28/edit#heading=h.shxqnobd9709"
           },
           {
-            "title": "Marketing Survey",
+            "title": "Marketing Guild 30th August Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1GWlvQ9cJKihCD4NYY6GVtuqzqjqigtFzhkoaBtJZwb4/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Survey on FAQs for SingularityNET, Its Ecosystem, and the Ambassador Program",
             "link": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing"
           },
           {
-            "title": "Roles and responsibility sheet",
+            "title": "Roles and Responsibilities ",
             "link": "https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing"
           },
           {
-            "title": "Marketing Guild Global Outreach document",
+            "title": "Marketing Guild: Global Outreach",
             "link": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing"
           },
           {
-            "title": "Q3 Marketing Guild Budget",
+            "title": "Q3 Marketing Guild: Budget ",
             "link": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing"
           },
           {
@@ -27189,64 +27193,71 @@
             "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
           },
           {
+            "title": "RE-KPIs Version: Roles and Responsibilities ",
+            "link": "https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a"
+          },
+          {
             "title": "Notion Decision",
             "link": "https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing"
           },
           {
-            "title": "Governance Document Ideation",
+            "title": "Guild Notion Board",
+            "link": "https://www.notion.so/Guild-Roadmap-377d5e9c01da4d2499fb73661c9d77e1"
+          },
+          {
+            "title": "Governance Document Ideation: Marketing Guild",
             "link": "https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1"
           }
-        ],
-        "timestampedVideo": {}
+        ]
       },
       "agendaItems": [
         {
           "status": "carry over",
           "actionItems": [
             {
-              "text": "Lord kizzy to work on Q3 Marketing Guild budget report",
+              "text": "Lord kizzy to work on Q3 Marketing Guild budget report\n",
               "assignee": "lord kizzy",
-              "status": "in progress"
+              "status": "done"
             },
             {
               "text": "Ese to work on content engagement campaign",
-              "assignee": "esewilliams",
-              "status": "in progress"
+              "assignee": "Ese Williams",
+              "status": "done"
             },
             {
-              "text": "CJ Frankie is tasked with preparing documentation on the number of people we have on the SingularityNet Discord and the ratio of those who are active.",
+              "text": "CJ Frankie is tasked with preparing documentation on the number of people we have on the SingularityNet Discord and the ratio of those who are active.\n",
               "assignee": "Cjfrankie ",
-              "status": "in progress"
+              "status": "done"
             },
             {
-              "text": "Aguboss is to work on the Contributor Spotlight for last week from Onboarding WG, archives for the next session, and WG and Guilds Spotlight for the month.",
+              "text": "Aguboss is to work on the Contributor Spotlight for last week from Onboarding WG, archives for the next session, and WG and Guilds Spotlight for the month.\n\n",
               "assignee": "Aguboss",
-              "status": "in progress"
+              "status": "done"
             }
           ],
           "decisionItems": [
             {
-              "decision": "Rewards for members who fail to complete their tasks for a consecutive amount of time will be re-evaluated and allocated to the members who stand in for them.",
+              "decision": "Rewards for members who fail to complete their tasks for a consecutive amount of time will be re-evaluated and allocated to the members who stand in for them.\n",
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.",
+              "decision": "Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.\n",
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "Drafting a community survey for this quarter has been decided.",
+              "decision": "Drafting a community survey for this quarter has been decided.\n",
               "effect": "affectsOnlyThisWorkgroup"
             }
           ],
           "discussionPoints": [
-            "Progress with the Foundation: Updates on follow-ups and the content engagement campaign.",
-            "Communications Department: Submission of the monthly report on activities and outcomes."
+            "Progress with the Foundation: Updates on follow-ups and the content engagement campaign.\n",
+            "Communications Department: Submission of the monthly report on activities and outcomes.\n"
           ]
         }
       ],
       "tags": {
-        "topicsCovered": "Rewards, Budget , Roles, survey , Marketing, Marketing Guild",
-        "emotions": "Collaborative, warm, Thoughtful "
+        "emotions": "engaging, Collaborative, calm",
+        "topicsCovered": "Rewards, Budget report, Engagement"
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -28249,6 +28260,121 @@
       "canceledSummary": false
     }
   ],
+  "a802b9dc-3f96-4b6b-8fdc-559fcbda5915": [
+    {
+      "workgroup": "Archives Workgroup",
+      "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-18",
+        "host": "Stephen [QADAO]",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], Clement Umoh, CollyPride, Sucre n Spice, LadyTempestt, lord kizzy, esewilliams",
+        "purpose": "Regular fortnightly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+        "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+        "workingDocs": [
+          {
+            "title": "SNET Archive AI features (draft of possible features an AI tool might have)",
+            "link": "https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing"
+          },
+          {
+            "title": "How to make a document community owned",
+            "link": "https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing"
+          },
+          {
+            "title": "Docs management tool",
+            "link": "https://snet-doc-manager.netlify.app/#"
+          },
+          {
+            "title": "New Summary Tool Features",
+            "link": "https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing"
+          },
+          {
+            "title": "draft Q4 budget"
+          },
+          {
+            "title": "draft Q3 quarterly report",
+            "link": "https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing"
+          },
+          {
+            "title": "Today's meeting Issue ",
+            "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/202"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116  - task has been handed over to Onyeka with a due date of next meeting (2nd Oct).",
+              "dueDate": "2 October 2024",
+              "status": "in progress",
+              "assignee": "lord kizzy"
+            },
+            {
+              "text": "Stephen to set a date in October for presenting the \"Open-source paradigm\" work at a TH, and let Peter know",
+              "assignee": "Stephen [QADAO]",
+              "dueDate": "2 October 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Vani to submit the budget and quarterly report by Monday 9th Sept",
+              "assignee": "CallyFromAuron",
+              "dueDate": "9 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Sucre to finish updating Ambassador gitbook to reflect changes to the Onboarding process by the end of the Quarter",
+              "assignee": "Sucre n Spice",
+              "dueDate": "30 September 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Vani to go through all outstanding Issues on the board and check they have the correct milestone",
+              "assignee": "CallyFromAuron",
+              "dueDate": "2 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Summary tool redesign: See issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/181 - André and Vanessa met on Mon 9th Sept and agreed priorities (see New Summary Tool features https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing) and have decided to focus initially on the quicker fixes that will make most difference for documenters.\n\nSome changes have already been made: the interface is more mobile-friendly; there is export to Google doc rather than PDF; fields are now blocks with all the text visible at once, rather than single lines that you need to scroll up and down to see; fields such as who is present, tags, tc can be cleared with one click; and there is a \"light\" mode (there will be a \"dark\" mode reinstated for those who prefer it!)",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "Focusing on these changes first, because want to focus initially on things that will have the biggest effect on ease of use of the tool. "
+            },
+            {
+              "decision": "We decided that the \"Open source paradigm\" work would be best presented at a Town Hall rather than a separate meeting. Stephen to pick a date in October and let Peter know.",
+              "rationale": "Because in TH in the past, conversations about open-source have been lively - clearly those who attend find it an interesting topic.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that some of the insights in the \"How to make a document community owned\" (see https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing) could be folded into Stephen's presentation on our open-source paradigm",
+              "rationale": "because the issues raised relate to open-source ethos and culture",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "On the open source docs management work: André has discovered a way to record a reuseable auth token for Google docs ",
+              "rationale": "so he does not have to change the API key every week",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "On our tag taxonomy: this is close to finished, and a controlled vocab will likely be incorporated into the summary tool redesign; we will have an option for \"other\", so that people can add new tags, but they will not be immediately visible in the Tool - any new tags added will be ratified in Archives meetings.",
+              "rationale": "To avoid problems with people adding tags that are really similar to existing tags.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "open source, open source ethos, meeting summary tool, API key, Tag taxonomy, community owned, meeting summary tool redesign, Town Hall presentation, Presentation, tags",
+        "emotions": "Organised, cheerful, short"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "07292841-eb22-4e49-afbf-40d29208aa1b": [
     {
       "workgroup": "Treasury Policy WG",
@@ -29118,6 +29244,110 @@
       "tags": {
         "topicsCovered": "useful documentation, Documentation, action items, decisions, tracking decisions, sources , what is a meeting, conciseness, accuracy, decision rationales, AI tooling, ai tooling problems, limitations of AI, limitations of AI for documentation, read.ai, read.ai limitations, Ethics, speaker identification, subjectivity, dynamic conversations, attribution",
         "emotions": "warm, Discursive, informative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "c25cc2c0-55dc-4866-8914-08dc70abace9": [
+    {
+      "workgroup": "Archives Workgroup",
+      "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-10-02",
+        "host": "Stephen [QADAO]",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], Ashley, martinsoki, lord kizzy, Effiom, Duke, esewilliams, Clement Umoh",
+        "purpose": "Regular fortnightly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+        "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+        "workingDocs": [
+          {
+            "title": "SNET Archive AI features (draft of possible features an AI tool might have)",
+            "link": "https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing"
+          },
+          {
+            "title": "How to make a document community owned",
+            "link": "https://docs.google.com/document/d/1hQs4ocUhT6mrvgn-ZjTO7O2aVDm-KEsYIiPaAOQH1Gc/edit?usp=sharing"
+          },
+          {
+            "title": "Docs management tool",
+            "link": "https://snet-doc-manager.netlify.app/#"
+          },
+          {
+            "title": "New Summary Tool Features",
+            "link": "https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing"
+          },
+          {
+            "title": "draft Q4 budget"
+          },
+          {
+            "title": "draft Q3 quarterly report",
+            "link": "https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing"
+          },
+          {
+            "title": "today's meeting issue ",
+            "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/203"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Video walkthru of how to use the GitHub Board - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/116  - not yet completed, but Onyeka will add the completed video to the Issue as soon as possible, and if needed, we'll review it in our November meeting.",
+              "dueDate": "6 November 2024",
+              "status": "in progress",
+              "assignee": "lord kizzy"
+            },
+            {
+              "text": "Stephen to set a date in October for presenting the \"Open-source paradigm\" work at a TH, and let Peter know - this will be done async outside of meetings.",
+              "assignee": "Stephen [QADAO]",
+              "dueDate": "30 October 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Sucre to finish updating Ambassador gitbook to reflect changes to the Onboarding process by the end of the Quarter - not yet complete, as Sucre has been away - Vani will ask her to update the Issue async when done",
+              "assignee": "Sucre n Spice, CallyFromAuron",
+              "dueDate": "6 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Clement or Onyeka to announce the winners of the Good Meeting Summary prize some time in the coming week, and update the issue accordingly https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/191",
+              "assignee": "lord kizzy, Clement Umoh",
+              "dueDate": "9 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided that for Q4 2024 we will meet monthly, on the first Wednesday of each month. Today is therefore our October meeting; then 6th Nov and 4th Dec. This means that work will be more async this Quarter, and people are encouraged to update their Issues on the project board themselves, outside of meetings, if needed. We will review this decision in our meeting on 4th December and decide whether to revert to fortnightly meetings for Q1 2025.",
+              "rationale": "Mainly because due to our very focused budget this Quarter, there will not be many tasks for new people in Q4, so there will not be so much need to meet.",
+              "opposing": "We noted that this might reduce participation in meetings - but we hope to mitigate this by meeting \"on the first Wednesday of the month\" which might be easier to remember.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "On the redesign of the meeting summary tool - the next key \"ease-of-use\" feature that André will be implementing is the ability to output all meeting summaries for a particular WG for a period. The plan was to enable output for a whole quarter, but the meeting suggested also making it possible to output all summaries for a month.",
+              "rationale": "Particularly because people sometimes want all summaries for a month to help with their reporting",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "RE tool development for October, we noted that André has recently fixed a bug which caused some accounts not to be able to save a summary. It seemed to be triggered by the \"No Summary Given\" function, but is now fixed",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "On August and September Archives GitBook, we noted that there is still some delay with getting Governance WG summaries up to date, but it is nearly there; some Town Halls are still outstanding and need to be added; and some Marketing Guild summaries are missing.\n\nWe noted that the Marketing Guild meeting summary of 16th August, which said \"For the sake of working effectively in a ‘singular’ and not divided pattern, decisions being made in the marketing guild should not be made public and outside the guild henceforth\", doesn't refer to Marketing Guild summaries at all, as we had thought. According to info from Marketing Guild members who were in this meeting, it actually refers to a specific decision about a collaboration with Rejuve, rather than about Marketing Guild summaries in general, and is rather unclearly-written. So this is not the reason that some Marketing Guild summaries are missing, and we are glad to note that there has not been (as it appeared at first) a decision in Marketing Guild not to document their meetings. Onyeka has access to some of the missing Marketing summaries and will add them.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "short, focused, simple, new people present",
+        "topicsCovered": "meeting frequency, monthly meetings, Q4 budget, async, async working, summary tool redesign, Tool Development, meeting summary tool, good meeting summaries, Ambassador GitBook, open source ethos, open source, Town Hall, Town Hall presentation, GitHub video walkthrough, github board, Marketing WG, Governance workgroup"
       },
       "type": "Custom",
       "noSummaryGiven": false,
