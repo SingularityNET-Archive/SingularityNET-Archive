@@ -28508,9 +28508,38 @@
         "date": "2024-09-13",
         "host": "Kenichi",
         "documenter": "Cjfrankie ",
-        "peoplePresent": "Kenichi, Mikasa, cjfrankie, LadyTempestt, devon, Gorga Siagian, Advanceameyaw, Nebula, King David, Emmanuel Issac, Nengi, Darah-mola, Evelyn Robert, Nebula1224",
-        "purpose": "Weekly meeting of the writers workgroup.",
-        "timestampedVideo": {}
+        "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Advanceameyaw, Emmanuel Issac, Darah-mola, kevin Frey, Merryman",
+        "purpose": "Weekly meeting of the writer's workgroup centered on the Q4 budget proposal and the consent result."
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The writer's WG meeting held another weekly meeting on the 13th of September, 2024. Kenichi kicked off the meeting with a welcoming greeting. The first topic we discussed was hovering around the Q4 budget proposal and the consent result. From the result, it is clear that 8 people have a yes consent, 6 people abstained from the proposal, and 9 people objected. In light of such, Kenichi did mention that he was going to tweak the draft, and we should expect to see the updated version. Kenichi also pointed out that there won’t be any form of SEO training in Q4, however, if anyone wants to do it, they’d be allocated a time, but there’s no budget allocation for the training!\n\nFollowing that, we switched gears and we talked about the current Zealy Sprint. Gorga suggested that we have some one-off tasks just so sprinters won’t have to complain about new members topping the chart. Kenichi also mentioned that he was going to delete some quotes from the board to make it organized. He also called the attention of the Scribes, telling them to pay more attention to the board. Merryman also suggested that quest reviews should be automated just so the review process becomes less stressful and time-consuming. Kenichi cleared the air by saying that some tasks are automated already, but some quests still need to be reviewed by the Scribes.\n\nFrom the publication side of things, he urged the Scribes to reach out to anyone who has drafts and have them upload them to the community page while they pay close attention to the editing framework.\n",
+          "actionItems": [
+            {
+              "text": "Kenichi to delete some quests from the Zealy board to keep everything organized and clean",
+              "assignee": "Kenichi",
+              "dueDate": "13 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "The Scribes to chase Scribblers who have drafts and have them uploaded on the community page.",
+              "assignee": "Cjfrankie",
+              "dueDate": "20 September 2024",
+              "status": "done"
+            },
+            {
+              "text": "Cjfrankie to chase Merryman for a brief update on his test.",
+              "assignee": "Cjfrankie ",
+              "dueDate": "20 September 2024",
+              "status": "done"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "SEO, Substack, Zealy, Q4 Budget Concerns , community page, Editing Framework",
+        "emotions": "calm, quiet, speedy "
       },
       "type": "Custom",
       "noSummaryGiven": false,
