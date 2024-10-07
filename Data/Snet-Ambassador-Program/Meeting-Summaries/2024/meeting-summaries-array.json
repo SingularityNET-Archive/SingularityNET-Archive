@@ -26568,7 +26568,7 @@
       "date": "2024-08-30",
       "host": "Ayo",
       "documenter": "Eric Davies",
-      "peoplePresent": "Ayo, Eric Davies, Ese Williams, Olokoji, Photogee, Advanceameyaw, Kareem, Cjfrankie, kateri, lord kizzy, Gorga, hamzat, Aguboss, malik, SubZero",
+      "peoplePresent": "Ayo, Eric Davies, Ese Williams, Photogee, Kenichi, Advanceameyaw, Kareem, Cjfrankie, lord kizzy, Gorga, Olokoji, Aguboss, malik, hamzat, SubZero",
       "purpose": "Marketing Guild weekly meeting\n",
       "workingDocs": [
         {
@@ -26608,7 +26608,7 @@
           "link": "https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing"
         },
         {
-          "title": "Guild Notion Board",
+          "title": " Guild Notion Board.",
           "link": "https://www.notion.so/Guild-Roadmap-377d5e9c01da4d2499fb73661c9d77e1"
         },
         {
@@ -26627,18 +26627,13 @@
             "status": "done"
           },
           {
-            "text": "Ese to work on content engagement campaign",
+            "text": "Ese to work on content engagement campaign\n",
             "assignee": "Ese Williams",
             "status": "done"
           },
           {
             "text": "CJ Frankie is tasked with preparing documentation on the number of people we have on the SingularityNet Discord and the ratio of those who are active.\n",
             "assignee": "Cjfrankie ",
-            "status": "done"
-          },
-          {
-            "text": "Aguboss is to work on the Contributor Spotlight for last week from Onboarding WG, archives for the next session, and WG and Guilds Spotlight for the month.\n\n",
-            "assignee": "Aguboss",
             "status": "done"
           }
         ],
@@ -26648,23 +26643,21 @@
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.\n",
-            "effect": "affectsOnlyThisWorkgroup"
+            "decision": "Budget management was passed to the operations team with the anticipation of a potential budget cut for the marketing guild proposal.\n"
           },
           {
-            "decision": "Drafting a community survey for this quarter has been decided.\n",
-            "effect": "affectsOnlyThisWorkgroup"
+            "decision": "Drafting a community survey for this quarter has been decided.\n"
           }
         ],
         "discussionPoints": [
-          "Progress with the Foundation: Updates on follow-ups and the content engagement campaign.\n",
+          "Progress with the Foundation: Updates on follow-ups and the content engagement campaign.",
           "Communications Department: Submission of the monthly report on activities and outcomes.\n"
         ]
       }
     ],
     "tags": {
       "emotions": "engaging, Collaborative, calm",
-      "topicsCovered": "Rewards, Budget report, Engagement"
+      "topicsCovered": "Onboarding, Budget , community engagement"
     },
     "type": "Custom",
     "noSummaryGiven": false,
