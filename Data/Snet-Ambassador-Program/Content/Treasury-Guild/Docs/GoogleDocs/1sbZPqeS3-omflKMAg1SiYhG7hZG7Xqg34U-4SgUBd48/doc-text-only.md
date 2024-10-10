@@ -110,7 +110,7 @@ We don’t export space names that only contain person name
 
 **Unique Errors:**
 
-Nigerian networks internet service provider allows the use of dework without VPN but the normal mobile network service providers don’t allow thus the use of vpns
+Nigerian networks internet service provider allows the use of Dework without VPN but the normal mobile network service providers don’t allow thus the use of VPNs
 
 Session Timeouts, If the page loads for more than 2 minutes, try a refresh
 
