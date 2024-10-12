@@ -22,11 +22,11 @@ To help with the research, the interviewer may digitally record the interview (a
 
 
 
-**No information will be published that could identify you, your answers, or your institution/organisation, and the information we collect will be held securely in accordance with GDPR (2016) on password protected computers and secure cloud accounts. It is also in compliance with freedom of information legislation.**
+**No information will be published that could identify you, your answers, or your institution/organisation, and the information we collect will be held securely in accordance withGeneral Data Protection Regulation(GDPR), 2016 (https://gdpr-info.eu/)  on password protected computers and secure cloud accounts. It is also in compliance with freedom of information legislation, which means that you can ask to be provided with access to your data.**
 
 
 
-If you would like to withdraw your information, please email esther.galfalvi@singularitynet.io within 14 days and your data will be deleted. After this time we cannot guarantee that your data can be removed, as it may go through AI processing. However, **all data will be anonymised before processing, so you cannot be identified.**
+If you would like to withdraw your information, please email esther.galfalvi@singularitynet.io within 14 days and your data will be deleted. After this time we cannot guarantee that your data can be removed, as it may go through AI processing. However, **all data will be anonymised before processing, so you cannot be personally identified.**
 
 
 
@@ -74,7 +74,7 @@ I am fully aware that I will remain anonymous throughout data reported and that 
 
 
 
-I am aware that data collected will be stored securely, safely and in accordance with the Data Collection Act (1998).
+I am aware that data collected will be stored securely, safely and in accordance with General Data Protection Regulation (GDPR), 2016.
 
 
 
@@ -138,5 +138,5 @@ Event:
 
 Interview Identifier (to be added for each interview, and quoted at the start of each interview on the recording): Event Initials - Interviewer Initials - Interview number
 
-E.g. BGI-EG-1:
+E.g. BGI-EG-0001:
 
