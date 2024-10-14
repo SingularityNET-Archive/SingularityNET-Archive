@@ -2,6 +2,14 @@
 
 
 
+**Excel Overview:**
+
+
+
+In this video, you will learn about general UI and use cases of the Treasury Manager
+
+****
+
 **Formating Taxonomy:**
 
 Underscore or Underlined words are buttons: Button Name
@@ -126,12 +134,7 @@ You can find more guidelines about exporting on Dework PBL in the 2nd chapter: h
 
 ****
 
-### DELETE Filtered Rows (Button) 
-
-> [Comments]
-> Context - Filtered
-> * Tevo Saks: Change to "DELETE Visible Rows" to have more common language usage
->
+### DELETE Visible Rows (Button)
 
 Deletes visible rows in Insert Contributions Sheet Data Table
 
@@ -147,8 +150,12 @@ Go to Dework and move all tasks to Done that were imported.
 
 > [Comments]
 > Context - Go to Dework and move all tasks to Done that were imported.
-> * Tevo Saks: include new step to check Dework Exporter again. If all fund request are 0 it means this was done successfully
+> * Tevo Saks: include new step to check Dework Exporter again. If all fund request are 0 it means this was done successfully (Resolved by Tevo Saks)
 >
+
+Recheck Dework Exporter. If all fund requests are 0 it means all tasks were moved to done and avoids duplicate errors
+
+
 
 **NB!** Only the tasks that are in the Review stage and are audited or have a Fund Request Tag.
 
@@ -532,7 +539,7 @@ Pressing the Filter Group button again will ensure that the same Group Name is n
 
 > [Comments]
 > Context - Check WG Budget
-> * Daniel Effiom: Action: Filter out WGs that have exceeded their budget or have little funds to make payments
+> * Daniel Effiom: Action: Filter out WGs that have exceeded their budget or have little funds to make payments (Resolved by Tevo Saks)
 >
 
 Check the Treasury Dashboard and see if any groups are out of budget or have very little funds left https://treasuryguild.com/Singularity%20Net/Singularity%20Net%20Ambassador%20Wallet?tab=report&months=07.2024%2C08.2024&workgroups=All+workgroups&tokens=AGIX&labels=All+labels
@@ -542,6 +549,16 @@ Custom changes
 Q3 Treasury Policy WG budget is taken from the Treasury Guild
 
 Q3 Dework PBL and Knowledge Base WG budget is taken from Process Guild
+
+
+
+**Budget Operations**
+
+Filter out WGs that have:
+
+E xceeded their budget
+
+Have little funds to make payments
 
 ### Filter Addresses (Button)
 
