@@ -2,6 +2,14 @@
 
 
 
+**Excel Overview:**
+
+
+
+In this video, you will learn about general UI and use cases of the Treasury Manager
+
+****
+
 **Formating Taxonomy:**
 
 Underscore or Underlined words are buttons: Button Name
@@ -126,7 +134,7 @@ You can find more guidelines about exporting on Dework PBL in the 2nd chapter: h
 
 ****
 
-### DELETE Filtered Rows (Button)
+### DELETE Visible Rows (Button)
 
 Deletes visible rows in Insert Contributions Sheet Data Table
 
@@ -139,6 +147,10 @@ Usually skipped if no critical contribution rows ( fully red rows ) are at prese
 **Dework Operations**
 
 Go to Dework and move all tasks to Done that were imported.
+
+Recheck Dework Exporter. If all fund requests are 0 it means all tasks were moved to done and avoids duplicate errors
+
+
 
 **NB!** Only the tasks that are in the Review stage and are audited or have a Fund Request Tag.
 
@@ -527,6 +539,16 @@ Custom changes
 Q3 Treasury Policy WG budget is taken from the Treasury Guild
 
 Q3 Dework PBL and Knowledge Base WG budget is taken from Process Guild
+
+
+
+**Budget Operations**
+
+Filter out WGs that have:
+
+E xceeded their budget
+
+Have little funds to make payments
 
 ### Filter Addresses (Button)
 
