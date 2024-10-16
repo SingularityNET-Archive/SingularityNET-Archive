@@ -134,6 +134,12 @@ You can find more guidelines about exporting on Dework PBL in the 2nd chapter: h
 
 ****
 
+### Load All Files (Button)
+
+Imports Dework and Clockify exports into Insert Contribution Sheet
+
+
+
 ### DELETE Visible Rows (Button)
 
 Deletes visible rows in Insert Contributions Sheet Data Table
