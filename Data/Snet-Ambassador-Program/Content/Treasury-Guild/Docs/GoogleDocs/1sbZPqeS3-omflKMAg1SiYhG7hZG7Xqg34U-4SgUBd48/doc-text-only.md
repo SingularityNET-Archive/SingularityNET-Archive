@@ -1,4 +1,6 @@
-# Treasury Guild Operation Steps outline for treasury guild transaction building process
+
+
+Treasury Guild Operation Steps outline for treasury guild transaction building process
 
 
 
@@ -30,7 +32,11 @@ Commonly mistaken or important information is highlighted in strong yellow
 
 
 
-**Operation Session Recording, when goingthroughall these steps:** https://youtu.be/U-WAF4DFOTA
+**Operation Session Recordings, when goingthroughall these steps:**
+
+24.09.2024 - https://youtu.be/iBP5ptKguD0
+
+25.06.2024 - https://youtu.be/U-WAF4DFOTA
 
 ## Import Data to Treasury Manager
 
