@@ -25201,6 +25201,75 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-08-21",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "kateri, osmium, malik, Slate, GorgaSeagian, Clement Umoh, King David, Billy, Yemi Solves, Merryman, WaKa, esewilliams, martinsoki",
+      "purpose": "- CCCP Quizzes Update  - Malik's NFT Presentation for Certification Program - Quarterly Report Assignment - Slate Budget Request Template - Ese's presentation on Ai for beginners ",
+      "workingDocs": [
+        {
+          "title": "Budget Request Q 4",
+          "link": "https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "CCCP Quizzes Update",
+          " Malik's NFT Presentation for Certification Program",
+          "Quarterly Report Assignment ",
+          "Slate Budget Request Template",
+          " Ese's presentation on Ai for beginners ",
+          "Osmium chatbot UI "
+        ],
+        "decisionItems": [
+          {
+            "decision": "5 min long videos for Ai for beginners which may vary ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          },
+          {
+            "decision": "Quarterly report and Budget Request Reporting till next week ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "nil",
+            "opposing": "nil "
+          },
+          {
+            "decision": "Gorga and Osmium to shift all the quizzes from Google docs to Google forms ",
+            "rationale": "nil ",
+            "opposing": "nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting welcoming everybody ",
+          "Then Slate shared that all the quizzes for CCCP have finally been completed and all of the last quizzes are in review ",
+          "Then Malik shared the NFT he created for the certification program , and everybody really liked it ",
+          "Slate discussed and shared the budget request template for all projects to add on to their task, so they can be carried out effectively in the next quarter ",
+          "Then osmium showcased the UI he created for the chatbot he is developing ",
+          "Then Ese presented the updated blueprint for AI for beginners ",
+          "There were some discussions regarding the timing of the videos which is going to be around 2-5 min ",
+          "Then waka shared some insights from the past to the present of video making and how they improved ",
+          "Then Slate also assigned quarterly report creation to clement and yemi solves and called off the meeting "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, Task Assignment, CCCP, video length",
+      "emotions": "productive,  Collaborative, Businesslike."
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -25810,6 +25879,160 @@
     "tags": {
       "topicsCovered": "Guild Membership, Workshop Ideation, Core Membership, Research, survey , participation, contribution",
       "emotions": "Brainstorm, planning, Ideating, interesting, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Dework PBL",
+    "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-08-14",
+      "host": "Effiom",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "effiom, gorga, malik434, Eric Davies, lord_kizzy, Bernard, Celiwe Ngwenya, Onize, Jason Kaleb",
+      "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+      "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764595751219679&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+      "workingDocs": [
+        {
+          "title": "Dework PBL Quarter 2 2024 Report",
+          "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM"
+        },
+        {
+          "title": "Dework PBL Course content",
+          "link": "https://instance-dework-pbl.vercel.app/course/module/101/overview"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "WG Introductions and Onboarding",
+        "status": "resolved",
+        "discussionPoints": [
+          "Overview of the Dework PBL WG",
+          "Welcoming the 3 new students that joined the call",
+          "Introductions made by new students",
+          "How to get started with the Dework PBL course",
+          "Discuss on the agenda for today's meeting"
+        ]
+      },
+      {
+        "agenda": "Dework PBL Course Feedback from Treasury operations",
+        "status": "carry over",
+        "decisionItems": [
+          {
+            "decision": "There is need to still support Dework PBL students based on feedback",
+            "rationale": "Dework PBL students would still require live and async support",
+            "opposing": "None",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Course content: https://instance-dework-pbl.vercel.app/course/module/101/overview",
+          "Treasury Operators had challenges for taking the course",
+          "Onize reported confusion about signing in, if it was a requirement to take course. Also, the challenge of understanding action items",
+          "Discuss on the course outline",
+          " Action items were unclear in some course modules",
+          "The effectiveness of the async support provided by Tevo"
+        ]
+      },
+      {
+        "agenda": "Dework PBL Q4 Repositioning Discussion",
+        "status": "carry over",
+        "discussionPoints": [
+          "Explanation of WG current purpose and repositioning plans",
+          "Review of Q2 deliverables and Q3 proposal",
+          "What should Dework PBL Workgroup be doing in Q4 ",
+          "Suggestion from meeting participants on Q4 Deliverables"
+        ]
+      },
+      {
+        "agenda": "Suggestions on Q4 deliverables",
+        "status": "carry over",
+        "decisionItems": [
+          {
+            "decision": "Dework can still serve as a Repository for Task assignment",
+            "rationale": "This is currently integrated to the Treasury Manager tool",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Get more info on possible collaborations within the program",
+            "rationale": "There are potential deliverables for Q4 based on these collaborations",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Train SNET ambassador members on how to use Github for project management",
+          "Collaborate with Education Guild on ACP project",
+          "Create PBL course content on Task Management on Github",
+          "Repurpose WG for tracking in Treasury - Treasury Management PBL",
+          "Repurpose the tool and educate other Gs/WGs on the purpose of the tool",
+          "Collaborate with another platform other than Andamio to develop Github PBL course content"
+        ]
+      },
+      {
+        "agenda": "Workgroup Administration",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Malik to facilitate next meeting. Effiom to document 28.08.24",
+            "status": "todo"
+          },
+          {
+            "text": "Coordinate with Tevo or Andre to open the Zoom call for the next meeting - Effiom ",
+            "assignee": "Effiom",
+            "dueDate": "28 August 2024",
+            "status": "done"
+          },
+          {
+            "text": "Gorga will try draft meeting Summary for 14.08.2024",
+            "assignee": "Gorga Siagian",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Add explanation of participation vs contribution algorithm to next call's agenda ",
+            "rationale": "This was requested by members of the WG",
+            "opposing": "None",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "New changes to when someone completes the Dework PBL course",
+            "rationale": "For better distinction",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Change Discord role \"Dework PBL Student\" to \"Graduated Dework BBK\"",
+            "rationale": "For better distinction",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Decided on the facilitator and documenter for next meeting",
+            "rationale": "Tevo is on break and we would need a facilitator to the next meeting",
+            "opposing": "None",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Discussion on exporting participation data from Zoom",
+          "Zoom Challenges for WG not using for meetings",
+          "Related discussions all G/WGs are required to move the meeting to zoom",
+          "Who has access to open Zoom calls?",
+          "Meeting Facilitation on 28.08.2024"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Dework, dework PBL, GitHub, tools, Zoom Calls, Zoom Meeting, Q4 Deliverables, Suggestions",
+      "emotions": "Fun, interesting, interactive, Collaborative , planning"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -26573,6 +26796,88 @@
     "tags": {
       "emotions": "despondent, disheartening, Discursive, Thoughtful , budget request problems , limited, restricted",
       "topicsCovered": "Q4 2024 budget, q3 2024 report, Town Hall, Ubio, open source ethos, read.ai, Ethics, training, documentation training, Budget cuts, GitHub video walkthrough, Core activities, Outreach, education, community engagement, Google Docs, google doc export, Correcting errors in meeting summaries, tool redesign"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-09-04",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "Slate, osmium, WaKa, esewilliams, Tevo, GorgaSeagian, Ayodele, Clement Umoh, DevonHardy, Photogee, Effiom, SubZero, Zalfred, sergiobenar",
+      "purpose": "- Education Guild Budget Request Discussion - Dework PBL Budget Request Discussion - Education Quarterly Report Discussion ",
+      "workingDocs": [
+        {
+          "title": "Budget Request Q4",
+          "link": "https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly Report Q4",
+          "link": "https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Education Guild Budget Request Discussion",
+          " Dework PBL Budget Request Discussion",
+          "Education Quarterly Report Discussion "
+        ],
+        "actionItems": [
+          {
+            "text": "audit most of the completed task ",
+            "assignee": "Slate",
+            "dueDate": "31 August 2024",
+            "status": "done"
+          },
+          {
+            "text": "Review and finalize the quarterly report ",
+            "assignee": "Slate, osmium",
+            "dueDate": "7 September 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Budget request agreed by everybody ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          },
+          {
+            "decision": "Webinar series to be included and be part of the request ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "nil",
+            "opposing": "nil "
+          },
+          {
+            "decision": "Put the website setup in consideration and go with the figma file first , also look for currently existing apps which can do it ",
+            "rationale": "Most of the group agreed ",
+            "opposing": "NIL ",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then started off the meeting discussing the projects of education guild taking forward to next quarter ",
+          "Projects are : CCCP Automation, Ai for Beginners, CCCP Website , Webinar Series ",
+          "Then after going through each project there was a discussion regarding the webinar series and through multiple suggestions and ideation were able to set up a proper process moving forward with the project ",
+          "Then after finalising the education guild budget request , we went over to the dework pbl budget request and tevo presented his wg budget request ",
+          "Waka had some concerns regarding the dework pbl budget request which were discussed and some were also made part of the budget request ",
+          "Then at the end of the meeting we took a look at the budget request  for the education guild Q3 , made by clement and yemi solves , some adjustments were requested and presented by Slate "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, CCCP, Budget Request, deworkpbl request, Quarterly Report, ideation",
+      "emotions": "productive,  Collaborative, Businesslike."
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -27584,6 +27889,182 @@
     "tags": {
       "topicsCovered": "Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy",
       "emotions": "interactive, decisive, interesting"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Dework PBL",
+    "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-08-28",
+      "host": "malik",
+      "documenter": "effiom",
+      "peoplePresent": "Celiwe, effiom, Ekom, erics, gorga1103, lord_kizzy, malik434, Mapula, Prefina, Slate, SUB ZERO, tevo",
+      "purpose": "This Workgroup focuses on creating educational project-based learning material for Dework on the Andamio platform in collaboration with Gimbalabs and Governance Guild",
+      "meetingVideoLink": "https://youtu.be/40hQ8_XT0i0",
+      "miroBoardLink": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764595751219742&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/dework-pbl-workgroup",
+      "workingDocs": [
+        {
+          "title": "Dework PBL Quarter 2 2024 Report",
+          "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM"
+        },
+        {
+          "title": "Dework PBL Course content",
+          "link": "https://instance-dework-pbl.vercel.app/course/module/101/overview"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/",
+          "title": "Process Guild Quarterly Report - Q2 2024"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/",
+          "title": "Process Guild Quarterly Report - Q3 2024"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "WG Introduction and New Members onboarding",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "New members to explore course content and share feedback if any",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Introduction and overview of Dework PBL course",
+          "2 new members (Ekom and Sub Zero) introduce themselves",
+          "Importance of Dework in Task management within the Ambassador program",
+          "Treasury operators are required to take the course",
+          "The future of Dework PBL WG"
+        ]
+      },
+      {
+        "agenda": "Review Process Guild Quarter 2 Report",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Q2 Report would to be submitted with Q3 report",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Q2 Report draft was updated during 17.07.2024 meeting, and final review was done async",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "It was agreed that the review process for the report has been done",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/",
+          "Was the document previously reviewed?",
+          "Any other adjustment to be made to the report?"
+        ]
+      },
+      {
+        "agenda": "Reviewing Quarter 3 Report for Process Guild and Dework PBL",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "At the end of Q3, update the dashboard to capture the reallocation of funds from Process Guild to Dework PBL and KBWG",
+            "status": "todo"
+          },
+          {
+            "text": "Add metrics on how many Zoom import was done",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Before submitting a report, we get feedback from WGs currently using Zoom export feature ",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Mention the availability of this feature during GOV call to get other WGs/Gs to participate",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Process Guild Q3 Report: https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/",
+          "Explanation of the Guild's view in Treasury Guild Dashboard",
+          "How can other Gs/WGs opt-in to use the Zoom import feature?",
+          "Concerns with adding Miro links in report; people can delete information",
+          "What is a notable decision?"
+        ]
+      },
+      {
+        "agenda": "Dework PBL WG Q4 Budget discussion",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Draft proposal based on poll feedback by 02.09.2024",
+            "assignee": "Tevo",
+            "status": "done"
+          },
+          {
+            "text": "Improve on drafted proposal async",
+            "status": "todo"
+          },
+          {
+            "text": "Schedule call for live review of proposal on 04.09.2024",
+            "assignee": "Tevo",
+            "status": "done"
+          },
+          {
+            "text": "Create poll with the suggestions for Q4 deliverables in Dework PBL discord channel and invite Core contributors",
+            "assignee": "Tevo",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We cannot focus on all the suggestions in Q4, we need to streamline using a poll",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Keep suggestions separate to enable use get feedback for each from the community",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Create poll about proposal we are willing to do in Dework PBL channel, and invite Core contributors to choose which idea they prefer",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We wait for community feedback before we start drafting proposal to help us choose a focus direction",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Proposed meeting to review draft on 04.09.2024, time for call would be communicated",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "On 05.09.2024 we finalize on Process Guild Q3 Report and Q4 proposal",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Suggestions on Q4 deliverables",
+          "Should we group suggestions based on similarities or keep them separate?",
+          "How do we select Q4 deliverables from the suggestions",
+          "Should we share only Dework report or wait to review KBWG report before submission?",
+          "Which Discord channel should the poll be created in?",
+          "More information about ACP (Ambassador Certification Project)",
+          "Exploring LMS platforms other than Andamio to develop PBL course content"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Dework, dework PBL, Miro Board, Lessons, Andamio, feedback, poll, zoom import, Quarterly Report, Q4 proposal, Q3 report",
+      "emotions": "decisive, interactive, planning, Collaborative, interesting"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -29260,6 +29741,76 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-09-11",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "osmium, WaKa, Clement Umoh, Merryman, GorgaSeagian, DevonHardy, malik, esewilliams, Kenichi, lord kizzy",
+      "purpose": "-Quiz Automation Time Addition demo - Presentation Series ",
+      "workingDocs": [
+        {
+          "title": "Budget Request Q4",
+          "link": "https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly Report Q4",
+          "link": "https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Quiz Automation Time Addition demo",
+          "Presentation Series "
+        ],
+        "actionItems": [
+          {
+            "text": "Add the remaining quizzes to the quiz makers sheet ",
+            "assignee": "Slate",
+            "dueDate": "13 September 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Start of the poll with the time allotment for each quiz ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          },
+          {
+            "decision": "Slate to start the work on classrooms ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "nil",
+            "opposing": "nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then started off the meeting discussing the projects of education guild taking forward to next quarter ",
+          "Then Slate gave a demo of the time addition to the quizzes ",
+          "Then there was also a discussion on how much time each quiz should be alloted with and multiple suggestions were given by educators ",
+          "Then kenichi started with the presentation of the presentation series project ",
+          "Multiple module were discussed and went over during the meeting ",
+          "Slate also mentioned that this project was left out due to not presenting the budget request during the finalizing on the request "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, CCCP, Budget Request, deworkpbl request, Quarterly Report, ideation",
+      "emotions": "productive,  Collaborative, Businesslike."
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
@@ -30131,6 +30682,85 @@
     "tags": {
       "topicsCovered": "Miro Board, Policy Submission, Ratification, Budget , consent, Valid objections, abstain, Mission Critical, feedback, Quarter 4",
       "emotions": "educational, interactive, interesting, Brainstorm"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-09-18",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "osmium, esewilliams, Billy, GorgaSeagian, Kenichi, Malik., Photogee, SubZero, TheFreysDeFi, kateri",
+      "purpose": "Budget Request and leftover budget presentation by slate - Budget request concerns discussion ",
+      "workingDocs": [
+        {
+          "title": "Budget Request Q4",
+          "link": "https://docs.google.com/spreadsheets/d/1J_OlEGHvNwguYtIRhOOMkqIqZr3F_a7mAVh44cLYKes/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly Report Q4",
+          "link": "https://docs.google.com/document/d/1zUbYds7oKrd67X3TJFAwxEa45TzIiiORz7s1ndknhYQ/edit?usp=drive_link"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Minimal Budget Request Submitted ",
+          "Classrooms for 17 Spin off Projects Completed ",
+          "Automation Setup Announcement ",
+          "AI For Beginners and Video WG Members ",
+          "AI for Beginner Demo Startup Video "
+        ],
+        "actionItems": [
+          {
+            "text": "Start the integration for the quizzes ",
+            "assignee": "Slate",
+            "dueDate": "2 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Start the automation setup ",
+            "assignee": "Slate",
+            "dueDate": "2 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Reach out to video wg ",
+            "assignee": "esewilliams",
+            "dueDate": "25 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Use Video WG members assistance for the project ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Slate letted everybody know that education guild budget request has been submitted for consent and that education guild will be requesting minimal budget as discussed in previously ",
+          "Then Slate notified everybody that the classroom for the 17 Spin off projects have been created and are ready to be putted to action ",
+          "Then he notified that we are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform so we can start the testing for the automation ",
+          "Then it was discussed that the video wg members can be off assist to the education guild when we will be putting the AI for Beginners project to action ",
+          "Slate reminded ese to reach out to the video wg regarding and to discuss this potential assistance ",
+          "At the end Osmium showcased his video which was the demo video for the AI for Beginners project and would set up the baseline for the quality for the rest of the videos "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, CCCP, Budget Request, Quarterly Report, ideation",
+      "emotions": "productive,  Collaborative, Businesslike."
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -31916,6 +32546,86 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-09-28",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "Gorga Siagian, hotasiro, martinsoki, malik, CollyPride, SubZero, hufiumer69, rebel, TheFreysDeFi, scarecrow, kateri",
+      "purpose": "The meeting centered around participants showcasing their progress and discussing improvements for their workgroup models.",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "gameRules": "No games played",
+        "actionItems": [
+          {
+            "text": "Animation & Dialogue System - Education Guild",
+            "assignee": "malik, hufiumer69",
+            "status": "in progress",
+            "dueDate": "12 October 2024"
+          },
+          {
+            "text": "Animation and dialogue system - Treasury Guild",
+            "assignee": "martinsoki, scare-crow",
+            "status": "in progress",
+            "dueDate": "12 October 2024"
+          },
+          {
+            "text": "Animation and dialogue - Archival Workgroup",
+            "assignee": "GorgaSeagian, kateri",
+            "dueDate": "12 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - Dework PBL",
+            "assignee": "rebel, Photogee",
+            "dueDate": "12 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - RnD Guild",
+            "assignee": "oep, CollyPride",
+            "dueDate": "12 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Kateri and Gorga will assist Slate in making the VR map",
+            "rationale": "This is due to their good developmental skills."
+          },
+          {
+            "decision": "Treasury guild and archival workgroup models were finalized ",
+            "rationale": "They are mostly complete. "
+          }
+        ],
+        "discussionPoints": [
+          "Slate outlined the meeting agenda",
+          "Slate began by noting that the Gamers Guild budget was approved in the initial iterations, highlighting that the quarterly report was well-prepared and met everyone's expectations. He congratulated all the members of the guild.",
+          "Next, workgroup updates were presented, and Kateri showcased the Archival Workgroup model. It featured an impressive design that conveyed the ambiance of a library. Suggestions included enhancing the detailing and slightly increasing the length of the upper floor.",
+          "Colly Pride then presented the R&D Guild model, which required significant revisions as it resembled the Video Workgroup's building. Slate mentioned that he will help the creators in revamping it.",
+          "Photogee then presented the Dework PBL Workgroup model, which featured an attractive design with a helipad on top. Inside, there were images of Dework displayed on the walls. Slate suggested arranging the pictures more orderly and recommended adding additional elements related to Dework PBL. He noted that the colors and textures should reflect the Dework aesthetic, but overall, it was a commendable model.",
+          "Martin then presented the Treasury Guild, starting with an exterior view of the building, which featured \"Treasury Guild\" prominently displayed along with a dollar sign above. Inside, there was a depiction of the treasury dashboard and a counter where members were conducting transactions. A vault, guarded by security personnel, was also included, along with a newly added treasury meeting room. Suggestions were made for improvements, indicating that many additional elements could enhance the building.",
+          "Finally, Malik showcased the Educational Guild building, which featured impressive interior design and a futuristic aesthetic, including a hologram representing a digital twin. The walls displayed infographics and NFTs. The main suggestion was to reduce the building's size, to which Malik responded that the Educational Guild has many upcoming projects, and that space could be utilized to represent them.",
+          "Slate then announced the workgroup creators who will assist him in developing the VR map. The two modelers are Gorga and Kateri who created the Archival Workgroup. He also mentioned that he will soon select two additional workgroup creators as the quarter begins, noting that everyone now understands how to build on Roblox.",
+          "Slate also mentioned that he is exploring ways to incorporate the Sophiaverse dialogue system into the game."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Roblox, metaverse, department Creation, work updates, mentorship, Animation, Map creation",
+      "emotions": "Friendly, Collaborative, informative, Building, contributive",
+      "gamesPlayed": "no game"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
@@ -32012,6 +32722,88 @@
     "tags": {
       "emotions": "short, focused, simple, new people present",
       "topicsCovered": "meeting frequency, monthly meetings, Q4 budget, async, async working, summary tool redesign, Tool Development, meeting summary tool, good meeting summaries, Ambassador GitBook, open source ethos, open source, Town Hall, Town Hall presentation, GitHub video walkthrough, github board, Marketing WG, Governance workgroup"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-02",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "osmium, Clement Umoh, GorgaSeagian, esewilliams, kateri, lord kizzy, malik, SubZero, Billy, Kareem",
+      "purpose": "Certification Program Discussions -Ai for Beginners Discussion - Updates from the Website - Webinar Series ",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Certification Program Discussions",
+          "Ai for Beginners Discussion ",
+          "Updates from the Website",
+          "Webinar Series "
+        ],
+        "actionItems": [
+          {
+            "text": "Test the Automation with osmium and gorga ",
+            "assignee": "Slate, osmium, GorgaSeagian",
+            "dueDate": "9 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Complete the dashboard  ",
+            "assignee": "Slate",
+            "dueDate": "9 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Document the changes for the Ai for Beginners ",
+            "assignee": "esewilliams, osmium",
+            "dueDate": "9 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Ai for Beginners Process",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          },
+          {
+            "decision": "Document each change ",
+            "rationale": "nil",
+            "opposing": "nil",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Rewards for the certification program to be put to vote ",
+            "rationale": "mostly agreed",
+            "opposing": "nil ",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then Slate went over the certification program updates that the automation is almost complete and the only thing that's left is a single classroom and dashboard setup",
+          "Then Slate mentioned that we are going to have one week of testing everything than we are going to setup a seperate channel for the certification program ",
+          "Afterwards the announcement for the CCCP will be starting , hopefully from the next week ",
+          "Then there was a shift of focus towards the Ai for Beginners project , and Slate inquired the progress on it ",
+          "To this question it was mentioned that there is progress going on , in which it was further briefed that video wg was reached out for this purpose and moving further we are going to be reviewing the transcripts internally by the project lead and one other education guild member",
+          "Slate and Billy requested to document the process so they can be made transparent to everybody ",
+          "Osmium mentioned that he has been in talks with the governance wg for the webinar series and will soon have updates from there as well ",
+          "Gorga mentioned that the wiki website design is being worked on and will soon be presented to the group "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation",
+      "emotions": "productive,  Collaborative, Businesslike."
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -33063,6 +33855,83 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-09",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "osmium, AshleyDawn, Billy, Clement Umoh, Effiom, esewilliams, GorgaSeagian, kateri, lord kizzy, malik, martinsoki, Zalfred",
+      "purpose": "Ai for Beginners Discussions -Ai for Beginners Complete Video for Module 1- Certification Program Start Date/Demonstration - Webinar Series Discussion - Wiki Website Update ",
+      "workingDocs": [
+        {
+          "title": "Ai for Beginners Team ",
+          "link": "https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Ai for Beginners Discussions",
+          "Ai for Beginners Complete Video for Module 1",
+          "Certification Program Start Date/Demonstration",
+          "Webinar Series Discussion",
+          "Wiki Website Update"
+        ],
+        "actionItems": [
+          {
+            "text": "Start the certification program on friday",
+            "assignee": "Slate",
+            "dueDate": "12 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Make the announcement for CCCP",
+            "assignee": "esewilliams",
+            "dueDate": "11 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Create the flyer for the Certification program ",
+            "assignee": "malik",
+            "dueDate": "11 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Ai for Beginners demo video should be considered as module 1 video and replaced with its funding amount ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then slate asked for confirmation regarding the Ai for Beginners Video , that it was supposed to be a demo video but then it was shifted to being a course original video ",
+          "Then osmium clarified stuff and showcased the module 1 video which got approved ",
+          "Then Slate also asked that proper documentation should be published for the Ai For Beginners team structure and the procedure should be properly documenteed  ",
+          "Then Slate showcased certification program dashboard and told that we are going to be launching it on Friday and the certification program channel will be opened to core contributors  ",
+          "Kizzy had multiple questions regarding this and was clarified by Slate ",
+          "Then discussion shifted towards the Webinar series project in which it was discussed that talks with governance workgroup are ongoing and soon osmium is going to be providing the initial document regarding it to which process to follow upon it ",
+          "Ese notified that we should start the marketing for the certification program and green signal was given to it ",
+          "Slate also mentioned that if the publicity would be done through a flyer that be great on which malik showcased interest and was given the task for it  ",
+          "Gorga mentioned that he is soon going to be providing the initial wiki website design to the group , most probably by next week "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation, CCCP launch",
+      "emotions": "productive,  Collaborative, Businesslike."
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
@@ -33576,6 +34445,63 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "AI Sandbox",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-10",
+      "host": "lord kizzy, osmium",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Vanessa, lord kizzy, Yemi Solves, osmium, Onize, Guillermo, Malik., Peter, Effiom, Valola, LadyTempestt, SubZero, Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, Ayo, Slate, Gorga Siagian, Boaz, Hogantuso, Apple, Kareem",
+      "purpose": "Explanation of the Blueprint and Roadmap for AI Sandbox and Think tank",
+      "workingDocs": [
+        {
+          "title": "Blueprint for AI sandbox/Think tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Lord kizzy and osmium to create a presentation template for exhibitions in sandbox sessions",
+            "assignee": "lord kizzy, osmium",
+            "dueDate": "17 October 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Peter to sort out the Zoom account settings for future meetings.\n",
+            "assignee": "Peter",
+            "dueDate": "17 October 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "we are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week.",
+            "rationale": "it gives enough time for members to interact efficiently",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Welcoming and Introduction of new members: members were welcomed into the call and we were able to gather some suggestions from some of the members like; education on Metta, use of knowledge graphs and so on.",
+          "EXPLANATION OF THE BLUEPRINT FOR AI SANDBOX/THINK TANK: Vasu went through the blueprint in details. Here is the documentation of the blueprint: https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing",
+          "Q&A Session: there were some questions from the members like \"the schedule of Our calls\"- Lordkizzy answered that we are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week.\nthere was another question towards the similarities between AI sandbox/think tank and the R&D guild, lordkizzy was able to distinguish between both WGs."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": " Experimentation, Exhibitions, Knowledge Graphs, Brain Fog",
+      "emotions": "Friendly, Collaborative, speedy , The meeting was quick and progressive, Welcoming"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
@@ -34036,6 +34962,89 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Gamers Guild",
+    "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-10-12",
+      "host": "Slate",
+      "documenter": "devon",
+      "peoplePresent": "hotasiro, martinsoki, malik, rebel, scarecrow, kateri, Eric Davies, AshleyDawn",
+      "purpose": "The meeting centered around WG creators showcasing their progress and discussing improvements for their workgroup models and plugins tutorials"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "gameRules": "Racing game: the first to finish three laps wins.\nparticipants: malik, martinsoki, lord kizzy, devon, scarecrow, rebel",
+        "leaderboard": [
+          "Devon"
+        ],
+        "actionItems": [
+          {
+            "text": "Animation & Dialogue System - Education Guild",
+            "assignee": "malik, hufiumer69",
+            "status": "in progress",
+            "dueDate": "26 October 2024"
+          },
+          {
+            "text": "Animation and dialogue system - Treasury Guild",
+            "assignee": "martinsoki, scare-crow",
+            "status": "in progress",
+            "dueDate": "26 October 2024"
+          },
+          {
+            "text": "Animation and dialogue - Archival Workgroup",
+            "assignee": "GorgaSeagian, kateri",
+            "dueDate": "26 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - Dework PBL",
+            "assignee": "rebel, Photogee",
+            "dueDate": "26 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Department Creation - RnD Guild",
+            "assignee": "oep, CollyPride",
+            "dueDate": "26 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Slate will record and upload the tutorials on using Roblox tools and plugins to a shared platform",
+            "rationale": "to allow creators to revisit the tutorial for improved understanding"
+          },
+          {
+            "decision": "splitting floors of building between Dework PBL and GitHub PBL.\n",
+            "rationale": "Because the course has now transitioned to GitHub PBL."
+          },
+          {
+            "decision": "Ensure that all workgroup models are properly lit",
+            "rationale": "for nighttime visibility."
+          }
+        ],
+        "discussionPoints": [
+          "Slate outlined the meeting agenda",
+          "Scarecrow showcased the updated Treasury Guild building model on Roblox.\nThe building features:\nVibrant design with the Treasury Guild logo.\nGuarded entrance with two guards.\nMain entrance area with a board displaying meeting times.\nA Miro board representing treasury and ambassador wallet details.\nA waiting area enhanced with a TV, fans, and other lively elements.\nCash counter managed by NPCs representing treasury members.\nStaff-only areas including an ATM and a highly secured meeting room.\nFile handling area with added security cameras and amenities.\nA vault storing AGIX, monitored by NPCs.\nSlate praised the model for its realistic bank-like vibe and the excellent additions.\n",
+          "Slate provided feedback on the building model created by PhotoGee and Rebel.\nKey points of feedback:\nThe \"Meeting Room\" label is floating and should be repositioned.\nNon-functional lighting fixtures need attention.\nImplementation of a futuristic door model for consistency across departments.\nColor schemes and materials do not match the intended design.\nDecals should be updated to reflect Dework or GitHub PBL content instead of generic or unrelated images.\nOversized chairs need scaling down to fit character proportions.\nAnchoring issues causing objects like tables to detach.\nEmpty areas should be filled with relevant content, possibly incorporating GitHub PBL materials.\nLord Kizzy suggested updating references from Dework PBL to GitHub PBL due to the course evolution.\nDiscussion on designating floors for Dework PBL and GitHub PBL respectively.",
+          "Tutorial on Roblox Model Selection Tools and Plugins:\nSlate conducted a tutorial on using the Negate and Union functions to create precise spaces, such as doorways in walls.\nDemonstrating how to create holes in walls that match door dimensions exactly.\nIntroduction to essential plugins:\nResizeAlign: For precise resizing and alignment of parts.\nArchimedes: To create circular or spiral designs.\nScene Tools: For adding animations like spinning parts.\nPart to Terrain: Converting parts into terrain materials like water.\nHe emphasized the importance of anchoring objects and proper lighting for night visibility.\nLord Kizzy recommended recording the tutorial for future reference.\nSlate agreed and began recording for later distribution.",
+          "Slate inquired if any gamer guild members were not working on a workgroup, to which Lord Kizzy and Devon expressed interest.",
+          "Slate skipped other model updates to allow creators ample time to complete and showcase their work and because the process can be time-consuming."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Roblox, metaverse, department Creation, work updates, Map creation, plugins",
+      "emotions": "Friendly, Collaborative, informative, Building, contributive",
+      "gamesPlayed": "Racing Game"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -34251,6 +35260,77 @@
     "tags": {
       "topicsCovered": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, Operations , Metta",
       "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-16",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "Slate, AndrewBen, AshleyDawn, Clement Umoh, Eric Davies, esewilliams, Franklynstein, GorgaSeagian, kateri, Kenichi, Lex, lord kizzy, malik, martinsoki, osmium, Photogee, SubZero, Zalfred, hogantuso",
+      "purpose": "Updates from CCCP- Ai for Beginners Discussions-Wiki Website Updates- Webinar Series Updates- Updates from Kenichi regarding presentation series ",
+      "workingDocs": [
+        {
+          "title": "Ai for Beginners Team ",
+          "link": "https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Updates from CCCP",
+          "Ai for Beginners Discussions",
+          "Wiki Website Updates",
+          "Webinar Series Updates",
+          "Updates from Kenichi regarding presentation series "
+        ],
+        "actionItems": [
+          {
+            "text": "Slate to update the Ai for beginners arrangement document ",
+            "assignee": "Slate",
+            "dueDate": "19 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Make the announcement for CCCP",
+            "assignee": "esewilliams",
+            "dueDate": "16 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Module creators selected ",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "most of the group agreed",
+            "opposing": "Nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then after the introduction part , Slate gave some updates from the certification program that multiple core contributors are taking part in the certification program and many have already started ",
+          "He also mentioned that onize was able to complete most of the classroom and she has progressed to the classroom#15 but unfortunately she wasnt able to progress any further than that ",
+          "AFter wards ese gave updates regarding the outreach of the certification program that socials have already posted about the certification program and regular updates will also be given through ambassador general channel ",
+          "Then from Ai for beginners multiple video creators were selected and assigned the modules , there was also a need for the script writer but since there were too many people in the meeting it will be selected asynchrounously ",
+          "AFter wards franklyn and Gorga gave updates from the website creation and that they would be presenting it in the upcoming meetings ",
+          "Osmium still needs some time to process with the webinar series and had no updates",
+          "Kenichi pointed out that he is already working on the first module of the presentation series and will be using that as a reference for the rest of the presentations, and that project will start from the Q1 of 2025",
+          "The meeting wrapped up with good participation count "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "CCCP, announcement, project updates",
+      "emotions": "productive,  Collaborative, Businesslike."
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -34960,6 +36040,64 @@
     "tags": {
       "topicsCovered": "TH Update , Budget , Onboarding Journey Scripts, skills matrix, q4 2024 budget, q3 2024 quarterly report, consent process, objections, budget objections, GitHub training, training, Marketing Guild",
       "emotions": "Discursive, forward-thinking, insightful, Friendly"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-23",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "AndrewBen, AshleyDawn, Clement Umoh, Effiom, esewilliams, GorgaSeagian, lord kizzy, malik, martinsoki, SubZero, Zalfred, hogantuso",
+      "purpose": "Project Based Updates",
+      "workingDocs": [
+        {
+          "title": "Ai for Beginners Team ",
+          "link": "https://docs.google.com/document/d/1e5vooqf-UacYMgm8oaiqImVk7PujpDbGDKgkVyI_zRs/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "  Ai For Beginners ",
+          "  Certification Program\n",
+          " Education Guild Website Wiki / CCCP Integration \n",
+          "\n\n"
+        ],
+        "actionItems": [
+          {
+            "text": "Slate to update the Ai for beginners arrangement document ",
+            "assignee": "Slate",
+            "dueDate": "31 October 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Updates from Ai for beginners ",
+            "assignee": "esewilliams",
+            "dueDate": "30 October 2024",
+            "status": "in progress"
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone ",
+          "Then after the introduction part , we started having updates from different projects. \nFollowing are their discussions ",
+          "Ai For Beginners \n\nPoints to Note : \n\nScripts are coming in , 90% complete . Minor edittings required to pass the scripts to the community for  review\n",
+          " Certification Program\n\nPoints to Note : \n\nMarketing going well , one announcement made today . Contributors also tagged . \nMake an announcement in upcoming townhalls and workgroup meetings \n\n",
+          "Education Guild Website Wiki / CCCP Integration \n\nPoints to Note : \n\nDesign template is being worked on by gorga and franklyn and its about 70% complete \nGorga Presented his design in canva \nSlate pointed out some stuff and gave suggestions \n",
+          "  Workshop / Webinar Series  \nOsmium ill, he will be joining in soon "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "CCCP, announcement, project updates",
+      "emotions": "productive,  Collaborative, Businesslike."
     },
     "type": "Custom",
     "noSummaryGiven": false,
