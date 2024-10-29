@@ -33826,6 +33826,93 @@
       "canceledSummary": false
     }
   ],
+  "49525333-5511-477b-a44f-240e7e8f5299": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-30",
+        "host": "CallyFromAuron",
+        "documenter": "LadyTempestt",
+        "peoplePresent": "LadyTempestt, Clement Umoh, Effiom, Duke, CollyPride, Ese Williams, aetherblade, Sucre n Spice, Onize, CallyFromAuron, Raman Deep, MartinSoki, Advance Ameyaw, Kenichi, Ayo",
+        "purpose": "Regular meeting of the AI Ethics WG",
+        "meetingVideoLink": "No video",
+        "transcriptLink": "No transcript",
+        "workingDocs": [
+          {
+            "title": "AI Ethics Workgroup stuff! ",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          },
+          {
+            "title": "AI Ethics GitHub project board",
+            "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2"
+          },
+          {
+            "title": "Ubuntu and AI Event Report",
+            "link": "https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Tasks on Github\nWe started by going through tasks “in progress”;\n\n-We went through feedback from the Admins (GEI reportbacks by Jenn(she will get paid for all the reportbacks she did last quarter), moved to done and ready for payment) Co-chair and mentee by Vani & Colleen, WG async support by LadyTempestt, and the WG internal management by Sucre) on GitHub.  All these tasks were moved to “Done” and made ready for payment.\n\n-Event in Nigeria: Duke says the event was excellent while giving us a recap! There is a written report here Report for the \"Ubuntu and AI\" EventConference with quantitative and qualitative data(e.g. how many people showed up virtually and in person at the event, topics of discussion, and the rest) on how everything went. We also discussed how to sort out payment for speakers where Duke said that he paid one speaker up front so Ubio will get payment, while Esther and Leeloo's payments will go to the volunteers of the event; they both confirmed this. This task was moved to ”Done” and ready for payment this week.\nModeration of the AI Ethics forum: There is no agreement on this yet. Will be done later today.\nDocumenting GEI Open Office: We are yet to hear from Jenn concerning these documents.\n\nWe went onto tasks in “to-do”;\n\n-Q3 Interviews: Clement has done a few interviews. Colleen will get to do them this week. Ayo said he has started today and Ese said she will get started this week and give an update later on GitHub. They were all reminded to move their individual tasks to “in progress” and put down comments or updates as soon as possible.\n\n-Q4 Budget: The Budget passed but we decided to work on budget fitting, currently it's around 21.68% or so(it should be less after WWG adjusted budget and current AGIX price). We checked a few items that we might need to reduce or cut down due to budget fitting which included interview hours and expenses(Ayo said he would have a few interview expenses), meetings, survey, and educational resources. There are a few other items we might consider cutting if necessary and possible.\n",
+          "actionItems": [
+            {
+              "text": "Vani to reach out to Esther about submitting her wallet for payment as a speaker at the Ubuntu and AI event in Nigeria.",
+              "assignee": "Vanessa",
+              "dueDate": "7 October 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Vani to reach out to Jenn concerning her progress in the Q3 interviews and documenting the GEI open office seeing as she's been unavailable for a while.",
+              "assignee": "Vanessa",
+              "dueDate": "7 October 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Duke will redistribute Leeloo’s payment($150) to volunteers who were at the Ubuntu and AI event in Nigeria.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to use 25 hours only for interviews in Q4.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to meet once a month next quarter seeing as most of our tasks will be done async.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We are not doing learning/educational resources next quarter.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed to pick another co-chair mentee in Q4, but no assignee yet.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Whatever deadline is agreed upon after the 14th for Q3 Interviews to be done is the final deadline.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Duke will document the next meeting on the 7th of October, Colleen will take the 4th of November documentation, and LadyTempestt will take the 2nd of December documentation.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Event in Nigeria, Budget , Interviews, Documentation",
+        "emotions": "quiet, timely, Deliberative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "f3a3fdfd-c347-4c66-823a-3abf92423ce4": [
     {
       "workgroup": "Video Workgroup",
@@ -34665,6 +34752,83 @@
       "canceledSummary": false
     }
   ],
+  "6e350cc2-2e21-43e5-899a-7201b82517d4": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-10-07",
+        "host": "CallyFromAuron",
+        "documenter": "Duke",
+        "peoplePresent": "LadyTempestt, Clement Umoh, Duke, Ese Williams, aetherblade, Onize, CallyFromAuron, Advance Ameyaw, Kenichi, kateri, valola, PG",
+        "purpose": "Regular meeting of the AI Ethics WG",
+        "meetingVideoLink": "https://drive.google.com/drive/folders/1HuEI-xirmijTFJ61DhnEAo9759VqDi8N",
+        "transcriptLink": "No transcript",
+        "workingDocs": [
+          {
+            "title": "AI Ethics Workgroup stuff! ",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          },
+          {
+            "title": "AI Ethics GitHub project board",
+            "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "We began by going over the projects board on GitHub. \n\n- Welcomed everyone\n- Began with the tasks in the \"in-progress\" and Colleen was the first to have moved hers to In-progress which means she had begun interviewing people  \n- A lot of people still have the interview tasks on \"to-do\" and gave reasons why they hadn't made progress with it. A final final deadline will be set, however, to put a cap on things\n-The holdup for the pay on the AGI tasks is mostly feedback on how the invoice will be and what format it will take, the back and forth is mostly on the legality of things, but this invoice solution will put a cap to it\n- Updates on where people were in their interview process was taken\n- Q4 interviews and how we can already begin\n- How much sharing of the AIEthics survey should one do for $30? Especially since we already agreed on the budget, $30 for 6 people each, but we have set no target for this task yet. \n- The survey to gather data from people about their concerns on AI ethics and their thoughts on it, we discussed this for a bit on how it should be distributed. \n- 6 people indicated interest in survey sharing: PG, Kenichi, Valola, Clement, Onize and Ashley\n- A suggestion was made for sharing in focus groups on social media like Reddit, another ideated sharing at a conference. \n \n",
+          "actionItems": [
+            {
+              "text": "Vani to reach out to Esther for the link for the survey sharing",
+              "assignee": "Vanessa",
+              "dueDate": "7 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that if by November a lot of people hadn't done interviews, we should set up a meeting to figure out the blockers and find a solution to moving forward. \n",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "People might be feeling anxious over preparations and looking at the reasons will help make the experience better for both interviewer and interviewee"
+            },
+            {
+              "decision": "As soon as Vani gets feedback on how the invoice looks, she will open individual issues on the board to get the AGI conference tasks ready for pay\n",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "The task is overdue for pay"
+            },
+            {
+              "decision": "Talking to interviewers individually to set a 'final final' deadline for the end of Q3 interviews",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "This is crucial to help us move forward in the process especially since we still have interviews for Q4"
+            },
+            {
+              "decision": "Duke handing over the co-chair mentee task to Clement",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "People interested in Q4 interviews to add names to the group sheet",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Duke will document the next meeting on the 7th of October, Colleen will take the 4th of November documentation, and LadyTempestt will take the 2nd of December documentation.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Budget , Interviews, Documentation, survey ",
+        "emotions": "timely, Deliberative, Brief"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "9090a21e-e7d8-4b82-96d0-4532f8d852c3": [
     {
       "workgroup": "LatAm Guild",
@@ -34872,6 +35036,53 @@
           ]
         }
       ],
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "819e03a9-6312-4673-a992-d4284a6dc5f4": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Monthly",
+        "date": "2024-10-08",
+        "host": "EstherG",
+        "documenter": "onize",
+        "peoplePresent": "Clement Umoh, Duke, aetherblade, Onize, CallyFromAuron, Advance Ameyaw, barnabas, Haley Lowy, Ashley Coventry, EstherG",
+        "purpose": "Fortnightly Open Office meeting led by the Global Ethics Initiative (GEI).",
+        "transcriptLink": "No transcript",
+        "workingDocs": [
+          {
+            "title": "BEGINEthical Project Update",
+            "link": "https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Discussion Points:\nDuke initiated the meeting by sharing his thoughts on decentralization and its contrast with his country's oligarchy system. \n\nRecap of the initiative’s aims and the role of the AI Ethics WG\nEsther began by giving a recap of the BEGIN (Beneficial General Intelligence Nexus for EthicalAI), she mentioned the initiative started cause there’s hardly any voicing out of views on the ethics surrounding AI.  \nShe discussed the aim of gathering human values on safety and ethics and providing ways for people to contribute resources towards safe and ethical AI.\nIt has two phases: the creation of an AI chatbot and knowledge graphing and a DAO resource-sharing system, which simply means people contribute resources to the ecosystem and carefully distribute or set up systems to distribute the resources fairly. \n\nAt present, we are in phase 0 of manual data collection. This is a crucial role of the AI Ethics Working Group (WG) within BeGIN. The collected data will serve as the foundation for constructing an information structure for the knowledge graph and subsequently developing the chatbot. This process will lay the groundwork for the knowledge graph that will power the chatbot. \n\nEsther also spoke of the need for magic wand questions: \"What kind of AI tools would you want to develop if you had unlimited money\" This can create data for how people want to see AI and its resources used. She also speaks of us needing to prioritise highly diverse data so not just SNET ambassadors or people who know about AI but also elderly, young and even those who know zero about it\n\nThis phase 0 is so important and the interviews are such great reference points of data and will guide the chatbot to work for the users. She also said if any interviewee would love to be in the process that would be great\n\nPhase 1 will be building the AI chatbot that exudes human values and ethical systems when interacted with.\n\nAnd Phase 2 is the resource sharing system: such as time/volunteering, data, currency, crypto, compute resources. She spoke about how complex this phase will be because a system needs to be implemented of how time will be shared and how currency will be shared fairly. \n\nShe also explained roughly how the DAO resource sharing will work: how this will be specifically about how AI resources will be shared, how the resources are governed and how they are fairly distributed. An evidence-based resource sharing will give structure to the DAO. The data coming in from the population about ethics can help us structure the operational side of the DAO.\n\nShe discussed the definition of a knowledge graph and what it entails. The knowledge graph will organize the interview data, and use the transcripts to code them into categories such as geographical locations and concepts linking them. Which will help track patterns in the data. \n\nShe went on to explain what KG are for: They are used first to represent knowledge and they are designed to grow and change based on the data collected from the interviews. They also help provide a way for LLMs and machines to interpret knowledge. She emphasized its usefulness in policymaking, science, and decision-making.\n\nOnize asked about how testing for bias in the data would work and how the data would be handled. Esther addressed this by speaking of how that has been in consideration in the project and a team of data analysts will be set up to work on that\n\nVani raised the need to collect demographic data, such as sex, class and even career distinctions and Esther highlighted its importance in the interviews. They discussed what data to prioritise and how to keep it concise, but no clear decision was made. It was agreed that further discussion is needed to finalise the approach.\n\n\nVani suggested asking the interviewee about their identity and Colleen gave a template on how to ask that by saying; \"Do you identify with any particular group of people\"? , to which we agreed to be a nicer way to put it and implement it in the interview.\n\nWe confirmed that when interviewers submit their audio files, they should use the agreed file naming convention: the file should be named with the interview's reference number and the date. This is so that interview audio files remain clearly associated with the relevant consent form, and also means that if an interviewee gets in touch to say they wish to withdraw, we can easily find their interview to delete it.\n\nLeeloo announced the BGI Bookclub which would bring people together and inspire knowledge sharing. And it will be done biweekly beginning from October 16, and it will be open for the ecosystem to be a part of.\n\nThe meeting praised Duke and African Guild for their successful event. African Guild hopes to organize similar future events, based on positive attendee feedback. They plan to maintain the current event scale rather than expand to larger formats. It was agreed to discuss funding and potential Foundation involvement in more detail at the next BeGIN Open Office.\n",
+          "actionItems": [
+            {
+              "text": "Finding a way to collect demographic data and data on sensitive cases such as class, gender, and groups will help build the ethical framework for the KG and impact interviewers. However, it was not decided who would follow up on this, and a clear assignee and timeline would be confirmed in future discussions.",
+              "dueDate": "8 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "LeeLoo to include the book club details in the calendar for people to participate.",
+              "assignee": "LeeLoo",
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ethics, chatbot, research, fishbowl interviews, DAO, Knowledge Grapgh, Knowledge Graph, Interview, Data analysis, Human values, Inclusive , Demographic data, interviewing, survey , African guild, Bookclub",
+        "emotions": "insightful, Welcoming, progressive, Collaborative"
+      },
       "type": "Custom",
       "noSummaryGiven": false,
       "canceledSummary": false
@@ -36358,6 +36569,83 @@
       "tags": {
         "topicsCovered": "TH Update , Onboarding Journey Scripts, skills matrix, research, Marketing WG, biweekly, meeting dates, Collaboration Skill Database ",
         "emotions": "Friendly, Collaborative, Casual, speedy "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "a203606d-54c9-4c86-a3be-6bf226606704": [
+    {
+      "workgroup": "AI Sandbox",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-17",
+        "host": "lord kizzy",
+        "documenter": "Kateri",
+        "peoplePresent": "lord kizzy, Onize, Peter, Effiom, Advanceameyaw, Clement Umoh, Kateri, Ayo, MartinSoki, kevin",
+        "purpose": "Template for AI Sandbox exhibition ",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Lord kizzy and osmium to create a presentation template for exhibitions in sandbox sessions",
+              "assignee": "lord kizzy, osmium",
+              "dueDate": "17 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Peter to sort out the Zoom account settings for future meetings.\n",
+              "assignee": "Peter",
+              "dueDate": "17 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Members who want to document should indicate ",
+              "assignee": "All Members",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Lord kizzy to create a repository for the next call where members could submit polls documentation for the AI tools.",
+              "assignee": "lord kizzy",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week.",
+              "rationale": "it gives enough time for members to interact efficiently",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to have only two AI toolset exhibition "
+            },
+            {
+              "decision": "We decided that any member who is meant to present or to make a presentation on the next call should create a slideshow "
+            }
+          ],
+          "discussionPoints": [
+            "Welcoming and Introduction of new members: members were welcomed into the call and we were able to gather some suggestions from some of the members like; education on Metta, use of knowledge graphs and so on.",
+            "Explanation of the ai sandbox: Lord kizzy stated that Sandbox is where we come up with tools exhibition, project showcase and then we highlight tools AI tools and the applications, their use cases, their problems statements. He also said that it going to be an interactive space where everyone can chip in their thoughts and opinion and we would get explore. \nIt was highlighted that are going to learn how to use this tools and see the practical application of it.",
+            "AI sandbox template: The first segment focuses on exhibition of AI tools, these tools are showcased in form of a structure presentation slide providing a comprehensive understanding of their functionality and their application.\nIt was noted that in this first session we expect to see the overview of the tool sets (detailed description) and the use cases, the architectural and technological slack (library or expository of the framework of the AI model or a visual or graphical representation of the architecture through using either a flowchart diagram or a pie chart. It was also said that for the demonstration you could either present the tool using a life demonstration or you could create a video walkthrough on how the tools being used.\n",
+            "Documentation and presentation guidelines for AI Sandbox and think tank: It was said that once you have a tool that you want to present you should create a slideshow and follow the format provided then you send the link to the tools leads for correction and editing purposes, once it is all good you will be allowed to present in a next meeting. In the slideshow the first page should comprise of the tool name, next is the architecture and technological stack (this is going to contain 2 pages; the first a library link or repository and the second geographical representation of the architecture), next is the demonstration, outcome reports/ results and impact and finally the thank you page."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": " Experimentation, Exhibitions, AI tooling",
+        "emotions": "Collaborative, speedy , The meeting was quick and progressive, Welcoming, interesting"
       },
       "type": "Custom",
       "noSummaryGiven": false,
