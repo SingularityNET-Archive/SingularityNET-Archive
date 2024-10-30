@@ -35174,39 +35174,31 @@
       "date": "2024-10-12",
       "host": "Slate",
       "documenter": "devon",
-      "peoplePresent": "hotasiro, martinsoki, malik, rebel, scarecrow, kateri, Eric Davies, AshleyDawn",
-      "purpose": "The meeting centered around WG creators showcasing their progress and discussing improvements for their workgroup models and plugins tutorials"
+      "peoplePresent": "martinsoki, malik, rebel, scarecrow, AshleyDawn, boo, GorgaSeagian, lord kizzy",
+      "purpose": "To review progress and discuss updates on asset creation, game features, and project developments within the Gamers Guild.",
+      "timestampedVideo": {}
     },
     "agendaItems": [
       {
         "status": "carry over",
-        "gameRules": "Racing game: the first to finish three laps wins.\nparticipants: malik, martinsoki, lord kizzy, devon, scarecrow, rebel",
-        "leaderboard": [
-          "Devon"
-        ],
+        "gameRules": "No games played",
         "actionItems": [
           {
             "text": "Animation & Dialogue System - Education Guild",
             "assignee": "malik, hufiumer69",
             "status": "in progress",
-            "dueDate": "26 October 2024"
+            "dueDate": "9 November 2024"
           },
           {
             "text": "Animation and dialogue system - Treasury Guild",
             "assignee": "martinsoki, scare-crow",
             "status": "in progress",
-            "dueDate": "26 October 2024"
+            "dueDate": "9 November 2024"
           },
           {
             "text": "Animation and dialogue - Archival Workgroup",
             "assignee": "GorgaSeagian, kateri",
-            "dueDate": "26 October 2024",
-            "status": "in progress"
-          },
-          {
-            "text": "Department Creation - Dework PBL",
-            "assignee": "rebel, Photogee",
-            "dueDate": "26 October 2024",
+            "dueDate": "9 November 2024",
             "status": "in progress"
           },
           {
@@ -35214,36 +35206,37 @@
             "assignee": "oep, CollyPride",
             "dueDate": "26 October 2024",
             "status": "in progress"
+          },
+          {
+            "text": "Department creation - Writers WG",
+            "assignee": "lord kizzy, devon",
+            "dueDate": "9 November 2024",
+            "status": "todo"
           }
         ],
         "decisionItems": [
           {
-            "decision": "Slate will record and upload the tutorials on using Roblox tools and plugins to a shared platform",
-            "rationale": "to allow creators to revisit the tutorial for improved understanding"
-          },
-          {
-            "decision": "splitting floors of building between Dework PBL and GitHub PBL.\n",
-            "rationale": "Because the course has now transitioned to GitHub PBL."
-          },
-          {
-            "decision": "Ensure that all workgroup models are properly lit",
-            "rationale": "for nighttime visibility."
+            "decision": "Decided to incorporate dynamic textures and special effects to the game.",
+            "rationale": "to enhance game realism and player experience."
           }
         ],
         "discussionPoints": [
           "Slate outlined the meeting agenda",
-          "Scarecrow showcased the updated Treasury Guild building model on Roblox.\nThe building features:\nVibrant design with the Treasury Guild logo.\nGuarded entrance with two guards.\nMain entrance area with a board displaying meeting times.\nA Miro board representing treasury and ambassador wallet details.\nA waiting area enhanced with a TV, fans, and other lively elements.\nCash counter managed by NPCs representing treasury members.\nStaff-only areas including an ATM and a highly secured meeting room.\nFile handling area with added security cameras and amenities.\nA vault storing AGIX, monitored by NPCs.\nSlate praised the model for its realistic bank-like vibe and the excellent additions.\n",
-          "Slate provided feedback on the building model created by PhotoGee and Rebel.\nKey points of feedback:\nThe \"Meeting Room\" label is floating and should be repositioned.\nNon-functional lighting fixtures need attention.\nImplementation of a futuristic door model for consistency across departments.\nColor schemes and materials do not match the intended design.\nDecals should be updated to reflect Dework or GitHub PBL content instead of generic or unrelated images.\nOversized chairs need scaling down to fit character proportions.\nAnchoring issues causing objects like tables to detach.\nEmpty areas should be filled with relevant content, possibly incorporating GitHub PBL materials.\nLord Kizzy suggested updating references from Dework PBL to GitHub PBL due to the course evolution.\nDiscussion on designating floors for Dework PBL and GitHub PBL respectively.",
-          "Tutorial on Roblox Model Selection Tools and Plugins:\nSlate conducted a tutorial on using the Negate and Union functions to create precise spaces, such as doorways in walls.\nDemonstrating how to create holes in walls that match door dimensions exactly.\nIntroduction to essential plugins:\nResizeAlign: For precise resizing and alignment of parts.\nArchimedes: To create circular or spiral designs.\nScene Tools: For adding animations like spinning parts.\nPart to Terrain: Converting parts into terrain materials like water.\nHe emphasized the importance of anchoring objects and proper lighting for night visibility.\nLord Kizzy recommended recording the tutorial for future reference.\nSlate agreed and began recording for later distribution.",
-          "Slate inquired if any gamer guild members were not working on a workgroup, to which Lord Kizzy and Devon expressed interest.",
-          "Slate skipped other model updates to allow creators ample time to complete and showcase their work and because the process can be time-consuming."
+          "Slate discussed the creation of assets such as shirts, pants, and UGC items for listing on the Roblox marketplace and integration into the main game using mannequins.",
+          "Slate demonstrated how mannequins will display items in the game, allowing players to interact, try on, and purchase assets directly from them.",
+          "Slate presented dynamic clothing textures, moving grasses, and bushes that respond to wind, aiming to enhance game realism",
+          "Slate showcased visual effects like spawn animations that players can purchase to customize their characters, enhancing player attraction and engagement.",
+          "Slate introduced an under-development in-game intercom system for future meetings, enabling speakers to project their voices through in-game speakers.",
+          "Gorga presented updates on the VR map, including a restaurant, realistic buildings, trees, and drivable sports cars. Slate suggested optimizing the VR map by making some buildings non-enterable and duplicating houses to create uniform streets.",
+          "Photogee and Rebel showcased their Dework PBL workgroup building model, featuring signature doors, workrooms, learning desks, GitHub labs, and aesthetic elements aligning with both Dework and Github. Slate provided feedback on the Dework PBL model, noting the need for anchoring certain objects and adding lighting improvements.",
+          "Slate mentioned that he will upload all the recordings of creation to youtube and share with us ",
+          "Slate assigned writers workgroup model creation to lord kizzy and devon based on their interest."
         ]
       }
     ],
     "tags": {
       "topicsCovered": "Roblox, metaverse, department Creation, work updates, Map creation, plugins",
-      "emotions": "Friendly, Collaborative, informative, Building, contributive",
-      "gamesPlayed": "Racing Game"
+      "emotions": "Friendly, Collaborative, informative, Building, contributive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
