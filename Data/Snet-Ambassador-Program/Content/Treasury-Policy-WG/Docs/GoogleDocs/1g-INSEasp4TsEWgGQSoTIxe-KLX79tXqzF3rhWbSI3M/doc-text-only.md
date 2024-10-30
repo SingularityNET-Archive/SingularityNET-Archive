@@ -130,11 +130,7 @@ When you take up activities you come across with policies. I would say there is 
 
 
 
-
-
-**Insights from YOUR_NAME as PERSPECTIVE**  (please comment or edit for new insights)
-
-
+**Insights from CollyPride as New Core Member (and multi-workgroup and guilds member)**  I realized our AP strategies needed to align better with the SingularityNET (Foundation) Blueprint and in turn found policies.  Am still exploring and learning decentralized systems to understand how to best affect my interpretation. Question: can Policies be converted to smart contracts easily or would it be Proposals that could be converted to a Smart Contract more easily?
 
 ## How new policies will be ratified and moved into effect?
 
