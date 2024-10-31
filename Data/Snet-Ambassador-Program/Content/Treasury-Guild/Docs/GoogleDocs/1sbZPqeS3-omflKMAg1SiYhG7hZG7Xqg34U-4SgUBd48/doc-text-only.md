@@ -1,6 +1,4 @@
-
-
-Treasury Guild Operation Steps outline for treasury guild transaction building process
+# Treasury Guild Operation Steps outline for treasury guild transaction building process
 
 
 
