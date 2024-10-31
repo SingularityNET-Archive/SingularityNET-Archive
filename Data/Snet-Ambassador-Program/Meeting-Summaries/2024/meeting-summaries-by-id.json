@@ -34838,99 +34838,66 @@
         "date": "2024-10-09",
         "host": "Guillermo",
         "documenter": "Sergio",
-        "peoplePresent": "Guillermo, Martin Rivero, Sergio, Daniela Alves",
-        "purpose": "@SNET_LatAm Ambassadors Guild Town Hall #9",
+        "peoplePresent": "Guillermo, Martin Rivero, Sergio, Daniela Alves, Duke, Andre, Boaz",
+        "purpose": "@SNET_LatAm Program for X space on \"AI and human collaboration\"",
         "workingDocs": [
           {
-            "title": "ASI X Solana Copa America AI Track",
-            "link": "https://drive.google.com/file/d/14CqJzcSaMxj_C4q1X93INio_w7aEWxXy/view?usp=drive_link"
+            "title": "X SNET_Latam",
+            "link": "https://x.com/SNET_Latam/status/1843411472400990221"
           },
           {
-            "title": "André de Carvalho CV_2024 ",
-            "link": "https://drive.google.com/file/d/14UCwVKrwazp65YIRCgqbkLNIPEpM6MmN/view?usp=drive_link"
-          },
-          {
-            "title": "HackPack - AI Track at Solana Copa America Hackathon Building Cross-Chain AI Agents with Fetch.ai and Solana",
-            "link": "https://fetch.ai/events/hackathons/solana-hackathon/hackpack"
-          },
-          {
-            "title": "https://www.copasolana.com/",
-            "link": "https://www.copasolana.com/"
-          },
-          {
-            "title": "Opening remarks Guidelines _ ASI X Solana Copa America AI Track  _ 300924",
-            "link": "https://docs.google.com/document/d/1FaxN4ptbVAadpBTV6gPwNgylmEP9LY9_bQfj5WcON1k/edit?usp=sharing"
-          },
-          {
-            "title": "LatAm Biweekly TH _ 091024"
+            "title": "LatAm Biweekly TH _ 091024",
+            "link": "https://docs.google.com/presentation/d/1tkuXIwTTiLQFpD_WfTMytDBN52O6WzqIvJxVVR3tU_s/edit#slide=id.g2d36b2e3950_0_61"
           }
         ]
       },
       "agendaItems": [
         {
-          "agenda": "Update objectives Q4 ",
+          "agenda": "Operations SubGroup",
           "status": "carry over",
-          "narrative": "On September 12th, the SingularityNET Strategic Alliances team requested support from the SNET_LatAm team for the ASI X Solana Copa America AI Track initiative. 'Building Cross-Chain AI Agents with Fetch.ai and Solana'\n\nThis hackathon aims to challenge participants to leverage Fetch.ai agent tech and Solana’s blockchain to build applications that automate complex workflows and interactions in decentralized systems. We have outlined three levels of problem complexity—easy, medium, and complex—each presenting its own challenge.\n\n\nIn this follow-up meeting, the SNET_LatAm Ambassadors team met with the Strategic Alliances team to finalize the operational strategy for introduction WorkShop for the ASI -fetch.ai- solana-hackathon, which will take effect on Tuesday, October 1st. \n\nThe LatAm team will provide support through communication channels and human resources to assist the Fetch technical team. Their responsibilities will include moderating discussions, serving as intermediaries for participants in Spanish and Portuguese, clarifying questions, and facilitating the exchange of ideas during the virtual Copa America Hackathon.\n\nIt was agreed during the meeting that the LatAm team would help with the introduction in Portuguese in charge of Andre and Daniela, supporting Rob and Sergey, who will handle the introductions in English and Spanish. Following the introduction, the team will participate in the first workshop of the event.\n\nAdditionally, the LatAm team will document each intervention and action, establish a methodology for tracking action items, and create a form to collect participant inquiries, which will help streamline a funnel of questions and answers.\n\nThe amount to be given to the winners will be established and shared by Rob to the ASAP team in order to incorporate it into the communication and the call to action.\n\nAt 18:00 UTC RoOb shared a text with the opening remarks for the Workshop. <<Link on top>>\n\nThe tentative schedule for Tuesday, October 1st, is as follows:\n\n10:00 AM BRT (UTC-3:00): Opening remarks with Sana Wajid and Alex Blagirev\n10:30 AM BRT (UTC-3:00): \"Built on Fetch.ai\" session with Abhi\n11:00 AM BRT (UTC-3:00): AI Agents Workshop with Abhi\nThe remaining event schedule can be accessed via the hackpack: Hackathon Hackpack.",
+          "narrative": "Daniela Alves and Sergio Benavides are active members of the SingularityNET community. They presented their perspectives highlighting the importance of diversity and the representation of Latin American countries in the goal of achieving General Artificial Intelligence as a common good and in a decentralized way. Martín commented that he will attend the Tech Forum that will take place on October 19 in Buenos Aires, an event that will feature the participation of important leaders of technological industries and that will address the topics of Artificial Intelligence and Blockchain. He also mentioned his participation in BitConf on November 1 and 2, at this event confirmation from the organizers for the DeSci panel is expected. The holding of the first X-Space of the LatAm SingularityNET community was confirmed, it was mentioned that the X platform is enabled again in Brazil.",
           "actionItems": [
             {
-              "text": "WorkShop Summary, following the LatAm Guild summary template Sergio will participate in the meeting, activating his read .ai and taking complementary notes to make a complete summary with action items and follow up items",
-              "assignee": "Sergio",
-              "dueDate": "30 September 2024",
-              "status": "in progress"
-            },
-            {
-              "text": "Continue designing the decentralized governance topics for discussion",
-              "assignee": "Guillermo, Ines, Martin Rivero",
-              "dueDate": "25 August 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Follow Notes and Participant Questionnaire form",
-              "assignee": "Guillermo, Sergio, Martin Rivero",
-              "dueDate": "30 September 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Follow channel \"innovation-lab\" in Fetch Discord",
-              "assignee": "Guillermo, Martin Rivero, Sergio",
-              "status": "todo",
-              "dueDate": "30 September 2024"
-            },
-            {
-              "text": "Prices award in $. The amount to be given to the winners will be established and shared by Rob to the ASAP",
-              "assignee": "Rob Intriago",
-              "dueDate": "30 September 2024",
-              "status": "todo"
-            },
-            {
-              "text": "Send first thingtuesday Oct 1, pervious to WorkShop link for online space",
-              "assignee": "Rob Intriago, Guillermo",
-              "dueDate": "29 September 2024",
-              "status": "todo"
+              "text": "The LatAm_SIngularityNET ambassadors team will participate in the first space at X, as the start of this cycle of spaces that will take place during Q4",
+              "assignee": "guillermolucero, Martin Rivero, sergiobenar, ines gavina, Andrea Dekovic, Daniela Alves",
+              "dueDate": "10 octubre 2024",
+              "status": "done"
             }
           ],
           "decisionItems": [
             {
-              "decision": "SNET_Latam Ambassadors Guild and @SIngularityNET Collaboration for the ASI X Solana Copa America AI Track initiative Operations and Suggestions "
+              "decision": "The first X-Space of the LatAm SingularityNET community will take place on Friday, October 10, with the theme of “AI-Human Collaboration”"
             }
           ]
         },
         {
-          "agenda": "Marketing Strategic Communications",
+          "agenda": "Strategy SubGroup",
           "status": "carry over",
-          "narrative": "The LatAm team will be supporting the communication efforts and call 2 action for participation and event monitoring. Reinforcement of actions, encourage the LatAm community to participate in the event.",
+          "narrative": "One of the goals of the SingularityNET community is to have a tool that allows easy access to resources such as: main meeting information, decisions, assigned tasks, documents and related links.",
           "actionItems": [
             {
-              "text": "Send communication and promotional elements of Solana and ASI to translate and amplify the arrival and potential participation",
-              "assignee": "Rob Intriago, Guillermo",
-              "dueDate": "30 September 2024",
-              "status": "todo"
+              "status": "done",
+              "text": "Guillermo will explain how to use the file upload tool ",
+              "assignee": "guillermolucero",
+              "dueDate": "10 octubre 2024"
+            },
+            {
+              "text": "Sergio will be in charge of uploading the meeting summaries",
+              "assignee": "sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "An explanation will be given on how to use the tool to upload meeting information and the main information of the corresponding summaries.\n",
+              "effect": "affectsOnlyThisWorkgroup"
             }
           ]
         }
       ],
       "tags": {
-        "topicsCovered": "Educational Content, Participant Questionnaire, content calendar, Prices , Rewards, Copa Solana , Fetch Ai",
+        "topicsCovered": "content calendar, Rewards, X spaces, Meeting Summaries",
         "emotions": "Collaborative, Strategic, Task-focused",
         "other": "Team Work"
       },
