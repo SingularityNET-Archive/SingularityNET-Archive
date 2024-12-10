@@ -21683,6 +21683,98 @@
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
       "name": "Weekly",
+      "date": "2024-06-11",
+      "host": "Felix",
+      "documenter": "Ese Williams",
+      "peoplePresent": "Felix, Vanessa, Peter, Sucren, Tomas Octavio, Ese Williams, LeeLoo, Ayo, LadyTempestt, Mikasa, nicknick, Vasu, Guilermo",
+      "purpose": "Weekly GovWG Meeting",
+      "mediaLink": "https://app.read.ai/analytics/meetings/01J03SJ4E9D5T0Y82XVV3D33NF?section=transcript",
+      "workingDocs": [
+        {
+          "title": "SNET Ambassadors - The Naming Thing",
+          "link": "https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 budget sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting began with a technical discussion about settings and the waiting room feature, with Felix seeking to disable it for the current meeting. The group briefly discussed the waiting room setting before transitioning to preparing for the meeting, with Felix seeking to create a new MyRobot for the session. Felix then redirected a marketing proposal to the Marketing Guild, advising the presenter to seek support and feedback from the appropriate channels.\n\nThe main agenda of the meeting was a retrospective on the previous ambassador's governance decisions. Felix emphasized the need for participants to share their experiences, provide feedback, and make suggestions for future governance processes. The meeting aimed to gather insights and reflections on the decision-making processes and budget allocations for the previous quarters, with a focus on experimenting with new approaches and learning from past experiences.\n\nFelix and Guillermo discussed the effectiveness of the budget and governance decisions, highlighting improvements and challenges faced by the work groups. They emphasized the importance of finding consensus and addressing issues within the governance structure.\n\nThe team discussed the strengths and weaknesses of the recent decision-making process, highlighting the positive aspects of involving core contributors and the need for better communication and understanding of the consent process. Additionally, there was a call for a more defined process for new workgroups to emerge. The team also discussed the importance of awareness in onboarding and mentoring, as well as the need to identify and support individuals who may be struggling within the ecosystem. They also considered potential overlaps with the Strategy Guild and the need for clear guidelines to avoid duplication of efforts.\n\nFinally, the team discussed the implementation of Project Hermes, a messenger system between different groups, and the role of navigators to facilitate communication and sharing of best practices. They also considered potential overlaps with the Strategy Guild and the need for clear guidelines to avoid duplication of efforts. The team discussed the idea of incorporating the key learnings from the retrospective sessions into the Town Hall by hosting breakout rooms to engage the audience in interactive discussions. They considered the potential topics for the breakout rooms and the logistics of organizing them.\n\nChapters & Topics:\n\nCasual Conversation and Technical Settings\nAmbassadors SingularityNET and Felix discuss technical settings and the waiting room feature, with Felix expressing uncertainty about its necessity. The conversation then turns to Felix's current location in the countryside, where he shares his experience of observing birds and their natural behavior. The group briefly discusses the waiting room setting before transitioning to preparing for the meeting.\n\nDiscussion on Marketing Proposal and Retrospective on Ambassador's Governance\nFelix redirects a marketing proposal to the Marketing Guild, suggesting it as a more suitable platform for the proposal. He then introduces the topic of the retrospective on the previous ambassador's governance decisions, highlighting the importance of gathering feedback and suggestions for future governance processes from the participants.\n\nGovernance and Decision-Making Discussion\nFelix and Guillermo reflect on the impact of governance decisions on work groups, acknowledging the improvements made while also addressing challenges and the need for consensus. They discuss the tools and processes used for decision-making and suggest creating a system for smoother transitions in leadership roles within the work groups.\n\nDiscussion on Governance and Participation\nVani proposes discussing Love's chat input, and Felix and Peter share their perspectives on the positive and negative aspects of governance, including the need for clearer rules and the challenges of short timelines and low core contributor turnout. They also discuss the management of objections and the need for more concrete suggestions for improvement.\n\nBudget Proposals, Treasury Rules, Workgroup Centralization, and New Workgroup Process\nSucrenSpice addresses the need for improved timing and accountability in budget proposals, proposes the implementation of budget limits, and raises concerns about centralized workgroups lacking leadership. Furthermore, there is a suggestion for a more defined process for the emergence of new workgroups.\n\nFeedback on Decision-Making Process\nVani and Felix review the recent decision-making process, acknowledging the benefits of involving core contributors and the need for clearer communication and understanding of the consent process. Vani also suggests gathering feedback from core contributors who did not participate to understand their reasons for non-participation.\n\nFeedback and Suggestions\nFelix and Ayo share their perspectives on the program, highlighting the positive aspects like the welcoming environment and the concept of decentralization. Ayo expresses concerns about the lack of clear direction and suggests the need to identify and support individuals who may be struggling within the ecosystem. He emphasizes the importance of addressing subtle issues that can impact motivation and enthusiasm.\n\nDiscussion on Onboarding and Mentoring\nAyo emphasizes the significance of awareness in onboarding and mentoring, while Felix acknowledges the warm environment at Avian and the need for effective talent identification. Felix also welcomes Ayo to Singularity and encourages his unbiased perspective. Kenichi then joins the discussion, expressing that everything went well. \n* Engagement and Participation in the Community\n\nKenichi's Review and Suggestions\nKenichi emphasizes the positive increase in community engagement and the challenges of managing a larger number of contributors. He suggests using metrics to determine decision-making quorums based on core contributors' engagement and proposes a survey to understand why some core contributors don't participate. Additionally, he advocates for better information dissemination on the server and the need for individuals to guide others to relevant information.\n* Frequency of meetings\n\nDiscussion on the Need for a Workgroup Lead Role\nFelix and Peter emphasize the necessity of a workgroup lead role and regular check-ins for workgroups. Guillermo supports the idea and proposes the concept of a representative or \"D-Rep\" to facilitate communication and coordination across workgroups, highlighting the need for a fluid and dynamic structure.\n* Role of Navigators in the Ecosystem\n\nPlanning for Town Hall Breakout Rooms\nFelix and Peter propose integrating the key learnings from the retrospective sessions into the upcoming Town Hall by hosting interactive breakout rooms. They discuss the potential topics for the breakout rooms, such as decision-making processes and communication across departments, and consider the logistics of organizing the breakout rooms. Peter expresses willingness to try the new approach and suggests outlining the topics in advance.\n* Timing and Time Schedule on Decision-Making\n\nDiscussion on Project Hermes and Navigator Role\nGuillermo Lucero Funes suggested the name \"Project Hermes\" for the messenger system and emphasized the need for effective communication and collaboration. Felix and SucrenSpice discussed the navigator role, highlighting the importance of checking in with different groups and sharing best practices. Ayo raised concerns about potential overlaps with the Strategy Guild and the need for clear guidelines to ensure smooth program operations.\n* Project Hermes\n",
+        "actionItems": [
+          {
+            "text": "The Treasury Workgroup will establish an auditing process to review the progress and achievements of workgroups and guilds in relation to their budget proposals.",
+            "status": "todo"
+          },
+          {
+            "text": "SucrenSpice will add additional nodes and make any necessary corrections on the Miro board.",
+            "status": "todo"
+          },
+          {
+            "text": " All Core Contributors will participate in a survey to provide feedback on the decision-making process and identify reasons for non-participation.",
+            "status": "todo"
+          },
+          {
+            "text": "All Workgroup Leads will host a monthly meeting to align workgroup goals with the overall goals of the Ambassador Program.",
+            "status": "todo"
+          },
+          {
+            "text": "The Community Managers will implement a system to identify and appoint representatives or navigators to facilitate communication and collaboration across different workgroups.",
+            "status": "todo"
+          },
+          {
+            "text": "The Governance Workgroup will develop a process to identify soft, liarsome individuals who can assist in navigating and communicating across different workgroups.",
+            "status": "todo"
+          },
+          {
+            "text": "Participate in the breakout rooms and share the discussions in the main room.",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo Lucero Funes will start chatting with money about terminating the monthly meetings.",
+            "status": "todo"
+          },
+          {
+            "text": "Felix will host the town hall meeting and set the agenda for breakout rooms.",
+            "status": "todo"
+          },
+          {
+            "text": "Peter will set the duration for the breakout rooms at the town hall meeting.",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Discussion on Marketing Proposal and Retrospective on Ambassador's Governance",
+          "Governance and Decision-Making Discussion",
+          "Discussion on Governance and Participation",
+          "Budget Proposals, Treasury Rules, Workgroup Centralization, and New Workgroup Process",
+          "Feedback on Decision-Making Process",
+          "Feedback and Suggestions",
+          "Discussion on Onboarding and Mentoring",
+          "Kenichi's Review and Suggestions",
+          "Discussion on the Need for a Workgroup Lead Role",
+          "Planning for Town Hall Breakout Rooms",
+          "Timing and Time Schedule on Decision-Making",
+          "Discussion on Project Hermes and Navigator Role"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Meeting Summary, Governance, Decision Making,  Budget Allocation,  Workgroup Dynamics,  Team Collaboration , Project Management Support, Communication , Onboarding,  Mentoring, community engagement",
+      "emotions": "Collaborative, Constructive , problem-solving, Optimistic , Concerned,  Determined"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
       "date": "2024-05-14",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -36960,6 +37052,103 @@
     "tags": {
       "topicsCovered": "Decision Making Process, consent decision making, Governance sandbox, Core Contributor, decision making tools, governance tools, tool testing, citizenOS, colony.io, moderator workgroup, new workgroups, Process for agreeing new workgroups, Q2 2024 budget, budget approval process",
       "emotions": "speedy , concise, friendly "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-04-04",
+      "host": "Felix",
+      "documenter": "Felix, CallyFromAuron",
+      "peoplePresent": "Felix, CallyFromAuron, PeterE, guillermolucero, SucrenSpice",
+      "purpose": "Weekly GovWG Meeting",
+      "workingDocs": [
+        {
+          "title": "SNET Ambassadors - The Naming Thing (context-setting document on naming decision)",
+          "link": "https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 budget sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "\n\n\n",
+        "actionItems": [
+          {
+            "text": "Onboarding WG members have created a context-setting document on the Naming decision (see https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing) to define process how to get reflection & insights from current contributors & Ambassadors ",
+            "status": "done",
+            "assignee": "CallyFromAuron, LadyTempestt, Sucre n Spice",
+            "dueDate": "11 April 2024"
+          },
+          {
+            "text": "Plan a retrospective session on what worked & what didn't for the decision on the Q1 2024 budget. This could take place in a Governance meeting.",
+            "status": "todo",
+            "assignee": "all",
+            "dueDate": "18 April 2024"
+          },
+          {
+            "text": "Set up a \"governance sandbox\" for testing governance tools- reach out to Core Contributors & ask if they can engage in tool testing, for real decisions in their WGs or for imaginary ones. Write up reports & documentation under open source licences (e.g step by step guide).",
+            "status": "todo",
+            "assignee": "all",
+            "dueDate": "11 April 2024"
+          },
+          {
+            "text": "Reach out to some SNET folks and ask them to engage with UniFires, establish a small group of SNET folks to engage at uniFires  - create a blog post on 1P1V with uniFires  - bring the topic up in SNET Ambassador Town Hall",
+            "status": "todo",
+            "assignee": "guillermolucero, Felix",
+            "dueDate": "11 April 2024"
+          },
+          {
+            "text": "Ask Treasury Guild to set up a new sheet for the Q2 budget at https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945  and ask all Guilds/WGs to submit their Q2 2024 budgets together with a quarterly report",
+            "assignee": "Tevo",
+            "dueDate": "11 April 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agree there is some momentum on 1P1V (one person, one vote) & Governance at UniFires/Polkadot. 1P1V is a major strategic objective of GovWG.",
+            "rationale": "because we agree that plutocratic voting (1c1v, one coin one vote) is unfair and undesirable, and privileges richer people in decision-making."
+          },
+          {
+            "decision": "we agree a Moderators WG would be a good idea, and GovWG will support it if needed (e.g. by folding it into our own Q2 budget)",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agree that the Naming decision could be the next decision that Core Contributors are asked to make, using a similar Consent process as we use for budget decision",
+            "rationale": "Because it has been raised several times, and would perhaps be a good topic to practice consent decision making.",
+            "opposing": "We note that the decision should only be about the name of the role (\"Core Contributor\"), and not at this stage about the idea of renaming the Program",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agree that the budget process for Q2 should be similar to what was done for Q1, except that WGs/Guilds should be required to submit a quarterly report about what they did in Q1, as well as a budget for Q2.",
+            "rationale": "Accountability and transparency, and to enable core contributors to make an informed decision on whether or not to aproave a WG/Guild's budget.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Ambassadors Naming -  how do we name ambassadors/contributors? Should we keep the name \"Core Contributor\" or revert to \"Ambassador\"? Should the name of the program itself be changed?\nblocker: time & people to solve it",
+          "Q2 budget - what should be the process on WG budgets for Q2 2024?\nblocker: time & people to solve it",
+          "Governance tools & know-how.  What are good use cases for tools?\nblocker: clear use cases to test use of tools",
+          "uniFires (a Catalyst funded project to support connections between Polkadot and Cardano) & SNET - how to connect them or make links between them on governance issues? particularly on the issue of 1p1v\nBlocker: available time & people \n",
+          "Peter mentioned the forthcoming token merger of SNET, Fetch & Ocean, which will enable collaborations with their respective Ambassdor programs, something to look and think about",
+          "Peter mentioned the idea to set up a Moderators WG, enable resources for folks like Demonix (server admin)"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Governance, community governance, Q2 2024 budget, core contributors, renaming Ambassadors, 1p1v, UniFires, Polkadot, Q1 quarterly report, quarterly reporting, governance sandbox, governance tooling, testing tools, retrospective, Q1 2024 retrospective, consent decision making, moderator workgroup, Token merger, fetch and ocean",
+      "emotions": "Friendly, Collaborative, Conclusive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
