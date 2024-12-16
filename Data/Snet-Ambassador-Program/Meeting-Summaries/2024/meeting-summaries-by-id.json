@@ -37964,6 +37964,81 @@
       "canceledSummary": false
     }
   ],
+  "933475b5-8e2a-4bb8-a2b2-142c42c4fe01": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-04-02",
+        "host": "Peter",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Felix, CallyFromAuron, PeterE, guillermolucero, Victor Maxwell, Stephen [QADAO], LadyTempestt, lord kizzy, Benjamin Viel, Hamzat_iii, Photogee, Kenichi, RamanDeep, Kareem, Olokoji, osmium, Sucre n Spice, hogantuso",
+        "purpose": "Weekly GovWG Meeting",
+        "workingDocs": [
+          {
+            "title": "SNET Ambassadors - The Naming Thing (initial doc on naming decision)",
+            "link": "https://docs.google.com/document/d/1cFhmCL9ip8I8UoglDU1_hhpL5PMHpTVoAnNgTZjhG_k/edit?usp=sharing"
+          },
+          {
+            "title": "Ambassador Program budget planner",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945"
+          },
+          {
+            "title": "anon results",
+            "link": "https://docs.google.com/spreadsheets/d/1Zv3rTL6d8L8LriEuBcFyT-hxkMu5PDXb2wF1uZ61Zrg/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Results of the consent process for Q1 budgets: \n- 17 people took part, out of a possible 31 Core Contributors.\n- Anonymised results here https://docs.google.com/spreadsheets/d/1Zv3rTL6d8L8LriEuBcFyT-hxkMu5PDXb2wF1uZ61Zrg/edit?usp=sharing\n- There was 1 objection, saying that WG budgets should be scrutinised individually, on the grounds that some budgets (Writers, Video, Education) were unjustifiably high, so some costs should be reduced. (NOTE: for the Q1 budget decision, the form simply asked people to consent to all the budgets en bloc, or not.)\n\nThe objector also raised the issue of reserves: \"It's better we do have spare budget allocation taking advantage of the (high) AGIX price because there could be days where the price doesn't remain as high as it is.\"\n\nWe reminded ourselves of the consent process we agreed on: if anyone objects, even if they are in a minority, their objection will still be discussed and addressed; and only if the issues cannot be resolved will the consent form be re-done. The second time, the budget will pass if 80% of those responding are in agreement, so that a single objection does not derail things completely. So we agreed that yes, we do need to address the objection in a meeting, and scrutinise the budgets of Writers, Video and Education WGs. We also noted that it can be daunting to be the \"lone voice\" who stands up and objects to something that others agree with - but that nevertheless, the onus is on the objector to justify their objection.\n\nKey discussion points:\n- does the consent process generate excessive overhead? (Stephen)\n- how centralised is the process? (Stephen)\nWe noted that in the past, the budget approval process was done by a closed group of \"Ambassadors\" (about 7 people). Raising this to 31 Core Contributors inevitably brings additional overhead, but this is fundamentally a positive and decentralising move. \n\n- The burden of justifying a budget, and constant enquiries into the minutiae of whether a budget is valid, can be negative and even malicious; e.g. in Cardano's Project Catalyst, where people have been trolled with constant sealioning inquiries about their budgets. Scrutiny cannot be ongoing indefinitely, and there needs to be some onus on the objector to justify their concerns. (Stephen)\n - Perhaps WGs should have autonomy to use their budgets on whatever they think is valuable; so in future, the decision shouldn't be about picking holes in individual totals, but more about whether WGs have explained their budget and whether they have put systems in place to track whether they've spent it the way they said they would; and about whether their budgets fit the total Program budget. (Vani)\n\n- Conflict of interest: funding recipients are also the decision-makers on funding. As a structural, point-of-principle issue, there should be a treasurer role (group or individual) who does not receive any other funding, and only validates budget requests. (Stephen)\n - It would be difficult to find someone to do this, since everyone is involved with a WG in some way (Peter).\n - Since we want to take an experimental approach, we should be ready to make changes from Quarter to Quarter, and take risks and try new approaches. (Felix).\nThe meeting agreed this issue should be looked at further, and noted that it might take time to resolve. \n\n- Closed Discord channels: if the objector can't see the details of what a WG is doing because they can't see the group's Discord channels, that's not the objector's fault (Peter)\n- Workgroup autonomy: if you're not part of a WG, you don't really know what goes on in that group, so your objection might not be valid - and if you want to preserve your anonymity, there is no way forward (LadyTempestt)\n- Anonymity in decisionmaking - the person who raised the objection isn't here (Stephen)\n\n- Work quality: Victor outed himself as the objector.  Example of high costs from Writers' WG of $100 for a single article. Are there checks on the quality of such articles, or on whether they reach their target audience, and whether any engagement is authentic and not farmed? (Victor)\n- Importance of attending a WG’s meetings before objecting:  Writers’ WG has addressed all these questions in our recent meetings (LadyTempestt)\n- It’s fine to want to scrutinise the quality of each other’s work - but that needs to be a separate discussion, and should not be brought into the decision on budgets. We all have different ideas of what type of work is worthwhile or valuable - and in a decentralised ecosystem, different opinions are valid. If we are autonomous,  we should not try to enforce our ideas of valuableness by trying to withold budget from each other. (Vani)\n- What would need to change for Victor to consent? Maybe if we recognise we need to improve quality control and we created a separate initiative to look into the quality of WGs’ work? (Felix)\n- Importance of understanding a workgroup before commenting (Tuso)\n- Initially I wanted to track WG funding with KPIs as we do in Deepfunding. But I now think workgroups can justify their budgets, so I would go against my previous feeling, and consent. I plan to attend more meetings to understand how the ambassador program works (Victor)\n\nSeveral people expressed thanks to Victor for raising the issues and being prepared to break his anonymity.\n\n- Sharing info: Maybe we need to make basic information more available to newer people - a brief for each workgroup, what they take in money, what they deliver, and how that is approved and accepted. But we don’t follow the more formalised process that is used in DeepFunding - here, a more organic system has evolved. So we might never have people reviewing the milestones of each work group, because we're not at that scale, but we might take a step towards that by communicating so people can easily access that information. (Stephen)\n\n- Decentralisation vs standardisation on monitoring budgets: The current approach is a quarterly “broad sweep” approval - we don't check every single deliverable before releasing funds, it's not like milestone-based delivery. For simplicity, I prefer this approach; but getting funding should mean *some* responsibility. I would agree with a standardised way of explaining budget spending, and demonstrating where the money went. That doesn't jeopardize the decentralization too much. (Peter)\n\n- Style of reporting: Currently most groups write a narrative quarterly report. Perhaps it should be more spreadsheet-like: for each line of your budget, a short note to say how you dealt with it - whether you spent it all, and what you produced. Each work group could find their own way of formatting that information - all those different approaches might help us find something that works for everybody. (Vani)\n- I would agree with more standardised reporting:  part of the quarterly report should include a very easily understandable overview of which funds are spent, how, what the outputs are, the deliverables (Peter) \n- Quarter two budgets: Based on what we have learnt this Quarter, what would be a valid reason to approve or not approve them? Some people in the room feel it’s about work quality, but we haven't defined what we mean by “quality”; and other people don't think that's the issue at all, so we need to have that conversation. (Vani)\n\n",
+          "decisionItems": [
+            {
+              "decision": "We do need to address the objection that was raised, and scrutinise the budgets of Writers, Video and Education WGs. This will be done in a follow up meeting.",
+              "rationale": "Because the consent process we agreed on was that if anyone objects, their objection will be discussed and addressed; and only if it cannot be resolved will the budget pass on the basis of 80% of those responding being in agreement. \n\nWe agreed to do this in a follow-up meeting to give members of those WGs time to prepare to address concerns",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will at some point look further into the idea of a treasurer/budget validator role who is independent and not a recipient of WG funding.",
+              "rationale": "To resolve the potential conflict-of-interest that the decision-makers on budget issues are currently also the recipients of funding",
+              "opposing": "Not an objection, but a recognition that most people in the Program are part of one or more WGs so it would be hard to find someone who is not at all a recipient of funding.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will think and iterate further on how we report, and how we assess WGs' achievements",
+              "rationale": "Because this process has raised several ideas, including the idea that reporting could be more standardised.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Victor (the author of the only objection) withdrew his objection; so Video, Writers' and Education WGs' budgets are all accepted, and overall, the Q1 budget passes without the need for a further round of consent",
+              "rationale": "Victor has been convinced that the budgets for these WGs are justifiable.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Budget Approval; should individual workgroup budgets be scrutinised?",
+            "Details of the consent decisionmaking process ",
+            "Conflict of interest, and the idea of an independent treasurer role who isn't part of the funding application process in any other way",
+            "Anonymity in decisionmaking",
+            "Workgroup autonomy; the importance of attending a group's meetings and being aware of their achievements before objecting; and whether we should avoid bringing assessments of the value of each other's work into the conversation about budgets.",
+            "Quality control on Workgroup outputs - should we do this; if so how; and should it be related to funding decisions, or kept as somerthing separate?",
+            "Differences between DeepFunding and the Ambassador Program in terms of how budgets are tracked and reporting is done",
+            "Decentralisation vs standardisation on monitoring budgets",
+            "How should we approach Q2 budgets - what is a valid reason to approve or not approve a budget?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "consent process, consent decision making, Writers WorkGroup, Education Guild, video workgroup, workgroup autonomy, anonymity, objections, validity of objections, treasurer, conflict of interest, Reporting, Quarterly Report, Decentralization, Core Contributor, value of work",
+        "emotions": "Discursive, Thoughtful , diverse, insightful, complex"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "0c533241-45c8-46ab-bea5-4a3e6987f595": [
     {
       "workgroup": "AI Ethics WG",
@@ -38032,6 +38107,278 @@
       "tags": {
         "topicsCovered": "sNET mission and vision, inclusion, Africa, LatAm, carbon footprint, diversifying, SingularityNET Foundation, Foundation, Ambassador Program reserves, reserves, BeGIN, fishbowl interviews, interviewing, research, qualitative research, Ethics, Decentralization, AI ethics, consultative decision-making, mentorship",
         "emotions": "calm, Organised, ideas, exploratory"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "8b0331a9-5adc-4ca7-b6ca-18ee1c411dec": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-12-10",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, FroshFX",
+        "purpose": "Weekly GovWG Meeting",
+        "workingDocs": [
+          {
+            "title": "Governance calls, rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Most of the meeting was taken up with reviewing the topics still on the rolling agenda, and deciding what to cover in January. Our agreed agenda is:\n\n- Tuesday January 7th - Why did those who did not take part, not take part? Results of Peter DMing non participants. And: Does the Foundation/the decision makers fully know what the Ambassador Program does? How to make them aware? Among others: End of year report\n\n- Thurs 9th Jan: Compulsory participation in governance - yes or no (for individual Core Contributors) (for WGs)? Also - penalties for WGs for not taking part in governance, yes/no? \n\n- Tues 14th Jan: Retrospective on Q1 2025 process \n\n- Thurs 16th Jan: WG budget cap - processes around it, how to change your cap?\n\n- Tues 21st Jan: WG autonomy/ New WGs?/Outputs. This covers:\nProcess for starting new WGs? And merging WGs??? \nhow do we determine which WGs are producing “valuable” outputs - or do we? CAN there be an objective standard on this, or is it a matter of opinion?\nWG autonomy as a principle? (this links to the above, and to validity of objections). \nIncreasing numbers vs, non-increasing Program budget\nPeople’s capability and whether/how we assess it / Should WGs train people?  (already started discussion, see Governance WorkGroup Session 30th July 2024)\n\n- Thurs 23rd Jan: As above, continued\n\n- Tues 28th Jan: Self nomination to Core Contrib status - yes or no?- (was briefly discussed on 21st Nov 2024, but no consensus, so discuss again at a later date.), Must a Core Contributor have a wallet - yes or no? and Is everyone happy with Core Contributor criteria?\n\n- Thurs 30th Jan: Anonymity in the decisionmaking process - yes or no??\n\nFebruary: Looking at other decisionmaking processes besides consent - we said that we would do this in Q1, but will do it if it is agreed that we still want to. Could do it just as education rather than with a view to changing our process",
+          "actionItems": [
+            {
+              "text": "Peter to DM those who didnt take part to ask why they didn't, and if they have any feedback on the process.\n",
+              "assignee": "PeterE",
+              "dueDate": "20 December 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Peter to start a document where WGs can add suggested material for an End Of Year Report",
+              "assignee": "PeterE",
+              "dueDate": "12 December 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that our first meeting back after Christmas will be Tues 7th Jan",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We will run a retrospective session on the Q1 consent process on 14th Jan",
+              "rationale": "didn't want it to be too early in the new year, to ensure everyone is back",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided agenda topics for January - see rolling agenda doc https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing",
+              "rationale": "mainly to ensure that topics we identified during Q4 2024 but haven't yet covered, will be covered; and to ensure that topics follow on from each other in a reasonable way",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that we will differentiate Tues and Thurs meetings more clearly next year: Tues is morte about the decision-making processes, and (after January, when we already have some topics we need to cover) Thurs is for open topics suggested by people in the Agenda doc.",
+              "rationale": "mainly to ensure that we do have space for topics that come up ad-hoc",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that we will do more to encourage people to add topics to the rolling agenda:\n 1) we will mention it more often at Town Hall\n 2) we will post in the Governance Discord channel on a Monday, to say what the Tuesday meeting topic is, and to invite topics for Thursday",
+              "rationale": "To try to ensure that Thurs meetings are more responsive and open",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that Peter will DM any Core Contributors who did not take part in the budget consent process this time, to ask if they would be prepared to say why not. Any responses can then be shared and discussed in our first meeting in January.",
+              "rationale": "Because last time this was done, we did get useful replies that helped us tweak the consent process to be more welcoming",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We decided to hold a December WG Sync call this Thurs, 12th Dec",
+              "rationale": "Because we did not schedule a call for November, so it will be a long time to wait till Jan if we do not have one this month - and any later in Dec, people will probably be on holiday",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Agenda items for January",
+            "Differentiating Tues and Thurs meetings",
+            "Retrospective session on the Q1 2025 budget decision",
+            "Why some core contributors don't take part in the consent process",
+            "WG Sync call"
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "quiet, focused",
+        "topicsCovered": "participation, consent process, core contributors, agenda creation, inclusion, Workgroup sync call, holidays, Christmas, retrospective, Q1 2025 budget decision, workgroup autonomy, budget caps"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "428e7310-9b4c-4aec-bd7d-47f2ab70b2cc": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Monthly",
+        "date": "2024-12-12",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, LadyTempestt, Duke, osmium, Effiom, Gorga Siagian, CJFrankie",
+        "purpose": "Monthly WG Sync call: aiming to support inter-WG collaboration",
+        "workingDocs": [
+          {
+            "title": "WG Syncing Call: rolling agenda",
+            "link": "https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit?usp=sharing"
+          },
+          {
+            "title": "Form for general feedback on the Program",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSee0oIRpKd2I9tlqt_-QxQMK_wdZNHlmM9BqG61jWy2W8QhWw/viewform"
+          },
+          {
+            "title": "form for feedback on individual WGs",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting had a slow start, with only a few people in the call at the beginning; but eventually was quite well attended.\n\nEnd-Of-Year Feedback\nWe agreed to send out a Google Form to all workgroups, asking what they think the content of these WG Sync calls should be in future. Questions:\n1) Did you attend any of the WG Sync calls in 2024? Why/why not?\n2) What type of topics would you ideally discuss during this monthly WG Syncing call? Options:\n- Sharing best practices\n- Collaborative efforts/shared initiatives that all WGs could take part in\n- Tooling\n- Resolving conflicts between WGs\n- Resolving conflicts between individuals\n- Discussing any issues or problems with the Program as a whole\n- Addressing any responses to the standing Ambassador Program feedback forms\n- Other\n3) Which topics do you think should NOT be part of the WG Syncing call, but addressed elsewhere?\n\n\nExisting Ambassador Program feedback forms\nWe noted that there are 2 existing feedback forms - one on the Program as a whole https://docs.google.com/forms/d/e/1FAIpQLSee0oIRpKd2I9tlqt_-QxQMK_wdZNHlmM9BqG61jWy2W8QhWw/viewform, and one for specific WGs https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform. We suggested that we should check to see if they are still useful and worded in a way that is meaningful; if so, they should be monitored; and that the WG Sync call could be a good place for any issues raised to be discussed.\n\n\nWG Sync rolling agenda\nWe noted that there is a rolling agenda doc for these meetings, but it isn't getting used much; perhaps we need to publicise it more, e.g. in Town Halls and in Discord.\n\n\nAmbassador Program Reserves\nWe had a discussion about the Ambassador Program's financial reserves, and what they might be spent on. \nPeter confirmed that the Program itself does have a large reserve, which is separate from the reserves of individual WGs. We noted that there was a meeting earlier this week https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/december-2024/week-50#ai-ethics-wg to discuss the issues around the Ambassador Program attending events, which touched on whether event attendance should be paid for by using reserves; and a \"task group\" is going to meet on Friday to discuss this specifically; but there are likely other things that people might want reserves to be spent on. A quick brainstorm suggested the following:\n    - Resurrect the \"New ideas\"  budget?\n    - Training, skillsharing,  mentorship - including coaching e.g. for presenting at events and Twitter spaces? and pairing ambassadors with experts, offer one on one coaching sessions?\n    - Resurrect the podcast? Or move more towards X spaces instead?\n    - Research/interviewing people about AI-related topics?\n    - Organising our own events,as well as attending those organised by others?\n    - Make a commercial?\nWe agreed that these and other ideas will need to be discussed further.\n\n",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Peter will create a Googleform for WGs to give feedback on the WG Sync calls, and what kinds of things they should cover in future",
+              "assignee": "PeterE",
+              "dueDate": "20 December 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will send out a Google Form to all workgroups, asking what they think the content of these WG Sync calls should be in future",
+              "rationale": "becaue not all WGs attend these meetings and it would be useful to know if there are needs that are not being met",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will find out whether anyone is monitoring the 2 existing feedback forms, and whether there have been any replies",
+              "rationale": "because it has been a while since they were created",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will share and publicise the rolling Agenda more widely more, e.g. in Town Halls and in Discord.\n",
+              "rationale": "Not everyone is aware of it, and it would be good to encourage WGs to shape the agenda more",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "End-of-year feedback / Getting input from all WGs on how these calls should be in future",
+            "Existing Ambassador Program feedback forms",
+            "WG Sync rolling agenda and how to publicise it",
+            "Ambassador Program Reserves and how to spend them"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "WG Sync Call content, Reserves, Budget , events, retrospective, Google Form, feedback, mentorship, skillsharing, podcasts",
+        "emotions": "interesting, participatory, slow start, Discursive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "faddfc3d-e51a-4a2a-ba5d-bf4b9305f157": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-01",
+        "host": "CallyFromAuron",
+        "documenter": "Effiom, CallyFromAuron",
+        "peoplePresent": "CallyFromAuron, Effiom, LadyTempestt, CollyPride, advanceameyaw, Duke, guillermolucero, LordKizzy, Mikasa, Kateri, Onize, PeterE, osmium, billy",
+        "purpose": "Weekly Gov WG call",
+        "workingDocs": [
+          {
+            "title": "Q4 budgets: Objections summary Round 3",
+            "link": "https://docs.google.com/document/d/16VveeANX1ub6WQWa2uemS-0StIEXYJ2JUl7kSlhwgck/edit#heading=h.1l84d218cfbm"
+          },
+          {
+            "title": "Report for the \"Ubuntu and AI\" EventConference",
+            "link": "https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing"
+          },
+          {
+            "title": "Governance WG, tasks sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1kVTXINeOh11tz3uPWicA1aR9aZslwCQMs1hKSFzlM3s/edit?gid=0#gid=0"
+          },
+          {
+            "title": "Ambassador Program Budget Planner",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+          },
+          {
+            "title": "Q4 Consent Proposal List - Iteration 3 (Responses)",
+            "link": "https://docs.google.com/spreadsheets/d/11zZ-XFCc-vs35cK_pPsgmBPUSBeQNgU3qcB7Xv9Zr8M/edit?gid=657828461#gid=657828461"
+          },
+          {
+            "title": "Governace Memo for Budget Approval Iteration 3",
+            "link": "https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit"
+          },
+          {
+            "title": "Some ideas for new approaches to budget decision-making",
+            "link": "https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit#heading=h.beyuysuxeptu"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Guillermo's answers to the objections on LatAm Guild's budget:\n\n1) The budget is too high: Guillermo stated that this affects the entire program, since in Q3 the market price was low. Vani also noted that LatAm's budget wasn’t the highest. Guillermo ended by saying that there’s a need for a better strategy to address this.\n\n2) Concerns about overlapping with the work of other WGs: Guillermo pointed out that the issue of \"overlap\" for regional Guilds has already been discussed in a previous Governance meeting, and there is already consensus that African and LatAm Guild are complementary to the program, and that it is valid for them to do tasks like onboarding, marketing and education independently, in ways that are appropriate to their particular region; so this objection is not valid. He cited the example of African Guild's \"Ubuntu and AI\" conference was held last Friday and Saturday. Guillermo noted that in terms of operations, LatAm Guild has independent sub-groups for communication, education, etc.\n\n3) Concerns about Lack of report, budget allocation, and Transparency: Guillermo noted that LatAm's budget for Q3 was down by about $2,000 after budget fitting and the group had to still deliver with that. He said the comment about the Q2 budget being shared by 2 individuals was not valid, because how the funds were going to be disbursed was captured in the Q2 proposal; at the time the Guild had only 2 founding members but before the start of Q3, the number had increased and the new members who joined and delivered on task were rewarded.\n\nPeter pointed out that this last concern could have been refuted by the quarterly report, as it seems to be recurring. Guillermo noted that the activities of the Guild are on-chain and are verifiable on the Treasury Dashboard, also stating that there are summaries that report the activities. In response to the concern on transparency, Vani noted that since the objector was evidently able to see how funds were disbursed (i.e. that only 2 people were rewarded in Q2 and more were in Q3), surely that demonstrates that things are transparent? \n\nGuillermo then highlighted some of the impact and contributions the LatAm Guild has made to the Program. He announced the Hackathon with the ASI collaboration initiative. Colleen appreciated the Hackathon initiative and the work being done by the Guild. \n\nGuillermo ended by saying that it is important not to overlook these concerns, because we get to learn and he believes in this process. Peter appreciated Guillermo for addressing these concerns, as the objector would get clarity from listening to his perspective.\n\n\nDiscussion on objections and the consent process\nVani suggested that instead of discussing the objections about specific WGs, which can become quite confrontational, we should pull some of the concerns and questions raised and discuss them in general. Peter agreed that is the way to go about it.\nShould we continue with this existing consent process? Vani noted that she doesn’t think people are convinced we should.  LadyTempestt expressed her issues with the current consent process, and how it takes time and can get confrontational. \nVani noted there is a need to have a conversation about what a metric is, as this has been a recurring concern.\n\nLadyTempestt asked about the expectation of Writers' WG coming back with a reduction to their budget - they have done so, but it doesn't appear to have affected the current lowering percentage for budget-fitting.  Peter pointed out that there is an error in the sheet which could explain theis - it will be corrected.\n\nFinalizing on the Task list for Governance WG in Q3\nVani shared the spreadsheet. She noted that some tasks don’t have a price allocated to them, and some, we don't know who did them. She asked people to have a look at it, especially those who had done a task in the WG in Q3.\n\nRetrospective on the entire Consent process\nVani suggested a retrospective on the entire Consent process experiment overall, across all the time we have been using it, in addition to the normal retrospective on how the process went this Quarter. This was agreed; and we agreed that such a session will need some planning.  Effiom noted the feedback gotten during the session would inform the context of whether it’s a retrospective of the entire process or just this quarter. ",
+          "actionItems": [
+            {
+              "text": "Vani, Peter, Onize, LadyTempestt, and Guillermo will plan the  retrospective session on the Consent process as a whole",
+              "assignee": "CallyFromAuron, PeterE, Onize, LadyTempestt, guillermolucero",
+              "dueDate": "8 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Tevo to check and update any errors in the Quarterly budget Planner sheet",
+              "assignee": "Tevo",
+              "dueDate": "8 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Those who have done a task in Governance WG in Q3 which does not already have an agreed price, should suggest pricing in the Tasks sheet",
+              "assignee": "all",
+              "dueDate": "8 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that GitHub PBL WG's budget has passed",
+              "rationale": "One objector didn’t give any reason, hence, there are 3 objectors, 10 consenters, and 2 abstentions for the WG.\n\nOne of the 3 objections is invalid, as the objector said, “I don’t think this WG is harmful”, and based on the process, a valid objection has to identify harm to the program.\n\nSo GitHub PBL has passed at 14% objectors, which is under the 20% threshold.\n",
+              "opposing": "We noted that 2 of the 3 objections highlighted the potential of collaboration with Education Guild, so perhaps this is a concern that should be addressed? \n\nBut as we didn’t do a deep dive into the objections raised for other WGs that have been approved, we agreed we shouldn’t do that with GitHub PBL.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that LatAm Guild's budget has passed. \n",
+              "rationale": "One objector didn’t give any reason, hence there were 3 Objectors, 4 abstentions, 9 Consenters.\nThis gives a total of 18.75% objectors, which is under the 20% threshold, so the budget passes. But for clarity, Guillermo nevertheless went through the objections and answered them - see \"Narrative\" above.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that instead of discussing the objections about specific WGs, in future we should pull together the main concerns and questions into a doc, and discuss them in general terms.",
+              "rationale": "Because discussing objections to individual WGs can become quite confrontational; and there are several issues that have been raised for several WGs and so could be discussed in general terms",
+              "opposing": "Note that we did not agree an action item for anyone to create such a doc, so this will need to be raised again in a later meeting.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed on a retrospective on Tues 8th Oct about the Consent process as a whole, collating info from Quarterly retrospectives and asking people what they think the overall effects have been.",
+              "rationale": "Because Consent decisionmaking was originally adopted as an experiment; so experimental method suggests we should gather data to assess what the results have been overall. Since we have now been using this decisionmaking methodology for several Quarters, now is a good time to look at this.",
+              "opposing": "none.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Completion of budget approval process for GitHub PBL WG and LatAm Guild",
+            "Discussion on objections and the consent process",
+            "Finalizing on the Task list for Governance WG in Q3",
+            "Planning for a retrospective on the entire Consent process over several Quarters"
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "interesting, Deliberative, contributive, decisive",
+        "topicsCovered": "consent decision making, LatAm Guild, GitHub PBL workgroup, budget approval, objections, confrontational, regional guilds, retrospective, Writers WorkGroup, lowering percentage, Budget fitting, transparency, Documentation, budget concerns"
       },
       "type": "Custom",
       "noSummaryGiven": false,
