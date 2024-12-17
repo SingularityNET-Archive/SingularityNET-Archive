@@ -37743,26 +37743,6 @@
       "canceledSummary": false
     }
   ],
-  "2a8c5f41-b9fd-4c08-8d43-a6fe89bb5fb1": [
-    {
-      "username": "callyfromauron",
-      "meeting_id": "2a8c5f41-b9fd-4c08-8d43-a6fe89bb5fb1",
-      "confirmed": false,
-      "date": "2024-12-05T00:00:00",
-      "updated_at": "2024-12-06T12:21:10.088+00:00",
-      "workgroup": "Governance Workgroup",
-      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
-      "meetingInfo": {
-        "name": "Weekly",
-        "date": "2024-12-05"
-      },
-      "agendaItems": [],
-      "tags": {},
-      "type": "Custom",
-      "noSummaryGiven": false,
-      "canceledSummary": true
-    }
-  ],
   "d0b70808-9a49-44c2-95da-8a0903100a22": [
     {
       "workgroup": "Governance Workgroup",
