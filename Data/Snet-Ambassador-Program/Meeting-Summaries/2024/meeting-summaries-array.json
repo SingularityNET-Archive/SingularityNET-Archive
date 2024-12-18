@@ -37546,5 +37546,131 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-15",
+      "host": "PeterE",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "PeterE, LadyTempestt, CallyFromAuron, CollyPride, esewilliams, guillermolucero, Sucre n Spice, LordKizzy, SubZero, Malik, AndrewBen, Kateri, kareem, kenichi, Ayo, eveline trinité, Effiom",
+      "purpose": "Weekly Gov WG meeting",
+      "workingDocs": [
+        {
+          "title": "Retrospectives from the past",
+          "link": "https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit"
+        },
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Vani gave an overview of consent decisionmaking and how it's supposed to work:\n- There needs to be an actual proposal to consent or object to.\n- Consent = absence of actual objections, not perfect agreement - so \"Safe to try\" and \"good enough for now\", not complete agreement. \n- Need to ask objectors \"What would need to change to get your consent?\" - so rather than people trying to mold the proposal to fit their ideal, they just talk about what they specifically object to, and think would be actually harmful. \n- Decisionmaking is supposed to be in the hands of those who are closest to the issue; so it's \"how does it harm *you*?\"\n- In line with WG autonomy (as raised by Duke in the Q4 retrospective, and several other people over time), objections shouldn't be about what *you* think a WG should be doing - it should be that you are responding whether what the WG wants to do is \"safe to try”, OR if you think it would cause harm, then \"what harm would it cause? And what would have to change for you to consent?” \n- Vani suggested we have gone away from that, and somehow turned the process into a vote, not a consent process, especially with the “80% approval and 20% objections\" rule. People are not responding as though we asked “Is it safe to try?”, but are giving lengthy analyses of how WGs should operate or should have been operating; and maybe that is what is making the consent process so difficult this time. She noted that most of us are educated to make decisions by voting and are less familiar with consent, or consensus, or consultative processes.\n\nOur use of a consent process was originally an experiment.  Experiments should be documented and evaluated. \n \nWe went through insights from past retrospectives (Q2, Q3, Q4): see https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit and added some of the issues raised to our Rolling Agenda doc:\n- should someone have a wallet to become a contributor? \n- Self nomination to become a core contributor? \n- Guidelines to what a “valid objection” is \n- Workgroup Autonomy (how autonomous should WG budgets be?)\nVani suggested it might be useful to look back at documentation of the past meetings where we addressed these issues, and pull together some of the key points raised, to help the discussion in future meetings. Ayo was of the same sentiment.\n\nOn the point of “getting feedback through DMs from core contributors on why they don't take part in governance decisions,” Peter said it is a good idea to continue doing that.\n\nPeter pointed out that having an outline on what a report should look like or context setting via this suggestion; “Find a way to avoid the verbosity and over-complexity of some reports and budgets e.g. an outline of what to include, though not an actual template”  would be a good idea seeing as we do not have that in place now.\n\nWe discussed including \"participation in the the budget consent process\" as part of the “participation” that maintains someone's core contributor status; and how we would record and track this, since it doesn't appear on Dework (usually, someone's level of participation is calculated via tasks on Dework). We have said in the past that we would record participation in the consent process onchain (just the fact that someone completed a consent form, but not the details of whether they consented or objected), but it's unclear if this has been done yet. Peter said that he thinks it's a good idea to acknowledge and register participation in the governance process.\n\nGuillermo shared an experience on the decision-making process of what happens in the R&D Guild: a milestone-style process. If someone is funded in previous rounds, and they deliver, let's say that's closure, milestone one. If they want to participate in the new community voting for new development, they will need to start from the beginning. And that way they go through the check and balance of the re-roll. Then the community goes through the process of consenting or not. He added that maybe there is something we can learn from this.\n\nWe basically glanced through all the rest of suggestions in the Retrospectives doc with no full discussion on it.\n",
+        "actionItems": [
+          {
+            "text": "Vani to add the main topics of discussion from the \"retrospective insights\" doc to the rolling agenda document and share them in the governance WG channel in the next few days.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "17 October 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to search previous meeting summaries where we discussed these issues in the past, and try to create some notes on what has previously been said",
+            "assignee": "CallyFromAuron",
+            "dueDate": "22 October 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to discuss everything open for discussion from the \"retrospective insights\" doc in future governance calls, by adding the topics to the Rolling Agenda",
+            "rationale": "So that we don't lose the issues that were raised",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "retrospectives, core contributors, consent decision making, consent process, Q2 Q3 and Q4 retrospective insights, R&D guild, participation",
+      "emotions": "quiet, contributive, insightful"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-05",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "PeterE, CallyFromAuron, LadyTempestt, Duke, LordKizzy, Sucre n Spice, AshleyDawn, CollyPride",
+      "purpose": "Weekly Open Governance session",
+      "workingDocs": [
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        },
+        {
+          "title": "A.I Sandbox/Think-tank Q4 Report",
+          "link": "https://docs.google.com/document/d/1LEGDMIj7fmLvTsCy0rbvop5TMC-kZt-AYCZIlU4Cavw/edit?usp=sharing"
+        },
+        {
+          "title": "Q1 Budget Consent Process - objections",
+          "link": "https://docs.google.com/document/d/1RsIiorAun9Hkn9Dq26TMq1J5M7vkIPHHCuRnjVrqTk0/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "AI Sandbox/Think-Tank is the only remaining Workgroup with unresolved objections to their budget.\n\nWe discussed the objections, and the responses that the workgroup has made in this doc https://docs.google.com/document/d/1RsIiorAun9Hkn9Dq26TMq1J5M7vkIPHHCuRnjVrqTk0/edit?usp=sharing.\n\nThe objectors were not present in the meeting, so the objections were discussed based on the information given in the consent forms. We noted that if those who object are not present, this means they must accept that the decision will be made by those who do attend.\n\nKey points raised:\n - the comment (not an objection) about the group's GitHub Board not being under the Ambassador Program github organisation: accepted as a valid question, and the group will consider moving it; but as it's not an objection as such, it doesn't affect the budget decision.\n - the meeting could not see any similarity between what AI Sandbox does, and what R&D does, so could not understand the objection that the two groups are doing the same thing.\n - AI Sandbox's work *is* a form of community engagement and community contribution, so the objection that there is a lack of these things is inaccurate.\n - several of the objections seem to be based on a misunderstanding of what the group is trying to do - for example, it doesn't aim to focus on assessing tools built by the community, but on tools (often commercial tools) that might be used by the community.\n- To the objection that AI developers and specialists should be invited to be involved in Sandbox sessions, LordKizzy (speaking on behalf of the workgroup) noted that although this would be good, it could incur costs beyond the group's budget. However, Peter offered to ask around at the Foundation to see if there are people who would be prepared to get involved for no cost.\n\nThe meeting also noted that several of the comments are not really objections, but suggestions. Since no specific harm was identified, and no solid reason not to approve the budget was given, these points are not valid as objections. The person suggesting these things should progress them, if they want to do so, by joining the workgroup and working on the issues they have raised.\n\nOverall, the meeting agreed that the points raised have been sufficiently answered, so the group's budget has passed.\n\n",
+        "actionItems": [
+          {
+            "text": "Peter to ask around at the Foundation for specialists and developers who might be able to join Sandbox sessions, to fulfil the suggestion that \"Absence of AI specialists, AGI developers, or credible panelists reduces the sandbox’s value\".",
+            "assignee": "PeterE",
+            "dueDate": "14 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "LordKizzy to look into the possibility of moving the group’s GitHub Board to the Ambassador Program github organisation",
+            "assignee": "LordKizzy",
+            "dueDate": "14 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "AI Sandbox/Think Tank's budget has passed",
+            "rationale": "Because the objections raised in the consent form are either not valid as objections, or have been adequately answered by the workgroup.",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Reaching agreement on AI Sandbox/Think Tank's Q1 2025 budget."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Decision Making Process, consent decision making, Q1 2025 budget, Q4 2024 quarterly report, AI Sandbox/Think Tank, validity of objections, experts, AI developers, SingularityNET Foundation, R&D guild, github board",
+      "emotions": "decisive, focused, thorough, calm"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
