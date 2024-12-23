@@ -38692,5 +38692,145 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "63d80b67-ce05-4c1c-b4ef-8fecda98569f": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-08-15",
+        "host": "PeterE",
+        "documenter": "hogantuso, CallyFromAuron",
+        "peoplePresent": "guillermolucero, Photogee, Olokoji, Onize, Advanceameyaw, Cjfrankie, Effiom, Eric Davies, Merryman, Sucre n Spice, CallyFromAuron, Kateri, PeterE, hogantuso, LadyTempestt, LordKizzy",
+        "purpose": "Weekly Open Governance meeting",
+        "workingDocs": [
+          {
+            "title": "Ambassador Program core contributors",
+            "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Update from Peter on the results of the DM he sent to core contributors who didn’t take part in Q3 consent process, asking for their reasons for not participating.  \n- 4 people didn’t have time\n- 1 was not interested (not much we can do)\n- 5 didn’t know about the process (hopefully will be addressed by improved publicity).\n- 2 didn’t know they were core contributors (hopefully will be addressed by improved publicity).\nWe noted that we need to ensure our publicity goes out in time, and often; and that the consent form and the context-setting doc for Q4 should include links to the Core Contributor list, to ensure that people know.\n\nWe noted that, as Tevo is curremtly away, calculating the next iteration of core contributors will have to be done in early September.\n\nToken price fluctuation - we noted that current rise will reduce WG budget losses during the past weeks - but the impossibility of predicting AGIX's future value.\n\nPayments cadence - would it be more effective for WGs to submit funding requests quarterly, since they have quarterly budgets, so it might be clearer to process payments all in one go at the end of a quarter?\nNo - we noted that weekly fund requests can mitigate the effects of token price fluctuations, because some will be at a lower exchange rate and others at a higher rate, so it balances out.\n\nCan WG reserves be used to cover a shortfall due to eg. a drop in token price? We noted that not all work groups have reserves. Also some WG reserves are for work that has already been assigned, and thus can’t be used for anything else.\n\nShould WGs be prioritising maintaining the WG itself (meetings, documentation, etc); or project-based work? We recognised that this will vary from workgroup to workgroup, but it might affect what kinds of budgets are submitted for Q4. We suggested creating a doc to pull together ideas on how to prioritise and how to reduce your budget in times of low token price.\n\nShould WGs be given their agreed budget at the start of a quarter, in tokens, and manage token price fluctuations themselves? This would require each WG to have its own multi-sig wallet. We noted that this idea has been discussed in the past, and was rejected for several reasons; the meeting made no decision on it.\n\nGuillermo is finalising infographics on \n1) the deadline for proposal and budget submission for Q4\n2) encouraging Core Contributors to take part in the consent process. \nWe agreed on wording for these - we noted that it needs to say \"consent process\" rather than \"vote\" or \"consensus\", and that it should talk about being part of decision-making/governance. Of the options Guillermo suggested, the meeting liked the slogan \"\"Your Voice Shapes the Future!\"\nAlso discussed contrast ratios, and making sure the infographic is legible for those with poorer contrast vision",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Vani to update context-setting doc to apply to Q4 decision\n",
+              "dueDate": "20 August 2024",
+              "assignee": "CallyFromAuron"
+            },
+            {
+              "text": "Everyone to finalise the timing for the decision-making process for Q4 budget decision",
+              "assignee": "all",
+              "dueDate": "15 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Peter to DM core contributors who didn’t take part in Q3 consent process to ask why",
+              "assignee": "PeterE",
+              "dueDate": "15 August 2024",
+              "status": "done"
+            },
+            {
+              "text": "Guillermo to finalise and share infographics on budget submission dates",
+              "assignee": "guillermolucero",
+              "dueDate": "22 August 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Guillermo to finalise and share infographic inviting Core Contributors to take part in the consent process -  he will include in the text of the accompanying post a link to the list of core contributors. \n\nWill therefore need to be done *after* the new iteration of Core Contributors has been calculated, so probably early Sept - but needs to be done in time for start of the consent process on Sept 9th.",
+              "assignee": "guillermolucero",
+              "dueDate": "5 September 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We can't decide fully on the budget reserve issues yet ",
+              "rationale": "because we need info from Treasury on exactly what reserves we have. This will not be possible until September, after holidays.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            " Why some Core Contributors don't take part in the consent process",
+            "Token price fluctuation and its effects on WG budgets",
+            "Cadence for WG funding requests - should it be done quarterly rather than weekly?",
+            "Can /should WGs use their reserves to cover a deficit due to a drop in token price?",
+            "Priorities for WGs if low token price continues in Q4",
+            "Giving WGs their budget in tokens to a multi-sig wallet?",
+            "Wording and design for infographics about thre Q4 budget decision"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AGIX price, timeline, budget decision timeline, Q4 2024 budgets, Q3 2024 quarterly reports, core contributors, deadlines, participation, publicity, community engagement, token price fluctuation, budget reserve, reserves, WG reserves, Program reserves, Infographics, consent process, why people don't take part, budget management, multi-sig wallet, accessible design",
+        "emotions": "Thoughtful , progressive, interactive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "4f3972e2-21d1-466b-818d-2767713bbd4f": [
+    {
+      "workgroup": "Writers Workgroup",
+      "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-04",
+        "host": "Kenichi",
+        "documenter": "Cjfrankie ",
+        "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, AJ, Eric Davies, TheFreysDeFi, AshleyDawn",
+        "purpose": "Weekly meeting of the writer's workgroup.",
+        "otherMediaLink": "https://discord.com/channels/909843832491896832/1150014268125753374/1291718787711897642",
+        "workingDocs": [
+          {
+            "title": "WWG Q1 Proposal",
+            "link": "https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kenichi shared his concerns about the recent discussion in the Treasury Discord channel about WWG's Q2 budget reserves (see https://discord.com/channels/909843832491896832/1150014268125753374/1291718787711897642)\n\nKenichi highlighted the agenda, and we went over the action items from the last meeting and ticked them off. \n\nFollowing a discussion at last week’s meeting, Gorga spoke about writing an article on “Rejuve Token 2049 Event.” Cool stuff, but Kenichi spoke about the fact that Jasmine Smith’s session wasn’t so lengthy. He suggested that a Twitter thread would be best to portray the event. Gorga agreed to make the thread and send it to Mikasa after it’s done.\n\nSeptember Points System: Unfortunately, the points system rewards for September didn’t go out because the WWG ran out of funds. Kenichi tells the WG not to fret. The reward can still happen next Tuesday. The floor was opened for suggestions — Lady Tempestt, Cjfrankie, Gorga, and Mikasa insisted that the reward go out regardless because we did a lot of work in September. Kenichi added that we can cap the distribution to $500 and have September rewards go out from the Q4 points system allocation of $2000+. We also discussed the importance of having a personal wallet in Q1 2025.  \n\nZealy and Trivia: Just so you know, Zealy has been scrapped! and has been moved to be the responsibility of  Marketing Guild. Meaning no more Zealy reviews for the Scribes. Kenichi also stated that the weekly Friday trivia will now be run on a biweekly basis due to lack of budget. He hinted that the first Friday and last Friday of each month would be a good time slot for the trial. The first Friday will be dedicated to WWG, and the last Friday will be dedicated to Marketing guild.\n\nWWG TEST: As a matter of finality, we briefly talked about how to review the pending Writers' Workgroup membership tests taken by the aspirants. Lady Tempestt asked why we are still reviewing tests, given that the WWG is closed to new people. Kenichi explained these were pending submissions from last quarter and should be attended to! Then, we can talk about how to close test submissions for Q4 and perhaps open up again in Q1 2025.\n",
+          "actionItems": [
+            {
+              "text": "Kenichi to chase the Treasury WG regarding the outstanding payments in the WWG.\n",
+              "assignee": "Kenichi",
+              "dueDate": "11 October 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We have decided that the points system payments for September would go out regardless. \n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We also agreed that the points system would be capped at $500 monthly since we’re removing part of the Q4 allocation to reward September operations.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We have also decided that the weekly Friday trivia will now be held biweekly “first Friday and last Friday of each month.” This decision was made due to the WWG Q4 budget size.  ",
+              "rationale": "This decision was made given the fact that our budget won't be able to foot some deliverables. So, the Zealy schedule had to change. ",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "quiet, calm, informative",
+        "topicsCovered": "Marketing Guild, Trivia sessions, Points system, Q4 2024 budget, Discord, Zealy, Workgroup reserves, reserves, Treasury"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
