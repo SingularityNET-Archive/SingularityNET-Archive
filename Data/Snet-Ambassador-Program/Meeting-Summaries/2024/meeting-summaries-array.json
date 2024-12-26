@@ -38002,5 +38002,158 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-11",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Mikasa, SubZero, Malik, Evelyn Robert, Eric Davis, AshleyDawn, TheFreysDeFi",
+      "purpose": "Weekly meeting of the writer's workgroup, centered on the Q4 proposed budget.",
+      "workingDocs": [
+        {
+          "title": "🧵 Twitter Threads Suggestions",
+          "link": "https://docs.google.com/document/d/151H-_93hmL5Y59q_aQOxhkZ4-NpDM1Y6C7AfyHzNSQQ/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Dework task updates: highlighting the people with a pending task. \n\nCjfrankie shared his Twitter thread suggestions document. Kevin Frey piqued interest in the recently released X space “Longevity, Biotech, & Web3: How DeSci is Shaping the World.” He commended Rejuve for their work, and mentioned that he had close communication with Rejuve to see how biotech could help women Olympians in 2028.\n\nQ4 Budget: Mikasa, Lady Tempestt, Gorga and Cjfrankie set the Thames on fire as we tackled discussions around the Q4 budget. We discussed splitting the budget to stablecoin, and keeping the remaining half in the foundation token (AGIX). We’re still skeptical about doing so if it’s not within the Treasury management. Cjfrankie is tasked to chase André or Effiom to get more insights into the swapping of AGIX to stablecoin, and if it eventually becomes a reality, will the treasury hold it? \n\nFollowing that, we discussed how to reward the outstanding tasks from September 2024. We also decided that those tasks won’t go unrewarded. So, the treasury should offset all Q3 pending payments with the Q4 allocation. There was a conversation about creating a multi-signature wallet to properly oversee our budget and know what’s coming in and going out. On the flip side, we agreed that Treasury would have access to this wallet's seed phrase, and it would have 5 signatories. Mikasa also highlighted some of the key reasons why AGIX's price dropped lately. \n\nMore on the Budget: Kenichi also shared a brighter outlook on the budget by discussing how a bot can help simplify the multi-sig. Using the treasury bot, for example, he hinted that the bot can ping the wallet signers, give updates on transactions right inside the WWG channel, and more!!",
+        "actionItems": [
+          {
+            "text": "Cjfrankie to chase André concerning the pending Q3 tasks that haven’t been paid out! Letting him know that the treasury can offset the cost from the proposed Q4 budget.\n\n",
+            "assignee": "Cjfrankie ",
+            "dueDate": "11 October 2024",
+            "status": "done"
+          },
+          {
+            "text": "Cjfrankie to ask André about the swapping of AGIX to stablecoins and see if the treasury can hold it for the WWG.",
+            "assignee": "Cjfrankie ",
+            "dueDate": "11 October 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to tell the Treasury to offset Q3 pending tasks with the Q4 budget.",
+            "rationale": "We couldn't just sit back and watch workgroup members go unpaid after all the effort they put in.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "short, discursive , forward-thinking",
+      "topicsCovered": "Treasury, Multisig, wallet, Pending rewards , Stablecoins , AGIX, Q4 2024 budget, offsetting budget, AGIX price"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-18",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Mikasa, Evelyn Robert, Eric Davis, AshleyDawn",
+      "purpose": "Weekly meeting of the writers' workgroup.",
+      "otherMediaLink": "https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups",
+      "workingDocs": [
+        {
+          "title": "🧵 Twitter Threads Suggestions",
+          "link": "https://docs.google.com/document/d/151H-_93hmL5Y59q_aQOxhkZ4-NpDM1Y6C7AfyHzNSQQ/edit"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off: The weekly meeting of the WWG kicked off strong as Lady Tempestt took to the floor to express her grievance over the Twitter thread task having been assigned to Gorga, even though she had shown interest in taking it up! Kenichi then apologized for not keeping an eye on the channel.\n\nWe began officially as we ticked off the action items from the last meeting: following a discussion with Tevo and the Treasury, Kenichi is waiting for the Treasury to update their dashboard so the WWG will know how much we have left and how we can move forward. Lady Tempestt shared insider tips in the last open Treasury guild call, which featured legal issues with SNET foundation and tax implications that might arise from converting AGIX to stablecoins like CUSD or Djed, seeing as the treasury system is not an exchange of any sort. \n\nMore on budget: Our conversation had a smooth leap forward as we discussed more on budget and how we can distribute tasks fairly amongst the Scribblers given the latent fact that some Scribblers do not get the chance to write very often. Lady Tempestt’s comments were positive; she added that WWG should stop onboarding new people and only take on important drafts such as niche-based articles. She also suggested  that we should pre-plan our content and assign them to interested Scribblers at the start of the month or quarter, so every Scribbler gets a chance to do a task, and that this doesn't mean that Scribblers still can't suggest additional articles. Kenichi liked the idea and said he's been looking forward to us doing this through the Notion board.\n\nLooking ahead: Cjfrankie led a discussion on the monthly Substack newsletter. He pointed out how the Substack newsletter has lagged significantly and how WWG is not keeping up with the publication timeline due to the late submission of summaries. For this reason, the WG should remove it from our deliverables. Cjfrankie proposed the idea of something called “Ecosystem Digest\" - a short newsletter that contains links to recent AI news, events, and meetups in the ecosystem. Not just links to recent updates: there’d be a brief write-up to accompany those links. He suggested that WWG should give it a trial to see how it turns out. Additionally, we had discussions about how we can start leveraging Notion to organize and map out content and how the Scribblers can start using it because currently, only the Scribes have permission.\n\nKenichi suggested having a unified content calendar, to help Video WG, Translators, Martketing Guild and WWG work together.",
+        "actionItems": [
+          {
+            "text": "Kenichi to draft a working document for the Scribblers regarding the Gitbook update.\n",
+            "assignee": "Kenichi",
+            "dueDate": "24 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided to pause the monthly Substack newsletter and then try working on the ecosystem digest.\n",
+            "rationale": "We noticed that the were many lapses in that regard! So, we decided to switch gears. The Ecosystem Digest will cover the latest news in the ecosystem, which keeps people abreast of the latest updates.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed to update the WWG page on the Ambassafor GitBook, so people can keep abreast of the latest WWG updates. In this regard, Kenichi will draft something for scribblers, and then we will work towards it.\n",
+            "rationale": "The last we checked, the page wasn't updated and we want to do so.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Treasury, Substack, Twitter threads, Ecosystem digest , Workgroup signposting, AGIX, Stablecoins, Notion, content calendar, drafts, Ambassador GitBook, Translation WG, video WG, Marketing WG, fair allocation of tasks, task allocation, fairness",
+      "emotions": "optimistic, discursive ,  forward-thinking, collorative , informative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-25",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, AJ, Evelyn Robert, Eric Davis, AJ, AshleyDawn, advanceameyaw",
+      "purpose": "Weekly meeting of the writers' workgroup.",
+      "workingDocs": [
+        {
+          "title": "DRAFT: Budget Proposals Sheet: Q1, 2025 Writers Workgroup ",
+          "link": "https://docs.google.com/spreadsheets/d/1XDAPSG9y4U8nhQWQgrok3Z6pG9vsbfYPIMD7gISBJo0/edit?usp=sharing"
+        },
+        {
+          "title": "RE-q4 Budget Sheet: Q4 Writers Workgroup ",
+          "link": "https://docs.google.com/spreadsheets/d/11QohtEjrDGo-kPPOas3V2BAh7dmp6XEqzMoI9CqxncU/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off: The weekly meeting of the WWG started at 3:10 PM with a warm welcome greeting from Kenichi. Immediately, we surfed the Dework board to check out some tasks in progress, and then Kenichi mentioned that he would assign deadlines to the DWeb3 series threads. He also started a conversation around the ecosystem page and the community page, noting that no article has been published on the community page since the 1st of October. Momentarily, he hinted that we should have an end-of-the-year recap draft, covering the entire achievement and milestones of the WWG in a year. He also talked about the successful Twin Protocol token launch on Uniswap, and suggested that the WWG should write something to publicize it.\n\nBudget: There is now less money in the proposed Q4 budget, because some Q3 tasks were paid from the Q4 budget. In light of this, Kenichi said that he’ll fit the Q4 budget. This discussion led to Kenichi’s suggestion to shift from USD-based payments to AGIX-based payments. Lady Tempestt commented that AGIX-based payments will result in members being underpaid. Kenichi quickly responded that the WWG is not shifting its focus to AGIX-based rewards; rather, rewards will be sent based on AGIX calculations, since AGIX’s price isn’t stable! This way, we can streamline our budget spending so it doesn’t affect the workgroup, which can make us run out of funds.\n\nOpen Discussion: Cjfrankie and Kenichi started a thrilling conversation on how the ambassador program can explore new things to leapfrog to greater heights. We shared some potential ideas on possible initiatives that can motivate the foundation, which can lead to funding. Due to some recent events, the African Guild, LatAm, and four articles from the WWG were spotlighted by the SNET Foundation, so we should give them more reasons to support the ambassador program. We also shed light on how some Web3 communities are doing great things out",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "As the year wraps up, we look forward to Q1 2025. In light of such, we shall begin discussions about the Q1 2025 budget on the 1st of November.",
+            "rationale": "We want to speed things up so won't lag.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Ecosystem page, community page, Q1 2025, AGIX, Twin protocol , Dework, Tasks, DWeb3 series, AGIX price, budgeting in AGIX, Drafts, threads, SingularityNET Foundation, Q1 2025 budget, African guild, LatAm, Budget fitting, token price, token price instability",
+      "emotions": "interesting, discursive , informative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
