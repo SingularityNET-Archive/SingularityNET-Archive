@@ -36443,6 +36443,55 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-01",
+      "host": "Zalfred",
+      "documenter": "Hogantuso",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, Slate, lord kizzy, devon",
+      "purpose": "The meeting focused on task updates and problems affecting the workgroup.",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "move approved video to content sheet after the call ",
+            "assignee": "Zalfred",
+            "status": "todo"
+          },
+          {
+            "text": "coming up with the new document for the video workgroup updates on the clips \"HOW TO GO ABOUT IT\"",
+            "assignee": "rojo.",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "To decrease the number of long and increase the number of shorts videos as we are running through a tight budget."
+          }
+        ],
+        "discussionPoints": [
+          "A brief mention from Zalfred, as he will be facilitating the session also mentioned the Vrewiev team approved two long videos and three long videos as still in the review process and lord kizzy to",
+          "Rojo gave insight into the social media management role, going through the usual posts from the town halls and some shorts. He mentions working on the mixed platform to allow short clips to be posted. There was a problem with the TikTok posting, as it would be done manually from this device.",
+          "Interaction discussions were made on the Abuon tus video and looking forward to updating the video document in the position, caption, main visual, and arrangement of shorts for a better clip ",
+          "Lord Kizzy gave an update regarding the amination video for those who'd work on the animation for this month as we'd be going for more shorts this month. looking into the engagements in these videos to come up with new plans and monthly plans on the subscription creating a mail for the five-man members making the editing and reaching out to him privately if you need access to the platform as it's a sensitive piece of information for non-members.  ",
+          "There were deliberations on the Bie weekly video from Lilcupcake hearing her point of view and coming to an understanding in keeping up with the good work "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Partnership, Budget , Proposal",
+      "emotions": "productive, informative, Organised, Deliberative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
@@ -36563,6 +36612,67 @@
     "tags": {
       "topicsCovered": "Ethics, ai ethics in recordkeeping, AI ethics, Q1 2025 budget, q4 2024 report, DeepFunding, Deepfunding Town Hall, Governance, documentation skills, Budget fitting, fairness, barriers to good documentation, controlled vocabulary, dropdown, Discord names, open source, open source ethos, RAG retrieval process, markdown, JSON, dashboard, archives search, Collaboration, Governance documentation, Knowledge management across the singularityNET ecosystem",
       "emotions": "short, Discursive, complex issues, wide ranging, joining the dots, retrospective"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-08",
+      "host": "Zalfred",
+      "documenter": "Hogantuso",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, Slate, lord kizzy, devon",
+      "purpose": "The meeting focused on task updates and task distribution",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "TASK MANAGER ",
+            "assignee": "Hogantuso",
+            "status": "todo"
+          },
+          {
+            "text": "FACILITATOR",
+            "assignee": "Malik.",
+            "status": "todo"
+          },
+          {
+            "text": "TOWN HALL SUMMARY ",
+            "assignee": "Slate",
+            "status": "todo"
+          },
+          {
+            "text": "TOWN HALL EDIT ",
+            "assignee": "SubZero",
+            "status": "todo"
+          },
+          {
+            "text": "MEETING SUMMARY ",
+            "assignee": "Zalfred",
+            "status": "todo"
+          },
+          {
+            "text": "REVIEW TEAM ",
+            "assignee": "DevonHardy, lilycupcake",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "A brief mention from Zalfred, as he will be facilitating the session also mentioned and welcomed all members to the meeting and opened the floor for some information from lord Kizzy.",
+          "Lord Kizzy extensively advised all members to join in meetings coming up with their contributions to the governance meeting and wherever decisions are made to keep the workgroup in the active. \nAfter which we had the task assignment for the month. "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Partnership, Budget , Task Assignment",
+      "emotions": "productive, informative, Organised, Thoughtful , repetitive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -36846,6 +36956,402 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-15",
+      "host": "Malik",
+      "documenter": "Zalfred",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, lord kizzy, killy, osmium, oep",
+      "purpose": "The meeting focused on adjusting to The Tier system \n-Budget fitting\n-Q4 Report\n-Q1 2025 Budget proposal",
+      "workingDocs": [
+        {
+          "title": "https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120",
+          "link": "https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY_NgMp_Vo48dHrkEpr_bCM0KfL7x7z4k/edit?gid=371334120#gid=371334120"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Publicity of the mastodon account across our various Socials",
+            "status": "todo"
+          },
+          {
+            "text": "Drawing a pull to decide how we'd bas our reward system (AGIX or USD)",
+            "assignee": "Malik",
+            "status": "todo"
+          },
+          {
+            "text": "Prepping up the Q4 Report",
+            "assignee": "LordKizzy, Zalfred",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Tier system",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Budget Fitting",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Q4 Report and Q1 2025 Budget Proposal",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Task Manager Update (Tuso)\nA brief Update from Tuso as he expressed his excitement on getting the role. He added that he hasn’t done much yet, besides setting up and bracing up for the month.\n\nSocial Management Update (Rojo)\n-Updates from our the Social Media Manager. Rojo Announced that we’ve been posting out our regular videos and a couples shorts and we’re doing pretty well on that.\n\n-Rojo affirmed that the analytics have been quite stable although not much growth in the past days.\n-Rojo added that there were no interactions on our mastodon Account so far. He suggested that we need to publicize our Mastodon account to the SNET community so we can get more interactions and push our contents further . \n",
+          "Budget fitting and the Tier system \n\n-Lord Kizzy Announced that the video workgroup will have to rule out a lot to fit into the new tier system \n\n-He added that all recurring task will face a 15% cut , ruling out 10 short videos and 4 long videos and lastly , they'd be no room for a new member in the coming Quarter. \n\n-Deliberations around the number of videos to be produced ( both long and shorts)\n\n-Deliberations on what stays and what’s to be  ruled out. \n\n-Deliberations on changing the work group reward system:\n\n-Malik suggested that our reward system be shifted to AGIX and not USD anymore.\n-Rojo affirmed to this adding that our work load could be rewarded hourly in Agix. \n \n-Many other concerns were raised concerning the implication of changing the work group reward system.\n-Tuso and a few others opposed the motion of basing the rewarding system on Agix,stating reasons as to why that should not stand. Some of these reason are stated below:\n1. The fluctuations of Agix prices\n2. ⁠The video work Group might end up outrunning our allocations.\n3. ⁠more work, less reward factor and others.\n\n-Lord kizzy and Malik stressed that the either ways, the allocation wouldn’t be enough to cover the VWG operations.\n\n-Malik opined that we could try rewarding our task both in USD and AGIX. Lord Kizzy commented on the complexities that will follow. He added that it would complicate things to the task manager and Perry he treasury guild. \n\n-Although an inconclusive discussion, we resolved at drawing a pull on the VWG channel to decide the fate of the house. \n\n\n",
+          "\nClarity on Osmium ASI video proposal \n\nDeliberations on accepting Osmium's Video proposal\n\nKizzy added that due to the budget constraints, it might be an uphill battle at the moment.\nThe house agreed that Osmium's content be shared to the Work Group for a review and that will determine his rewards. "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget fitting, Reward system, Q4 report, Tier system",
+      "emotions": "productive, informative, Organised, Thoughtful , repetitive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-22",
+      "host": "Malik",
+      "documenter": "Zalfred",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, lilycupcake, AndrewBen, malik, lord kizzy, killy, oep, AJ, devon",
+      "purpose": "The sole purpose of this meeting was to go over the Q1 budget fitting, and basically make drastic changes on the workgroup operation system in order to adjust to the new Tier system and lastly, discussion on the Quarterly report.",
+      "workingDocs": [
+        {
+          "title": "Q1 budget proposal ",
+          "link": "https://docs.google.com/spreadsheets/d/1YPdZrdupz2N2r3cM-g3LGsxs6X3wH_dU7IOYuITbc8I/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly report",
+          "link": "https://docs.google.com/document/d/1E9JLe-T7pZ0nYL6alh2fpBVSN355vtzaQ7jqGRIw4Ow/edit?usp=sharing"
+        },
+        {
+          "title": "Mastoon Account",
+          "link": "https://mastodon.social/@SNET_Ambassador"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Kizzy to restructure the Q1 budget proposal ",
+            "status": "todo"
+          },
+          {
+            "text": "Regarding the drastic Reduction in video production:\nwe resolved at creating 2 short clips per week( one short from scratch and one short clip) \nAnd for long videos, only 11vidoes per quarter. Also We ruled out onboarding new members for Q1 2025 to help us mitigate our allocation.",
+            "status": "todo"
+          },
+          {
+            "text": "scraping out 3 videos in order to accept Osmium's proposal.",
+            "assignee": "osmium",
+            "status": "todo"
+          },
+          {
+            "text": "All video work group members to hop on and interact on our mastodon account which awaiting the community's engagement. ",
+            "status": "todo"
+          },
+          {
+            "text": "we agreed to collaborate with the marketing guild and the writers work group",
+            "status": "todo"
+          },
+          {
+            "text": "we agreed to try out spin off projections",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Concerning the collaboration between these 3 work groups, Kizzy explained that This new approach involves the zealy participants creating quality contents( tweets,  memes, etc) on their respective social media profile which will not just aid engagement on our social, but help broaden the community publicity. \nHe added that This collaboration will also help propel publicity across the 3 work group as they all  have equal access to publish their contents and additionally, Looking at the current budget constraint faced by all work groups, This ideal is a perfect solution to the problem of less engagement on our social media platforms and also it's budget friendly as the allocation for this collaboration will be shared between all three work groups. This promises to be a lucrative zealy programmed judging from the benefits that will come from it too. \n"
+          },
+          {
+            "decision": "A 300usd allocation for this collaboration from all three work group could help achieve this goal as this would reduce the load for each of these work groups.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Rojo offered a 25% cut from his role to help propel this idea. Then other recurring task could be reduced further to sum up what's left.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Lord Kizzy suggested that in the coming Q1, we could try to reach out to spin off projects and try to make collaborations with them, create contents for them and get rewards.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Final draft of the Quarterly Report",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "further Deliberation Osmium video proposal",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "UPADTE FROM THE TASK MANAGER\nTuso provided a quick update on the number of tasks created within the week which included creating tasks for video submissions.",
+          "UPDATE FROM THE REVIEW TEAM\nDevon reported  that a couple videos were still under the review processes and that some videos that were ready to be posted out. He hinted the task manager to reach out to the editors as some summitted videos needed further corrections and further editing.",
+          "\nLord Kizzy did a long presentation but he kicked off by announcing that he was able to get the video work group’s allocation to 11,000 Agix that’s 500 Agix extra to help propel the activities of the work group.\n\nLord kizzy announced that the Quarterly Report was ready.The report contains vital information and links to all the videos produced in the quarter. And also the analytics have been included. Kizzy urged that each member of the work group should hop on our mastodon account and create interactions while we await further interactions from the community\n",
+          "BUDGET FITTING\nLord Kizzy kicked off by cautioning the task manager to clarify the numbers of videos produced because we’ve exceeded our allocation for clips. And for long videos, we’ve got barely 6-7 slots left.\n\nKizzy reminded the house of the memo sent out earlier regarding the conversion rate. Thus, all proposal must be at 0.55 Agix which is going to  lesser the amount we’re getting.\nHe added that the Q1 budget proposal is calculated at 20% cut on all recurring tasks and for Quality control, the 20% cut comes after the number of videos reviewed .\nKizzy announced that due to the budget constraints, the number of video productions will be reduced drastically. For shorts, we’ve resolved at 2clips per week( one short from scratch and one short clip) \nAnd for long videos, only 11 videos per quarter. \n\nKizzy ceased the opportunity to speak on the new approach to the zealy programmed. He proposed a collaboration between the marketing guild, the writers work group and the video work group. A new initiative which involved getting tractions from within the ambassador program and outside the ambassador program."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget Request, Quarterly Report, Collaboration, Budget fitting, Budget cuts",
+      "emotions": "Friendly, Collaborative, Thoughtful , productive, Session items reviewing moved slowly as we had disagreements in many items and required discussions"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-08",
+      "host": "CJFrankie",
+      "documenter": "CJFrankie",
+      "peoplePresent": "cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, Ashley Coventry, Evelyn Robert, Kateri Nick, devon",
+      "purpose": "Weekly meeting of the writer's workgroup ",
+      "otherMediaLink": "https://hackmd.io/z_rYIPn6RPSlKyLGcuaiSw",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off:  The weekly WWG meeting started at 3:10 PM with a welcome greeting from Cjfrankie. We began by reviewing the action items from the last meeting, including Kenichi's publication of the November 2nd ecosystem digest on Substack. Cjfrankie encouraged everyone to read, subscribe, and engage with the newsletter if they haven't already. \n\nDework Task Update: At the meeting, members like Lady Tempestt, Gorga, and Cjfrankie had ongoing tasks assigned on Dework. Lady Tempestt delegated her draft, 'Apespaces 🍌: What is Twin Protocol AI,' to Mikasa. Cjfrankie and Gorga have pending tasks and will make their submissions soon. Mikasa also added that she’d be expecting the ecosystem digest draft from Cjfrankie by tomorrow.\n\nExploring Web3 Publishing Platforms:  Following a discussion on Medium page monetization, we decided to explore more Web3 publishing platforms. To this end, we have identified some potential tools, including Mirror, Lens, Paragraph, Arweave, and Warpcast. Cjfrankie highlighted the advantages of monetizing on Web3 platforms, such as decentralized revenue streams through NFT sales, direct ownership and control over content and revenue, community building via tokenization, and enhanced privacy and security. Additionally, we aim to learn more about these platforms, so Cjfrankie assigned some WG members to conduct research and present their findings in the next meeting. This research will cover each tool's functionality, how DAOs can use it, and pricing. Cjfrankie chose Mirror, Mikasa showed interest in Lens, Emmanuel Isaac selected Arweave, Love was assigned Paragraph, and Evelyn took Warpcast.\n\nQ1 Budget and Q4 Report: Lady Tempestt sought clarification on the Q4 budget and Q4 report preparation status, Mikasa cleared the air by saying that the Q1 is drafted already while the Q4 report is in progress. Lady Tempestt insisted that we share the DRAFTs in the WWG channel just so everyone can see it and leave comments. \n\nContent Calendar: As a matter of finality, the meeting featured Kateri, who kicked off a discussion about getting a list of email addresses from the WWG, these emails will be given access to the content calendar so posts across the social will be unified, time bound, and reach a wider audience. We called it a day and we ended the meeting at 3:30 PM.\n",
+        "actionItems": [
+          {
+            "status": "done",
+            "text": "Kenichi is to finalize the Q4 report before the next meeting, as we are only a few weeks from the deadline.",
+            "assignee": "kenichi",
+            "dueDate": "15 November 2024"
+          },
+          {
+            "text": "Mikasa will follow up with Cjfrankie to discuss the unification of the content calendar from the Marketing Guild.\n",
+            "assignee": "CJFrankie, Mikasa",
+            "dueDate": "15 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Cjfrankie to prepare the ecosystem digest for November 9th, 2024 and then forward it to Kenichi and Mikasa",
+            "assignee": "CJFrankie",
+            "dueDate": "9 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We've decided to explore more Web3 publishing platforms to unlock additional revenue streams and strengthen our connection with the community.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "learningPoints": [
+          "Advantages of monetizing on Web3 publishing platforms.\n"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Q4 report, Web3 publishing platforms, medium, ecosystem digest, partnership program, paragraph, mirror, lens, Substack",
+      "emotions": "short"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-15",
+      "host": "CJFrankie",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "cjfrankie, LadyTempestt, Gorga Siagian, Emmanuel Issac, Mikasa, AJ, Ashley Coventry, Evelyn Robert, LordKizzy, devon, OEP",
+      "purpose": "Weekly meeting of the writer's workgroup ",
+      "otherMediaLink": "https://open.substack.com/pub/snetambassadorprogram/p/singularitynet-ecosystem-digest-november-197?r=3lw4ip&utm_medium=ios",
+      "workingDocs": [
+        {
+          "title": "Lens Presentation ",
+          "link": "https://docs.google.com/document/d/13akxlCysoVskjzMITTl8rK3WnJwTWGUkhi78VF_scUo/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off:  The weekly WWG meeting started at 3:15 PM with a welcome greeting from Cjfrankie. We began by reviewing the action items from the last meeting, including the publication of the November 9 ecosystem digest on Substack. Cjfrankie encouraged everyone to read, subscribe, and engage with the newsletter if they haven't already. \n\nRoblox Walkthrough: The meeting featured the likes of LordKizzy, OEP, and Devon—the gamers guild members. According to LordKizzy, the gamers' guild members are in the WWG meeting to ask questions about the workgroup! Additionally, LordKizzy and Devon will join forces to develop a workspace for the WWG on Roblox Studios. With screen sharing, LordKizzy showcased the video workgroup modules and sections that have been built on Roblox; he also had some interaction with some of the WG members on the platform; the presentation was paramount and interesting indeed! It gave us an insider perspective of how the platform works and how the WWG will be built on Roblox. \n\nMore on Roblox: Immediately, Devon took to the floor to ask the workgroup some questions like: \n\n‪What does the writer's workgroup do? Cjfrankie describes the WWG as a group of people passionate about writing who bring clarity to complex topics. We often use an 'explain like I’m five' (ELI5) approach in our articles to make them easier to understand.\n\n‪What platforms do we use to publish our work? We make use of platforms like Medium and Substack.\n\n‪What is our onboarding process like? Cjfrankie described the WWG onboarding process as a test-based process, where aspirants gain access through a simple text document. The scribblers (writers) then review the test, and if it meets the threshold, the aspirant receives the scribbler tag—that’s it!\n\n‪Does the WWG pay for attending meetings? Cjfrankie clarified that scribblers earn points for attending meetings. Additionally, participating in WG activities like note-taking and suggesting articles also allows Scribblers to accumulate points. These points are calculated at the end of the month, and the monetary value is then sent as a reward to the Scribbler.\n\nWho is the WWG lead, and is there a form of hierarchy in the workgroup? ‘Kenichi, of course, said Cjfrankie. ‘The workgroup doesn’t have a strict hierarchy. After the lead, we have Scribes and Scribblers; no one is ruled over by another. The roles simply distinguish our responsibilities. For instance, Scribes have higher responsibilities and recurring tasks, while a Scribbler may suggest articles, write articles, and attend meetings, Cjfrankie added.\"\n\nHow do you want the WWG logo to be designed? Cjfrankie suggested that we have a logo of a book with a floating pen, which basically describes what the workgroup does. Gorga also mentioned that having a library would make a lot of sense, too. Last but certainly not least, we listed all the active members of the workgroup, namely Kenichi, Lady Tempestt, Mikasa, Cjfrankie, Ashley, Gorga, Ines, Devon, Slate, AJ, Emmanuel Isaac, Evelyn, and Eric Davis. \n\nExploring Web3 Publishing Platforms: After the Gamers Guild completed their presentation, we had a short session on Web3 publishing tools. First, Emmanuel Isaac presented on Arweave, Mikasa shared documentation on Lens, Cjfrankie discussed Mirror, and Evelyn showcased Warpcast. The purpose of this research is to determine the next platform we should try out. We want to understand how they work, how DAOs can use them, and their pricing structures.\n",
+        "actionItems": [
+          {
+            "text": "Kenichi is to finalize the Q4 report before the next meeting, as we are only a few weeks from the deadline.",
+            "assignee": "kenichi",
+            "dueDate": "22 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Mikasa will follow up with Cjfrankie to discuss the unification of the content calendar from the Marketing Guild.\n",
+            "assignee": "Mikasa",
+            "dueDate": "22 November 2024",
+            "status": "done"
+          }
+        ],
+        "learningPoints": [
+          "Mirror, Lens, Warpcast, and Arweave as Web3 publishing platforms for DAOs to take publishing to the next level.\n",
+          "Roblox Studio is used for creating, designing, and scripting interactive 3D games and experiences within the Roblox platform.\n"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Web3 publishing platforms , medium, Ecosystem digest, Mirror, warpcast, Roblox studios , Video workgroup, Scribes , Scribblers, Points system, Arweave",
+      "emotions": "engaging, insightful, Welcoming, informative, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-29",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, cjfrankie, Gorga Siagian, Emmanuel Issac, Ines, Mikasa, Devon Hardy",
+      "purpose": "Weekly meeting of the writer's workgroup ",
+      "workingDocs": [
+        {
+          "title": "Lens Presentation ",
+          "link": "https://docs.google.com/document/d/13akxlCysoVskjzMITTl8rK3WnJwTWGUkhi78VF_scUo/edit"
+        },
+        {
+          "title": "mirror",
+          "link": "https://docs.google.com/document/d/1Klol2iAxgAhhdFUp2XSbZljo7WpuL5hc3wCwrgxwRfw/edit"
+        },
+        {
+          "title": "Arweave",
+          "link": "https://docs.google.com/document/d/10IWixMEKoRPMQ1M0CiGvDX3IsXUgm7A8hy3XV3ZIuqE/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off: The writers' workgroup's weekly meeting started about 15 minutes past 3 o’clock. Kenichi welcomed everyone as usual and highlighted the reason we couldn’t join the call earlier—the marketing guild call is ongoing! \n\nExploring Web3 Publishing Platforms:  Momentarily, we delved into how we can move forward with our publication. Cjfrankie shared some of the research documents from the last two meetings. And we talked about how we can expand. Then Ines discussed getting some graphics for the recent article she wrote “The Consciousness Explosion,” which is around 19 minutes long. Kenichi added that he would edit the draft and schedule it for publication, while Gorga volunteered to make some graphics for the draft. \n\nBudget Cap: Before now, we had so many views for Q1 2025, however, there’s a limit to what we can do—we hope AGIX pumps. This led to Gorga asking about his proposed Indonesian page in Q3. Kenichi clears the air by saying that we’re at the 10,500 AGIX threshold and we have removed items on our Q1 budget so that we don’t come out short. He added that new initiatives might not be able to come in, including the Indonesian page. He also discussed the importance of getting a separate wallet to enable the WWG to swap the budget to stables and reward writers with AGIX instead of USD-based rewards. Nonetheless, he added that the page can be created now, but it will have little attention. \n\nTwitter Premium: Kenichi hinted that the writers' workgroup cannot get metrics from the Spanish page and the Pidgin page because we do not have any premium plans. He added that any page that will increase 1000 followers on X (formerly Twitter) will get a premium account, and the allocation for managing these pages will be different. \n\nMonthly Stats: As we say goodbye to November 2024, we reflect on our journey since the beginning of the quarter. We glanced through all the social media accounts (X, Substack, Medium) to see how they performed in November, and the numbers and stats were quite impressive. We also revisited our Q4 report to see if there are any changes we can make. \n\nSingularityNET Ambassador community: Kenichi introduced the new SNET community launched on X. He hinted that the page is up and running, and he encouraged everyone to join the community including the social media managers, so he can make them moderators. From a bird’s-eye view, the community is built to unite, empower, and celebrate SNET ambassadors by connecting and sharing knowledge. Lastly, he added that there should be more interaction on X by replying to questions from community members. As a matter of finality, Kenichi said that the points system rewards for November would go out next week on Tuesday, and he urges every writer to check the boxes.\n",
+        "actionItems": [
+          {
+            "text": "Kenichi to create some tasks on dework \n",
+            "assignee": "kenichi",
+            "dueDate": "29 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Gorga to make graphics for Ines’s draft ",
+            "assignee": "Gorga Siagian",
+            "dueDate": "6 December 2024",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided that any page that will amass 1000 followers on X (formerly Twitter) will get a premium account, and the allocation for managing these pages will be different."
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Web3 publishing platforms , Q1 2024 budget, Budget caps, Twitter premium, Indonesian page, medium, Q4 report, SingularityNET Ambassador community , Monthly stats, Points system"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-29",
+      "host": "Malik",
+      "documenter": "Zalfred",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, AndrewBen, malik, lord kizzy, killy, oep, devon, osmium, Slate",
+      "purpose": "The sole purpose of this meeting was to discuss the activities of the video work and possibly, get an alternative social media automation tool. Secondly, To resolve misunderstandings that transpired in the work group and lastly, find possible Solutions to the issue of uploading Large files."
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Rojo to compress the Town Hall Video Edit Templates ",
+            "assignee": "Rojo",
+            "status": "todo"
+          },
+          {
+            "text": "\nRojo to reach out to one of the affected party to try and resolve the underling dispute",
+            "assignee": "Rojo",
+            "status": "todo"
+          },
+          {
+            "text": "Town Hall video Editors to edit and upload these high priority videos on time",
+            "assignee": "Slate, SubZero",
+            "status": "todo"
+          },
+          {
+            "text": "Tuso to Review  Malik’s approved video project",
+            "assignee": "hogantuso",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Milik suggested that zaps would be a great automation tool for scheduling and automatically posting out our Town Hall Video edits on time",
+            "opposing": "Rojo added that there are quite a few limitations to zaps ( an automation tool) as the software is limited by large file size . \n\nRojo suggested that the Town Hall video editors could edit and upload Town Hall videos as fast as possible and on the context of large video sizes, he added that compressing these videos will help  mitigate the issue of large video sizes. \nHe added that sometimes our Town Hall video sizes are estimated around 5GB and so, compressing these videos will be a great idea",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Concerns were raised about The video quality as Rojo reaffirmed that compressing these videos will not have any negative effect on the video quality.",
+            "rationale": "As the work group is quite aware that quality visual content is our top priority, Rojo added that compressing the background picture or templates of the Town Hall video before editing the zoom video into the template will solve this problem.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Resolving the dispute or misunderstanding that transpired in the work group the previous week.",
+            "rationale": "It was sensed that it was simply a case of slight misunderstandings and misinformation between affected parties. ",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "\nUpdate from Tuso Our social Media Manager : Tuso gave a quick update on the  various tasks He assigned to  different members in the previous week covering some video submissions, etc.\n\n",
+          "Update from Rojo our Social media manager: Rojo gave a brief update on the activities on our Social media platforms stating that he posted out our regular videos . He also addressed the issues of a missing Town Hall video and lastly, he addressed the issue of late Town Hall Video submissions.",
+          "Alternative social media automation tool and possible Solutions to the issue of Large files",
+          "Resolving a misunderstanding or dispute that transpired in the work group \n"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Town Hall Videos, video sizes, automated social media",
+      "emotions": "Casual, Thoughtful , repetitive, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
@@ -37035,6 +37541,74 @@
       "topicsCovered": "Decision Making Process, consent decision making, Governance sandbox, Core Contributor, decision making tools, governance tools, tool testing, citizenOS, colony.io, moderator workgroup, new workgroups, Process for agreeing new workgroups, Q2 2024 budget, budget approval process",
       "emotions": "speedy , concise, friendly "
     },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-06",
+      "host": "Malik",
+      "documenter": "Zalfred",
+      "peoplePresent": "SubZero, Zalfred, Rojo, hogantuso, AndrewBen, malik, lord kizzy, killy, devon, osmium, Slate",
+      "purpose": "The meeting focused on weekly updates and tasks distribution",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "SOCIAL MEDIA MANAGER",
+            "assignee": "AndrewBen",
+            "status": "todo"
+          },
+          {
+            "text": "TASK MANAGER",
+            "assignee": "Malik",
+            "status": "todo"
+          },
+          {
+            "text": "MEETING FACILITATION",
+            "assignee": "Zalfred",
+            "status": "todo"
+          },
+          {
+            "text": "MEETING DOCUMENTATION",
+            "assignee": "LordKizzy",
+            "status": "todo"
+          },
+          {
+            "text": "TOWN HALL VIDEO EDIT",
+            "assignee": "devon",
+            "status": "todo"
+          },
+          {
+            "text": "TOWN HALL SUMMARY EDIT",
+            "assignee": "hogantuso",
+            "status": "todo"
+          },
+          {
+            "text": "REVIEW TEAM",
+            "assignee": "killy, SubZero",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Concerning the need for a momentary social media manager, Andrew Ben emerged as one who'd take up the task. ",
+            "opposing": "No oppositions as Andrew Ben is a senior member and qualified to take up the task."
+          }
+        ],
+        "discussionPoints": [
+          "UPADTE FROM THE TASK MANAGER\nA quick update from tuso on various tasks assigned within the week.",
+          "Update from the Social Media manager adding that he'd be off for a few weeks. Offering a special training for qualified and interested persons who'd like to take up the task. "
+        ]
+      }
+    ],
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
@@ -37548,6 +38122,52 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-13",
+      "host": "Zalfred",
+      "documenter": "LordKizzy",
+      "peoplePresent": "SubZero, Zalfred, AndrewBen, malik, lord kizzy, killy, frosh",
+      "purpose": "The meeting focused on weekly updates and tasks distribution",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Zalfred to create review for the video suggestions ",
+            "assignee": "Zalfred",
+            "status": "todo",
+            "dueDate": "20 December 2024"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to take a holiday from this call to return on the 10th of January 2025",
+            "rationale": "The workgroup activities will be on hold but content creation will still continue "
+          }
+        ],
+        "discussionPoints": [
+          "UPADTE FROM THE TASK MANAGER\nA quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress ",
+          "Update from the Social Media manager, Andrew Ben noted that he had undergone the training with Rojo and is currently catching up to speed on the activities ",
+          "Town hall updates: Zalfred gave the updates from the previous town hall, also pointing out that most Workgroups are currently on holidays. ",
+          "Holiday and Video creation updates: Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday from this call and to return on the 10th of January, he also noted that the workgroup will still keep creating contents even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts",
+          "Introduction of new member: there was a new attendee in the room that was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Video Edit, Holidays",
+      "emotions": "Friendly, speedy , Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -37599,6 +38219,165 @@
     "tags": {
       "topicsCovered": "retrospectives, core contributors, consent decision making, consent process, Q2 Q3 and Q4 retrospective insights, R&D guild, participation",
       "emotions": "quiet, contributive, insightful"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Guild",
+    "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-12-16",
+      "host": "Tevo",
+      "documenter": "Tevo, CallyFromAuron",
+      "peoplePresent": "effiom, tevo, SubZero, CallyFromAuron",
+      "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+      "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764607062092588&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Policy Submission Form (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250"
+        },
+        {
+          "title": "Treasury Policy Feedback (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+        },
+        {
+          "title": "Some possible approaches to budget fitting",
+          "link": "https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/"
+        },
+        {
+          "title": "Q4 Consent (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+        },
+        {
+          "title": "Ratify Treasury Policy - Slow Start",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on Q4 budgets",
+          "link": "https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1"
+        },
+        {
+          "title": "Treasury Guild Proposal Q1 2025",
+          "link": "https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/edit?tab=t.0#heading=h.9t5jkakh8028"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "agenda": "Guild Management",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Effiom to include hours to Dework Tasks",
+            "assignee": "Effiom",
+            "status": "todo"
+          },
+          {
+            "text": "Check up with Onize to learn how much she spent on drafting Treasury Proposal",
+            "assignee": "Onize",
+            "status": "todo"
+          },
+          {
+            "text": "Tevo to draft meeting Summary and upload in summary tool.",
+            "assignee": "Tevo",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to review and publish in Discord",
+            "assignee": "CallyFromAuron",
+            "status": "todo"
+          },
+          {
+            "text": "Tevo to update Core Contributors in Discord",
+            "assignee": "Tevo",
+            "status": "todo"
+          },
+          {
+            "text": "Tevo to update Treasury Manager Configuration to automatically calculate AGIX rewards based on task points",
+            "assignee": "Tevo",
+            "status": "todo"
+          },
+          {
+            "text": "Draft Treasury Guild Quarter 1 Report",
+            "status": "todo"
+          },
+          {
+            "text": "Draft Treasury Guild Q2 Proposal",
+            "status": "todo"
+          },
+          {
+            "text": "Andre to update Quarter 1 2025 Budgets on Dashboard",
+            "assignee": "André",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Treasury Guild will move to fixed AGIX Ratio rewards in Quarter 1",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Microsoft License costs (up to 3) will be taken from the support activity budget line",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Notice! In Quarter 2, The Treasury Operators start to meet bi-weekly",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Continue using the Meeting Summary rotation model that we started to experiment in Q4",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Tevo can continue supporting the Meeting Preparations and coordination",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "The Ambassador Program Q1 Budgets are decided and approved.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Reviewed Dework Tasks",
+          "Should we move to fixed AGIX rewards?",
+          "What are the upsides and downsides of fixed AGIX rewards?",
+          "How do we approach planning the next Quarter's Treasury Guild Sessions?",
+          "What are the main topics of the next Quarter's Treasury Guild Sessions?",
+          "[Treasury Guild Calendar on Miro Board] (https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601622292432&cot=14)",
+          "Who should be responsible for Q1 Meeting preparations?",
+          "Checked Ambassador Program Q1 Budgets"
+        ]
+      },
+      {
+        "agenda": "Ambassador Program Reserves",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Coordinate with Treasury Automation WG to improve calculations of reserves and have better overview of it in the dashboard.",
+            "assignee": "Tevo",
+            "status": "todo"
+          },
+          {
+            "text": "Discuss the use of reserves in the next Town Hall on 7th Jan 2025, and in Governance WG; ensure everyone understands the current situation before asking for opinions on changing it",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "How are reserves calculated? What is “Program reserves” and what is “WG reserves”?",
+          "Do WorkGroup reserves get clawed back? - before 2023 it was done automatically and currently nothing in place for this",
+          "How long should we wait for workgroups to use the leftover funds each WG is collecting? Should there even be a time limit?",
+          "How flexible should budgets be - can WGs reallocate unspent funds to activities they need to do?",
+          "Do reserves get clawed back, and if so, how and when? How should this be decided? e.g. a consent process to all Core Contributors?"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Quarter 1, Reporting, Quarter 2, Proposal, Budget , Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserve, Fixed AGIX Rewards, Rewards"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -38151,6 +38930,561 @@
     "tags": {
       "topicsCovered": "Budget , Ecosystem page, community page, Q1 2025, AGIX, Twin protocol , Dework, Tasks, DWeb3 series, AGIX price, budgeting in AGIX, Drafts, threads, SingularityNET Foundation, Q1 2025 budget, African guild, LatAm, Budget fitting, token price, token price instability",
       "emotions": "interesting, discursive , informative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Archives Workgroup",
+    "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+    "meetingInfo": {
+      "name": "Monthly",
+      "date": "2024-12-04",
+      "host": "Stephen [QADAO]",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], PeterE, AshleyDawn, Sucre n Spice, Onize",
+      "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+      "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+      "workingDocs": [
+        {
+          "title": "SNET Archive AI features (draft of possible features an AI tool might have)",
+          "link": "https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing"
+        },
+        {
+          "title": "Docs management tool",
+          "link": "https://snet-doc-manager.netlify.app/#"
+        },
+        {
+          "title": "New Summary Tool Features",
+          "link": "https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing"
+        },
+        {
+          "title": "Archives Dashboard ",
+          "link": "https://archives-dashboard.netlify.app"
+        },
+        {
+          "title": "Q1 2025 budget",
+          "link": "https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing"
+        },
+        {
+          "title": "Q4 2024 quarterly report for Archives WG",
+          "link": "https://docs.google.com/document/d/1XDezIhuovjDfsyAZ-kA97Ox_WOHphXDjS_nhlvoLkNo/edit?usp=sharing"
+        },
+        {
+          "title": "Q1 budget consent results anonymized",
+          "link": "https://docs.google.com/spreadsheets/d/1n83tAT9F9fO7sG3mbr3hcbJmTCrShhV024bXAa-aVA4/edit?usp=sharing"
+        },
+        {
+          "title": "GitHub Issue for this meeting",
+          "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/221"
+        },
+        {
+          "title": "Archive names (a list of the name that people are most commonly known by in the Archives)",
+          "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Stephen presenting the \"Open-source paradigm\" work at a TH - this was done on 3rd December  https://youtu.be/iXsVeA5B7ao?si=_qW9xhC43TbapYxD",
+            "assignee": "Stephen [QADAO]",
+            "dueDate": "3 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani to check through Budget issues from previous Quarters (such as https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/73 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/131), which we keep open until all issues that are costed in that quarter are closed, and ensure that they can be moved to \"Done\".",
+            "assignee": "CallyFromAuron",
+            "dueDate": "21 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani to start a draft Quarterly Report for this Quarter, and post it in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/214 for comments",
+            "assignee": "CallyFromAuron",
+            "dueDate": "14 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani to draft Q1 budget, and post in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/218 for comments and suggestions",
+            "assignee": "CallyFromAuron",
+            "dueDate": "14 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?\n\nand discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/",
+            "assignee": "CallyFromAuron",
+            "dueDate": "8 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to add the tasks in the Q1 2025 budget to the GitHub Board",
+            "assignee": "CallyFromAuron",
+            "dueDate": "8 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "André or Sucre to update the Ambassador Calendar to add the correct dates of Archives WG meetings in Q1 2024 (8th Jan, 5th Feb, 5th March)",
+            "assignee": "André, Sucre n Spice",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "André has implemented a controlled vocab for people's names in the Archives, based on Vani's \"Archive Names\" list https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing\n\nHe plans to write some code to enable us to go through old meeting summaries and corrrect any incorrect names (i.e. where someone has been recorded under a different name than the one that is usually used for them).\n\nNew names can be added when creating a meeting summary, but they will not be added to the controlled vocab until they have been approved in an Archives meeting. We will add a standing task on the Board for this, to ensure we check each meeting.\n",
+            "rationale": "To resolve a barrier to good documentation (documenters didn't always know what someone's Discord name was, so \"Discord name = Archives name\" was not working), and ensure people are discoverable in the Archives.",
+            "opposing": "none",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Q1 2025 Budget:\nWe noted that our Q1 2025 budget has been approved. We agreed that tasks that have been agreed for Q1 2025 will be added as Issues on our GutHub board.\n\nWe also noted that the new \"budget cap\" process has worked well - it seems to have speeded up the consent process, and also, by removing the need for budget fitting, it has removed the problems we noted in our last meeting (i.e. incentivising workgroups to submit higher budgets than they need, in anticipation of budget fitting).  \n",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We noted that in the end, we were unable to include in our Q1 2025 budget an item to support collaboration outside the Ambassador Program: it would have taken us over our budget cap, although we had identified a need for it. So we note that we should try to include it in Q2 2025.",
+            "rationale": "to enable us to capture material from other areas of the ecosystem, and have a more wide-ranging Archives that demonstrates the links and connections between the Ambassador Program and other areas of the ecosystem.",
+            "opposing": "None as such, although it might be difficult to do this comprehensively and still keep to a reasonable budget amount. It might be more about outreach to different parts of the ecosystem to see how we can support them with recordkeeping.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed that our first meeting in Jan will be Weds 8th Jan 2025",
+            "rationale": "Technically it should be the first Weds in Jan - but that's New Year's Day. Other meetings in Q1 *will* be the first Weds - so Weds 5th Feb and Weds 5th March.",
+            "opposing": "none",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "There has been a shift in direction on our work on a RAG retrieval process, after Stephen reviewed Ubio's work (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/224 ). Stephen is aiming to structure the work as an autodidactic/self-learning approach, almost like a course. We have been questioning what we expect to use generative models *for*, and what we expect them to do; and looking at using (human) data analysis and data mining *before* we apply an LLM. Standard augmentation is usually about applying a **context** - so, what contextual constraints do we want to put on our use of a generative AI model in the context of the Archives? We need to be aware of where the data is structured and where it is unstructured (i.e. free text in meeting summaries), and look at how to structure data in a more constrained way (we note that JSON uses a \"tree\" structure, which has some parallels with the hierarchical structure of a traditional archival catalogue; and we can also see parallels with the approach of a knowledge graph database). Eventually we may use LLMs to help create semantic queries/prompts against an SQL database - so a hybrid of JSON/SQL rather than an actual knowledge graph.\n\nThis might also have implications for the redesign of the Summary Tool, in terms of how much of the data in a meeting summary is structured (and in what ways) and how much is free text. \n\nSee also, updates in the relevant issues at https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/225 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/222 ",
+            "rationale": "Stephen's work has shown that simply throwing large text corpora at a generative AI model tends to produce hallucinations and inaccuracies. ",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Summary tool redesign - in the light of Stephen's work above, we noted that in the new version of the Tool, rather than the current approach of several different summary templates, we might want all summaries to use the same template style as Treasury meetings, where actions and decisions are connected to each agenda item.\n\nWe discussed at length how to disambiguate summaries from summary detail, and constraining the \"rambling\" narratives which we see in some meeting summaries. ",
+            "rationale": "Aiming to minimise the amount of free text, and structure where free text is used.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Summary tool redesign: possibility of linking/integrating summaries with GitHub pproject boards?",
+            "rationale": "because more and more WGs are starting to manage themselves via a GitHub Board, so the detail on an agenda item will be in the relevant Issue, and shouldn't need to be repeated in a summary - but how do we ensure that this is integrated and searchable in the Archives?",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "André's tool development work for November https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/217 has included building the new Archives dashboard https://archives-dashboard.netlify.app\n\nIt is working, despite a couple of minor bugs.",
+            "rationale": "It enables searches, particularly of decisions - interesting in a governance context to see which WGs are making decisions that affect everyone, and where decisions across WGs might vary. Could help us keep abreast of when contradictory decisions are made in different meetings.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We noted that Sucre has completed her update of the Ambassador GitBook for Q4 2024 - see https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups \n\nShe will update the relevant Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/215, then it can be closed and paid.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "LLMs, LLM development, Q1 2025 budget, budget caps, meeting summary tool, RAG retrieval process, archive names, controlled vocabularies, Budget fitting, Collaboration, spin-offs, Knowledge management across the singularityNET ecosystem, archives dashboard, narratives, concise summaries, good meeting summaries, Governance, Decision Making Process, decision tracking, autodidact, self-learning, data mining, data analysis, generative AI models, data structure, archives cataloguing, JSON, SQL, structured and unstructured data, hallucination, fabrication, education, learning, open source, open source ethos, knowledge graph, summary template, github board, DeepFunding",
+      "emotions": "small, in-depth, Discursive, exploratory"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-01",
+      "host": "Kenichi",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Kenichi, cjfrankie, LadyTempestt, Gorga Siagian, Mikasa, Evelyn Robert, Nebula, advanceameyaw, TheFreysDeFi, AshleyDawn",
+      "purpose": "Weekly meeting of the writers' workgroup.",
+      "otherMediaLink": "https://speechlogger.com/",
+      "workingDocs": [
+        {
+          "title": "RE-q4 Budget Sheet: Q4 Writers Workgroup ",
+          "link": "https://docs.google.com/spreadsheets/d/11QohtEjrDGo-kPPOas3V2BAh7dmp6XEqzMoI9CqxncU/edit?usp=sharing"
+        },
+        {
+          "title": "DRAFT: Budget Proposals Sheet: Q1, 2025 Writers Workgroup ",
+          "link": "https://docs.google.com/spreadsheets/d/1XDAPSG9y4U8nhQWQgrok3Z6pG9vsbfYPIMD7gISBJo0/edit?usp=sharing"
+        },
+        {
+          "title": "Cjfrankie: ARTICLE SUGGESTION | Nov 1",
+          "link": "https://docs.google.com/document/d/1OUHJQFyhW38zIgiIi3ILUEKOqx0qIH5P7nbmhp0_1-g/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off: The weekly meeting of the WWG started with Kenichi welcoming everyone to November. Unfortunately, we couldn’t use “read.AI” to record our meeting. Cjfrankie introduced a new tool that might work better than read.AI “speechlogger.com.” \n\nWe skimmed through the minutes from the last meeting and we kicked off from where we left off. Kenichi started by asking the WWG members whether we want to make an end-of-year recap and how we are going to do it! Cjfrankie suggested that using meeting summaries might help; Kenichi brought the idea of exporting articles and statistics from the SingularityNET Ambassadors Medium page.\n\nWhat’s next for Medium: It is worth mentioning that the SNET Ambassadors Medium page has been able to amass 318 followers and surpass 1,000 views per post. Kenichi hinted that it’s time we run a partnership program where writers can get paid for their publications. Also, he mentioned the fact that reaching 1,000 followers would mean that we could run ads and content outreaches. Momentarily, Cjfrankie shared the idea of exploring other Web3 publishing platforms like Mirro.xyz, while Kenichi talked about Paragraph.xyz and its potential. We’re looking to explore the power of Medium before we publish across multiple platforms.\n\nBudget: We had discussions about the Q4 budget and projected timeframe for submitting the Q1 2025 budget proposal as well. With screensharing, Kenichi surfed the Treasury dashboard and tackled the budget discussion with Lady Tempestt by showcasing how much we have spent and how much we have left. Thankfully, Q4 is looking promising already, and we thought of adding some deliverables (such as the Indonesia X page), Zealy, and whether to allocate funds for graphics. Kenichi also hinted that the Marketing Guild’s Zealy campaign will start pretty soon.\n\n",
+        "actionItems": [
+          {
+            "text": "Kenichi to publish the ecosystem digests from October 19th to November 2nd on Substack.\n",
+            "assignee": "Kenichi",
+            "dueDate": "1 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided that the Ecosystem Digests will be published every Saturday on the Substack to be followed suit with an announcement on X.\n",
+            "rationale": "In light of recent events, the SNET ecosystem has been making a lot of impact, and to this effect, news has been spreading around and we'd like to keep everyone updated so they don't miss out. ",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Ecosystem page, medium, Partnership program, Paragraph.xyz, Mirror.xyz, Zealy, Graphics, Q1 2025 budget, speechlogger.com, Marketing Guild, Q4 2024 budget, Indonesia X page, ecosystem digest",
+      "emotions": "insightful, forward-thinking, informative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-25",
+      "host": "Zalfred",
+      "documenter": "Hogantuso",
+      "peoplePresent": "malik, SubZero, Rojo, Zalfred, Hogantuso, AndrewBen, devon, LordKizzy",
+      "purpose": "Weekly meeting of the Video WorkGroup. The meeting focused on task updates.",
+      "workingDocs": [
+        {
+          "title": "Video Workgroup Budget request Q4",
+          "link": "https://docs.google.com/spreadsheets/d/1m3H2V7GPw5XGwpvtB5lizEHwHQTZOCe-_tqDCKysrJU/edit?gid=0#gid=0"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Members to create animations for this quarter are SubZero, Malik, LordKizzy and AndrewBen.",
+            "assignee": "SubZero, malik, lord kizzy, Zalfred, AndrewBen",
+            "status": "todo",
+            "dueDate": "31 December 2024"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The task manager will reach out to LilyCupcake not to create an ecosystem short but can come up with something else."
+          },
+          {
+            "decision": "Lord Kizzy suggested that we decide in the meeting to appoint two members as representatives for the workgroup.  ",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Rojo gave a brief breakdown of our social media, looking through the engagement for TikTok and Instagram, as engagements have been staggering in both accounts (possibly caused by the closure of the Zealy program). But it has been much better for Twitter and the YouTube account since the workgroup produces more content for posting and the uploads have been going smoothly so far. The Town Hall recordings were a bit slow this week and Rojo encouraged the assignees to do better in completing the work on time.\nAnd he was suggesting to work on very interactive videos or hot topics in the ecosystem for more engagements.",
+          "There was a brief announcement from the marketing workgroup from Slate as a task force member giving updates on the content calendar. This needs two representatives from each work group who will be responsible for giving updates from the workgroup. Members need to send in their emails and the social media manager needs to fill out a form.",
+          "Interaction discussions were made on the Abuon tus video. The members who showed interest in making videos looked at how to go about the video creation and how long. We also discussed the animation video for those who'd work on animation for this quarter as we'd be going for a monthly plan on the subscription and the wheel be moved to next month, this month is already coming to an end.",
+          "Lord Kizzy gave an update from governance workgroup's recent discussions on the implementation of budget caps for Q1 2025, Video WG would have a cap of $10k.\n",
+          "We had a conclusion on the biweekly ecosystem update, members shared their insight and ideas on how we can go about this and if it's a necessity."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Task Assignment, budget cap, Q1 2025 budget, Animation, social media, content calendar, Town Hall Videos, ecosystem update",
+      "emotions": "productive, Casual, informative, Friendly"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Guild",
+    "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-10-14",
+      "host": "Tevo",
+      "documenter": "Onize, PeterE",
+      "peoplePresent": "effiom, Lady Tempestt, tevo, onize, SubZero, malik, Ayo, PeterE, Valola, AshleyDawn",
+      "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+      "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601866321880&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Policy Submission Form (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250"
+        },
+        {
+          "title": "Treasury Policy Feedback (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+        },
+        {
+          "title": "Some possible approaches to budget fitting",
+          "link": "https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/"
+        },
+        {
+          "title": "Q4 Consent (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+        },
+        {
+          "title": "Ratify Treasury Policy - Slow Start",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on Q4 budgets",
+          "link": "https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1"
+        },
+        {
+          "title": "Governace Memo for Budget Approval Iteration 3",
+          "link": "https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing"
+        },
+        {
+          "title": "Q4 budget decision - main issues mentioned in objections",
+          "link": "https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "Policy Submission and Feeback",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Post a reminder for policies on 15.10.2024",
+            "assignee": "Tevo",
+            "status": "todo",
+            "dueDate": "15 October 2024"
+          }
+        ],
+        "discussionPoints": [
+          "Are there new Policy submissions? No new policy was submitted",
+          "Has there been any feedback/enactments for new policies? No new feedback",
+          "Policy Submission Form (Responses): https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/",
+          "Policy Feedback (Responses): https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+        ]
+      },
+      {
+        "agenda": "Ambassador Program Q4 Budget Planning and Consent Process/Results",
+        "status": "carry over",
+        "decisionItems": [
+          {
+            "decision": "Price changes impact what groups can pay, we could do a Google form asking the groups how they work with this.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Updates made to the dashboard which shows the percentiles and numbers",
+          "The first iteration was a temperature check, 2 people voted against all proposals, It is unclear why",
+          "The second iteration added the rationale behind the objections. Some passed at this stage, and some received many objections. We went through the objections and checked how valid they were.",
+          "The third iteration had more understanding of the objections. Even fewer objections, some additional workgroups passed, based on an 80% threshold. There was quite some pushback, mainly on the writers' workgroup and strategy guild. This was also the case in the previous quarter. The workgroups have established themselves better now. The proposals may have been unclear at times still.",
+          "The Governance WG pushed for a 20% decrease in budget for Writers WG, this was implemented and the proposal passed.",
+          "Documents on the objections were made [Governance Memo for Budget Approval Iteration 3] https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing for an overview. These objections should be considered for upcoming quarters. Objections have been collated here https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing",
+          "There is a low number of proposals, most workgroups just have submitted a budget. Adding the proposal every quarter (and updating it) gives more insights in how the program evolves.",
+          "The more expensive WGs/Guilds are those with an external focus",
+          "Budget fitting is used to make the requests fit the total budget. WGs/Guilds decide for themselves how to apply this lowering rate. Q4 lowering percentage was 17.4%.  Q3 was 24.5%",
+          "WGs/Guilds manage their reserves, could be more aware on how this exactly works and what groups can decide, what carries over and how carried over budget impacts next quarter budgets."
+        ]
+      },
+      {
+        "agenda": "Use of Stablecoins for Treasury",
+        "status": "carry over",
+        "discussionPoints": [
+          "We need ada for fees, so we have some ada.",
+          "Gray legal areas are utility tokens, if we shift to stables it's no longer rewarding community contributions with our utility token.",
+          "The Ambassador Program is not formally a legal entity, hence tax implications. Which jurisdiction/country plays a big role there too.",
+          "There's work ongoing on the Foundation side on how to deal with this sustainably."
+        ]
+      },
+      {
+        "agenda": "Retrospective On Consent Process, Treasury Management, and Proposal Reporting",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Create Miro Board sentiment voting if it seems effective. Which of these elements should we focus on most?",
+            "status": "todo"
+          },
+          {
+            "text": "Review core contributor parameters and check if we need to improve the parameters -> next session? Note, this might also be discussed in Governance WG",
+            "status": "todo",
+            "dueDate": "11 November 2024"
+          }
+        ],
+        "discussionPoints": [
+          "Governance WG retrospective week of Oct 7th: https://miro.com/app/board/uXjVLV8bexg=/",
+          "See Miro of this meeting for more retrospective items: https://miro.com/app/board/uXjVN8kUlbw=/",
+          "Timelines worked well, and clear communications. It felt somewhat rushed due to the holidays, but we did stick to the schedule.",
+          "Not much attention to objections beyond <20%, ensure to carry them over to next Quarters.",
+          "No cap per WG brings lots of discussion and time needs.",
+          "Treasury management is getting picked up by community members.",
+          "Reporting on requested changes (through objections) can be improved.",
+          "The proposal and budget creation process felt smooth and good, with useful templates and previous quarters' work to build on."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Miro Board, Policy Submission, Budget , feedback, Reserves, Stablecoins, processes, retrospective, Treasury, Governance workgroup, Slow Start policy",
+      "emotions": "Organised, Discursive, retrospective"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Guild",
+    "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-11-11",
+      "host": "Tevo",
+      "documenter": "Tevo, LadyTempestt",
+      "peoplePresent": "effiom, Lady Tempestt, tevo, onize, SubZero, Ashley, Valola, advanceameyaw",
+      "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+      "miroBoardLink": " https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764605390082730&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Policy Submission Form (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?gid=1814531250#gid=1814531250"
+        },
+        {
+          "title": "Treasury Policy Feedback (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+        },
+        {
+          "title": "Some possible approaches to budget fitting",
+          "link": "https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/"
+        },
+        {
+          "title": "Q4 Consent (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+        },
+        {
+          "title": "Ratify Treasury Policy - Slow Start",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeSZE1tOeBum-GlRYUSy2ApPSxTe7D8BBJPwwszfNLfOJJ0fA/viewform"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on Q4 budgets",
+          "link": "https://docs.google.com/document/d/1epegnWB0OMmM2JdAgT_ENr8QiDn0lyg3f7eMDArY2qk/edit#heading=h.miolh5lubdj1"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "agenda": "Guild Management",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Meeting Summary and Review",
+            "assignee": "Tevo, LadyTempestt",
+            "status": "todo",
+            "dueDate": "15 November 2024"
+          },
+          {
+            "text": "Draft Quarter 4 Treasury Guild Report",
+            "assignee": "Effiom, LadyTempestt",
+            "status": "todo",
+            "dueDate": "15 November 2024"
+          },
+          {
+            "text": "Draft Quarter 1 Treasury Guild Budget Sheet",
+            "assignee": "Onize, Effiom",
+            "status": "todo",
+            "dueDate": "15 November 2024"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We will not reallocate funds to Translation WG from Treasury Guild nor Marketing Guild. ",
+            "rationale": "We will not reallocate funds to Translation WG from Treasury Guild nor Marketing Guild. We considered the promise of our Q3 proposal to fund these and the fact that currently Treasury Guild has no funds for themselves to even reward core activities. Using our remaining leftover budgets we would like to allocate for reporting, proposing and updating core contributor list. In Quarter 4 we did not budget ourselves to cover other WG budgets. Marketing Guild disagreed to fund from their budget.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Low participation at start time of meeting",
+          "We go over the meeting time and still a lot of agendas unexplored",
+          "Assigned Core Activities to do before next meeting",
+          "There are practically no funds for documentation budgeted in Q4",
+          "How to address Translation WG Budget overspend?",
+          "Q1 2025 Treasury Guild Proposal Draft: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs"
+        ]
+      },
+      {
+        "agenda": "How do we go about using Marketing Guild's content calendar to publish Treasury Guild call outs and updates?",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Request more information from Marketing Guild:\nWhat's the expected output from the Content Planner?\nWhy are two representatives required, what are their roles?\nWho is paying for the tasks?\nWhy do we need to give representatives' emails?",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "SubZero will be our Marketing / Content Calendar representative from Treasury Guild",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "What reminders or call outs should we share forward?",
+          "Who will update the content planner/liaise with Marketing Guild?",
+          "What information do we already outreach?",
+          "What have our current target audiences and channels been?"
+        ]
+      },
+      {
+        "agenda": "How do people feel about current Treasury Operati﻿on outcomes and bi-weekly issues with transactions?",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Those who are interested in learning Excel visual basic scripting language, let us know in Treasury Guild Discord channel",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Start having again more detailed development updates before meeting starts"
+          },
+          {
+            "decision": "Have stricter rules on how long we train new operators to allow enough time to create bundle transactions"
+          }
+        ],
+        "discussionPoints": [
+          "The process is transparent and we can get access to see how the process works and what the challenges are",
+          "I like that everybody can have the chance of doing operations",
+          "New people should NOT take entire meeting time to process contributions",
+          "We should distinguish skilled operators from new operators",
+          "Could we process more often if we are not able to do them in the specified meeting time?",
+          "Could we try creating a workgroup for treasury manager code review and development?"
+        ]
+      },
+      {
+        "agenda": "Allocation and Categorization Analysis",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Provide feedback to new policy to implement it https://docs.google.com/forms/d/e/1FAIpQLSev-uthFleaINLCJivcNWT4TWjTfx4AwbH1kSkKNrgM9dTxsg/viewform",
+            "status": "todo",
+            "assignee": "all",
+            "dueDate": "16 December 2024"
+          }
+        ],
+        "discussionPoints": [
+          "New policy to help establish categories and budget allocations for each category https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk",
+          "We shared examples of how budget allocations are calculated and how the averages affect results",
+          "What has Governance WG discussed trying this quarter?",
+          "What kind of limits have we proposed or tried to introduce before?",
+          "How do we implement limits for next quarter?"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Miro Board, Translation WG, Marketing Guild, budget categories, treasury operators, training treasury operators, training, content calendar, Q4 2024 quarterly report, Q1 2025 budget",
+      "emotions": "wide-ranging, Discursive, reflective, well organised"
     },
     "type": "Custom",
     "noSummaryGiven": false,
