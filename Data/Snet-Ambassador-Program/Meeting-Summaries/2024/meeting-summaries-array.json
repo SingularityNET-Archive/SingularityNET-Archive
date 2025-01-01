@@ -36443,6 +36443,140 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-23",
+      "host": "Guillermo",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Advanceameyaw, lord kizzy, osmium, Guillermo, AshleyDawn, AJ, Clement Umoh, Peter",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n"
+        ],
+        "actionItems": [
+          {
+            "text": "kenichi to give a 3 minutes presentation for the final deliverables on Legacy system in the Townhall on the 22nd",
+            "assignee": "Kenichi",
+            "dueDate": "22 October 2024",
+            "status": "done"
+          },
+          {
+            "text": "Guillermo to present a report on the discussion on the review of the Entity connections",
+            "assignee": "Guillermo",
+            "dueDate": "30 October 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy & Guillermo to schedule a follow up call with the team for CSDB to discuss the integration and hosting of projects  ",
+            "assignee": "lord kizzy, Guillermo",
+            "dueDate": "23 October 2024",
+            "status": "done"
+          },
+          {
+            "text": "Guillermo & Lordkizzy to schedule an operational team meeting to discuss the potential schedule and roadmap for the Metta Coder Lab sessions for Q4",
+            "assignee": "lord kizzy, Guillermo",
+            "dueDate": "23 October 2024",
+            "status": "done"
+          },
+          {
+            "text": "Clement to give the guild monthly townhall",
+            "assignee": "Clement Umoh",
+            "dueDate": "29 October 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The Metta coderlab initiative has been pushed to the next quarter ",
+            "rationale": "There needs to be proper time to discuss with the team and plan the process",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We decided that updates on development will be given monthly rather than weekly",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: going forward updates on development will be given monthly rather than weekly",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo highlighted that the metta coder lab initiative will be moved to the next quarter. guillermo also shared the metta coder lab survey form for review before publication",
+          "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, Operations , Metta",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
@@ -36486,6 +36620,317 @@
     "tags": {
       "topicsCovered": "Partnership, Budget , Proposal",
       "emotions": "productive, informative, Organised, Deliberative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Automation WG",
+    "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
+    "meetingInfo": {
+      "name": "Monthly",
+      "date": "2024-10-28",
+      "host": "Tevo",
+      "documenter": "Tevo, CallyFromAuron, Valola",
+      "peoplePresent": "Advanceameyaw, André, Effiom, EstherG, PeterE, Tevo, Valola",
+      "purpose": "We develop the Treasury System",
+      "meetingVideoLink": "https://youtu.be/mRLU_tLhwqY",
+      "miroBoardLink": "https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764603865995130&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Automation WG Q4 Budget",
+          "link": "https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/"
+        },
+        {
+          "title": "Treasury Automation WG Budget Estimations",
+          "link": "https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843"
+        },
+        {
+          "title": "Treasury Automation WG - 28.10.24 Development Updates",
+          "link": "https://www.youtube.com/watch?v=0k4TPL6VcwA"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "agenda": "Month of October Development Updates",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Conduct end-to-end testing for JSON generator functionality to ensure readiness.",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Update the duplicate recognition feature to scan across the entire transaction history",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Implement and test database changes to align with the updated treasury system requirements",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Most of the development for the JSON generator moving forward will be around the User Interface ",
+            "rationale": "because the main functionalities are now in place",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "28.10.2024 Development Updates video: https://www.youtube.com/watch?v=0k4TPL6VcwA",
+          "The completion of main functionalities with ongoing testing for the JSON generator",
+          "We finalized the process map for data movement directions",
+          "We addressed issues regarding format consistency, fixed quarterly totals, and JSON generator fee date bug",
+          "Features that were not implemented but were addressed differently"
+        ]
+      },
+      {
+        "agenda": "Updates related to the Treasury Manager",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Create and share a form for developers to apply for building the Zoom API",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Update Data Mapping and Research Views ",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to build Zoom API for mass import and seek developers to work on the project",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "The new Excel overview for the Bundle Transaction sheet, and a snapshot of the overview task, will be done after all the updates to the Treasury Manager\n",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Bundle Transaction fitting - Automation of submitting multiple bundle transactions feature is no longer necessary. ",
+            "rationale": "Automating would mean some form of standardization but for now, it is easy to customize it in Excel",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Plan for a complete overhaul, including a database update for enhanced functionality",
+          "Creation of a filtering option to handle over-budget tracking which caused new bugs requiring fixes",
+          "Improved role configurations, the manage files panel UX, and updates done on the Participation Rewarding sheet",
+          "Simplification of task/group reward assignments and addition of a new column for recognition status",
+          "Overview of Backlog Updates like bundle transaction fitting",
+          "Using API for Zoom mass import participants"
+        ]
+      },
+      {
+        "agenda": "Finalization of Quarter 3 activities and tasks",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The budget for preparing meetings came from Treasury prep allocations\n",
+            "rationale": "We did not budget for it in this Workgroup's budget",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Based on the outcome of Q3, the actual results will be relevant when budgeting for the next quarter",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Quarter 3 Proposal: https://docs.google.com/document/d/1JuUjsLn6gXH4iHE9w3sv_pJnwzA4uWiHk8Q9ladP-qg/edit?tab=t.0#heading=h.cy5465ix7fj6",
+          "Estimated development time resource for backend\n",
+          "Estimated development time resource for Excel\n",
+          "Documentation went 1 hour over the estimated time\n",
+          "Should we move the outstanding Q3 documentation items to this quarter or fund it from Swarm?"
+        ]
+      },
+      {
+        "agenda": "Q4 Plans and Deliverables",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Add the completed task to the deliverables map",
+            "assignee": "Tevo",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "GitHub API, import of Github tasks to the Treasury Manager, and creation of a tool to automate generating Core Contributor lists are being carried over to the next quarter",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Q4 Deliverables that are being carried over due to resource constraints\n",
+          "Adjustments to the Q4 budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843",
+          "Established a new metadata standard with the potential for future adjustments based on overhauls and testing outcomes",
+          "Update done to include meeting duration into reward calculation for Contribution vs. participation tooling",
+          "Overview of Zoom import manager Q4 tasks"
+        ]
+      },
+      {
+        "agenda": "Workgroup Project Management",
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Valola will draft the meeting summary and Effiom will review and publish it in Discord\n",
+            "assignee": "Valola, Effiom",
+            "dueDate": "4 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Draft Q1 2025 proposal and Q4 2024 Report - Effiom, Valola, and Advance",
+            "assignee": "Effiom, Valola, advanceameyaw",
+            "dueDate": "25 November 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Reward development contributions right after they are done and also reward participation after meetings",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Summary for the 28.10.2024 session",
+          "When should we reward participation?",
+          "Looking ahead into Q1 2025 "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "JSON generator, duplicate recognition, end-to-end testing, database, Treasury system, date formatting, API, API development, API Readiness, budget filtering, participant import, Zoom API integration, Q4 2024 roadmap, metadata standard, participant rewards, participant reward management, task group assignment, UX"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-30",
+      "host": "Guillermo",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Advanceameyaw, lord kizzy, osmium, Guillermo, AshleyDawn, AJ, Clement Umoh, SubZero, CollyPride",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n",
+          "Fetch AI/SOLANA COPA AMERICA"
+        ],
+        "actionItems": [
+          {
+            "text": "Clement to give the guild monthly townhall",
+            "assignee": "Clement Umoh",
+            "dueDate": "29 October 2024",
+            "status": "done"
+          },
+          {
+            "text": "Guillermo to share the Hackathon pack to the R&D Guild channel",
+            "assignee": "Guillermo",
+            "dueDate": "6 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy to schedule a follow-up call with the teams to discuss the integrations of projects",
+            "assignee": "lord kizzy",
+            "dueDate": "6 November 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: going forward updates on development will be given monthly rather than weekly",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo share the survey form for members (https://forms.gle/y6FiaCLQzJKpTeDF7), he also shared some documents for members to add their inputs (https://docs.google.com/document/d/1iyTYXeXyzc-jMOKxggCMQJbtCR1uHH9FInS6CTCwDNU/edit?usp=sharing, https://docs.google.com/document/d/17n3zU9ZBwgPiw1f8ExaPgh7Ma9-H00QNz-oUgE5QNdQ/edit?usp=sharing).",
+          "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system",
+          "Fetch AI/SOLANA COPA AMERICA: guillermo explained of the Fetch AI/SOLANA COPA AMERICA and its applications with AI agents, he also gave a presentation",
+          "Ambassador program's Content calendar: Subzero informed the group that they will be needing two participants from the  R&D GUILD to have edit access on the content calendar, the names will be sent out to subzero after the call\n"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -36612,6 +37057,179 @@
     "tags": {
       "topicsCovered": "Ethics, ai ethics in recordkeeping, AI ethics, Q1 2025 budget, q4 2024 report, DeepFunding, Deepfunding Town Hall, Governance, documentation skills, Budget fitting, fairness, barriers to good documentation, controlled vocabulary, dropdown, Discord names, open source, open source ethos, RAG retrieval process, markdown, JSON, dashboard, archives search, Collaboration, Governance documentation, Knowledge management across the singularityNET ecosystem",
       "emotions": "short, Discursive, complex issues, wide ranging, joining the dots, retrospective"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-11-04",
+      "host": "Photogee",
+      "documenter": "Cjfrankie ",
+      "peoplePresent": "Ayo, Photogee, Eric Davies, lord kizzy, Effiom, kateri, martinsoki, Mikasa, Ashley Coventry, Eric Davis, Clement Umoh",
+      "purpose": "Biweekly meeting of the Strategy Guild\n",
+      "workingDocs": [
+        {
+          "title": "Strategy Guild Working Document",
+          "link": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826"
+        },
+        {
+          "title": "The Strategy Guild Survey",
+          "link": "https://docs.google.com/forms/d/1FVYpm_Q1r97pK8h1PdKX-ntyvDozv2d1GXYr-BNy8hA/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Kick-off: The biweekly meeting of the strategy guild started strong with Photogee as he welcomed everyone with a warm greeting, and then we skimmed and tackled the action items from the last meeting. Firstly, Effiom shared an update on the status of the strategy core and strategy member tags 🏷️ He stated that the tags haven’t taken effect because there’s still a back-and-forth issue that needs to be fixed. He hinted that at the next meeting or workshop, he’d give an update on the status.\n\nBudget Fitting: Momentarily, we had a budget fitting walkthrough by Effiom; he added that some deliverables will be moved to Q1 2025 and there would only be 1 workshop session in Q4, while a few things are removed to fit the budget. \n\nQ4 Task Roster & Async Follow-up: Ayo took to the stage and assured everyone with their names on the roster of getting a task in Q4. We also featured a discussion about what to do with members who haven’t been showing up for meetings; Ayo added that we can swap those names with active members who would like to take up tasks. We also featured discussions centered around Q3 workshop follow-up. These groups of people will attend WG meetings (marketing guild, video workgroup, and writers workgroup,) and collect information about what strategy was adopted in their workgroup from the last strategy guild workshop and how it’s going. To this effect, we have Photogee and Ese to take on the Q3 workshop follow-up while Cjfrankie and Mikasa take on the Q4 workshop follow-up.\n\nMore on Workshop: We have decided that there will be only one workshop session in Q4. These workshops will focus on the R&D guild and education guild. These workshops shall commence next Monday and run for 3 straight weeks. In light of such, Cjfrankie and Mikasa are to attend both the R&D and the education guild meetings just so the workgroup can signpost three members that will represent them well.\n\nResearch Update: Effiom shared an update on the research he’s working on. He hinted that the survey form is complete and is ready to be sent out to gather responses from community members. Additionally, he sought to get some feedback concerning the survey and then encouraged members to check out the form and add comments, too.\n\nLooking Ahead: As Q4 wraps up, the strategy workgroup looks forward to having a promising Q1 in 2025. According to Ayo, he mentioned that the strategy guild welcomes research ideas, initiatives, workshops, and collaboration from members. As a matter of finality, he added that Q1 2025 won’t only be about facilitation and documentation. Rather, it’s about strategy stuff.\n\nAOB: The AOB session was led by Ayo, who sought two people who would liaise with the marketing guild in view of the content calendar — Just so we have any content for the socials, the idea is to have two people who would be in close communication with the marketing guild for proper scheduling of posts.",
+        "actionItems": [
+          {
+            "text": "\nCjfrankie and Mikasa to attend the R&D and the education guild meeting and have them signpost three members that will represent their WGs in the forthcoming workshop session.\n",
+            "assignee": "Cjfrankie, Mikasa",
+            "dueDate": "11 November 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Photogee to chase Ese Williams to see whether she’d be up for workshop 1 async follow-up.",
+            "assignee": "Photoghee",
+            "dueDate": "11 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Effiom to send out the research survey on the 5th of November to gather responses.",
+            "assignee": "Effiom",
+            "dueDate": "11 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided to hold only one workshop session in Q4. This workshop will focus on the R&D guild and education guild.\n",
+            "rationale": "The initial plan was to have two sessions in Q4, but after the budget was fitted, we saw that this was no longer feasible.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up , survey , Q1 2025 projections, Signposting , Marketing Guild",
+      "emotions": "funny , resourceful, informative, speedy , looking-ahead"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-06",
+      "host": "Guillermo",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, osmium, Guillermo, AshleyDawn, AJ, AndrewBen, SubZero",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n"
+        ],
+        "actionItems": [
+          {
+            "text": "Guillermo to share the Hackathon pack to the R&D Guild channel",
+            "assignee": "guillermolucero",
+            "dueDate": "6 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Lordkizzy to schedule a follow-up call with the teams to discuss the integrations of projects",
+            "assignee": "LordKizzy",
+            "dueDate": "6 November 2024",
+            "status": "done"
+          },
+          {
+            "text": " CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "advanceameyaw",
+            "dueDate": "13 November 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025",
+          "Follow up on the CSDB: lordkizzy and guillermo hosted an async call with the teams to discuss on the integration of the CSDB, the WEB3 dashboard and the reputation system, here is a summary of the session:https://docs.google.com/document/d/1fP196O1E_Yn_stlxJIc_BqSwj6oipwMCvptRVqVxPjw/edit?usp=sharing\n"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -36845,6 +37463,129 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-10-31",
+      "host": "CallyFromAuron",
+      "documenter": "Photogee, CallyFromAuron",
+      "peoplePresent": "LadyTempestt, CallyFromAuron, lord kizzy, AshleyDawn, Kateri, MartinSoki, Onize, Cjfrankie, SucrenSpice, Eric Davies, Photogee, Cjfrankie, Advanceameyaw, Effiom, Valola, AJ, Gorga Siagian",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "workingDocs": [
+        {
+          "title": "Skillshare Matrix Doc",
+          "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing"
+        },
+        {
+          "title": "Adjusted Q4 budget proposal ",
+          "link": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+        },
+        {
+          "title": "Meeting Agenda",
+          "link": "https://docs.google.com/document/d/1p2u-GhdK6cVCS6TmU2ME2G5WbtEIOzSxSVpGHC0fzbQ/edit?tab=t.0#heading=h.e0i68kevq8jk"
+        },
+        {
+          "title": "Onboarding Journeys Quick Survey",
+          "link": "https://forms.gle/VcQVJAoXtYa1ukB77"
+        },
+        {
+          "title": "Skills database form",
+          "link": "https://skillsdatabase-21b11771237e.herokuapp.com/members/members-list/"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Lord Kizzy to add dates for meetings and Skillshare sessions to the calendar.",
+            "assignee": "LordKizzy",
+            "status": "todo",
+            "dueDate": "4 November 2024"
+          },
+          {
+            "text": "Onize to re-share the googleform for the \"Onboarding journeys quick survey\" to the ambassador-general Discord channel",
+            "assignee": "Onize",
+            "status": "todo",
+            "dueDate": "14 November 2024"
+          },
+          {
+            "text": "CjFrenkie will prepare and deliver our Town Hall updates for 26th November.\n",
+            "assignee": "Cjfrankie ",
+            "dueDate": "26 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lord Kizzy and Advance will schedule a meeting for further discussion on collaboration between onboarding and R&D on the Skills Database.",
+            "assignee": "LordKizzy, advanceameyaw",
+            "status": "todo",
+            "dueDate": "14 November 2024"
+          },
+          {
+            "text": "Clement will facilitate the next meeting and Tuso will document.\n",
+            "assignee": "Clement Umoh, Hogantuso",
+            "dueDate": "14 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lord Kizzy will prepare the meeting agenda for our next meeting",
+            "assignee": "LordKizzy",
+            "status": "todo",
+            "dueDate": "14 November 2024"
+          },
+          {
+            "text": "In their meeting tomorrow the Onboarding Focus Group will work out how best to work on insights from Onize's Onboarding Journeys form.",
+            "assignee": "Sucre n Spice, LadyTempestt, CallyFromAuron",
+            "dueDate": "1 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "The Onboarding Focus Group will select 2 people from the WG to be responsible for adding material to the new Content Calendar that Marketing WG is doing",
+            "assignee": "Sucre n Spice, LadyTempestt, CallyFromAuron",
+            "dueDate": "1 November 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "R&D will consider not using the ‘hard skills/soft skills’ terminology in the in the Collaboration Skills Database",
+            "effect": "mayAffectOtherPeople",
+            "rationale": "The term can be unclear (people vary on what they define as a \"hard/soft skill\"; and the terms can be experienced as somewhat dismissive."
+          },
+          {
+            "decision": "The 2 forthcoming skillshare sessions (Monitoring and Evaluation on 21st Nov; Decentralised Governance on 5th Dec) are to be publicized with an infographic.",
+            "effect": "mayAffectOtherPeople",
+            "rationale": "Presenting both sessions on one infographic means less work, and also shows that it's a \"program\" of skillshare sessions, not just a couple of random one-offs."
+          },
+          {
+            "decision": "We noted that the skillshare session on Monitoring and Evaluation is on Thurs 21st Nov, not 25th Nov ",
+            "rationale": "It has previously been recorded in error in meeting summaries as 25th Nov.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "We agreed the minutes of the last meeting. \nVani raised the point that if corrections are made to a summary by WG members, then the documenter needs to make the relevant changes when they add the summary to the meeting summary tool. (In the last meeting summary, the documenter unfortunately didn't do this.)\n\n",
+          "Skillshare matrix: The regular call-out for members to add their skills to the skillshare matrix, both the ones they intend to learn and the ones they currently have.",
+          "Onboarding Journeys: As an extension of the work on Onboarding Journeys, Onize has created and shared a Googleform (\"Onboarding Journeys Quick Survey\") to ask people in the Ambassador Program about their own onboarding journeys, and any barriers they have faced. There has been only 1 response so far, but it was interesting - the person \"felt all alone and had to catch up with the Ambassador's program's purpose which honestly doesn't feel completely clear yet\". So we need to think about how we will address issues that come up in the form; and we also need to keep sharing it. We agreed the Onboarding Focus Group will look at this when they meet tomorrow; and Onize will keep sharing the form every now and then.\n",
+          "Onboarding Journeys: Lord Kizzy suggested having monthly/quarterly surveys tackling challenges facing new members.",
+          "Research on decentralisation: Kateri briefly discussed the research that she and Ayo are working on. They will be asking their questions in small-group interviews, which will be recorded. We agreed that we'd like to see a little more info on the planned research methodology (e.g. how interviewees will be selected; how the interviewers will ensure a valid and ethical approach).\n",
+          "Potential collab with R&D Guild: We discussed a collaboration with R&D Guild on skills info - i.e. their Collaboration Skills Database and our Skillshare Matrix.  \n\nQuestions were raised on the use of the term \"soft skills/hard skills\" in R&D's database, which some people find quite dismissive of the range of \"non-developer\" skills; and we discussed whether the work that Onboarding has done in our Skillshare Matrix on describing and defining different non-developer skills might be useful. \n\nAdvanceameyaw and Lord Kizzy, as members of R&D Guild, said R&D intends that the info in the database could be used by Onboarding in signposting new people to tasks and WGs that suit their skills. Some concerns were raised about whether this connects with Onboarding's existing processes, and whether the Collaboration Skills Database info is in a useful format: the Database currently uses a lot of free text, which can take time to interpret; and we queried whether controlled vocabs would be better and would give more usable info. We also noted that if this was done, then \"non-developer\" skills would need to be defined in ways that make sense to people who actually have those skills; we noted that previous iterations of the Database, which *did* use controlled vocabs, didn't really succeed in this.\n\nQuestions were also raised on privacy and data protection issues: AdvanceAmeyaw noted that these have been considered, but Vani said they may not have been been considered thoroughly enough. \n\nWe agreed that a dedicated meeting between Onboarding and R&D would be useful.",
+          "Marketing WG is asking for 2 people from each WG to be responsible for adding material to their new Content Calendar - so if a WG needs any marketing or promotional material to be produced, they add it to the calendar, and Marketing will produce it. We agreed the Onboarding Focus Group will select 2 people when they meet tomorrow."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "skills matrix, research, meeting dates, collaboration skills database, skills database, skills audit, R&D guild, Marketing Guild, content calendar, hard and soft skills, Town Hall update, Onboarding focus group, onboarding journeys, barriers to onboarding, barriers, skillshare sessions, monitoring and evaluation, decentralized governance, Decentralization, useful documentation, Documentation",
+      "emotions": "Collaborative, Casual, speedy , contructive criticism"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -36956,6 +37697,268 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-13",
+      "host": "Guillermo",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, osmium, Guillermo, AshleyDawn, AJ, AndrewBen, advanceameyaw, Raman Deep",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n",
+          "ASI summit",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard",
+          "Q1 Budget and Tier system"
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "20 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy will schedule a call with representatives from the onboarding work within the week.",
+            "assignee": "LordKizzy",
+            "dueDate": "20 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo to disburse the $24.46 expense from the R&D treasury.",
+            "assignee": "guillermolucero",
+            "dueDate": "19 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "20 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo will create a spreadsheet for team members to sign up for facilitation roles in future meetings.",
+            "assignee": "guillermolucero",
+            "dueDate": "20 November 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025",
+          "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once, so lordkizzy noted he was going to host the session within the coming week, guillermo also spoke on the deadline for redeployment (25th Nov) and asked the team if they were still on track on the deadline, and the team hopes to meet the deadline, tho AJ suggested for an extra week, we also spoke on the hosting charges for heroku and he is going to disburse the funds to Advance ",
+          "ASI summit: Vasu gave updates on the event and highlighted his communication with influential figures",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy gave an update on the call he had with Guillermo on the governance dashboard where we looked at some features for the tool, like a space in the dashboard for constructive criticism and also how to extract this data",
+          "Q1 Budget and Tier system: members gave their views on the tier system and the guild's allocation noted the previous challenges faced within the guild in terms of compensation for project work and took a vote for more funds"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-20",
+      "host": "LordKizzy",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, AshleyDawn, AJ, AndrewBen, advanceameyaw, CollyPride, Zalfred",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n",
+          "Q1 Budget and Tier system",
+          "Facilitation in Q1",
+          "Feedback from the strategy workshop"
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "27 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy will schedule a call with representatives from the onboarding work within the week.",
+            "assignee": "LordKizzy",
+            "dueDate": "27 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo to disburse the $24.46 expense from the R&D treasury.",
+            "assignee": "guillermolucero",
+            "dueDate": "19 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "27 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Guillermo will create a spreadsheet for team members to sign up for facilitation roles in future meetings.",
+            "assignee": "guillermolucero",
+            "dueDate": "20 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "AJ to give a presentation on his updates to the CSDB in the next call",
+            "assignee": "AJ",
+            "dueDate": "27 November 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025",
+          "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once and perform the integration and testing, so lordkizzy noted he was going to host the session within the week, lordkizzy also asked the team if they were still on track on the deadline (25 NOV), and the team hopes to meet the deadline, the TEAM suggested for an extension of the deadline to 27th Nov, AJ also noted that he had updated the frontend using React and made some design changes based on an idea proposed by Rojo, which he will share that in our next meeting and is also waiting for the meeting with the onboarding group before finalizing the design and authentication. he also apologized for the delay due to network issues",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week",
+          "Feed back from the strategy workshop: Advance gave the updates highlighting the key goals of the workshops and lord Kizzy suggested that members could turn up and participate"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
@@ -37016,6 +38019,65 @@
       "topicsCovered": "Budget fitting, Reward system, Q4 report, Tier system",
       "emotions": "productive, informative, Organised, Thoughtful , repetitive"
     },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Automation WG",
+    "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
+    "meetingInfo": {
+      "name": "Monthly",
+      "date": "2024-11-25",
+      "host": "Tevo",
+      "documenter": "Tevo",
+      "peoplePresent": "André, Effiom, Tevo, SubZero, Malik",
+      "purpose": "We develop the Treasury System",
+      "meetingVideoLink": "https://youtu.be/LjhQkgkk8UM",
+      "miroBoardLink": "https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764603865995130&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Automation WG Q4 Budget",
+          "link": "https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/"
+        },
+        {
+          "title": "Treasury Automation WG Budget Estimations",
+          "link": "https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843"
+        },
+        {
+          "title": "Treasury Automation WG - 28.10.24 Development Updates",
+          "link": "https://www.youtube.com/watch?v=0k4TPL6VcwA"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "agenda": "Month of November Development Updates",
+        "status": "carry over",
+        "discussionPoints": [
+          "End to End testing of JSON Generator is tested and implemented",
+          "A lot of bug fixing in Treasury Manager is caused by filtering changes",
+          "Update Video: https://youtu.be/LjhQkgkk8UM",
+          "Zoom API layer created by Andre to request relevant participation info trough treasury system"
+        ]
+      },
+      {
+        "agenda": "Quarter 4 Report",
+        "status": "resolved",
+        "discussionPoints": [
+          "We shared Quarter 4 report https://docs.google.com/document/d/1hx1Bjzucisv7rQDg16xx75Kueeu_uYoO44nnWxcg4GM"
+        ]
+      },
+      {
+        "agenda": "Quarter 1 2025 Proposal",
+        "status": "resolved",
+        "discussionPoints": [
+          "We updated Q1 2025 Proposal Budget https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843",
+          "We Shared Q1 2025 Proposal https://docs.google.com/document/d/13nenax4GhArFaISTrDq1zGmO6ClwphhNQl2c7pp-cSU"
+        ]
+      }
+    ],
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
@@ -37112,6 +38174,75 @@
     "tags": {
       "topicsCovered": "Budget Request, Quarterly Report, Collaboration, Budget fitting, Budget cuts",
       "emotions": "Friendly, Collaborative, Thoughtful , productive, Session items reviewing moved slowly as we had disagreements in many items and required discussions"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-11-14",
+      "host": "Clement Umoh",
+      "documenter": "CJFrankie",
+      "peoplePresent": "Clement Umoh, CJFrankie, Vani, Sucre n Spice, Duke, LadyTempestt, Kateri, Ashley, Gorga Siagian, LordKizzy, hogantuso, Valola, martinsoki",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "mediaLink": "https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=3458764606547611368&cot=14",
+      "workingDocs": [
+        {
+          "title": "Onboarding WG Q4 quarterly report",
+          "link": "https://docs.google.com/document/d/1PuK3ZsIc6iuDQEbmmE4E7-1MJYij5ydiXZYS-smKsAI/edit?usp=sharing"
+        },
+        {
+          "title": "DRAFT Onboarding WG budgets",
+          "link": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding WG Skillshare Matrix",
+          "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "issues": [
+          "“Onboarding Journeys Survey — at the next meeting, we’ll be uncovering the responses gathered from the Onboarding Journeys Survey form!” \n"
+        ],
+        "actionItems": [
+          {
+            "text": "Cjfrankie to publicize the upcoming sessions on “Monitoring and Evaluation” and “Decentralized Governance.”\n",
+            "assignee": "CJFrankie",
+            "dueDate": "21 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Following a discussion with the new budget capping policy, the onboarding workgroup has embraced the allocation of 8.5k AGIX, which is close to our planned budget. There was also a supportive atmosphere, with everyone aligning on the next steps!\n",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Agreeing to the minutes of the last meeting. ",
+          "Agreeing to the minutes of the last meeting. ",
+          "Agreeing to the minutes of the last meeting. ",
+          "Facilitation and documentation next time.\n",
+          " Town Hall Updates: “Cjfrankie suggested an update on the topics to share during the forthcoming Ambassadors Town Hall meeting: He aims to discuss the upcoming session on “Monitoring and Evaluation scheduled for November 21st.  \nVani also suggested sharing a link to our quarterly report and budget, which will be submitted before the Town Hall updates.”\n",
+          "Onboarding journeys survey\n",
+          "Skillshare matrix and collab with R&D: “LordKizzy hinted that R&D has had some internal discussion about the Skill database collab with onboarding WG. After which, there shall be a session with the onboarding WG.”\n",
+          "Research project: “Kateri mentioned that she and Ayo have had three interview sessions each, and they’re documenting the responses, and it’ll be shared once it’s finished.”",
+          "Quarterly report for Q4",
+          "Governance update: “We had a brief discussion about the newly implemented tier system for the WG budget, and everyone seems to embrace the idea.”"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "skillshare matrix, onboarding journeys, Q2 2024 Quarterly report, Q1 2025 BUDGET, Governance, Town Hall update, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skill database, R&D guild, publicity, decentralization research, Decentralization",
+      "emotions": "speedy , productive, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -37440,6 +38571,241 @@
     "tags": {
       "topicsCovered": "Q3 and Q4 interviews, Budget , money issues, Event In Nigeria, AGI-24 payments",
       "emotions": "contributive, interesting, Deliberative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-27",
+      "host": "guillermolucero",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, Tevo, guillermolucero, Slate, kenichi, BoazB, hogantuso",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n",
+          "Q1 Budget and Tier system",
+          "Facilitation in Q1",
+          "Feedback from the strategy workshop"
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "4 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy will schedule a call with representatives from the onboarding work within the week.",
+            "assignee": "LordKizzy",
+            "dueDate": "27 November 2024",
+            "status": "done"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "4 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "AJ to give a presentation on his updates to the CSDB in the next call",
+            "assignee": "AJ",
+            "dueDate": "27 November 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Members to express interest in the sheet for facilitation, ",
+            "assignee": "All members",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Guillermo went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025",
+          "Follow up on the CSDB: Advance spoke on the progress so far, he also noted that 80 % of the project has been done, and also mentioned a call with the Onboarding Workgroup and highlighted the impact of the call and he is hoping to have another call with the Reps of Onboarding Workgroup for clarity on some things that could be kept into consideration ",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week",
+          "RFPs and Initiatives on OpenCog Hyperon for the R&D Guild: Guillermo mentioned the creation of a proposal from R&D Guild for the Metta coder lab initiative and so highlighted a possible collaboration with Education Guild",
+          "UPDATE STATUS ON DEVELOPMENT: Legacy System: he noted that he was currently working on the cardano side of this using plutus and AJ was going to help out with the project documentation "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-11-28",
+      "host": "Gorga Siagian",
+      "documenter": "martinsoki",
+      "peoplePresent": "Sucre n Spice, LadyTempestt, Ashley, Gorga Siagian, LordKizzy, hogantuso, Valola, martinsoki, Effiom, CallyFromAuron, CollyPride",
+      "purpose": "Weekly meeting discussing how to onboard people to the Ambassador program",
+      "mediaLink": "https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=3458764606547611368&cot=14",
+      "workingDocs": [
+        {
+          "title": "Onboarding WG Q4 quarterly report",
+          "link": "https://docs.google.com/document/d/1PuK3ZsIc6iuDQEbmmE4E7-1MJYij5ydiXZYS-smKsAI/edit?usp=sharing"
+        },
+        {
+          "title": "DRAFT Onboarding WG budgets",
+          "link": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding WG Skillshare Matrix",
+          "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit"
+        },
+        {
+          "title": "Onboarding consent form",
+          "link": "https://forms.gle/6N7JFzBZj4jUDJPb6"
+        },
+        {
+          "title": "Onboarding Journeys quick survey",
+          "link": "https://forms.gle/VcQVJAoXtYa1ukB77"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "issues": [
+          "Onboarding journeys  survey\n",
+          "Onboarding to Decentralization research\n",
+          "Onize to timestamp the M&E session on the 21st and add it to YouTube."
+        ],
+        "actionItems": [
+          {
+            "text": "Cjfrankie to publicize the upcoming sessions on “Decentralized Governance.”\n",
+            "assignee": "CJFrankie",
+            "dueDate": "12 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to lead Decentralised governance on 5th of December.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "5 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "LordKizzy to reach out to CJfrankie to [Facilitate] and Ayo [Document] for the next meeting.",
+            "assignee": "LordKizzy",
+            "dueDate": "12 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "LordKizzy to prepare the Facilitating/Documenting roster for Q1 2025.",
+            "assignee": "LordKizzy",
+            "dueDate": "12 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Onize to give an update on any interesting replies to the survey",
+            "assignee": "Onize",
+            "dueDate": "12 December 2024",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "It was decided for LordKizzy to prepare the Facilitating/Documenting roster for Q1 2025.\n",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Agreeing to the minutes of the last meeting. ",
+          "Skillshare matrix: “we reminded others who have not added their skills to the Skillshare matrix document should fill their skills under the document shared in the meeting.”\n",
+          " Action items from the last meeting.\n",
+          " Facilitation and documentation next time.\n",
+          "Onboarding journeys survey\n",
+          "GitHub project board: “If you are not yet a member of the Ambassadors GitHub Organization, please send your GitHub username to SucrenSpice as soon as possible so that she can add you to the Onboarding GitHub project.\n",
+          "It was discussed in the meeting that Core Contributors should please Consent for Onboarding’s budget .\n",
+          "Skillshare matrix and collab with R&D: “LordKizzy said it was a work in progress and changes have been made based on the feedback we got from the call with the Reps of Onboarding Workgroup and once we are done will will present it to the workgroup.”"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "skillshare matrix, onboarding journeys, Q1 2025 BUDGET, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skill database, R&D guild, publicity, decentralization research, Decentralization, skillshare sessions, research project",
+      "emotions": "speedy , Friendly, Casual"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -37945,6 +39311,134 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-04",
+      "host": "advanceameyaw",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, guillermolucero, Slate, parthiv, PeterE",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "R&D New Metta Coder lab \n",
+          "Q1 Budget and Tier system",
+          "Facilitation in Q1",
+          "Open discussion\nHow to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters."
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "AJ to give a presentation on his updates to the CSDB project (Data privacy) in the next call",
+            "assignee": "AJ",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Members to express interest in the sheet for facilitation, ",
+            "assignee": "All members",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation.",
+          "Follow up on the CSDB: Aj gave a presentation update on the User's Data Consent  ",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Lordkizzy shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank and the Marketing Guild, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild and then these tools could be marketed by marketing Guild."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -38384,6 +39878,62 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-12-16",
+      "host": "esewilliams",
+      "documenter": "Eric Davies",
+      "peoplePresent": "Ayo, Photogee, Eric Davies, lord kizzy, Effiom, Mikasa, hogantuso",
+      "purpose": "Biweekly meeting of the Strategy Guild\n",
+      "workingDocs": [
+        {
+          "title": "Strategy Guild Working Document",
+          "link": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?gid=1268899826#gid=1268899826"
+        },
+        {
+          "title": "The Strategy Guild Survey",
+          "link": "https://docs.google.com/forms/d/1FVYpm_Q1r97pK8h1PdKX-ntyvDozv2d1GXYr-BNy8hA/edit"
+        },
+        {
+          "title": "REPORT - STRATEGY GUILD  Q4 WORKSHOP",
+          "link": "https://docs.google.com/document/d/1rY2yjckO8n0h9PZR2RHz9rJEwqIQln9TbvCgj7fasaY/edit?usp=sharing"
+        },
+        {
+          "title": "Strategy review ",
+          "link": "https://docs.google.com/document/d/12-7c62Bbdc3M8EuWxbJEYfjPS7_cgJPIO4-40q5wnwk/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Q4 research report presentation by Effiom: The November workshop, focused on the Education and R&D workgroups, included three sessions—ideation, solution framework, and adoption framework—with strong participation from the R&D team and partial representation from Education, and the follow-up document is available for review and feedback.\n\nStreamlining Feedback Collection for Async Teams: Ayo mentioned that the async follow-up team should have the autonomy to determine how they gather and document feedback, as past experiences showed challenges in managing surveys and contributions effectively. They might consider presenting feedback during workgroup meetings, allotting 5-10 minutes for discussions, and documenting insights gathered from these sessions.\n\nQ4 research report by kizzy: The strategic guild's research report for the ambassador program highlights key strengths such as collaboration, strategic planning, and resource management, while addressing challenges in communication, role clarity, and resource allocation. It provides actionable recommendations, including enhancing inter-guild communication, fostering collaboration, and aligning resource allocation with community feedback to improve overall effectiveness and alignment with the program's objectives.\n\nCommunity Conflict Resolution Update: Tuzo reported that the issue raised within the community has been addressed, with both parties engaged, one showing remorse, and emphasized the need for a conflict resolution guideline to streamline future cases.\n\nUpdate on Guga's Absence and Conflict Resolution: Tuzo reported that after reaching out to Guga, he was unresponsive and uninterested in addressing the issue, and has not attended recent meetings, suggesting the team move on and focus on other matters.\n\nPhotogee also reiterated what Tuzo said, expressing frustration over Guga's lack of response and his desire to move on, which has left them feeling like they are the ones carrying the responsibility for the issue.\n\nAyo explained that after Goga criticized the Q4 budget, an independent committee was formed to investigate the matter, with Tuzo, CJ, Franki, and Photogee serving as neutral members to reach out to Goga and present evidence, though Goga later reassured them that the issue was now resolved.\n\nQ1 2025 Budget Update and Strategic Initiatives Overview: Effiom provided an update on the Q1 2025 budget, highlighting that the estimated costs remain close to the previous quarter's budget, with a total of 2,200 USD allocated. While most operational costs stayed the same, a few areas, like workshops and research, had their budgets reduced. Effiom also mentioned that, due to limited funds, only one research initiative would be undertaken instead of the planned two. He emphasized the importance of feedback from the community to guide the research selection process, with members encouraged to contribute ideas during the holiday season. The bi-weekly meetings and the workshop structure will remain the same for Q1 2025.\n\nQ1 2025 Strategic Planning: Ayo clarified that the submission of ideas for research and workshops will be done asynchronously, allowing members to think and submit their ideas, which will then be discussed in detail during the first meeting to plan the quarter, especially regarding research and workshops.",
+        "actionItems": [
+          {
+            "text": "Effiom to collect meeting notes today to ensure payments are processed before the treasury closes tomorrow.\n",
+            "assignee": "Effiom",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget , Async, Q1 projections, Workshop",
+      "emotions": "Friendly, calm, cool, chatty"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -38777,6 +40327,302 @@
     "tags": {
       "emotions": "quiet, calm, informative",
       "topicsCovered": "Marketing Guild, Trivia sessions, Points system, Q4 2024 budget, Discord, Zealy, Workgroup reserves, reserves, Treasury"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-11",
+      "host": "guillermolucero",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, guillermolucero, Slate, AJ",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "Facilitation in Q1",
+          "Open discussion\nHow to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.",
+          "MetaCoders Lab Discussion"
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "AJ to give a presentation on his updates to the CSDB project (Data privacy) in the next call",
+            "assignee": "AJ",
+            "dueDate": "11 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Members to express interest in the sheet for facilitation, ",
+            "assignee": "All members",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "11 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy to schedule a meeting for the R&D and Education Guild members to discuss collaboration.",
+            "assignee": "LordKizzy",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy will prepare materials and create rooms for the brainstorming session scheduled for next week.",
+            "assignee": "LordKizzy",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Aj to ensure integration with Rojo is completed before the next meeting.",
+            "assignee": "AJ",
+            "dueDate": "18 December 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
+          "R&D Guild Metta Code Lab  Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD.\n",
+          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to the busy schedule of Rojo and kenichi",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-12-18",
+      "host": "guillermolucero",
+      "documenter": "lord kizzy",
+      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, guillermolucero, AJ, kenichi, Rojo",
+      "purpose": "R&D Updates and Discussions ",
+      "workingDocs": [
+        {
+          "title": "Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem",
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit#heading=h.7160rr8iahel"
+        },
+        {
+          "title": "Kenichi's proposal: LEGACY v0.1",
+          "link": "https://docs.google.com/document/d/1Wt4bBpX8fFO19SnccoZUMC5EUhCThtg03G8CMR4BsYk/edit#heading=h.mh210wtijphs"
+        },
+        {
+          "title": "Reputation System using SoulBound Tokens (SBTs) ",
+          "link": "https://docs.google.com/document/d/1l0A8BFSe_RDvqDLHyJaIa1A92ggXwBBNUG2RtM8BIgo/edit#heading=h.gm1rgrhw4mb"
+        },
+        {
+          "title": "Q3 Research & Development Guild Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1UojjDUZ8oG2X11gq7aBiEAwWuCfsnehDU1oVfviBnik/edit?usp=sharing"
+        },
+        {
+          "title": "UPDATE R&D Guild Q2 Quarterly Report Response of Community Concerns ",
+          "link": "https://docs.google.com/spreadsheets/d/1s73947FVd4qQ2PLrJySpITzQvDO4py2757pqoMeHBDI/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 Quarterly Report Update: R&D Guild   Response to Community Concerns ",
+          "link": "https://docs.google.com/document/d/12PaXH1LhU0LW0p_T87G5KmmSEwgNTSEn6-Ei-sHxtkw/edit#heading=h.oc2atqqh7mud"
+        },
+        {
+          "title": "LEGACY vs Web3 Contributor Dashboard",
+          "link": "https://docs.google.com/document/d/10v3sUgdtRGkIU_a8K5roGA21-6xNzDLKEkImEiFdZdk/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Q3 Operations Update ",
+          "link": "https://docs.google.com/document/d/1AzG3_q3vOS0LoFXOjUrwyXu1OSv3qExPjiGYEYsaK44/edit?usp=sharing"
+        },
+        {
+          "title": "R&D Guild Proposal Template",
+          "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+        },
+        {
+          "title": "New Collaboration Skills Database Proposal",
+          "link": "https://docs.google.com/document/d/130e1LR8zCaeIJrpO-12eAoHze19VUkJUZK6mYyyHOSs/edit"
+        },
+        {
+          "title": "NON-DISCLOSURE AGREEMENT",
+          "link": "https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+        },
+        {
+          "title": "Retrospective and Learnings from Q4 R&D New Operations Systems",
+          "link": "https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+        },
+        {
+          "title": "Slides on the voting results ",
+          "link": "https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+          "Facilitation in Q1",
+          "Open discussion\nHow to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.",
+          "MetaCoders Lab Discussion",
+          "Good bye messages"
+        ],
+        "actionItems": [
+          {
+            "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "assignee": "AJ, Advanceameyaw",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Members to express interest in the sheet for facilitation, ",
+            "assignee": "All members",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "assignee": "LordKizzy, guillermolucero",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy to schedule a meeting for the R&D and Education Guild members to discuss collaboration.",
+            "assignee": "LordKizzy",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy will prepare materials and create rooms for the brainstorming session scheduled for next week.",
+            "assignee": "LordKizzy",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Aj to ensure integration with Rojo is completed before the next meeting.",
+            "assignee": "AJ",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "ALL team members to provide a Quarterly report on projects in developments",
+            "assignee": "Team members",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          },
+          {
+            "text": "Lordkizzy to provide a report on the Governance dashboard",
+            "assignee": "LordKizzy",
+            "dueDate": "25 December 2024",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members",
+          "UPDATE STATUS ON DEVELOPMENT: SBD Tokens: Kenichi highlighted that the work on the backend has been slow due to the holidays and that the smart contract (Cardano Plutus) is almost ready, he also noted the need for a call with the team members on the testing and promised to provide a quarter report on development. He also requested for the program's Database from rojo for the intergration",
+          "R&D Guild Metta Code Lab  Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD.\n",
+          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to an expected integration issue, but hope to resolve everything in the coming week, guillermo also pointed out the need to get the project out and receive feedback on  ",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Guillermo has been actively contributing by participating in governance calls and documenting deliverables. Lordkizzy, on the other hand, acknowledged his absence due to a three-week journey but assured he would provide a report before the week's end. ",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild ",
+          "UPDATE STATUS ON DEVELOPMENT: Web 3 Contributor's Dashboard, Rojo apologized for being absent from previous calls due to time zone difference and pointed out that he was going to work on the Quarterly report for the  Web 3 Contributor's Dashboard"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
+      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
@@ -39485,6 +41331,116 @@
     "tags": {
       "topicsCovered": "Miro Board, Translation WG, Marketing Guild, budget categories, treasury operators, training treasury operators, training, content calendar, Q4 2024 quarterly report, Q1 2025 budget",
       "emotions": "wide-ranging, Discursive, reflective, well organised"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-10-25",
+      "host": "Ayo",
+      "documenter": "Eric Davies",
+      "peoplePresent": "Ayo, Eric Davies, Photogee, Kenichi, Kareem, Cjfrankie, malik, Aguboss, Olokoji, Malik., Advanceameyaw, esewilliams, LordKizzy, Gorga Siagian, AshleyDawn",
+      "purpose": "Marketing Guild weekly meeting\n",
+      "workingDocs": [
+        {
+          "title": "Community Engagement Initiatives  - Proposal Form",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+        },
+        {
+          "title": "Community Creatives Initiaitives campaign",
+          "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+        },
+        {
+          "title": "Podcast Ideation",
+          "link": "https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit"
+        },
+        {
+          "title": "Meeting Agenda ",
+          "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?tab=t.0"
+        },
+        {
+          "title": "Mascot  Top4",
+          "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+        },
+        {
+          "title": "Design work group proposal",
+          "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+        },
+        {
+          "title": "Meeting Summary 18th Oct, 2024",
+          "link": "https://docs.google.com/document/d/1EvmE9Un8sp6zQXXKCtTnEDWoOm9SCUJLomEFJIXT26c/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Kareem to present updated brand guidelines from the Design Work Group.",
+            "assignee": "Kareem"
+          },
+          {
+            "text": "Kenichi to share a document where members can indicate interest in roles for the podcast initiative.",
+            "assignee": "Kenichi",
+            "status": "todo"
+          },
+          {
+            "text": "All Members to fill out Notion with their activities to qualify for rewards.",
+            "assignee": "All Members",
+            "status": "todo"
+          },
+          {
+            "text": "Kizzy/Mikasa to announce publicly that the content calendar is available and should be adopted by all guilds and workgroups.",
+            "assignee": "Mikasa, LordKizzy",
+            "status": "in progress"
+          },
+          {
+            "text": "Photogee to reach out to Mikasa regarding the Social Media Request Form draft.",
+            "assignee": "Photogee, Mikasa",
+            "status": "todo"
+          },
+          {
+            "text": "Ese to provide updates on community initiative proposals.",
+            "assignee": "esewilliams",
+            "status": "in progress"
+          },
+          {
+            "text": "Photogee to follow up with a link to all initiatives and SingularityNET assets.",
+            "assignee": "Photogee",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The team agreed to keep task assignments for the podcast initiative within the Marketing Guild, allowing members to indicate interest. ",
+            "opposing": "Mikasa opposed this approach, suggesting that Marketing should not be responsible for writing articles.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Content Calendar Update: Kizzy stated that the content calendar has been scheduled and shared with guilds to upload their respective content.\n",
+          "Progress Tracking: Photogee reported that responses are coming in, and he is compiling them.",
+          "Podcast Initiative: Kenichi suggested involving members from the Writers' and Video Workgroups for the podcast and assigning each episode to interested members, while Kizzy recommended that task assignments for the podcast initiative remain specifically within the Marketing Guild.",
+          "Zealot Initiative: Ese confirmed that the Zealot initiative is ready to proceed.\n",
+          "Community Proposal Submission: Ese requested that team members submit their community proposals through the community initiative link.",
+          "Mascot Initiative: Kareem announced that the mascot initiative has concluded.",
+          "Brand Guidelines Enhancement: Kareem proposed enhancing the brand guidelines to strengthen the SingularityNET brand image.",
+          "Marketing guild meeting time: Ayo suggested shifting Marketing Guild meetings to a biweekly schedule, noting that agendas have become repetitive, focusing primarily on updates without much new content.",
+          "Marketing initiative: Kenichi reiterated the importance of attending the Unilag Web3 event, highlighting tangible benefits such as networking and face-to-face connections. He suggested securing a booth, a 10-minute speaking slot, and distributing flyers with QR codes to join SingularityNET, emphasizing that this would greatly benefit the Marketing Guild.",
+          "Marketing Initiative: Kizzy raised concerns about budget constraints for attending the Unilag Web3 event, as it was not originally included in the budget. Olokoji suggested weighing the benefits against the cost, while Ayo proposed drafting a proposal to submit to the sNET Foundation for potential funding."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "community engagement, brand guidelines, content calendar, social media, meeting time, change meeting time, Notion, Rewards, Unilag Web3 event, podcasts",
+      "emotions": "Thoughtful , warm, interesting, lengthy"
     },
     "type": "Custom",
     "noSummaryGiven": false,
