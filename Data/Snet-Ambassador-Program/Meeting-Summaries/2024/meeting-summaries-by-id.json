@@ -37372,6 +37372,405 @@
       "canceledSummary": false
     }
   ],
+  "1c5088f4-51a1-47f3-8de0-49ea870cee8c": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-10-17",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Martin Rivero, Sergio, Daniela Alves",
+        "purpose": "@SNET_LatAm Program for the second X space, Deep Funding Town Hall Brazil. ",
+        "workingDocs": [
+          {
+            "title": "#2 X Update y Noticias del ecosistema @SingularityNET _ 241024",
+            "link": "https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?tab=t.0"
+          },
+          {
+            "title": "Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Marketing SubGroup",
+          "status": "carry over",
+          "narrative": "Continuing with the development of the X spaces, the second one of Q4 will be held under the leadership of Martín and Sergio. This space will have the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined.",
+          "actionItems": [
+            {
+              "text": "Martín and Sergio will have a prior meeting to organize the development of the program in the X space.",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Guillermo and Inés will be in charge of the Deep Funding Town Hall for Brazil",
+              "assignee": "guillermolucero, ines gavina",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The second X-Space of the LatAm SingularityNET community will take place on Thursday, October 18, with the theme of “Ecosystem update and news”"
+            }
+          ]
+        },
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "done"
+            },
+            {
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Rewards, X spaces, Meeting Summaries",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "60617a89-4a9f-400d-a190-3ea7293e22fd": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-26",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Martin Rivero, Sergio, Daniela Alves, Andrea Dekovic",
+        "purpose": "@SNET_LatAm Invitation to contribute with Copa América Solana, next activities Q4.",
+        "workingDocs": [
+          {
+            "title": "La Bitconf",
+            "link": "https://www.labitconf.com/"
+          },
+          {
+            "title": "María Carmo Substack",
+            "link": "https://mariacarmo369.substack.com/s/snet"
+          },
+          {
+            "title": "SingularityNET BGI",
+            "link": "https://www.youtube.com/playlist?list=PLyNIM-lVNUIfIoIVyQ_RBe3sgB1KW6HTT"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Operations SubGroup",
+          "status": "carry over",
+          "narrative": "An invitation was received to support the Solana Cup in Brazil, where SingularityNET and Fetch.AI are sponsors.",
+          "actionItems": [
+            {
+              "text": "The ambassador team members will provide support in the event's Discord channel, according to their availability and the schedules that will be assigned in the coming days",
+              "assignee": "Martin Rivero, sergiobenar, guillermolucero, ines gavina, Andrea Dekovic, Daniela Alves",
+              "dueDate": "30 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "A team from the SingularityNET LatAm ambassadors will support the Solana Cup in the activities requested by the organizers, according to the available budget."
+            }
+          ]
+        },
+        {
+          "agenda": "Strategy SubGroup",
+          "status": "carry over",
+          "narrative": "Next week, the Spanish ambassador to Brazil will be in São Paulo and will meet with Daniela Alves. The meeting could also address the topic of technology and SingularityNET.",
+          "actionItems": [
+            {
+              "status": "done",
+              "text": "Daniela will meet with the Spanish ambassador in Brazil ",
+              "assignee": "Daniela Alves",
+              "dueDate": "4 octubre 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "Daniela will meet with the Spanish ambassador in Brazil, listen to the Spanish government's approach and comment on the current situation of SingularityNET as a member of the ASI in terms of capabilities and infrastructure, to see if there is interest in forming a common agenda."
+            }
+          ]
+        },
+        {
+          "agenda": "Marketing SubGroup",
+          "status": "carry over",
+          "narrative": "Ambassadors are constantly invited to different events that will take place in the coming months. There is also the possibility of proposing events to different communities and organizations in various countries, to continue communicating the activities of SingularityNET and ASI, as part of the LatAm community activities for Q4. This week the main event of Nerdearla takes place, Martin was invited to participate as a representative of SingularityNET. Sergio presented an initiative to hold an event, taking advantage of contact with Deputy Mariela Baldivieso in Bolivia. ",
+          "actionItems": [
+            {
+              "text": "Martín will take photos, record videos, and generate content by asking 3 prepared questions to share on social media ",
+              "assignee": "Martin Rivero",
+              "dueDate": "26 septiembre 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Sergio will present a one-pager about the event he proposed, detailing the objectives, date and requirements",
+              "assignee": "Sergio",
+              "dueDate": "31 octubre 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Martín will present a proposal for possible content for the \"evolution stage\" within Bitconf 2024, where he could give a talk ",
+              "assignee": "Martin Rivero",
+              "dueDate": "31 octubre 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Reproduce and amplify the work of Daniela and María in their proposal funded in Deep Funding Round 4, as well as propose translations into Spanish of the material they selected",
+              "assignee": "guillermolucero",
+              "dueDate": "4 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Initiatives and events proposed by community members will be supported, provided they are aligned with the established objectives.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Rewards, events, strategy, Meeting Summaries",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "aec34e70-09cd-422a-aa82-3e7e2b3497cb": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-10-22",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Martin Rivero, Sergio, Daniela Alves",
+        "purpose": "@SNET_LatAm Program for the XSpace #2 Ecosystem Update' LatAm Edition / @SNET_LatAm Metta Coder Lab",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01JAV3P1CPM652SEJ6EPYW8FB7?utm_source=Share_CopyLink",
+        "transcriptLink": "https://app.read.ai/analytics/meetings/01JAV3P1CPM652SEJ6EPYW8FB7?utm_source=Share_CopyLink",
+        "workingDocs": [
+          {
+            "title": "#2 X Update y Noticias del ecosistema @SingularityNET _ 241024",
+            "link": "https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?tab=t.0"
+          },
+          {
+            "title": "Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          },
+          {
+            "title": "@SNET_LatAm Metta Coder Lab _ 171024",
+            "link": "https://docs.google.com/document/d/1RXZNXfXNDZ8qPdO1wT_D4Qa7Hm3hxJlw2AbPmLvMroc/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Marketing SubGroup",
+          "status": "carry over",
+          "narrative": "Continuing with the development of the X spaces, the second one of Q4 will be held under the leadership of Martín and Sergio. This space will have the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined.",
+          "actionItems": [
+            {
+              "text": "Martín and Sergio will have a prior meeting to organize the development of the program in the X space.",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The second X-Space of the LatAm SingularityNET community will take place on Thursday, October 18, with the theme of “Ecosystem update and news”"
+            }
+          ]
+        },
+        {
+          "agenda": "Education WG - @SNET_LatAm Metta Coder Labs",
+          "status": "carry over",
+          "narrative": "A virtual biweekly event aimed at disseminating, educating, and training developers in the LatAm region on MeTTa Language and its integration with OpenCog Hyperon. The program focuses on teaching multiparadigm programming, self-modifying code, neural-symbolic reasoning, and AGI development. The labs provide hands-on experience with MeTTa's unique architecture, empowering developers to contribute to AGI projects within a collaborative framework. Methodology, create a collective use case and work sync and a-sync with community members on the development. Work in progress. [TBD] Educate and train a team from @SNET_LatAm to execute and carry out the program. Potential candidates.",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Develope the program details during Q4",
+              "assignee": "Guillermo",
+              "dueDate": "22 October 2024"
+            },
+            {
+              "status": "in progress",
+              "text": "Reach out to Foundation and @SingularityNET MeTTA tech team",
+              "assignee": "Guillermo",
+              "dueDate": "22 October 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "Develope the program details during Q4"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Rewards, X spaces, Meeting Summaries",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "02a83844-7e87-4ae7-8d9d-72417bcb91cc": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-11-01",
+        "host": "Ayo",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Ayo, Eric Davies, Ese Williams, Photogee, Kenichi, Kareem, Cjfrankie, lord kizzy, malik, Ashley, Olokoji, Malik., Advanceameyaw, kevin Frey, Mikasa, Tevo, Peter",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Podcast Ideation",
+            "link": "https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit"
+          },
+          {
+            "title": "Mascot  Top4",
+            "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+          },
+          {
+            "title": "Design work group proposal",
+            "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Summary 25th Oct, 2024",
+            "link": "https://docs.google.com/document/d/1_fPwVDJNjHpgCiMgBcx0FLNLxoDO-030ytyIyUAVql4/edit?tab=t.0#heading=h.wny7fzkg6zcm"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Mikasa to ensure the schedule on Google Calendar is consistently updated and match the Zoom links, ensuring that any changes made to the calendar are reflected in the corresponding Zoom meeting details to avoid discrepancies.",
+              "assignee": "Mikasa"
+            },
+            {
+              "text": "Kareem to create a form for mascot design voting, which will be shared by Photogee and Ayo within the community for feedback and participation.\n\n",
+              "assignee": "Kareem, Ayo, Photogee",
+              "status": "todo"
+            },
+            {
+              "text": "All members to review and discuss the design workgroup proposal, providing input and suggestions.",
+              "assignee": "All Members",
+              "status": "todo"
+            },
+            {
+              "text": "The review team to assess the proposals currently in the pipeline, with a scheduled review session on Saturday at 1 p.m.",
+              "assignee": "lord kizzy",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The team decided that, due to the Marketing Guild’s upcoming initiatives and ongoing projects across various workgroups, it would not be in the best interest to re-allocate the translator workgroup at this time. Instead, the focus will be on maintaining reserves to better manage the current workload and initiatives in progress.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "It was decided to present the mascot design finalists to the larger community for final feedback and input.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Review and Adoption of Last Meeting’s Summary Notes",
+            "Compilation of Useful Links:\nPhotogee reported progress, noting that he has created a sheet to compile all useful links relevant to the project.",
+            "Collaboration Suggestion:\nTevo recommended that Photogee collaborate with the knowledge-based workgroup, as they also gather useful links, which could enhance information sharing and reduce redundancy.",
+            "Community Initiative Campaign Results:\nEse reported that the community initiative campaign has concluded, resulting in eight proposals. The review team will now evaluate these to decide whether to push them to the foundation or extend the campaign for additional input.",
+            "Podcast Initiative:\nKenichi suggested drafting formal invites for upcoming podcast episodes, with specific dates and potential hosts assigned to each session to improve planning and engagement.",
+            "Content Calendar & Social Media Coordination:\nKizzy proposed creating a dedicated Discord channel where representatives from a workgroup can collaborate with social media admins, facilitating follow-ups and coordination on content and post schedules.",
+            "Zealot Initiative Launch:\nEse announced that the Zealot initiative will be going live and will run until the end of the month. She encouraged team members to actively promote it across various platforms to maximize engagement.",
+            "Discussion Item: Podcast Scheduling Tool Recommendation\nTevo suggested enhancing the podcast scheduling process by setting up an automated scheduling tool. He proposed using a platform where hosts could input their availability for podcast sessions, allowing guests to select a date and time that works best for them. This would streamline scheduling by capturing guests' contact information, email, and any additional details needed for coordination upfront. Implementing this would create a more organized and efficient process, improving overall planning and preparation for each episode.",
+            "Discussion Item: Workgroup Management and Content Scheduling\nKizzy inquired about the workgroups Tevo manages, specifically those involved in uploading videos to YouTube. He asked if Tevo is coordinating with groups like Treasury and GitHub, and if there are any additional workgroups that need to be informed. Additionally, Kizzy sought clarification on the scheduling timeline for these YouTube posts, aiming to understand the workflow and ensure content consistency across platforms.",
+            "Mascot Campaign Update:\nKareem reported that the mascot competition concluded on the 20th of last month, receiving a total of 16 submissions. He, along with Goga and Malik, narrowed down the submissions to four finalists based on brand guidelines and the defined mascot characteristics.",
+            "Design Workgroup Proposal Presentation:\nKareem presented the concept and objectives behind the design workgroup's proposal, outlining how it aligns with the brand's goals and visual standards.",
+            "AGIX Reallocation Request for Translations:\nTevo proposed reallocating around 500 AGIX from the marketing guild’s budget to support the translators workgroup, as quarterly translation tasks had exceeded initial funding. This reallocation would ensure that translation needs are adequately met.",
+            "Low Meeting Participation:\nEse expressed concern over the low level of participation in meetings, highlighting the need for greater engagement from members.",
+            "Data Submission Challenges:\nOlokoji shared difficulties with receiving data on time, encouraging members to submit their work promptly rather than waiting until the end of the month to improve reporting efficiency.\n\n",
+            "Marketing Guild's Role in Governance Workgroup:\nAyo proposed that the Marketing Guild should actively participate in the Governance Workgroup, as marketing aligns closely with the ambassador program’s purpose. He also mentioned potential rewards for members who join governance calls, which could incentivize involvement.",
+            "Onboarding Tool Proposal for User Engagement and Olympus Collaboration: Tevo presented an onboarding tool for Olympus Insight to introduce new users to blockchain and decentralized AI, suggesting that SingularityNET integrate marketing and visual elements to enhance engagement and consider collaborating with Olympus to share expertise on decentralized ambassador programs, potentially leading to new revenue opportunities and expanding SingularityNET’s reach."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "podcasts, Town Hall update, Notion, community engagement",
+        "emotions": "Friendly, interactive, long, Well-attended, informative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "35418ca8-3d65-4df4-9b77-b795bd10f5e2": [
     {
       "workgroup": "Video Workgroup",
@@ -37738,6 +38137,66 @@
       "canceledSummary": false
     }
   ],
+  "702bfa5f-5729-4e10-8051-fffcff8e6f05": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-23",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Martin Rivero, Sergio",
+        "purpose": "@SNET_LatAm Program for the X space #2: \"Ecosystem Update and News\"",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01JAXQAJCE7894CMJKWH59Y9QT?utm_source=Share_Nav ",
+        "transcriptLink": "https://app.read.ai/analytics/meetings/01JAXQAJCE7894CMJKWH59Y9QT?utm_source=Share_Nav ",
+        "workingDocs": [
+          {
+            "title": "#2 Update y noticias del ecosistema",
+            "link": "https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link "
+          },
+          {
+            "title": "Q4 X space program SNET_Latam",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Communications SubGroup",
+          "status": "carry over",
+          "narrative": "Martín and Sergio will be in charge of the second X space of SNET_LatAm entitled \"ecosystem update and news\", which will take place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting.",
+          "actionItems": [
+            {
+              "text": "The X Space will begin with an opening and presentation by Guillermo. Then, Martín will comment on the first news item, Sergio will give the second, and so on",
+              "assignee": "Martin Rivero, sergiobenar, guillermolucero",
+              "dueDate": "23 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "The news will be developed in the following order: news from the SNET ecosystem, news from the SNET_Latam ecosystem, news from outside the ecosystem.",
+              "assignee": "Martin Rivero, sergiobenar",
+              "dueDate": "23 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The second X-Space of the SNET_Latam community will take place on Thursday, October 24, with the theme of “Ecosystem Update and News”"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, X spaces, Meeting Summaries",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "a0e04909-2e29-4c9a-9b28-e4db47b1c595": [
     {
       "workgroup": "Archives Workgroup",
@@ -37866,6 +38325,70 @@
       "canceledSummary": false
     }
   ],
+  "891b002e-128d-42c6-a45c-be5d6b1ca217": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-11-05",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Sergio",
+        "purpose": "@SNET_LatAm Program for the X space #3: \"Biotechnology. Transhumanism / Rejuve-AI\"",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01JBZ5AQ7Y7670G0ZPYE3XQASN",
+        "transcriptLink": "https://app.read.ai/analytics/meetings/01JBZ5AQ7Y7670G0ZPYE3XQASN",
+        "workingDocs": [
+          {
+            "title": "#2 Update y noticias del ecosistema",
+            "link": "https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link "
+          },
+          {
+            "title": "Q4 X space program SNET_Latam",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          },
+          {
+            "title": "XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI",
+            "link": "https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Communications SubGroup",
+          "status": "carry over",
+          "narrative": "Martín and Sergio will be in charge of the second X space of SNET_LatAm entitled \"ecosystem update and news\", which will take place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting.",
+          "actionItems": [
+            {
+              "text": "Call2action for X Space include bullet points",
+              "assignee": "sergiobenar, guillermolucero",
+              "dueDate": "12 noviembre 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Develop programm on detail",
+              "assignee": "Martin Rivero, Daniela Alves, Ines",
+              "dueDate": "14 noviembre 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The second X-Space of the SNET_Latam community will take place on Thursday, October 24, with the theme of “Ecosystem Update and News”"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, X spaces, Meeting Summaries",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "30ee5e21-63c0-4c98-bbd7-5737a8bb464e": [
     {
       "workgroup": "Strategy Guild",
@@ -37925,6 +38448,180 @@
       "tags": {
         "topicsCovered": "content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up , survey , Q1 2025 projections, Signposting , Marketing Guild",
         "emotions": "funny , resourceful, informative, speedy , looking-ahead"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "eb21e403-684f-43ea-8009-e408854a3397": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-11-06",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Sergio, Daniela Alves, Martin Rivero",
+        "purpose": "@SNET_Latam Retrospective October 2024 - Deep Funding Town Hall Coordination / SNET_Latam Ambassadors Guild ",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01JC1SAQF03E391H2M150JS1ZY",
+        "transcriptLink": "https://app.read.ai/analytics/meetings/01JC1SAQF03E391H2M150JS1ZY",
+        "workingDocs": [
+          {
+            "title": "Q4 X space program SNET_Latam",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          },
+          {
+            "title": "XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI",
+            "link": "https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0"
+          },
+          {
+            "title": "Q4 OPERACIONES @SNET_Latam Ambassadors November @Sergio _ 111124 ",
+            "link": "https://docs.google.com/spreadsheets/d/1jEFRpFAuKa6zNDeHupZrcsahicG-7Hc2LWxk4m2aXHI/edit?usp=sharing"
+          },
+          {
+            "title": "OPERACIONES @SNET_Latam Ambassadors November @Martin _ 111124 ",
+            "link": "https://docs.google.com/spreadsheets/d/1Tji4Oc46OrjzcjAMUM3iNhf-IWzWEBVni6Z0I2yVZq4/edit?usp=sharing"
+          },
+          {
+            "title": "Q4 OPERACIONES @SNET_Latam Ambassadors November @Daniela _ 111124 ",
+            "link": "https://docs.google.com/spreadsheets/d/1WSsTfWlIIL_AUPibTz0tHSzxTlnIdHvS7CtBzqgdiY0/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Operations SubGroup",
+          "status": "carry over",
+          "narrative": "Recent challenges, such as Solana’s Copa America, were discussed and the team’s efforts were acknowledged. Guillermo emphasised the value of diversity of capabilities within the group, while Daniela Alves proposed modifications to the organisation of tasks to optimise team performance. The importance of improving communication and organisation was underlined, as was the need for all members to actively contribute. Sergio Benavides highlighted the need to establish a clearer structure for teamwork, in order to facilitate the achievement of long-term objectives. Martin Rivero reflected on his experience in the team, pointing out the need for open communication and clear organisation in order to contribute effectively. A system for recording individual contributions was proposed and outstanding issues from the previous quarter were addressed, emphasising the importance of continued commitment by all.",
+          "actionItems": [
+            {
+              "text": "The follow-up forms must be completed by November 13, including the tasks of November 14, as is the case of the third X Space",
+              "assignee": "sergiobenar, guillermolucero, Martin Rivero, Daniela Alves",
+              "dueDate": "13 noviembre 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "It was decided to implement a contribution tracking sheet for each member of the ambassador team. This sheet must be filled out every 15 days to stay up to date with all tasks and payments."
+            }
+          ]
+        },
+        {
+          "agenda": "Communications SubGroup",
+          "status": "carry over",
+          "narrative": "The official call for round 5 of Deep Funding is approaching. The Town Hall will be held on Thursday, November 7th and will be presented by Martín and Sergio. The call for the Hackathon organized by Deep Funding will be included and the RFP related to Opencog Hyperon that is currently in effect will also be mentioned.",
+          "actionItems": [
+            {
+              "text": "Martín and Sergio will coordinate the development of the Town Hall to cover all the points on the agenda found in the presentation provided by Guillermo.",
+              "assignee": "Sergio, Martin Rivero",
+              "dueDate": "7 noviembre 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Sergio and Martín will be in charge of Deep Funding's Town Hall #24 on Thursday, November 7th."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Meeting Summaries, X spaces",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "4bcad45e-78ab-4cd8-ab2e-35334bef40b0": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-11-08",
+        "host": "Ayo",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Ayo, Eric Davies, Kareem, Cjfrankie, lord kizzy, Ashley, Malik., Mikasa, SubZero, GorgaSeagian, Temiloluwa Hamzat, kateri",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Podcast Ideation",
+            "link": "https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit"
+          },
+          {
+            "title": "Mascot  Top4",
+            "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+          },
+          {
+            "title": "Design work group proposal",
+            "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          },
+          {
+            "title": "Meeting Summary 1st Nov, 2024",
+            "link": "https://docs.google.com/document/d/14rR75nSfokWc4jyY5p5xvxrQzoqdMVpKdJs9mAa5FBU/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Ops Team to set up breakout rooms with the Graphics team for enhanced collaboration.\n\n",
+              "assignee": "ops, Graphics Team"
+            },
+            {
+              "text": "Ops Team to schedule a meeting for either Saturday or Sunday to discuss upcoming tasks and initiatives.",
+              "assignee": "ops, Graphics Team",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "It was decided that the Operations (Ops) team will establish a breakout room with Graphics starting this quarter, in preparation for streamlined collaboration and alignment for the next quarter.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Review and Adoption of Last Meeting’s Summary Notes: The team reviewed and adopted the summary notes from the previous meeting.",
+            "Design Proposal:\nKareem noted that typically, new workgroups are not established mid-quarter, suggesting that funding for the proposal could potentially come from the Marketing Guild.",
+            "Podcast Initiative:\nAn interest link for the podcast initiative was shared during the meeting to gather participants.",
+            "Breakout Room Structure:\nAyo proposed organizing breakout rooms into “Ops” and “Graphics” groups, with “Comms” merging under “Ops” to streamline communication efforts.",
+            "Community Spotlight Hold:\nKizzy inquired about the delay with the community spotlight, seeking clarification on its status.",
+            "Content Calendar Updates:\nKateri pointed out that only 9 out of 18 workgroups had updated their contributions to the content calendar, affecting scheduling and coordination across teams.",
+            "Activity Continuity:\nKizzy emphasized the importance of maintaining ongoing activities, as lapses could affect future budget requests.",
+            "Mascot Campaign Payment Process:\nAyo questioned whether every community initiative should include operational payments and recommended that all payments occur at the end of each month to avoid unexpected expenses. He also suggested that members log extra hours in Notion if they exceed standard work hours.",
+            "Increased Work Rate Encouraged:\nKareem encouraged everyone to enhance their productivity to meet project deadlines and expectations."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Rewards, Guilds , Proposal",
+        "emotions": "Friendly, Poor Attendance , The meeting was quick and progressive"
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -38270,6 +38967,90 @@
       "tags": {
         "topicsCovered": "deadlines, community engagement, Budget , Quarterly Report, Strategy Guild, Marketing Guild, Quorum, Core Contributor, Budget Approvals, Decentralization, q2 2024 quarterly report, q3 2024 budget, consent decision making, consent process, consent form, Overlapping projects, work overlap, validity of strategy guild, validity",
         "emotions": "critical, analytical, chatty, shouty, aggressive in parts, inconclusive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "734d0b97-98d7-4d40-b58b-e6544e7dc7bf": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-11-13",
+        "host": "Guillermo",
+        "documenter": "Sergio",
+        "peoplePresent": "Guillermo, Sergio, Daniela Alves, Martin Rivero",
+        "purpose": "@SNET_LatAm Q4 Operations / communications @SNET_Latam Ambassadors / X Space #3 - Transhumanism Biotech & Rejuve AI",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01JCKT54DB1891SJGCTN4TPWGR?section=transcript ",
+        "transcriptLink": "https://app.read.ai/analytics/meetings/01JCKT54DB1891SJGCTN4TPWGR?section=transcript ",
+        "workingDocs": [
+          {
+            "title": "#2 Update y noticias del ecosistema",
+            "link": "https://docs.google.com/document/d/1M6MSuG-lfKjo72GqaDk58iNijQVygaT6JCzlaTjAS-s/edit?usp=drive_link "
+          },
+          {
+            "title": "Q4 X space program SNET_Latam",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?usp=drive_link"
+          },
+          {
+            "title": "XSpace #3 > 14/11/2024 Biotecnología. Transhumanismo / Rejuve-AI",
+            "link": "https://docs.google.com/document/d/1AY_IgD0nB9gFVrQHiQCqvOWxvMA759Db-_EXV5LCAgw/edit?tab=t.0"
+          },
+          {
+            "title": "About Rejuve.AI _ 141124",
+            "link": "https://docs.google.com/document/d/1BYh1ZWVkoEy_SJ2sk6LuLQWkUsAY4IATCiwyh3X8Fl8/edit?tab=t.0#heading=h.youhds44fiil"
+          },
+          {
+            "title": "SNET_Latam on X",
+            "link": "https://x.com/SNET_Latam/status/1856436765118300292"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Communications SubGroup",
+          "status": "carry over",
+          "narrative": "In line with the X Spaces program for Q4, we will have the third space on Thursday, November 14 (22:00 UTC), in this space we will address the topics of transhumanism and biotechnology, in addition to reviewing some milestones achieved by Rejuve AI, which is part of the SingularityNET ecosystem and is a real use case with great importance. Martín Rivero presented a document that includes a philosophical introduction and technical topics, while Inés will contribute her perspective on transhumanism and Dani will participate in the discussion. Guillermo suggested improvements in the structure of the content, and it was agreed that all participants can make comments until the event, highlighting collaboration and flexibility in planning. The importance of document translation was also discussed, with Daniela Alves confirming the sending of a translation into Portuguese and the need to humanize translations. ",
+          "actionItems": [
+            {
+              "text": "Guillermo will open the space, then Martín will guide the development of the points defined in this meeting according to the attached document, Inés, Daniela and Sergio will participate in the conversation.",
+              "assignee": "sergiobenar, guillermolucero, Martin Rivero, Daniela Alves, inesgav",
+              "dueDate": "14 noviembre 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The SNET_Latam ambassador team will participate in X Space #3, which will be led by Martín, Inés and Daniela, with the space open to participate in the conversation."
+            }
+          ]
+        },
+        {
+          "agenda": "Operations SubGroup",
+          "status": "carry over",
+          "narrative": "At the previous meeting of the SNET_Latam ambassador team, the registration of contributions for each team member was determined, which will be done using the documents prepared by Guillermo.",
+          "actionItems": [
+            {
+              "text": "Daniela, Martin and Sergio will present their contribution records in their individual documents",
+              "assignee": "Sergio, Martin Rivero, Daniela Alves",
+              "dueDate": "15 noviembre 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Core contributors of the Latin American Guild must fill out the contribution forms for the first half of November."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Meeting Summaries, X spaces",
+        "emotions": "Collaborative, Strategic, Task-focused",
+        "other": "Team Work"
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -38780,6 +39561,88 @@
       "canceledSummary": false
     }
   ],
+  "a7c3be74-76dc-4993-b56a-a1d456afdf03": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-11-15",
+        "host": "Ayo",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Ayo, Eric Davies, Cjfrankie, lord kizzy, Ashley, SubZero, kateri, esewilliams, advanceameyaw, merryman",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Mascot  Top4",
+            "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+          },
+          {
+            "title": "Design work group proposal",
+            "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          },
+          {
+            "title": "Meeting Summary for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1dXgr6fnNPQAw_NUQ7-0R_yGLYGqIErnqD-Q4vhudfx0/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Kareem to provide clarification on the mascot design voting process, ensuring transparency and access to results for all members.",
+              "assignee": "kareem"
+            },
+            {
+              "text": "Marketing Guild to present the budget cap discussion to the larger house for consensus and alignment on fund allocation strategies.",
+              "assignee": "all members",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "It was decided that the budget allocation process will be revised to discontinue auto-payments for members who show minimal or no participation in the Marketing Guild, ensuring funds are better utilized to support active contributors and initiatives.",
+              "rationale": "Given the Marketing Guild's already limited funds, it is essential to optimize resource allocation. Discontinuing auto-payments for members with minimal or no participation ensures that the available budget is directed toward active contributors and impactful initiatives. This approach enhances productivity, maintains accountability, and maximizes the effectiveness of the guild's limited financial resources."
+            }
+          ],
+          "discussionPoints": [
+            "Mascot Design Voting Transparency: Ayo emphasized the importance of ensuring transparent access to voting results for the mascot design competition.",
+            "Zealot Publicity: Ese announced that publicity efforts for the Zealot initiative would commence on Monday.",
+            "Marketing Budget Cap: Kizzy presented the current budget cap, highlighting the limited allocation to the Marketing Guild—approximately half of the proposed amount. He also criticized the guild's lack of involvement in governance.\nAshley suggested that the budget cap should be reviewed and adjusted regularly to ensure alignment with priorities.\nAyo proposed merging some guilds to optimize resource allocation and collaboration.\n",
+            "Guild Membership Redundancy: Kizzy pointed out the issue of redundancy within the Marketing Guild and suggested removing inactive members to improve efficiency.",
+            "Ops taskforce & facilitator reward: Ayo raised the need to review ops taskforce and facilitator's reward to ensure it aligns with his contributions."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Budget , Rewards, Governance",
+        "emotions": "frustrated, Deliberative, differing opinions"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "0b1fa08b-3e49-4980-84ba-759c11a7ec95": [
     {
       "workgroup": "Video Workgroup",
@@ -38841,6 +39704,129 @@
       "tags": {
         "topicsCovered": "Budget fitting, Reward system, Q4 report, Tier system",
         "emotions": "productive, informative, Organised, Thoughtful , repetitive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "919a4012-0db1-44b1-acfe-7e9264696d16": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-11-22",
+        "host": "LordKizzy",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Eric Davies, lord kizzy, Ashley, SubZero, kateri, advanceameyaw, kareem, Hamzat, photogee, Mikasa, Malik, Gorga Siagian",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Mascot  Top4",
+            "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+          },
+          {
+            "title": "Design work group proposal",
+            "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          },
+          {
+            "title": "Meeting Summary - Marketing Guild - 15 November 2024",
+            "link": "https://docs.google.com/document/d/1stOIVcML_3x5i6hhqvch4Pf6VjGw61Oe-lu4k2HJzDI/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Kareem to announce the winner of the mascot competition today.\n",
+              "assignee": "kareem",
+              "status": "todo"
+            },
+            {
+              "text": "Kateri to contact the Translator Workgroup regarding the content calendar and obtain the email of their representative.\n",
+              "assignee": "Kateri",
+              "status": "todo"
+            },
+            {
+              "text": "Kizzy to reach out to Peter to create a channel that grants edit access to all relevant emails on the content calendar.\n",
+              "assignee": "LordKizzy",
+              "status": "todo"
+            },
+            {
+              "text": "Photogee to share the compiled useful links with Kizzy.\n",
+              "assignee": "photogee",
+              "status": "todo"
+            },
+            {
+              "text": "Photogee to coordinate with Ese and Ayo for the TownHall updates.\n",
+              "assignee": "photogee",
+              "status": "todo"
+            },
+            {
+              "text": "Hamzat to manage the podcast initiative in collaboration with Kenichi.\n",
+              "assignee": "hamzat",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Removal of Core Team Follow-Up call allocation: It was agreed to eliminate Core Team follow-up call allocation from the budget due to financial constraints.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Collaboration on Zealy Campaign: We agreed that Writers, Marketing, and Video Workgroups will collaborate on the Zealy campaign to share the budget evenly and also increase engagement on social media posts.\n",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Removal of Tooling Call allocation: The decision was made to remove tooling fees to optimize the budget.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Exclusion of Figma from Budget: Figma was removed from the budget allocation to address budgetary restrictions.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Communication and Collaboration:\nCJ is to work with Ese on the zealot campaign, and hazmat to work with kenichi on the podcast initiative\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Review Committee: The review team was unable to attend the community initiative meeting due to the incorrect link being shared.\n",
+            "Mascot Design: Voting has been completed, and the final mascot design and name will be announced. However, the design needs adjustments to align with brand guidelines and must include the SingularityNET logo.\n",
+            "Content Calendar: Sub Zero presented updates from all workgroups, with only the Translator Workgroup pending recorded email input from their representative.\n",
+            "Zealy Initiative: The Zealy initiative has officially been launched.\n",
+            "Budget Breakdown: Kizzy presented the budget breakdown to gather input from members.",
+            "Community Initiative Funding: Kizzy suggested pushing the community initiative to the foundation due to budget constraints.\n",
+            "Platform Replacement for Budget Constraints: Kizzy proposed replacing Notion with GitHub to reduce costs.",
+            "Social Media Branding: Kareem noted that two social media posts did not adhere to brand guidelines and also inquired if the mascot activity had been paused.\n",
+            "Content Approval Process: Kizzy clarified that all content should go through Mikasa, then the Graphics team, before being posted.\n",
+            "Mascot Activity Payment Discussion:  Kizzy mentioned that after the mascot activity concludes, there will be a discussion to finalize payments for extra activities related to the campaign."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Zealy, Collaboration, Onboarding, TH Update ",
+        "emotions": "Collaborative, Thoughtful , productive, Deliberative, Brainstorm, productive "
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -39655,6 +40641,86 @@
       "canceledSummary": false
     }
   ],
+  "62bee32a-c3a5-4b13-9461-5c8a61d76442": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-11-29",
+        "host": "Ayo",
+        "documenter": "LordKizzy",
+        "peoplePresent": "lord kizzy, Ashley, SubZero, kateri, advanceameyaw, kareem, photogee, esewilliams, Aguboss, CJFrankie",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Mascot  Top4",
+            "link": "https://docs.google.com/document/d/1M5LzIHl0nQmIO3jSB3SCJpQOZf3cfg1SbdGopb2u3W4/edit?usp=sharing"
+          },
+          {
+            "title": "Design work group proposal",
+            "link": "https://docs.google.com/document/d/11S48I_jYovOB_Feyj0ZRVAdbmM8u1ztcbpCh7C1y-gY/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          },
+          {
+            "title": "Marketing guild meeting summary 22 Nov",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Lordkizzy and photogee to review the guild and also present an initial draft for new roles and responsibilities ",
+              "assignee": "LordKizzy, photogee",
+              "status": "todo"
+            },
+            {
+              "text": "Ese and Kareem are to prepare a Governance document",
+              "assignee": "esewilliams, kareem",
+              "status": "todo"
+            },
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Marketing Guild Budget:\nThe Marketing Guild's budget has been finalized and submitted, moving to the consent round for approval.",
+            "Graphics Initiative:\nKareem reported that the Graphics Initiative has been approved by the program and is currently underway.",
+            "Restructuring the Marketing Guild:\nVarious suggestions were made regarding the restructuring of the guild to improve efficiency and functionality.",
+            "Podcast Initiative:\nLordkizzy asked members if the proposed role changes for the initiative should be implemented in the current quarter or deferred to Q1 2025.",
+            "Zealy Campaign:\nCJ Frankie requested clarity on the roles, requirements, and deliverables for the campaign.",
+            "Meeting Facilitation:\nAyo proposed having a task force member assist him for the remainder of Q1. However, Lordkizzy raised concerns that this might disrupt the distribution of payments."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Budget , Governance, Roles, consent",
+        "emotions": "Thoughtful , warm, Friendly, productive, contructive criticism"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "d0b70808-9a49-44c2-95da-8a0903100a22": [
     {
       "workgroup": "Governance Workgroup",
@@ -40069,6 +41135,84 @@
       "tags": {
         "topicsCovered": "sNET mission and vision, inclusion, Africa, LatAm, carbon footprint, diversifying, SingularityNET Foundation, Foundation, Ambassador Program reserves, reserves, BeGIN, fishbowl interviews, interviewing, research, qualitative research, Ethics, Decentralization, AI ethics, consultative decision-making, mentorship",
         "emotions": "calm, Organised, ideas, exploratory"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "3cb82fa2-fa81-46f7-acef-7aa28c6c37b1": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-12-06",
+        "host": "esewilliams",
+        "documenter": "Eric Davies",
+        "peoplePresent": "lord kizzy, Ashley, SubZero, kateri, advanceameyaw, kareem, esewilliams, Gorga Siagian, kenichi, Mikasa, Merryman, Eric Davies",
+        "purpose": "Marketing Guild weekly meeting\n",
+        "workingDocs": [
+          {
+            "title": "Community Engagement Initiatives  - Proposal Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSc0Sq3sOUShlMdJC25TCQ31rtgXxckZ3OYXRrHVhcMfewURtg/viewform"
+          },
+          {
+            "title": "Community Creatives Initiaitives campaign",
+            "link": "https://docs.google.com/document/d/1qu35-D8o093OytFC14EMAVKYZtelcCxs_6fRvaXkO9E/edit?tab=t.0"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "singularityNET Marketing WG October.pptx",
+            "link": "https://docs.google.com/presentation/d/1icSrwGMjIbLEhh33ev_X1DYdBitC8BTA/edit#slide=id.p9"
+          },
+          {
+            "title": "Marketing guild meeting summary 22 Nov",
+            "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+          },
+          {
+            "title": "Roles and Responsibility",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Kizzy and Photogee to have a call on the key roles that are important and the ones that we need to push going forward. And also get the list of members that have not been performing or review the performance and get the list of members so that we could discuss their fate in the marketing guild.\n",
+              "assignee": "LordKizzy, photogee"
+            },
+            {
+              "text": "Kenichi to share the link to the governance document created.\n",
+              "assignee": "kenichi",
+              "status": "todo"
+            },
+            {
+              "text": "Kizzy to share the roles and responsibility in the marketing guild for inputs.\n",
+              "assignee": "LordKizzy",
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Low Participation: Ese highlighted the low participation within the guild and suggested closing activities for the year. Kizzy recommended continuing work on the governance document to establish a clear direction for the upcoming year.\n",
+            "Governance Document: Ese presented a governance document outlining attendance, task completion, KPIs, payment guidelines, deliverables, rules, penalties, and governance goals. Kizzy shared a roles and responsibilities document for feedback.\nEse proposed sharing the document within the guild for further input before the next meeting.\nKenichi recommended merging the two governance documents, adding them to Notion, and instituting a regular audit process.\n",
+            "Core Members: Kizzy noted the reduction of core members from 12 to 10 due to role adjustments.\nKareem proposed assessing current core members' contributions to optimize roles based on guild priorities.\n",
+            "Analytics Team Debate: Kizzy emphasized the importance of having an analytics team to replace redundant roles.\nEse opposed the idea, suggesting that social media managers could handle analytics.\nThe group discussed whether to maintain the analytics team, with Kizzy suggesting its removal if deemed unnecessary.\n",
+            "Community Initiative Review: The review team mentioned consolidating feedback into a single document.\n",
+            "Technical Tools: Kenichi clarified that Notion is not Tally's backend but was adapted as a database for the guild.\nHe explained Tally's features, including CSV export and integrations with tools like Airtable and Zapier, suggesting improved visibility for tasks and contributions.\n",
+            "Outreach Strategies:\nKenichi emphasized aligning the ambassador program's outreach strategies with the upcoming funding round, focusing on event guidelines, KPIs, and leveraging community diversity for greater impact.\n"
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Thoughtful , Collaborative , analytical, informative",
+        "topicsCovered": "Governance, Roles, Task Assignment"
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -41671,6 +42815,150 @@
       "canceledSummary": false
     }
   ],
+  "6abb4a9e-2d72-4700-b9a5-092b0d1ac910": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-11-01",
+        "host": "Tevo",
+        "documenter": "Advanceameyaw, Effiom",
+        "peoplePresent": "advanceameyaw, Ashley, effiom, lord_kizzy, tevo, TheFreysDefi",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "meetingVideoLink": "https://youtu.be/mPduh-UUTjI",
+        "miroBoardLink": " https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764605060449175&cot=14",
+        "otherMediaLink": " https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Knowledge Base WG Proposal Q4 2024",
+            "link": "https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/"
+          },
+          {
+            "title": "Knowledge Base WG - Introduction to Knowledge Base WG",
+            "link": "https://www.youtube.com/watch?v=jlHcTBzeJ0Y"
+          },
+          {
+            "title": "KBWG Schedule on Miro",
+            "link": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10"
+          },
+          {
+            "title": "Knowledge Base WG Miro Board and Activities",
+            "link": "https://www.youtube.com/watch?v=ml_kDw09omQ"
+          },
+          {
+            "title": "Managing Meeting Summaries Guide",
+            "link": "https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Introduction and Onboarding to Knowledge Base WG",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "The new member should watch video and read the WG’s proposal",
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Overview of the KBWG onboarding miro board",
+            "Historic walkthrough of WG to new member",
+            "Difference between the Knowledge Base WG and Archives WG",
+            "Explaining our resource planning process"
+          ]
+        },
+        {
+          "agenda": "Workgroup Project Management",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Advance will draft the meeting summary. Effiom will review and publish it in Discord",
+              "assignee": "Advanceameyaw, Effiom",
+              "status": "done"
+            },
+            {
+              "text": "Draft Quarterly Report for Q4",
+              "assignee": "Effiom, lord kizzy",
+              "status": "todo"
+            },
+            {
+              "text": "Update WG Zoom schedule",
+              "assignee": "Tevo",
+              "status": "todo"
+            },
+            {
+              "text": "Review reward distribution for Knowledge Base WG",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Reward distribution for October participation would be delayed by a week and would be distributed after October rewards has been paid",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that funds for Drafting Q4 Report will be taken from Process Guild as there was no allocation for it on Knowledge Base Q4 budget",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Implement a process to use our Custom GPT for organizing Assets"
+            }
+          ],
+          "discussionPoints": [
+            "Positioning the WG in a way that allows people contribute to avoid waste of rewards",
+            "Reviewing the WG Dework Board for October 2024",
+            "Do we have funds allocated for Q4 Reporting?",
+            "Meeting Summary for the 01.11.2024 session",
+            "Looking ahead into Q1 2025 ",
+            "Our approach to collecting Items "
+          ]
+        },
+        {
+          "agenda": "Create GitHub to automatically update GitBook",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Create access to GitBook and buy licenses",
+              "assignee": "Tevo",
+              "status": "todo"
+            },
+            {
+              "text": "Description of assigned KBWG categories",
+              "assignee": "Effiom, Advanceameyaw",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to get a license Gitbook account either plus or pro eventually"
+            },
+            {
+              "decision": "We agreed to use GitBook to enter data"
+            },
+            {
+              "decision": "Each Knowledge Base Category would be provided with descriptions"
+            }
+          ],
+          "discussionPoints": [
+            "Creating GitBook and GitHub accounts",
+            "Synchronization of the accounts created",
+            "GitHub, we will use Gitbook to enter data",
+            "Initializing our GitHub repo with a commit on categories"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ambassador Gitbook, Miro Board, Github, Project Management, Dework, Category description, Q4 Report",
+        "emotions": "Interactive, detailed, collaborative, educative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "d3a07da1-3a55-4a34-b54c-f7989f95df61": [
     {
       "workgroup": "Archives Workgroup",
@@ -42236,6 +43524,177 @@
       "canceledSummary": false
     }
   ],
+  "1518e6d1-073a-4eca-8221-e01f188afeb2": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-11-22",
+        "host": "Tevo",
+        "documenter": "Effiom, Tevo",
+        "peoplePresent": "advanceameyaw, effiom, tevo",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764606365412078&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Knowledge Base WG Proposal Q4 2024",
+            "link": "https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/"
+          },
+          {
+            "title": "Knowledge Base WG - Introduction to Knowledge Base WG",
+            "link": "https://www.youtube.com/watch?v=jlHcTBzeJ0Y"
+          },
+          {
+            "title": "KBWG Schedule on Miro",
+            "link": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10"
+          },
+          {
+            "title": "Knowledge Base WG Miro Board and Activities",
+            "link": "https://www.youtube.com/watch?v=ml_kDw09omQ"
+          },
+          {
+            "title": "Managing Meeting Summaries Guide",
+            "link": "https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/"
+          },
+          {
+            "title": "DRAFT - Knowledge Base WG Q4 Report",
+            "link": "https://docs.google.com/document/d/1VqjcD9E_cEtA2INhVijfZO4H2m9R0lNna3u_La-cRIU/edit?tab=t.0#heading=h.mlz7hrgm8sds"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Workgroup Management",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Effiom to draft meeting summary. Tevo will review and publish in Discord",
+              "assignee": "Effiom, Tevo",
+              "status": "done"
+            },
+            {
+              "text": "Continue Drafting Categories + subcategories",
+              "status": "in progress"
+            },
+            {
+              "text": "Effiom will draft Q1 2025 proposal. Tevo will review.",
+              "assignee": "Tevo, Effiom",
+              "dueDate": "25 November 2024",
+              "status": "done"
+            },
+            {
+              "text": "Move/Copy the draft of Q4 Report to SingularityNET Folder",
+              "assignee": "Effiom",
+              "dueDate": "25 November 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that the Q1 2025 proposal needs to be ready for submission on 25.11.2024 with the Q4 Report and budget",
+              "rationale": "To ensure we meet the deadline set",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We should structure the GitBook Base under Site, not Spaces (spaces cannot be public)",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Draft Proposal for Q1 2025",
+            "Meeting Summary for 22.11.2024",
+            "Description of categories and subcategories"
+          ]
+        },
+        {
+          "agenda": "Retrospective and Ideation for next Quarter",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Next quarter we create new schedule to check sentiment",
+              "status": "in progress"
+            },
+            {
+              "text": "Create a video of full process flow once we got it all set up, it's quite detailed and interesting",
+              "status": "todo"
+            },
+            {
+              "text": "Propose in Q1 proposal to create a script to generate GitHub markdown files from Miro Board Async Resource csv Export",
+              "assignee": "Effiom",
+              "dueDate": "25 November 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to create new schedule to check sentiment quarterly as Process Guild activity",
+              "rationale": "Change in schedule was noted as what didn't go well, as it was unclear if it affected participation",
+              "opposing": "None",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "What went well? \n\n\nWe finally created GitBook and tried and understood the flow. Excited to see the GitBook outcomes\n\nWe used GPT and it worked well - Someone liked using AI to organize assets and it saved a lot of time\n\nProject management went well - Different people in workgroup created Dework Tasks this quarter\n\nDespite moving a lot of work async and reducing our operational alignment, we made progress on proposal",
+            "What didn't go well?\n\n\nMeeting participation has dropped - Unclear if it was because of time change? Because we seemed to have more participants on Wednesdays\n\nAssigning tasks async didn't go well at all\n\nWorkgroup contributions were less decentralised",
+            "What should we do in Quarter 1?\n\n\nWork towards increasing participation\n\nPlanning with the 4k AGIX cap"
+          ]
+        },
+        {
+          "agenda": "Plans for next Session",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Update Google Calendar and Zoom to reflect agreed next meeting date",
+              "assignee": "Tevo",
+              "dueDate": "16 December 2024",
+              "status": "done"
+            },
+            {
+              "text": "Have a workgroup to review and edit categories for GitBook",
+              "status": "todo"
+            },
+            {
+              "text": "We decide on uploading date on the next meeting",
+              "status": "todo"
+            },
+            {
+              "text": "Gitbook, Miro Board, Q4 Report, Retrospective, GitHub, Q1 Proposal",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to change the next meeting date to 20th Dec. This would be the last meeting for Q4.",
+              "rationale": "Tevo is going to be unavailable",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided on the items that will be included into GitBook to cover all subgroups",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "What do we do in the next session?",
+            "The quarter ends with async uploads, who will do them?",
+            "Deciding on items to be included into Gitbook"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "GitBook, Miro Board, Q4 report, Retrospective, GitHub, Q1 proposal",
+        "emotions": "Collaborative, Discursive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "3b03e29a-9063-403e-b5a8-fdaf5a7fbac2": [
     {
       "workgroup": "Marketing Guild",
@@ -42342,6 +43801,149 @@
       "tags": {
         "topicsCovered": "community engagement, brand guidelines, content calendar, social media, meeting time, change meeting time, Notion, Rewards, Unilag Web3 event, podcasts",
         "emotions": "Thoughtful , warm, interesting, lengthy"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "1e0acc99-31e1-4498-8316-93960d5fad4a": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-09-18",
+        "host": "guillermolucero",
+        "documenter": "SergioBenaR",
+        "peoplePresent": "Martin Rivero, Daniela Alves, Andrea Dekovic, guillermolucero, SergioBenaR",
+        "purpose": "@SNET_LatAm Presentation of Daniela Alves as ambassador; initiatives for Q4. ",
+        "meetingVideoLink": "https://app.read.ai/analytics/meetings/01J6FYVMJPC7TH5S5PP4E4T6AW?utm_source=Share_Nav",
+        "workingDocs": [
+          {
+            "title": "Daniela Alves on X",
+            "link": "https://x.com/DanielaAlvesRI"
+          },
+          {
+            "title": "SNET_Latam on X",
+            "link": "https://x.com/SNET_Latam"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "agenda": "Operations SubGroup",
+          "status": "carry over",
+          "narrative": "The SingularityNET community in LatAm successfully carried out different activities during Q3, which were recorded and presented to the global SingularityNET community. With the arrival of new members and the formation of the ambassador team, initiatives were proposed that align with the objectives for Q4.",
+          "actionItems": [
+            {
+              "text": "Guillermo to share access to the documents that gather the objectives and proposals with Daniela and the other ambassadors",
+              "assignee": "guillermolucero",
+              "dueDate": "20 septiembre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Daniela to analyze the topic to lead an X space",
+              "assignee": "Daniela Alves",
+              "dueDate": "20 septiembre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Daniela to share her Cardano wallet address",
+              "assignee": "Daniela Alves",
+              "dueDate": "20 septiembre 2024",
+              "status": "done"
+            },
+            {
+              "text": "Guillermo to make the pending Q3 funding disbursement",
+              "assignee": "guillermolucero",
+              "dueDate": "20 septiembre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Daniela Alves joins as ambassador of the SingularityNET community in Brazil."
+            }
+          ]
+        },
+        {
+          "agenda": "Marketing Sub-Group",
+          "status": "carry over",
+          "narrative": "Various events will be held in several countries during Q4, and the SingularityNET LatAm community will continue to disseminate progress at a global level, participating in activities that are representative in the countries where there are ambassadors: Argentina, Bolivia, Brazil and Mexico.",
+          "actionItems": [
+            {
+              "status": "done",
+              "text": "Andrea and Sergio will send Guillermo and Martín the details of the events to which they were invited: event date, description, objectives and requirements. ",
+              "assignee": "Andrea Dekovic, SergioBenaR",
+              "dueDate": "10 septiembre 2024"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "Ambassadors will be supported when they receive invitations to participate in events in the technology, artificial intelligence, and blockchain sectors."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "content calendar, Rewards, strategy, Meeting Summaries, Teamwork, events, X spaces",
+        "emotions": "Collaborative, Strategic, Task-focused"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "7217ac72-e8b6-4c92-8fc1-79c6555e22fc": [
+    {
+      "workgroup": "LatAm Guild",
+      "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+      "meetingInfo": {
+        "name": "Biweekly",
+        "date": "2024-10-08",
+        "host": "guillermolucero",
+        "documenter": "SergioBenaR",
+        "peoplePresent": "Martin Rivero, Daniela Alves, Duke, guillermolucero, SergioBenaR, André, BoazB",
+        "purpose": "@SNET_LatAm X-Space program and Q4 programs",
+        "workingDocs": [
+          {
+            "title": "Q4 @X-Space Program and Schedule  @SNET_Latam LatAm Ambassadors Guild",
+            "link": "https://docs.google.com/document/d/1Tpwc9rlUrwGQgcN-ZY5J4KIFdQoTM7XShF4RUByZoo0/edit?tab=t.0#heading=h.j50gsn6ym8hd"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Marketing SubGroup",
+          "status": "carry over",
+          "narrative": "In Q4, the LatAm community will host several X spaces, as part of the objectives of its Marketing guild. These spaces will take place every two weeks, and will serve to communicate the progress of SingularityNET as part of the ASI, and the most important news of the ecosystem. Community members provided their ideas on the different areas in which AI could collaborate with humans. There was an extensive discussion of different topics that could be interesting to develop in the X space, each member expressed their points of view and there was also the participation of members of the SingularityNET community in Africa.",
+          "actionItems": [
+            {
+              "text": "The space will be led by Guillermo and Inés, and the team of ambassadors will participate in the conversation, contributing to the central theme of collaboration between AI and human beings.",
+              "assignee": "guillermolucero, Martin Rivero, sergiobenar, Andrea Dekovic, Daniela Alves, inesgav",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            },
+            {
+              "text": "The ambassador team will share the posts on X to achieve greater reach",
+              "assignee": "Martin Rivero, Daniela Alves, Andrea Dekovic, inesgav, guillermolucero, SergioBenaR",
+              "dueDate": "18 octubre 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The first X space will take place in October and will be a round table format for an open conversation. The topic to be addressed is collaboration between AI and humans.\n[effect] affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Educational Content, content calendar, Rewards, X spaces, AI-human collaboration",
+        "emotions": "Collaborative, Strategic, Task-focused, teamwork"
       },
       "type": "Custom",
       "noSummaryGiven": false,
