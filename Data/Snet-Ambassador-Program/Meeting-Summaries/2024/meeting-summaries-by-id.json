@@ -39182,6 +39182,93 @@
       "canceledSummary": false
     }
   ],
+  "aa1ce1bc-0adc-48c2-90ba-7c627df03962": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Sandbox",
+        "date": "2024-11-14",
+        "host": "osmium",
+        "documenter": "Gorga Siagian",
+        "peoplePresent": "lord kizzy, Advanceameyaw, Clement Umoh, MartinSoki, AshleyDawn, osmium, Gorga Siagian, Sucre n Spice, Kateri, Valola",
+        "purpose": "Second Think-Thank Session AI TOOLSET EXHIBITION : Google LM Notetaker",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation templates",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Second Sandbox presentation",
+            "link": "https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p6"
+          },
+          {
+            "title": "Agenda items: AI SANDBOX/THINK-TANK",
+            "link": "https://docs.google.com/document/d/1iMs9Z8g-FV_6odYMG00BdKNhHrukHu4OVaSUusl-n5Y/edit?tab=t.0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Join the governance call to understand budget calculation for each work group and Make note of budget concerns in the channel for discussion",
+              "assignee": "LordKizzy",
+              "dueDate": "14 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Share the meeting summary in the channel",
+              "assignee": "Gorga Siagian",
+              "dueDate": "14 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Members who want to document should indicate in the channel ",
+              "assignee": "All Members",
+              "dueDate": "21 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Lord kizzy to create a repository for the next call where members could submit codes and documentation for the AI tools",
+              "assignee": "LordKizzy",
+              "dueDate": "28 November 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Decided to change the documenters from Advancemayeaww to Gorga and Advancemayeaww will be the documenters in next week's session.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone and waited for Clement to join the meeting to begin his presentation on the AI TOOLSET EXHIBITION..\n",
+            "While waiting for Clement to join, Osmium gave an introduction to what AI TOOLSET EXHIBITION is and Reflected upon the purpose behind including this segment in the first half of AI SANDBOX sessions and walked through the key takeaways.\n",
+            "LordKizzy showed AI Sanbox/Think Tank's Q1 2025 Budget Allocation of 5K AGIX and asked participants if they agreed with the budget allocation, he also highlighted the impact of the allocation on our activites. In the discussion, Gorga said that the approval of the budget allocation was waiting on Lordkizzy to finish attending the governance meeting and send a note to the channel on how the budget allocation system at the Governance meeting would be, while Sucren argued that the Budget Allocation must be decided whether it is approved now or not and can send a message to Vani regarding the Budget allocation decision how.\n",
+            "Showcasing the second presentation of the exhibition made by Clement on the  THE GOOGLE LM NOTETAKER: A Dynamic Approach to Meeting Note taking and he shared the link to the presentation https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p2\nwhere he highlighted the a) Overview of the toolset [Detailed Description and Use Cases] \nb) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] \nc) Demonstration [live demo or tutorial/ video walkthrough] \nd) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]\n"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI TOOLSET EXHIBITION, Google LM Notetaker",
+        "emotions": "Welcoming, interactive, Thoughtful , informative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "97340214-31d9-4699-8d88-6a0c1e8929fe": [
     {
       "workgroup": "Governance Workgroup",
@@ -42113,6 +42200,96 @@
       "canceledSummary": false
     }
   ],
+  "6507c23a-c489-4201-b8da-74bfa78fb592": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Sandbox",
+        "date": "2024-12-12",
+        "host": "osmium",
+        "documenter": "Kateri",
+        "peoplePresent": "AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, CollyPride, martinsoki, Santos, LordKizzy",
+        "purpose": "AI TOOLSET EXHIBITION: Podcaster: A Podcast Automation Tool",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation Template",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Third Sandbox Presentation",
+            "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+          },
+          {
+            "title": "Agenda Items AI Sandbox/Think Tank",
+            "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+          },
+          {
+            "title": "Iteration Form",
+            "link": "https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Kateri to create 2025 documenting roaster",
+              "assignee": "Kateri",
+              "dueDate": "9 January 2025",
+              "status": "todo"
+            },
+            {
+              "text": "All members to fill the Iteration forms",
+              "assignee": "Members",
+              "dueDate": "31 January 2025",
+              "status": "todo"
+            },
+            {
+              "text": "Adavcemeyaw to prepare for the next quarter sandbox session",
+              "assignee": "advanceameyaw",
+              "dueDate": "9 January 2025",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided that the iteration form is always opened and would be looked into monthly",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "To ensure members provide consistent, monthly feedback that helps track progress and refine processes within the Workgroup."
+            },
+            {
+              "decision": "Decided to resume for the next quarter on the 9th of January 2025",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program. ",
+            "Showcasing the fourth presentation of the exhibition made by Gorga on Podcaster.ar: This AI tool helps to edit podcast, to have a good quality audio and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful.  he shared the link to the presentation \nhttps://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor\nwhere he highlighted the ",
+            "a) Overview of the toolset: Podcaster.ai is a cloud based, or AI-powered cloud-based audio production platform design to streamline the creation of podcast, voiceovers and other audio content.\nb) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] \nc) Demonstration [live demo or tutorial/ video walkthrough] \nd) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]\n\n",
+            "Questions were asked and clarity was made on the operation of the Podcast.ai.",
+            " Iteration form: Is a form were members give monthly feedback on our sessions, on the tool we have used, and how we are going to progress implementing the tools."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI TOOLSET EXHIBITION, Automating Workflows,  Roadmap of AI Sandbox/Think Tank, Podcaster.ai, Iteration, Iteration form",
+        "emotions": "welcoming, informative, interactive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "ac531e7b-ec0d-44fb-824d-72f364a1af21": [
     {
       "workgroup": "Governance Workgroup",
@@ -42269,6 +42446,91 @@
       "tags": {
         "topicsCovered": "budget process, AGIX or USD, Budget fitting, budget percentage allocations, budget tiers, tiers, what do we value, aims of Ambassador program, token price fluctuation, operational budgets, project budgets, workgroup autonomy, safe to try, new budget processes, retrospective, priorities, budget priorities, new workgroups process, merging Workgroups, workgroup outputs",
         "emotions": "Casual, talkative, free to discuss, long, participatory, wide-ranging, not decisive, Discursive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "a11434ba-a27b-48c8-98a3-ac9876620396": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "name": "Monthly",
+        "date": "2024-12-02",
+        "host": "CallyFromAuron",
+        "documenter": "LadyTempestt",
+        "peoplePresent": "CallyFromAuron, LadyTempestt, PeterE, Aetherblade, Duke, Ayo, esewilliams, Sucre n Spice, advanceameyaw, CollyPride, Onize, AshleyDawn",
+        "purpose": "Regular Meeting of the AI Ethics WG",
+        "workingDocs": [
+          {
+            "title": "WG GitHub Board",
+            "link": "https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues"
+          },
+          {
+            "title": "AI Ethics WG Stuffs",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Tasks on Github\nWe started by going through tasks “in progress”;\nWe went through Q4 Interviews updates. Duke said he has done 3 interviews so far and will wrap up the remaining 7 before we go for holiday this quarter. Clement, Ayo and Kenichi are done with their Q3 interviews. AdvancedAmeyaw has done 3 so far and is looking to finish his Q4 interviews by the 7th of December. Onize is done with her Q4 interviews, Ese’s interviews for Q3 and Q4 are progressing just fine. We are not moving interviews “in progress” to “done” yet until the validity of the interviews has been confirmed(listening to them and more) by Esther, LeeLoo and Vani.\n\nModeration of the AI Ethics forum: Clement is doing fine here, nothing dramatic yet lol.\nPre-AGI roundtable AGI Chill out rooms rewards: It will not go through the Ambassador program Treasury system but it will come directly from the Supervisory council. Esther reached out to people involved, and rewards are supposed to go out this week. Leeloo will reach out to her for confirmation.  The issue will remain open till further notice.\n\nAdmin Team Roles: WG Internal Management, WG Async Support, Cochair and Community Manager have all given updates on what they have been doing.\nAI Ethics Event: We are looking to meet before the end of this quarter to discuss in a session what kind of events(virtual & physical) we can attend next year.\nDocumenting BeGIN meetings.\n\nWe went onto tasks in “to-do”;\nHow long should we keep Q3 interviews open? Especially the ones in “to-do”. CollyPride and LadyTempestt suggested the end of the year or before we all go on holiday. CallyFromAuron suggested we wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing the interviews in Quarter 1 then we should reallocate.\nWe will look at producing Educational Resources to demystify basic AI Ethics Terminology & Ideas and Rewarding people who attended the training session for interviewing skills again in Q1 if we have extra budget. \nSucre won't do Q4 Interviews anymore, Ese will get to hers soon.\n\nWe also went through our Q1 budget Items: We will assign some specific items to people at the beginning of January or our first meeting next year. Colleen, Ese showed interest in this budget item;“ideation on how to get donors”. Onize, Duke, and possibly Stephen are interested in Knowledge Management and Data Analysis. If AGIX goes up we might be able to get Transcription done using ReadAI and edited by the interviewers.\n\nWe also went through and finalized our Q4 report.\nSurvey Sharing: We tested it and so far it just needs to be tweaked a bit so it can go out but it might not be before the end of the quarter. \n",
+          "actionItems": [
+            {
+              "text": "Vani to reach out to Onize about documenting BeGIN Meetings to find out where she’s at with it.",
+              "assignee": "CallyFromAuron",
+              "dueDate": "31 December 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Vani to reach out to Clement to put down updates on the GitHub issue assigned to him as a Co-Chair Mentee on what he's been up to.",
+              "assignee": "CallyFromAuron",
+              "dueDate": "24 December 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "LadyTempestt to reach out to PG, Kevin Frey and Vasu concerning their Q4 interviews to find out how it is going.",
+              "assignee": "LadyTempestt",
+              "dueDate": "17 December 2024",
+              "status": "done"
+            },
+            {
+              "text": "Ladytempestt will document on 13th January, Onize will document on 3rd February and CollyPride will take on documentation on the 3rd of March.",
+              "assignee": "LadyTempestt, Onize, CollyPride",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Clement will be a co-chair mentee again next quarter.",
+              "rationale": "He needs more time to grow into an admin role of his choice where possible.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Possibly meet on Monday, 9th December at 14:00 UTC to discuss AI Ethics Events. Vani, Peter, Colleen, Duke, LeeLoo, Esther(the participants).",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing the interviews in Quarter 1 then we would reallocate.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We will continue our monthly meetings.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We will meet on the 13th of January, 3rd of February and the 3rd of March for our WG meetings next quarter.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Q3 and Q4 Interviews, AI Ethics Events, Q1 budget, survey ",
+        "emotions": "Deliberative, quiet, funny "
       },
       "type": "Custom",
       "noSummaryGiven": false,
@@ -45437,6 +45699,741 @@
       "tags": {
         "topicsCovered": "Video Demo, AI Tool Exhibition, Hygen.ai, AIS [artificial immune system], MeTTa Coder Lab",
         "emotions": "Welcoming, interactive, Thoughtful , entertaining"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "5fec42c4-0152-41f0-a4a6-9020c1ee43bc": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Think-Tank",
+        "date": "2024-11-07",
+        "host": "LordKizzy",
+        "documenter": "Kateri",
+        "peoplePresent": "Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, osmium, Gorga Siagian, SubZero, martinsoki, LordKizzy",
+        "purpose": "Think-Tank session: theoretical debate on AI's impact on education ",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": "Agenda items: AI SANDBOX/THINK-TANK",
+            "link": "https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation templates",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "First Sandbox presentation",
+            "link": "https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Agenda items for AI SANDBOX DEBATE ",
+            "link": "https://docs.google.com/document/d/1zwb-XVr5Vj2itegnwalZzYA65Sxta3sKTBzTmys94-Q/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Members who want to document meetings should indicate their interest in the group's Discord channel ",
+              "assignee": "All Members",
+              "dueDate": "7 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Clement to host the next AI sandbox session",
+              "assignee": "Clement",
+              "dueDate": "14 November 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided that we are going to have another debate session in this quarter.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting coordination and Introduction: Lord Kizzy welcomed everyone and explained the process of the debate. ",
+            "Kateri started the debate with a brief introduction to the history of how technology has impacted education. She said that throughout history, each breakthrough in technology has improved education, from the printing press of the 15th century to the invention of the computer in the 20th century.",
+            "1. Personalized learning: From the proposition team, Kateri said that AI enables personalized learning, by tailoring educational content to the needs of individual students. This allows every student to progress at their own pace. She said that learning platforms like Coursera and Anhad Academy use AI algorithms to help recommend content that matches each user's learning space.\n\nFrom the opposition team, Clement highlighted that AI lacks the depth of understanding to account for emotional and social factors that influence learning. He highlighted the story of Ben Carson, saying that AI cannot bring the actual solution anybody needs. He explained how education is not just about delivering information but about fostering curiosity, building problem-solving abilities, and emotional growth, which AI doesn't account for. He also stated that the educational platform Coursera just uses algorithms and thereby misses out students' unique strengths and challenges that human teachers would notice, and can even miss out the fact that the student failure can be due to emotional challenges faced in family or society.\n",
+            "2. Enhanced access to education: From the proposition team, Kateri said that AI can expand educational access to underdeveloped communities. Through AI platforms, students in rural areas can still gain access to high quality educational resources that were previously unavailable to them. This ensures that students all over the world have opportunities to learn from the same resources despite the language of the resources. She also said that AI tools like Google do not just make the resources available, but also conquer the problem of language barriers, so articles or videos being said or written in a language the reader doesn't understand can easily be translated to a language they know. \n\nFrom the opposition team, Clement raised the problem that most AI tools are internet connection dependent, and students or researchers in underdeveloped communities may not have good Internet access. He stated that although AI can remove language barriers to some extent, it will miss out the cultural context that a human teacher or human educator would have accounted for. He also stated that if a white person is developing AI tools to be used by Africans there will be a lot of bias, and it will fail to convey important cultural content.",
+            "3. Automating administrative tasks: From the proposition team, Advanceameyaw highlighted that every individual craves for automation, and it has existed for a long time. He noted that automation of administrative tasks like grading, scheduling and student management can be handled by AI tools like Gradescope or Google Classroom. He further said that if AI handles the administrative tasks, it will leave the teacher free to work on the students' emotional development, which will enhance the students' engagement, creativity and critical thinking among themselves.\n\nFrom the opposition team, Clement highlighted that this point contradicts the proposition team's first argument. He said that AI's ability to focus on administrative tasks is a major benefit, but there is a huge rate depersonalizing educational experience. He also said that teachers being present is needed because otherwise, who do we ask questions of when we do not understand?",
+            "4. Risk of over-reliance on AI: From the proposition team, Advanceameyaw stated that AI is a tool and not a replacement for human interactions. When you see an AI tool doing all the task, it is not there to eliminate our critical thinking. He said that AI is human knowledge accumulated in silicon or in an application for us to assess -  we use AI to get the information that we need and then through our creative thinking we are able to work out that information and turn it to relevant data. \n\nFrom the opposition team, Gorga highlighted that over-reliance on AI is very risky. Clement added that there are studies that have demonstrated that AI is tampering with human creative thinking (for example, Zhai, C., Wibowo, S. & Li, L.D. \"The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review\" Smart Learn. Environ. 11, 28 (2024). https://doi.org/10.1186/s40561-024-00316-7). He concluded that yes, it is fine that we get information from AI but we also need to bring human input and that is where the problem lies because 'who is there to define where to draw the line?'",
+            "5. Equity and accessibility issues: From the opposition team, Gorga highlighted the point that the assumption that AI can automatically bridge the gap for underdeveloped communities fails to consider the reality of digital devices. He noted that students in low-income areas lack internet access, devices, technological support, and ways to be able to make AI tools more accessible to them; and even if they were able to gain access to the tools, the tools are often designed in such a way that students would not be able to make relevant use of them to study.\n\nFrom the proposition team, Advanceameyaw highlighted that if an AI tool benefits one set of people rather than another region of people due to accessibility, that means it is a challenge to that region's contribution because it is obvious that the tool belongs to everyone, but it hasn't reached everyone due to different challenges. He noted that knowledge is neutral and that it belongs to anybody, but the unequal access to tools is the challenge.",
+            "6. Data privacy and security: From the opposition team, Clement said that data privacy is an ongoing concern, not just in an educational context, but in general. He stated how data privacy laws are still lagging behind the technology; that is why in AI Ethics workgroup, they are still having discussions on how they can securely handle interview data. He also noted that we need to talk about how the data is being used and who has access to it, to ensure that it is not used for personal profiles. \n\nFrom the proposition team, Kateri highlighted that AI platforms are designed to support data privacy and security measures. She stated that we all know that data cannot be secured 100% - previously, data were stored in files and that endangered student privacy, and even the data itself that was stored from natural and human disaster, but AI platforms can help security with a strong encryption. Example stated was WhatsApp's end-to-end encryption.\n\nClement countered Kateri's points and said that we should remember that it is humans who operate the programs, but if there is misalignment of intention, it will lead to something else.",
+            "7. Potential job displacement: From the opposition team, Gorga said that as AI becomes more common in education systems, there is a concern about job displacement, especially for administrative staff and teachers. He noted that instead of teachers interacting deeply with the student, it will turn teachers into facilitators who manage AI tools, and will make teaching of less value. \n\nFrom the proposition team, Kateri said that AI is not here to replace the teacher's job, but to improve it. AI allows teachers to focus on their unique strengths (moral and emotional support to the children) and giving space also to nurture the students, while AI handles the repetitive time-consuming tasks.",
+            "8. Reshaping educational models: From the opposition team, Gorga said that AI is changing education by pushing hybrid learning, and this may seem progressive but it risks taking away important face-to-face interaction that helps develop emotional intelligence. Clement added that we are prioritizing market-driven skills over holistic education, and this will just produce students that are only trained for specific jobs and that are not encouraged to exploit other intellectual pursuits.\n\nFrom the proposition team, Advanceameyaw stated that those in certain regions have difficulties in getting access to important material, and now that there is technological advancement, AI has given the chance to have hybrid and blended learning just with our smart phone, which has helped to assist education in those regions that are lacking."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI impact on education, technology and education, personalized learning, AI and emotional intelligence, AI and social support, problem-solving, teachers, students, data privacy, data security, Internet access, Africa, barriers to Internet access, barriers to learning, barriers, Translation, Language exclusion, job displacement, accessibility, equality, underdeveloped communities, tool design, inequality in tool design, rural, rural exclusion, access to education, low income, hybrid learning, blended learning, encryption, administrative tasks, AI and administrative tasks, AI's effect on human cognitive ability",
+        "emotions": "interactive, educational, productive, entertaining"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "67fcaf55-b29e-4338-b0c9-a589bcfd0211": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Think-Tank",
+        "date": "2024-11-21",
+        "host": "osmium",
+        "documenter": "Kateri",
+        "peoplePresent": "Advanceameyaw, Clement Umoh, Kateri, AshleyDawn, osmium, Malik, Santos, LordKizzy, martinsoki",
+        "purpose": "Introduction to AI Modules and Ethical Frameworks for AGI",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": "Agenda items: AI SANDBOX/THINK-TANK",
+            "link": "https://docs.google.com/document/d/1pp9oEkb3hWvVHxkLj8MJ3ySKWv05HCbJIUGaXFXBbfw/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation templates",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "First Sandbox presentation",
+            "link": "https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Agenda items for AI SANDBOX DEBATE ",
+            "link": "https://docs.google.com/document/d/1zwb-XVr5Vj2itegnwalZzYA65Sxta3sKTBzTmys94-Q/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Kateri to document this meeting",
+              "assignee": "Kateri",
+              "dueDate": "21 November 2024",
+              "status": "done"
+            },
+            {
+              "text": "Malik to host the next AI Sandbox session on 28th Nov",
+              "assignee": "Malik",
+              "dueDate": "28 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "LordKizzy to reach out to participants for the next Sandbox sessions and send them the presentation template ",
+              "assignee": "LordKizzy",
+              "dueDate": "28 November 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Advanceameyaw to document the next call",
+              "assignee": "advanceameyaw",
+              "dueDate": "28 November 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided that Clement will facilitate Thinktank on the 5th of December.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Because Osmium won't be available on that date"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination and Introduction: Osmium welcomed participants and introduced the session agenda. ",
+            "Osmium showcased the presentation of the exhibition on Benevolent Artificial General\nIntelligence: he shared the link to the presentation https://www.canva.com/design/DAGXGJ5nA2c/WawaQ_Bj3VI21a85LzvHnQ/edit where he highlighted the \n - a) Overview of the toolset \n - b) Purpose of the tool: To ensure AGI operates within moral and ethical frameworks that prioritize humanity's well-being\n - c) Demonstration of the detail topics were shown\n\nTopics\n - Ethical architecture for AGI; Moral Decision-Making Frameworks, Value Alignment Techniques and Dynamic Ethical Adaptation.\n- Self-Regulating AGI Systems; Artificial Immune Systems (AIS) for AGI, Meta-Cognitive Systems and Dynamic Safety Constraints.\n- Neuromorphic and Bio-Inspired Architectures; Neuro-Immune Integration, Cellular Automata for AGI and Fractal Intelligence.\n- AGI Cognitive Architectures; Recursive Self-Improvement (RSI), Unified Theory of Cognition and Attention Mechanisms for AGI.\n- Emotional and Social Intelligence in AGI; Social awareness AGI and *Simulating Emotional Dynamics*\n- Distributed AGI Systems; Swarm Intelligence in AGI, Federated Learning for AGI and Hierarchical AGI Ecosystems.",
+            "Questions:\n - What disaster will the tool cause? Natural disaster\n- How is AGI going to analyze global market trends without accessing the patients' personal records? The data set they used is different and it should be on the blockchain technology. Like smart contract, the data set will be encrypted. ",
+            "Workgroup Budget discussion: We requested an extra 2,419 AGIX but we were able to get 1,000 AGIX. Our plans for Q1 2025 are to have the sessions we didn't include in our current quarter. So far, our plan for Q1 is to have project showcase, two theoretical debates, team pieces to gather member insights on AI topics and others."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Benevolent Artificial general Intelligence, Benevolent AGI, moral decision-making frameworks, ethical architecture for AGI, Self-regulating AGI systems, Bio-Inspired Architectures, neuromorphic architectures, Artificial Immune Systems, AIS, Neuro-Immune Integration, recursive self-improvement, RSI, Unified Theories of Cognition, swarm intelligence, emotional intelligence in AGI, Distributed AGI Systems",
+        "emotions": "interactive, educational, productive, entertaining"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "4b4f73c3-ea7d-4df4-a818-ba52ea42f336": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Sandbox",
+        "date": "2024-11-28",
+        "host": "osmium",
+        "documenter": "advanceameyaw",
+        "peoplePresent": "Clement Umoh, AshleyDawn, Gorga Siagian, Kateri, Yemi Solves, Sub Zero, Santos, osmium, advanceameyaw, LordKizzy, Malik, martinsoki",
+        "purpose": "AI TOOLSET EXHIBITION: Zapier: A Workflow Automation Tool",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation Template",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Third Sandbox Presentation",
+            "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+          },
+          {
+            "title": "Agenda Items AI Sandbox/Think Tank",
+            "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Create a Google form for feedback from AI Sandbox/Think Tank sessions so far",
+              "assignee": "LordKizzy, osmium",
+              "dueDate": "5 December 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Members are to fill out the Google forms concerning feedback from various AI Sandbox/Think Tank sessions.",
+              "assignee": "All",
+              "dueDate": "19 December 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Advanceameyaw to document this call",
+              "assignee": "advanceameyaw",
+              "dueDate": "5 December 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to use Google Forms to take feedback on sessions so far.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to get a Discord tag for members, and to ideate in Discord on possible tag wording.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination and Introductions: Osmium welcomed everyone and gave an overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and its relevance to the Ambassador program. All the information concerning the mission and key takeaways is linked in the Working Docs.",
+            "Showcasing the third presentation of the AI Toolset Exhibition series, by Malik on Zapier: a workflow automation tool that can help you automate routine tasks. We learned that Zapier connects over 5,000+ apps from various categories, including productivity, marketing, e-commerce, and customer support. Malik highlighted some of the popular integrations, such as Google Sheets, Slack, Trello, Salesforce, Shopify, and Mailchimp.",
+            "The session continued with Malik taking us through the following:\n\n - a) Overview of the toolset: A simple workflow on building a Zap by linking your Google Drive to YouTube for automated uploads.\n\n - b) Architecture and Technology Stack: The Zapier site link (https://zapier.com) was shared to highlight more on this. \n\n - c) Demonstration [live demo or tutorial/video walkthrough]: Zapier automation: How to build a Zap - Zapier 101\n\n - d) Outcome Report or Results and Impact: Talked about the impact and performance of Zapier increasing efficiency and boosting productivity.\n",
+            "Questions were raised around integrating with Discord, pricing, and monetizing automated workflows with YouTube, with a showcase of the process of integrating, visiting the pricing page, and uncertainty on monetization until explored by Malik.",
+            "Osmium showed the Roadmap of AI Sandbox/Think Tank, which emphasises the moderation phase, ideation phase, and iteration phase. He narrowed down on the iteration phase and getting a mechanism to take constructive feedback from people who have experienced our sessions so far. Kizzy stressed how ideally this feedback would help the program in terms of possible adoptions and comparison with other tools within the Ambassador program."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI TOOLSET EXHIBITION, Zapier, Productivity, Efficiency, Automating Workflows,  Roadmap of AI Sandbox/Think Tank",
+        "emotions": "welcoming, informative, interactive, thoughtful, simple"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "a7fb4a86-c942-4269-b5c8-06335affcc28": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "name": "Think-Tank",
+        "date": "2024-12-05",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, CollyPride",
+        "purpose": "regular meeting of AI Think-Tank",
+        "workingDocs": [
+          {
+            "title": "Blueprint for AI sandbox/Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+          },
+          {
+            "title": " Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "title": "Presentation Template",
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+          },
+          {
+            "title": "Agenda Items AI Sandbox/Think Tank",
+            "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+          },
+          {
+            "title": "A.I Sandbox/Think tank Workgroup Budget Request Q1 2025",
+            "link": "https://docs.google.com/spreadsheets/d/1533H_uqak_S1ib4sUON5mBjqkXN3DHcRYLl6cVVymWg/edit?usp=sharing"
+          },
+          {
+            "title": "A.I Sandbox/Think-tank Q4 2024 Report",
+            "link": "https://docs.google.com/document/d/1LEGDMIj7fmLvTsCy0rbvop5TMC-kZt-AYCZIlU4Cavw/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Create a Google form on the feedback from various AI Sandbox/Think Tank sessions",
+              "assignee": "LordKizzy, osmium",
+              "dueDate": "12 December 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Members are to fill out the Google forms concerning feedback from various AI Sandbox/Think Tank sessions.",
+              "assignee": "All",
+              "dueDate": "19 December 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Lordkizzy to speak to Kateri about the documentation roster for new members.",
+              "assignee": "LordKizzy, Kateri",
+              "dueDate": "23 January 2025",
+              "status": "todo"
+            },
+            {
+              "text": "Lordkizzy to prepare a report comparing the effectiveness of different note-taking tools.",
+              "assignee": "LordKizzy",
+              "dueDate": "12 December 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to create a documentation roster for the next quarter and also mentorship program for the newcomers who cannot document.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to add \"action items\" into the agenda as a regular item.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "LordKizzy reflected on the previous session, and proposed a mentorship program aimed at assisting new members on documentation. He noticed some new faces in our previous calls and suggested a documentation roster for the next quarter. When creating the documentation roster, he will speak to Kateri so she can include the names of our new documenters, hopefully they will get to document within Q1 2025.",
+            "Metrics and attendance, log context e.g: growth trends, significance, tie activities such as productivity enlargement. One of the goals for AI Sandbox is keeping the community engaged through exhibitions and open discussion. One of the things we were able to achieve in the last quarter, which we documented in our Q4 quarterly report, was the fact that we were able to average a total of 15 participants on our calls this quarter.",
+            "LordKizzy: One of the things I noticed in this program was due to the fact that we presented our budget in a way that so many workgroups also did, like presenting the average participation so far. It was something that he saw in so many reports. All those that used the same format for the reports were meant to be spotlighted for metrics and KPI in terms of participation.\n",
+            "Discussion on testing tools: If we are having two presentation machines and we are not testing the tools to see if they can possibly adopt the ecosystem, then we would have been criticized for just having a session and having no impact on the Program. If an AI notaker is better than read AI and we are able to present this tool to the community, and it benefits, and it's fully adopted by the Ambassador program, this would be something that we can claim as an achievement from our sessions. Same with Zapier, same as with Behagetri.",
+            "Reflection points for Q4 and Planning for Q1 2025: We were asked to speak on the sessions we enjoyed most. Gorga and Advance spoke on the debate session for think-tank, LordKIzzy listed things that we are going to have in Q1, which are project showcase sessions and AI tool exhibitions for AI Sandbox, and discussions on machine learning, vision analysis, AI roundtable discussion, theoretical debate  and critical thinking sessions for AI Think-tank.",
+            "AI sandbox and think-tank Discord membership tag: Gorga suggested the membership tag should be \"think/tank\". Or \"sandbox think/tank?\" LordKizzy suggested \"thinkers\", Ashley suggested \"AI tank\" or \"ThinkAI\", Kateri suggested \"AI thinkers\", MartinSoki suggested \"Thinkers\"."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": " Roadmap of AI Sandbox/Think Tank, Documentation, note-taking tools, tool testing, Q4 2024 report, retrospective, Q1 2025 budget, attendance, metrics, Discord tag",
+        "emotions": "welcoming, informative, interactive"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "d41ad80f-17ec-4462-8e68-ed58ca43fcad": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-09-26",
+        "host": "Duke",
+        "documenter": "CJFrankie",
+        "peoplePresent": "Advanceameyaw, Eric Davies, Duke, Kateri, LadyTempestt, CJFrankie, Sucre n Spice, Effiom, esewilliams, kareem, AJ",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "otherMediaLink": "https://lu.ma/mobzb7qy",
+        "workingDocs": [
+          {
+            "title": "African Guild Onboarding Process",
+            "link": "https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing"
+          },
+          {
+            "title": "Revised African Ambassadors Guild Proposal Budget _ 230424",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kickoff: After being away for a while, the African Guild meeting looks forward to a promising quarter (Q4). The meeting started with Duke welcoming everyone. To begin with, he expressed his heartfelt appreciation to all those who consented to the Guild's Q4 budget proposal; however, he hinted that there are still some minor fittings to be made.\n\nQ4 Budget Walkthrough: Following that, we switched gears to tackle the Q4 budget proposal. With screen-sharing, Duke showcased the areas that needed to be funded, including but not limited to AMA sessions, task management, Town Hall updates, facilitation and documentation, projects, and initiatives! He also acknowledged and appreciated people who usually come to his DM to share cool ideas. He encourages such people to always come to meetings just so they can let the entire community be aware of their ideas.\n\nEvent Update: Duke shared an update on the forthcoming \"Ubuntu and AI\" event in Abuja, Nigeria; he mentioned that he would share a video with the community. Duke added that the initial participation threshold was 30 to 40 people; however, over 60 people have registered. To this effect, the team will have to shuffle names to select people who will attend in person randomly. More so, he said that he would share a form with the community to share their thoughts, concerns, and everything they’d like the team to consider. He urged everyone to register for the event and have them broadcast the event to other communities. Just so you know, registering for this event will give individuals access to stream the event virtually from the comfort of their homes. \n\n",
+          "actionItems": [
+            {
+              "text": "Duke to share the Ubuntu and AI event video on the African Guild Discord channel.",
+              "assignee": "Duke",
+              "dueDate": "3 October 2024",
+              "status": "done"
+            },
+            {
+              "text": "Duke to share a link to the registration form so people can stream the event online.",
+              "assignee": "Duke",
+              "dueDate": "28 September 2024",
+              "status": "done"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "A little while ago, our weekly meetings turned into a biweekly routine due to the fall of AGIX price and/or there weren’t enough funds in the Treasury; we have agreed to reinstate the African guild weekly meetings since Q4 is already looking promising and we have a lot to catch up on."
+            },
+            {
+              "decision": "Due to the fact the members weren’t contributing to documents as they normally would, we have decided to take out the compensation for commenting on documents from the Q4 budget."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Event, Nigeria, Town Hall, Treasury, communities, Q4 2024 budget, AGIX price, meeting cadence, Budget fitting, Ubuntu and AI, consent process",
+        "emotions": "forward-thinking, funny , interesting, insightful"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "b7ef94f3-3dce-4adf-b8db-97f45d982f87": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-03",
+        "host": "Duke",
+        "documenter": "advanceameyaw",
+        "peoplePresent": "Duke, Valola, Isaac Daniel, Onize, Ayo, CJFrankie, Clement Umoh, esewilliams, Gorga Siagian, advanceameyaw",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "workingDocs": [
+          {
+            "title": "African Guild Onboarding Process",
+            "link": "https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing"
+          },
+          {
+            "title": "Revised African Ambassadors Guild Proposal Budget ",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090"
+          },
+          {
+            "title": "African Guild Meeting Agenda, 3rd October, 2024",
+            "link": "https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing"
+          },
+          {
+            "title": "Report for the Ubuntu and AI Event Conference",
+            "link": "https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kickoff: The meeting began with a casual conversation, followed by Duke emphasizing the importance of numbering our Guild meetings to track our progress which we used to do. We also conducted a quick review of our documentation template, aiming for consistency and some form of uniformity as highlighted by the archives.\n\nQ4 Budget Updates: There was a brief discussion about reviewing our Q4 budget during the last meeting. It was also noted that the Focus Group will hold a meeting to finalize decisions on what should and should not be fitted.\n\nUpdate on Research for Developing Indigenous AI Tooling: The guild was reminded about the team that was set up to ideate the research for developing indigenous AI tooling, an extension of the partnership and integration effort that the guild is trying to work on to collaborate with the R&D Guild. The team, comprising Ayo, Emmanuel, Ese, and Onize, is expected to meet and provide updates to the guild. Clement advised them to start ideating early in order to refine their objectives, enabling the guild to approach the R&D for collaboration and support in the upcoming quarters.\n\nGuild Membership Cap: Duke clarified that the African Guild serves as a regional outreach arm within the Ambassador Program, similar to the LATAM Guild, and distinct from being a normal guild within the program. The conversation mainly focused on the idea of a guild membership cap, with discussions on the importance of setting a cap, possible criteria to look for, cap limit in terms of numbers, and what actions to take when the cap is reached.\n\nUpdate on Ubuntu and AI Event: Duke gave a thorough update on the Ubuntu and AI event with some guild members who participated sharing how transformative it was especially learning from the speakers and the excitement of meeting distant guild members in person. Whilst there is a high demand for its continuity, the guild plans to fine tune this with the community collective initiative.",
+          "actionItems": [
+            {
+              "text": "Clement to follow up with Bernard Sibanda from WIMS - Cardano",
+              "assignee": "Clement Umoh",
+              "dueDate": "3 October 2024",
+              "status": "done"
+            },
+            {
+              "text": "The team for the research for developing Indigenous AI tooling to update the guild on their progress.",
+              "assignee": "Onize, esewilliams, Ayo, Advanceameyaw",
+              "dueDate": "29 October 2024",
+              "status": "in progress"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to ideate on the Guild Membership Cap for 2025, and look forward to implementing it in the first quarter of 2025."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Membership cap, indigenous tooling, Ubuntu and AI, Q4 2024 budget",
+        "emotions": "Interactive, fun, insightful, informative "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "43b8e5d4-1de5-4ecb-93c8-e3cc3c4422a4": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-10",
+        "host": "Duke",
+        "documenter": "Kateri",
+        "peoplePresent": "Duke, Advanceameyaw, Valola, Onize, Kateri, LadyTempestt, Eveline Trinite, Eric Davies, CJFrankie, martinsoki, Clement Umoh, esewilliams, Gorga Siagian, Sucre n Spice",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "workingDocs": [
+          {
+            "title": "African Guild Onboarding Process",
+            "link": "https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing"
+          },
+          {
+            "title": "Revised African Ambassadors Guild Proposal Budget ",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090"
+          },
+          {
+            "title": "African Guild Meeting Agenda, 3rd October, 2024",
+            "link": "https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing"
+          },
+          {
+            "title": "Report for the Ubuntu and AI Event Conference",
+            "link": "https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing"
+          },
+          {
+            "title": "Ubuntu and AI event Drive",
+            "link": "https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kickoff: The meeting commenced with a warm greeting from Duke to all members. \n\nDocumentation strategy: An issue was raised regarding the use of different documenting templates. This prompted a conversation on the need for consistency in the documentation process. Duke suggested appointing someone to take on the role of Archivist. This person would be responsible for reviewing all our documentation since the project began, scrutinizing it, and helping to define a clear and consistent structure.\n\nUpdate on Research for Developing Indigenous AI Tooling: Onize gave an update that they have started making progress: they have drawn up their line of action and are awaiting a template from Ayo on the research. Duke highlighted the need for feedback on progress due to the time-sensitive nature of the project and the approaching deadline. He also requested a budget for the research so it can be properly allocated and fitted in the budget planning.\n\nUpdate on Ubuntu and AI conversation: Duke clarified that the feedback we have been getting is excellent and we have clearance to continue. If we are thinking about the next city aside from Abuja, it would be Lagos. It was brought to our notice that the recorded versions of the events are accessible and they are in the drive. \nFor our next iteration, Duke said that he had a theme he had come up with 'Ubuntu and AI memories of the future' although it is not set and may still change. \n\nUse of cameras during the meeting: There was a suggestion for people to have their cameras on during meetings. However, this was met with strong opposition from the majority of members.",
+          "actionItems": [
+            {
+              "text": "The team for the research for developing Indigenous AI tooling to update the guild on their progress.",
+              "assignee": "Onize, esewilliams, Ayo, advanceameyaw",
+              "dueDate": "29 October 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "A weekly reminder to members who are next on the documentation roster.",
+              "assignee": "Duke",
+              "dueDate": "17 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Cjfrankie to review all the documents, scrutinize it and help to form a defined and clear structure.",
+              "status": "todo",
+              "dueDate": "7 November 2024",
+              "assignee": "CJFrankie"
+            },
+            {
+              "text": "The team for the research to decide and provide the budget and the deadline for the research ",
+              "assignee": "Onize, Ese Williams, Ayo, advanceameyaw",
+              "dueDate": "17 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to remind members who is to document next in every meeting",
+              "rationale": "Reminding the next person responsible for documentation helps maintain clarity.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We decided to have a second iteration of the Ubuntu and AI event, but the date has not been decided upon.",
+              "rationale": "The date has not been set due to budgetary considerations. ",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We decided to appoint Cjfrankie to review all the documentation since the guild began, synchronize it, and help to define a clear documentation structure. ",
+              "rationale": "This effort will enhance our team's efficiency and documentation structure.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "indigenous tooling, Ubuntu and AI, Documentation, Camera usage",
+        "emotions": "Interactive, fun, Friendly, warm",
+        "other": "Ubuntu means \"I am because we are\". "
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "0e8e0d2a-9b34-4f8b-a57d-f1175366b236": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-17",
+        "host": "Duke",
+        "documenter": "martinsoki",
+        "peoplePresent": "Duke, Onize, Kateri, LadyTempestt, Eric Davies, Kenichi, Ayo, advanceameyaw, CJFrankie, Clement Umoh, esewilliams, Gorga Siagian, Sucre n Spice, martinsoki",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "workingDocs": [
+          {
+            "title": "African Guild Onboarding Process",
+            "link": "https://docs.google.com/document/d/1I1PgKuaK0ARydG7dRR8DgTcU8Oe3p2accfIuuCuzWEc/edit?usp=sharing"
+          },
+          {
+            "title": "Revised African Ambassadors Guild Proposal Budget ",
+            "link": "https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?gid=453284090#gid=453284090"
+          },
+          {
+            "title": "African Guild Meeting Agenda, 3rd October, 2024",
+            "link": "https://docs.google.com/document/d/1YOkUd83AhfYiTLs7pDzVpby8DhW3seB0uSYm8mX7J6I/edit?usp=sharing"
+          },
+          {
+            "title": "Report for the Ubuntu and AI Event Conference",
+            "link": "https://docs.google.com/document/d/13vHY_7StwMEGkUzwybi9TnTmfgw-sH46QzPJVshFWhs/edit?usp=sharing"
+          },
+          {
+            "title": "Ubuntu and AI event Drive",
+            "link": "https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kickoff: The meeting commenced with light talk on the African music industry and we received a warm greeting from Duke, who welcomed all members.\n\nRecap of Meeting: Duke stated he had gone through the minutes and put it to everyone if there were any reservations on it. No one had reservations.\n\nOrganization and documentation of meeting summaries within the guild: Cjfrankie outlined the organization of meeting summaries in the Ambassador's Google drive, noting that folders have been created for each quarter. He also said that Tevo has asked the workgroup to provide an email address that will be used to give editing access.\nHe went on to say that documenters for every meeting should upload the documents to the relevant folder for the meeting, and the template being used should be in a continuance.\nDuke expressed concerns about redundancy of uploading summaries to both the Google drive and the Archives meeting summary tool, suggesting that all members with African Guild tag should have editing access (or the documenters).\n\nWe noted that the Ubuntu and AI event had concluded successfully, with plans to develop conference papers, case studies, and educational materials stemming from the event. Marketing and video collaboration efforts were discussed for promoting these materials.\n\nDiscussions also included plans for a Q4 AMA session, with ongoing efforts to solidify the details and budget for the event. \n\nThe meeting concluded with a note on membership caps and the need to finalize onboarding procedures.\n\nThe focus group expressed its anticipation for updates from the marketing group, emphasizing the importance of their intentions. The conversation then transitioned to the effectiveness of previous reporting styles, particularly regarding Q3 documents, which were criticized for lacking clarity and justification of the work done. A suggestion was made to enhance the documentation for Q4.\n\nUpdate on research on indigenous tooling: Ayo presented an update on research related to indigenous tooling and inclusivity within the SingularityNET ecosystem. He outlined three key strategies to expand sNET in Africa:\n- creating tools\n- onboarding builders\n- collaborating with existing solutions that address African problems. \n\nAyo emphasized the importance of conducting thorough research to identify community needs and solutions. He introduced execution process documents detailing how to develop Afrocentric tools, onboard social providers, and engage users, stressing the need for a structured approach to implementation.\nThe conversation shifted to concerns about onboarding new members, with Ayo clarifying that the aim is to integrate Africans into the ecosystem rather than specifically training ambassadors. He emphasized the importance of solving real-life problems and facilitating connections between solution providers and the community.\n\nUpdates on African guild GitHub repository: Sucre gave an update on migrating tasks to the African Guild GitHub repository, with a commitment to complete this by the end of the quarter.\n\nThe meeting continued with discussions around outstanding payments from previous weeks, emphasizing the importance of confirming that all members had received their payments due to budget constraints. The topic then shifted to the concept of restructuring payment schedules from a weekly to a monthly basis. A member highlighted the challenges of managing finances when payments are received weekly, citing cultural pressures like \"black tax\" that often fall on individuals earning more than the average local wage. This member proposed that monthly payments would allow for better financial planning. While some members expressed interest in this change, others preferred the current weekly payment system, citing concerns about potential complications with treasury processes.\n\nKenichi introduced an upcoming conference titled \"Blockchain in Unilag,\" aimed at promoting blockchain knowledge and connecting various communities. He highlighted the potential benefits for the African Guild, including opportunities for ambassadors to represent SingularityNET and to engage with developers and other blockchain communities. The discussion touched on the possibility of having a booth at the event to promote the ambassador program and gather insights from attendees. Kenichi outlined the booth's purpose: to conduct interviews, provide information about services, and promote engagement from the African community and beyond. The event aims to disseminate knowledge from an African perspective and encourage participation in the ecosystem without requiring attendees to participate in every meeting or conference. The event is happening on November 15th.\n",
+          "actionItems": [
+            {
+              "text": "Ayo and team to proceed with the research on indigenous tooling and inclusivity, utilizing the execution process documents.",
+              "assignee": "Ayo, Onize, advanceameyaw, esewilliams",
+              "dueDate": "29 October 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "A weekly reminder to members who are next on the documentation roster.",
+              "assignee": "Cjfrankie, Duke",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Cjfrankie to review all the documents, scrutinize it and help to form a defined and clear structure.",
+              "status": "todo",
+              "dueDate": "7 November 2024",
+              "assignee": "Cjfrankie"
+            },
+            {
+              "text": "The team for the research to decide and provide the budget and the deadline for the research ",
+              "assignee": "Ayo, esewilliams, Onize, advanceameyaw",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Cjfrankie to clarify email permissions for accessing the meeting summary folder and ensure all relevant members can edit documents",
+              "assignee": "CJFrankie",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Ayo and Onize to prepare and finalize the plan and budget for the Q4 AMA session.",
+              "assignee": "Ayo, Onize",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": " Ambassador Members to provide feedback on the previous event and suggest improvements for future iterations.",
+              "assignee": "all",
+              "dueDate": "24 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Sucre to continue the migration of tasks from Dework to GitHub, aiming for completion by the end of the quarter and reaching out for necessary GitHub IDs.",
+              "assignee": "Sucre n Spice",
+              "dueDate": "19 December 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "- Participation in \"Blockchain in Unilag\" Conference: we decided on sending a team from the African Guild to represent SingularityNET at the conference.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "indigenous tooling, Ubuntu and AI, github board, AMA Session Updates, Documentation, research",
+        "emotions": "Interactive, informative, calm, Friendly"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "96d223e5-907b-4180-b352-d471fc04fe10": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "name": "Weekly",
+        "date": "2024-10-24",
+        "host": "Duke",
+        "documenter": "CJFrankie",
+        "peoplePresent": "Eric Davies, Duke, Kateri, LadyTempestt, Kenichi, Bethel Akpo, Clement Umoh, advanceameyaw, CJFrankie, martinsoki, Effiom, esewilliams, Valola",
+        "purpose": "The African Guild weekly meeting and progress updates.",
+        "otherMediaLink": "http://singularitynet.africa/ | https://www.instagram.com/snet_africa?igsh=cDEzMWNmemFqdjVp |  https://www.linkedin.com/in/singularitynet-africa  | https://medium.com/@singularitynet.africa | https://x.com/Snetafrica | https://t.me/+5oS0y-KXEJczY2Y0  | https://www.youtube.com/@SingularityNet.Africa"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kickoff: The African guild meeting began at 5:18 PM with Duke welcoming everyone. We glanced over the minutes from the last meeting to tick off some action items. First off, Duke gives credit to Martinsoki for documenting excellently; however, he pointed out that the summary has two different font styles! He added that meeting documenters should use “Nunito\" font as our standard.\n\nResearch updates: Advance shared an update on the “indigenous AI tooling research.” He added that Phase One of the research, which was about drafting process documents, has been completed. The research team is yet to embark on phase two.\n\nAMA Session: Clement shared insider tips on the AMA side of things. He hinted that decisions have been made on the forthcoming AMA session scheduled for November 29th. Speaking of time, the purpose of the AMA session, and the selection of speakers, there are several ongoing discussions. The session will feature engaging moments such as Q&A and other interactions from previous sessions. Lastly, he added that come the next meeting, the speakers will be selected; and the team will share more detailed updates.\n\nAOB: As a matter of finality and news worth mentioning, Duke announced the approval of his Deep Funding proposal, which aims to spread the word on SingularityNET in the African continent. Although it's a work in progress, he showcased the newly launched website (https://www.singularitynet.africa). He mentioned the impact of SingularityNET in African universities — the team has been working behind the scenes on this. He also showcased all the social media platforms while encouraging African Guild members to share their feedback and thoughts on the project. \n\nMore AOB: The meeting also featured the presence of Kenichi, who spoke about the forthcoming blockchain event at the University of Lagos (Unilag); he sought clarity on the number of African Guild members who will be live at the event. He also spoke about taking the discussion to Marketing Guild to ideate more, and the AI Ethics workgroup to see how they can support by providing merchandise from the Foundation or BeGIN for the event.\n\nDuke also discussed the forthcoming Virtual AGI conference scheduled for November which is the first of its kind on the African continent.\n",
+          "actionItems": [
+            {
+              "text": "Duke to provide the email addresses of people who will have editing access to the Ambassadors Google Drive.",
+              "assignee": "Duke",
+              "dueDate": "31 October 2024",
+              "status": "todo"
+            },
+            {
+              "text": "Duke to chase Ayo to get a clue on how many people will volunteer their presence in the BUI event run by Kenichi.\n",
+              "assignee": "Duke",
+              "dueDate": "14 November 2024",
+              "status": "in progress"
+            },
+            {
+              "text": "Sucre to translate articles from Ubuntu and AI events.\n",
+              "assignee": "Sucre n Spice",
+              "dueDate": "31 October 2024",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We have decided to make the Nunito font the standard font for our meeting documentation.\n",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "DeepFunding, African, BUI, Conference, Research, AMA Session Updates, Unilag, Translation, Documentation, universities, African universities, indigenous tooling",
+        "emotions": "Resourceful, informative, quiet, short"
       },
       "type": "Custom",
       "noSummaryGiven": false,
