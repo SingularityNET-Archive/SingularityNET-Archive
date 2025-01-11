@@ -45705,5 +45705,173 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-05-28",
+      "host": "Felix",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "PeterE, CallyFromAuron, guillermolucero, sakujennbornean, billy, Duke, Effiom, Sucre n Spice, Onize, kenichi",
+      "purpose": "Weekly Governance WG meeting",
+      "workingDocs": [
+        {
+          "title": "GovWG Budgets",
+          "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+        },
+        {
+          "title": "Quarterly Report",
+          "link": "https://docs.google.com/document/d/1tRy6WcXC7S3sG9jm8sHnstIEI597kry3ORJ73GL0MUM/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Status of Writer’s WG budget proposal: What is the progress? Writers WG has resubmitted their budget proposal so we have to relaunch the consent process and Treasury Guild will set up the consent form and run it again. Do we as governance WG guide this or is it purely treasury conversation? It might be a good idea to have a consensus call or coordinate around the topic here. Another point raised was that if the objections raised during the last consent round have been addressed then there might be no need for another consent round but if they haven’t then that might be an issue. Vani suggested that we transfer all the things we said we would do to improve the quarter 3 consent process to our next meeting or Treasury Guild’s meeting to try and set up how to avoid these issues(stuff like having quarterly report handy, improving budget proposals structure/writing with maybe a template? and not hiding the link to your budget so no one can see it) in Q3. This could be on our next meeting agenda or the treasury’s agenda if they don't have something on their plate already.\n\nMarketing Guild Lead: Guild members are trying to figure out who will be the Guild Lead and there was no consensus at the end of last week's discussion. We noted that so many people are interested in the role but that wanting it is one thing and that having the ability and skills to step into the role is another thing. Peter mentioned that Judith posted a summary of the main ideas that came out of the last town hall session so everyone could check it out. Peter finalized by saying that in terms of the Marketing Guild Lead, we should go for someone who knows a bit if not much about the project and not just someone who reads about Web3 marketing:-)\n\nRetrospective across the Quarter: How will this work? We can have the session next week on what worked, and what didn't work plus suggestions for improvement. We can also do async with a form of Polis as agreed previously. Vani has drafted a starting point for the Polis session. She added that a few of us could go off and come back with fitting statements. Peter suggested having a WG Leads call to go through the proposal writing aspect. Vani reminded us that we had yet to decide on the renaming of the core contributor role and that if you sit on a decision for a while until it is accepted, you don't need to make a decision, but is that ethical? Is it fair? It was suggested we look at it as part of the reflective process.\n\nLoomio Test Run: We will go ahead with purchasing a subscription to the Loomio decision-making software and Core Contributors could simply use it to vote on items. Do we play around with it and see how it works for decision-making? There is currently a six-month contract and Deep Funding is currently exploring tools. Vani suggested making a little video about how it works and sharing that. Guillermo added that Judith shared it as it is something the whole SingularityNET community will be able to use. Felix suggested we focus on retrospective and ideating improvements for the next decision-making thing. Once this is done, we should ideally already have a nice list of stuff we want to do better, where we can see already, how can we do this directly through the first voting experiment on the renaming core contributor role thing with Loomio, and then we can move towards quarter three.\n\nWG Documentation: Is it possible to include adding meeting notes to the summary tool as part of the documentation of a meeting? Or do people need a walkthrough? We all thought it was a good idea. Jenni said she might go for documenting our meetings from maybe the next one. Till further notice. Is there enough budget for it? Felix says there is according to the Q2 governance budget sheet. \n",
+        "actionItems": [
+          {
+            "text": "Felix to check with the Treasury Guild concerning the consent for the Writers WG budget proposal.",
+            "assignee": "Felix",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to dm Felix about the checklist on who was there in the previous meetings we have had and get access to recordings if any.",
+            "assignee": "CallyFromAuron",
+            "status": "done"
+          },
+          {
+            "text": "Jenni to go through WG meeting documentation from the past and get back to us if she would like to document future sessions.",
+            "assignee": "sakujennbornean",
+            "status": "todo"
+          },
+          {
+            "text": "Vani to possibly meet Jenni and Billy to walk them through documenting and adding the notes to the summary tool. She might also dm Onize too to see if she fancies joining an archive session.",
+            "assignee": "CallyFromAuron",
+            "status": "todo"
+          },
+          {
+            "text": "Felix to reach out to Duke concerning the walkthrough video on Loomio. ",
+            "assignee": "Felix",
+            "status": "todo"
+          },
+          {
+            "text": "Felix to share the Q3 budget draft and Q2 report for Governance WG on Discord so we can all chip in comments.",
+            "assignee": "Felix",
+            "status": "done"
+          },
+          {
+            "text": "Felix to give town hall WG monthly updates today.",
+            "assignee": "Felix",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We will include adding meeting notes to the summary tool as part of meeting documentation",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We all agreed that it is a great idea to have a walkthrough video on how to use the Archives WG’s summary tool.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We agreed to have actual budget issues retrospective and look at what improvements and changes we want to make to budgets in June week 1(4th?).",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We will look at the governance process itself and discuss everyone getting on board with using Loomio in June week 2 and possibly week 3.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "The renaming of the decision-making role should be moved to quarter 3.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Status of Writer’s WG budget proposal",
+          "Marketing Guild Lead",
+          "Retrospective across the Quarter",
+          "Loomio Test Run",
+          "WG Documentation"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Consent decision-making process for Budget proposals, Quarter 3 2024 plans,  Marketing Guild Lead, Loomio,  decision-making tooling,  Pol.is, meeting documentation, retrospective",
+      "emotions": "Deliberative, interesting, contributive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2024-11-26",
+      "host": "CallyFromAuron",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "PeterE, CallyFromAuron, CollyPride, LadyTempestt, photogee, TheFreysDeFi, guillermolucero, Sucre n Spice, Duke, SubZero, Kateri, kareem, Clement Umoh, Valola, osmium, AshleyDawn, Effiom",
+      "purpose": "Weekly Governance WG meeting",
+      "workingDocs": [
+        {
+          "title": "Governance WG Tasks sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1kVTXINeOh11tz3uPWicA1aR9aZslwCQMs1hKSFzlM3s/edit"
+        },
+        {
+          "title": "Kareem Design Initiative",
+          "link": "https://docs.google.com/document/d/1U8plMW0MCdGTI5gm5P_rjddrFjRe1BlN6mn1vb6nCas/edit?usp=sharing"
+        },
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We went through the Governance WG tasks sheet to remind people to put down their names or other people's names for tasks they know they have done so they can be added to dework and sent out for payment.\n Do we need extra planning for next week's Tuesday governance meeting to discuss budget objections if any? Meetings like that can get quite wordy to document and a bit tasky to facilitate. Peter did step up to facilitate and since he has done it before, we do not need any preparation.\nKareem’s Design Initiative Design Initiative: Kareem gave an overview of the initiative where he highlighted that the initiative is looking to solve the problem of unifying brand guidelines that has been in the program for a while.\nVani asked “What is the long-term sustainability for it?” Kareem responded that the core and starting point of the initiative is to create design stuff and have some kind of test run to see and observe its impact in the ambassador program. Vani then asked how Kareem plans on delivering a report on the initiative and what metrics he would use. She added that if he is testing running something there should be a way of assessing whether it's useful. Kareem emphasized that WGs have a way of showing their stats/numbers in terms of deliverables so this can be monitored from that.\nGuillermo asked if Kareen had gone back to discuss internally the whole point of “folding the design initiative into Marketing Guild” with the Marketing Guild to which Kareem replied that it's been addressed.  Kareem also clarified that the deliverables in the initiative document will be done this quarter(Q4).\nLove found Kareem's answer to long term goals and having the initiative folded in Marketing Guild unsatisfactory so Kareem clarified that they are for 1) trying to establish a very consistent style guide for designing which is the templates they want to create will come in and that depending on how the community feels about it they might move forward with newer things like motion graphics and illustration. 2)He spoke with the Marketing Guild and they have some sort of understanding that the initiative is something that is going to be under the Marketing Guild.\nWe also discussed how long the templates Kareem would be creating this quarter(q4) will last, he said they will be live and valid for like Q1. Vani pointed out a few of the templates(banners and visuals for announcement) that could be used for a longer period of time though.\nTheFreyDeFi suggested getting different WG leads to kind of spearhead and unify the whole design thing but still added that he likes Kareem’s design initiative under Marketing Guild. Kareem also emphasized that there is a content calendar to post on social media platforms for all WGs/Guilds under Marketing Guild already instead of having meetings to discuss it so it is properly organized.\nWe asked if anyone objects to this initiative becoming a reality and if they think it's unsafe to try. We had no outstanding objections.\n",
+        "actionItems": [
+          {
+            "text": "Anyone who has done a task in Governance WG at any point last quarter(Q3) should jump into this sheet Governance WG, tasks sheet  and put down their names on their respective tasks and add a link to it where possible.",
+            "status": "todo"
+          },
+          {
+            "text": "Peter to facilitate next week Tuesday’s Governance/Budget objections call.",
+            "assignee": "PeterE",
+            "dueDate": "3 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "All core contributors at the meeting were reminded to go and consent to Q1 budget proposals.",
+            "dueDate": "13 December 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We consented to Kareem’s Design Initiative Proposal and gave him the go-ahead to figure everything out himself including the Dework space he would use",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Governance WG Tasks Sheet",
+          "Budget objections",
+          "Kareem's Design Initiative"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Design Initiative Proposal, Governance WG Task sheet",
+      "emotions": "interesting, contributive, Deliberative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
