@@ -12,19 +12,19 @@
         "workingDocs": [
           {
             "title": "Onboarding research Google form",
-            "link": "https://forms.gle/dJMGVP7FZDMdyw6h6"
+            "link": "https:--forms.gle-dJMGVP7FZDMdyw6h6"
           },
           {
             "title": "Onboarding support for other workgroups Google doc",
-            "link": "https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing"
+            "link": "https:--docs.google.com-document-d-1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA-edit?usp-sharing"
           },
           {
             "title": "Commissioning Video clips Google doc",
-            "link": "https://docs.google.com/document/d/1qUp1g2q8fooIgIyjVM5uUOhT-_18A-HOs77A5gQeuDQ/edit?usp=sharing"
+            "link": "https:--docs.google.com-document-d-1qUp1g2q8fooIgIyjVM5uUOhT--18A-HOs77A5gQeuDQ-edit?usp-sharing"
           },
           {
             "title": "Twitter thread draft google doc",
-            "link": "https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing"
+            "link": "https:--docs.google.com-document-d-184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk-edit?usp-sharing"
           }
         ]
       },
@@ -179,15 +179,15 @@
         "workingDocs": [
           {
             "title": "Onboarding Journey Script by Rejoice -- Sample 1",
-            "link": "https://docs.google.com/document/d/13AO_46FarBVOpzklI1WD5HfzEkS-Jt1dugm6TRG8K2c/edit"
+            "link": "https:--docs.google.com-document-d-13AO-46FarBVOpzklI1WD5HfzEkS-Jt1dugm6TRG8K2c-edit"
           },
           {
             "title": "Onboarding Workgroup Skillshare Matrix Doc",
-            "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing"
+            "link": "https:--docs.google.com-spreadsheets-d-12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg-edit?usp-sharing"
           },
           {
             "title": "Scripts Draft 2",
-            "link": "https://docs.google.com/document/d/146NsS-e3S0yReVwoTTNDCbNYWSKoNOz7VtE2atGPX9o/edit"
+            "link": "https:--docs.google.com-document-d-146NsS-e3S0yReVwoTTNDCbNYWSKoNOz7VtE2atGPX9o-edit"
           }
         ],
         "timestampedVideo": {}
@@ -197,7 +197,7 @@
           "status": "carry over",
           "townHallUpdates": "1. Clement and Gorga Siagian gave an update on the last community town hall; they talked about the skills matrix where members of the group made inputs on the skills they already have and would also want to learn. \n\n2. As a follow up to the skills matrix, they talked about the documentation session scheduled for 15th of August where Lady Tempest will anchor a training session. This session will be based on the skills decided upon by the workgroup based on the output of the skills matrix.\n\n3. Additionally, they talked about the new set of onboarders who are tasked with the responsibility of onboarding new people into the group and program in general.\n",
           "issues": [
-            "“Onboarding Journeys” scripts — the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
+            "-Onboarding Journeys- scripts - the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
           ],
           "actionItems": [
             {
@@ -218,12 +218,12 @@
               "status": "todo"
             },
             {
-              "text": "Colleen to decide on a suitable date for the “GitHub project management” training in September. ",
+              "text": "Colleen to decide on a suitable date for the -GitHub project management- training in September. ",
               "assignee": "collene",
               "status": "in progress"
             },
             {
-              "text": "Following a discussion with the “training in September,” Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
+              "text": "Following a discussion with the -training in September,- Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
               "assignee": "Vanessa",
               "dueDate": "8 August 2024",
               "status": "done"
@@ -245,7 +245,7 @@
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "We have assigned different people to ask other workgroups/guilds, namely: LatAm guild, AI Ethics, African guild, Marketing guild, Writer's WG, and Strategy guild, about the skills new members should have and can learn in their WG, so we decided that these people will work on this project throughout August and then bring the results on 5th September 2024.",
+              "decision": "We have assigned different people to ask other workgroups-guilds, namely: LatAm guild, AI Ethics, African guild, Marketing guild, Writer's WG, and Strategy guild, about the skills new members should have and can learn in their WG, so we decided that these people will work on this project throughout August and then bring the results on 5th September 2024.",
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
