@@ -93,5 +93,394 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2025-01-08",
+      "host": "Slate",
+      "documenter": "Slate",
+      "peoplePresent": "Gorga Siagian, esewilliams, AshleyDawn, Kateri, Zalfred, hogantuso, frosh, photogee, Clement Umoh, osmium, LordKizzy, Malik",
+      "purpose": "Happy New Year Greetings - Follow Up from Projects - Task Assignment based on pending tasks - Certification Program next steps discussion.     ",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Happy New Year Greetings",
+          "Follow Up from Projects",
+          "Task Assignment based on pending tasks ",
+          "Certification Program next steps discussion"
+        ],
+        "actionItems": [
+          {
+            "text": "Ese to create a single google sheet document for the AI for Beginners ",
+            "assignee": "esewilliams",
+            "dueDate": "15 January 2025",
+            "status": "in progress"
+          },
+          {
+            "text": "Photogee, Clement and Ese to work on Webinar Series Document ",
+            "assignee": "esewilliams, Clement Umoh, photogee",
+            "dueDate": "15 January 2025",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Certification Program Resource Creation start after the website creation maybe near to it ",
+            "rationale": "mostAgreed ",
+            "effect": "mayAffectOtherPeople",
+            "opposing": "nil "
+          }
+        ],
+        "discussionPoints": [
+          "Slate started the meeting greeting everyone and giving best wishes for the new year to everyone ",
+          "The meeting started with warm welcome from everybody , and how there holidays went ",
+          "Then the meeting set off after this, getting updates in regards to the ongoing projects,The first update was gotten from Ai for beginners project ",
+          "Ese notified that the project is ongoing and we have all the scripts ready for the videos, only the SEO and Graphics part is left which will be selected in the coming weeks  ",
+          "There was a pointer in regards to the videos which were posted in the education guild channel , ese notified that those videos will be going through a last set of adjustments before getting published ",
+          "Slate notified ese to create a specific sheet for this purpose so all the videos can be tracked ",
+          "Then afterwards the discussion on the webinar series started on which clement , photogee and ese are going to be working on moving forward and will be providing an initial document ",
+          "Then Osmium notified that he is working on the governance framework series project and that vanessa is working by his side , and they will soon be having updates in regards to this ",
+          "There was also a discussion in regards to the certification program updates , Slate notified that the certification program will now be launched on the website for more public to accesss it and before making more resources we should wait for franklyn's update "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "CCCP, announcement, sugestion , website, Aiforbeginners, design, Task Assignment",
+      "emotions": "productive,  Collaborative, Businesslike."
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2025-01-09",
+      "host": "PeterE",
+      "documenter": "martinsoki",
+      "peoplePresent": "PeterE, CallyFromAuron, AshleyDawn, LadyTempestt, LordKizzy, martinsoki, Duke, Sucre n Spice, Clement, Effiom",
+      "purpose": "Weekly Governance WG meeting",
+      "workingDocs": [
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program End of Year report - draft outline",
+          "link": "https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing "
+        },
+        {
+          "title": "Q4 budget decision - main issues mentioned in objections",
+          "link": "https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing"
+        },
+        {
+          "title": "GovWG Budgets",
+          "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+        },
+        {
+          "title": "Treasury Policy Submission Form",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLScA7Rcw-7QclL13qnfsdrtFt64nYRKM7zU1LgOK9wEoaWgpqg/viewform"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Compulsory participation in Governance:\n\nShould we have this compulsory participation for individual core contributors?\n- We noted that we give core contributors right to take part in the decision making process but it doesn't have to be mandatory. (The call contributor tag was given base on their participation and not based on personal request).\n\nShould we have this compulsory for workgroups?\n1. Should workgroup be present in the  objections resolving calls?\n- If any workgroup put forward a proposal and there is an objection,it is important the workgroup is present to respond and discuss the objections. We noted that even if the workgroup lead isn't available, a representative from the workgroup should be available in the meeting to discuss the objections.\n\n2. Should workgroup be mandatory present during either governance call or workgroup syncing calls.\n- We noted that workgroup should prioritize coming for Workgroups syncing call. It is not mandatory but to encourage workgroups to participate, we suggested we propose to reward the Workgroups that sends a representative to 3 Workgroups syncing calls in a quarter and note that one person can only represent maximum of 2 workgroup.\nWhile for the governance call we are not mandating or proposing anything for now but we encourage work group to participate in other to know what is going on in the ecosystem.\n\n\n\n",
+        "actionItems": [
+          {
+            "text": "Martinsoki to post the proposal on the channel regarding the positive reward system for workgroups that attend three workgroups syncing call in a quarter",
+            "assignee": "martinsoki",
+            "dueDate": "9 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to propose a positive reward system instead of a sanction for workgroups that attend three workgroup syncing calls in the quarter",
+            "rationale": "To encourage participation in the monthly syncing calls ",
+            "opposing": "none",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "Compulsory participation in Governance for individual core contributors",
+          "Compulsory participation in governance for workgroup",
+          "Compulsory workgroup participation in the objection resolving calls of workgroup proposal "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Workgroup Sync call, core contributors, participation, Documentation",
+      "emotions": "progress made, Thoughtful "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "name": "Sandbox",
+      "date": "2025-01-09",
+      "host": "osmium",
+      "documenter": "Kateri",
+      "peoplePresent": "AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, martinsoki, LordKizzy, TheFreysDeFi, PeterE, Clement Umoh",
+      "purpose": "AI TOOLSET EXHIBITION: AIRTABLE AI: Airtable tool",
+      "workingDocs": [
+        {
+          "title": "Blueprint for AI sandbox/Think tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+        },
+        {
+          "title": " Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "Presentation Template",
+          "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        {
+          "title": "Third Sandbox Presentation",
+          "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },
+        {
+          "title": "Agenda Items AI Sandbox/Think Tank",
+          "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+        },
+        {
+          "title": "Iteration Form",
+          "link": "https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Lord Kizzy and Osmium to make up the road map and showcase in the next meeting",
+            "assignee": "LordKizzy, osmium",
+            "dueDate": "16 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Lord Kizzy to reach out to Peter with the list of members to be given the SANDBOX/THINKTANK tag ",
+            "assignee": "LordKizzy",
+            "dueDate": "16 January 2025",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone, and Osmium gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program. ",
+          "Showcasing the first presentation of the exhibition made by Advancemeyaw\n AIRTABLE AI: Airtable AI is a tool within Airtable and Airtable is a cloudbased collaboration plattform. It combines database functionalities with spreadsheets or any form of data. It is widely used for organizing and managing data and collaborating on data based on project or task. \n https://www.canva.com/design/DAGbkFCuaPo/sZzWOF2E83QWZvI6E-hEyg/edit?utm_content=DAGbkFCuaPo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton   \n",
+          " a) Overview of the toolset [Detailed Description and Use Cases] \nb) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] \nc) Demonstration [live demo or tutorial/ video walkthrough] \nd) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]\n\n",
+          "Questions were asked and clarity was made on the operation of the ARTABLE AI",
+          "Membership tag: The voting of the membership tag has ended on the channel and the tag name with the highest vote was SANDBOX/THINK-TANk. Lord Kizzy noted that he was going to meet Peter with the names of the member that should be given the tag and also said that those interested to become a member and have the tag needs to attend three meetings in a roll or attend five meetings in a quarter.",
+          "Budget allocation and project showcase planning: Suggestion for Think tank was around the theoretical debate, round table discussion but the potential for AI think tank is fast and we need to operate on our blueprint. \nAI sandbox project showcase: This is to showcase tools that were created by community members within the ambassador program, the person or ambassador gets to educate the community on the use of the tool. "
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AI TOOLSET EXHIBITION, AIRTABLE AI",
+      "emotions": "welcoming, informative, interactive, educational"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2025-01-14",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, LadyTempestt, guillermolucero, osmium, Duke, hogantuso, AshleyDawn, Effiom",
+      "purpose": "Weekly Governance WG meeting",
+      "workingDocs": [
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        },
+        {
+          "title": "Q1 2025 budget decision retrospective: Miro",
+          "link": "https://miro.com/app/board/uXjVLtid06I=/"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "This session was a retrospective of the consent process for  Q1 2025 workgroup budgets.\n\nSee the Miro board here https://miro.com/app/board/uXjVLtid06I=/\n\nEveryone present agreed that the implementation of budget caps has been broadly a success, especially in that it saved time and made the process less onerous; and most said that caps should be used again for Q2. However, several people noted that some of the higher-budget workgroups were not entirely happy at the enforced lowering of their budgets; and that we still need to discuss and refine the process of setting caps and e.g deciding how a WG's cap can be changed.\n\nWe noted that this last topic is on the rolling Governance WG agenda for our next meeting on Thurs 16th Jan.\n\n\n\n",
+        "discussionPoints": [
+          "Retrospective on the consent process for Q1 budgets"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "core contributors, participation, consent decision making, consent process, budget caps",
+      "emotions": "Thoughtful , focused, participatory"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2025-01-10",
+      "host": "Zalfred",
+      "documenter": "LordKizzy",
+      "peoplePresent": "Zalfred, AndrewBen, killy, frosh, osmium, Slate, devon, hogantuso, LordKizzy, Malik",
+      "purpose": "The meeting focused on weekly updates and tasks distribution",
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Osmium to present the videos from Bangkok ",
+            "assignee": "osmium",
+            "status": "todo",
+            "dueDate": "17 January 2025"
+          },
+          {
+            "text": "Lordkizzy to submit a short report on the video workgroup achievements to Peter",
+            "assignee": "LordKizzy",
+            "dueDate": "17 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided that Zalfred and killy will work on the leftover ecosystem videos",
+            "rationale": "Those videos need to go out as soon as possible"
+          }
+        ],
+        "discussionPoints": [
+          "UPDATE FROM THE TASK MANAGER\nA quick update from Malik on various tasks assigned within the week. He highlighted that there wasn't much activities due to the holiday and that the townhall edit video has been edited and sent to the review team",
+          "Update from the Social Media manager, Andrew Ben noted that he was on transit and won't be able to give the update\n",
+          "Town hall updates: Zalfred gave the updates from the previous town hall. He noted that there were some conversations around crypto scams and a discussion around a new policy on how WGs can make budget changes mid quarter. ",
+          "Goals for Q1: Lordkizzy spoke on reaching out to ecosystem spin-off projects for collaboration on video creation, he also spoke on how we could raise the level of engagement on our content through the zealy platform and also said he was going to need a representative from video wg for a call to structure the collaboration",
+          "AOB: Devon asked if the task assignment was meant to be done in the present call but zalfred addressed that we were on holiday for the previous weeks and assignees will continue work on january as agreed in our previous call",
+          "AOB: ECOSYSTEM Update Videos: Zalfred and Killy proposed creating the leftover ecosystem videos"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Video Edit, Q1 2025 goals, Ecosystem Update videos, Zealy, Town Hall Videos",
+      "emotions": "Friendly, speedy , Collaborative, Thoughtful "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "name": "Weekly",
+      "date": "2025-01-10",
+      "host": "Ayo",
+      "documenter": "Eric Davies",
+      "peoplePresent": "Gorga Siagian, AJ, TheFreysDeFi, Ayo, Clement Umoh, CJFrankie, LordKizzy, AshleyDawn, kareem, osmium, Eric Davies",
+      "purpose": "Marketing Guild weekly meeting\n",
+      "workingDocs": [
+        {
+          "title": "Marketing guild meeting summary 22 Nov",
+          "link": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+        },
+        {
+          "title": "Marketing Review Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing"
+        },
+        {
+          "title": "Marketing Guild Distribution Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing"
+        },
+        {
+          "title": "Roles and Responsibility for Marketing Guild",
+          "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+        },
+        {
+          "title": "Introductory message for the media room",
+          "link": "https://docs.google.com/document/d/1Wir5N-gdtzXGVh-m6zy4zLtCIf0BY8nkA7YrdoFF9iQ/edit?usp=sharing"
+        },
+        {
+          "title": "Q1 Marketing Guild Proposal",
+          "link": "https://docs.google.com/spreadsheets/d/168pruRm203FI-hAQSaVQ3wuz62bdgKKoDnKSu7dYI-M/edit?usp=sharing"
+        },
+        {
+          "title": "Meeting Agenda",
+          "link": "Hey Guys/Gals/Else Happy New Year Folks The Ney Year opens today at the Marketing Guild First meeting underway https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Kizzy to create a sheet for Core Members to indicate role swaps and check available positions.",
+            "assignee": "LordKizzy"
+          },
+          {
+            "text": "Cjfrankie to compile a document summarizing activities and accomplishments from Q3 and Q4.",
+            "assignee": "CJFrankie",
+            "status": "todo"
+          },
+          {
+            "text": "Kareem to prepare to present the governance document during the next call.",
+            "assignee": "kareem",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreeed that the cutoff for attendance review is set at 70%.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agreed that some members will take on a Task Force role, while some will assume a Core Member role based on performance and popular opinion.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Retrospective on Q3 and Q4 Performance: Ayo initiated a reflective discussion on the Marketing Guild's performance over the last two quarters, encouraging members to share both successes and areas for improvement.",
+          "Meeting Attendance and Task Completion: C.J. Frankie emphasized the need for consistent attendance and timely task completion to improve collaboration.",
+          "Zealy Campaign Review: Gorga acknowledged the success of the Zealy campaign but stressed the need for better planning to avoid last-minute execution.",
+          "Mascot Initiative Review: Kevin clarified that while he wasn’t the originator of the Mascot Initiative, he found it valuable and appreciated the team’s swift execution of the mascot contest.",
+          "Guild Progress and Areas for Improvement: Kizzy highlighted both the guild’s achievements and areas for improvement, such as enhancing the content calendar, improving attendance, and providing compensation for extra efforts.",
+          "YouTube Channel Guidelines: Kizzy introduced YouTube channel guidelines covering purpose, collaboration, feedback, and admin responsibilities",
+          "Attendance Review: Kizzy summarized attendance reviews, noting that some members fell below 20%, and C.J. Frankie asked about the fate of members with less than 70% attendance. Ayo reiterated that consistent availability is essential to retain roles, and inactive members may lose their positions.",
+          "Task Force Update: Kizzy announced the inclusion of Ashley as a sixth Task Force member, enabling fairer compensation despite some role adjustments.",
+          "Role Compensation Feedback: Kizzy presented an upgraded role distribution and compensation sheet for feedback.",
+          "AI and Media Initiatives: Kevin highlighted plans to use AI and media to support Ghanaian athletes, establish a global podcast, and empower West African talent."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, Budget , Roles, Zealy, Quarter 1 2025, attendance, retrospective, Ghana, Ghanaian athletes, Ambassador YouTube, Mascot",
+      "emotions": "Collaborative, Thoughtful , productive, warm, interactive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
