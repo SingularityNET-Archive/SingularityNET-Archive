@@ -45873,5 +45873,89 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-11-05",
+      "host": "EstherG",
+      "documenter": "Onize",
+      "peoplePresent": "Onize, EstherG, AshleyDawn, CallyFromAuron, Duke, Clement Umoh, Aetherblade, osmium",
+      "purpose": "Fortnightly Open Office meeting led by BeGIN (formerly known as the Global AI Ethics Initiative or GEI)",
+      "workingDocs": [
+        {
+          "title": "BeGIN Overview and current status",
+          "link": "https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view?usp=sharing"
+        },
+        {
+          "title": "Ubuntu and AI Drive Folder",
+          "link": "https://drive.google.com/drive/folders/1a-JSaHCu_1iQ3BoxX6HkWSOQGopKDub3?usp=drive_link"
+        },
+        {
+          "title": "BEGIN Partnership Proposal for Phase 2 of Ubuntu and AI",
+          "link": "https://docs.google.com/document/d/1WNVejHYjd_pBMBNf0ZFmEzobwM7E6bC1tqu3cBbRSak/edit?usp=sharing"
+        },
+        {
+          "title": "FINAL AI Ethics WG budgets ",
+          "link": "https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Discussion Points:\n- Updates on the Status of the BeGIN research project (see https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view)\n\n- A potential partnership with African guild for the next Ubuntu and AI project: Duke gave a run-through of phase 2 of the Ubuntu and AI project, and explained the partnership proposal from African Guild (see \"BEGIN Partnership Proposal for Phase 2 of Ubuntu and AI\" doc). Suggestions were made around the budget for the partnership and how funds could be better sourced for the events in Ubuntu and AI\n\n - Vasu raised an idea for taking interviews or surveys for BeGIN during the forthcoming Bangkok event and it was welcomed for him to do so.\n\n- Workgroup budget planning ahead of submission later this month\n\n- Esther working hard to find out the process behind payments for AGI-24 from the Foundation; there is progress in the conversations she was having with the HR team\n\n- Vani brought up the idea of noting down all the upcoming events to prevent last-minute hassle of bringing in people from the ambassador program and enable a strategy to plan the events or hosting. “What kind of events do we look out for in the future? Are people going to blockchain and AI events?”  It's best to think of where people are, rather than sending people to distant locations, because of the cost varying across countries, so Esther suggested that funding should be geared more to people located in the countries over sending people to countries where the events are.\n\n - Grant funding: A suggestion came up for partners to apply for grants but basically the foundation will come up with a way to create a sustainable way around funding for the events \nDuke spoke of how he’s applied for grants and reached out to policy makers and government bodies to accelerate the spread of AI in Africa but he’s mostly focused on the partnership with SingularityNET.\nThere is a funding issue because the project’s budget isn’t primarily its own."
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Events, funding, grants, budget, partnership, interviewing, Ubuntu and AI, African guild, AGI-24, sNET Foundation, Q1 2025 budget",
+      "emotions": "Insightful, brief, relaxed, collaborative"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Biweekly",
+      "date": "2024-10-22",
+      "host": "EstherG",
+      "documenter": "Onize",
+      "peoplePresent": "CallyFromAuron, Aetherblade, Melissa Rivera, LadyTempestt, Onize, EstherG, AshleyDawn, Clement Umoh, AndrewBen, PeterE",
+      "purpose": "Fortnightly Open Office meeting led by BeGIN (formerly known as the Global Ethics Initiative or GEI).",
+      "workingDocs": [
+        {
+          "title": "2025 AI Conventions ",
+          "link": "https://docs.google.com/spreadsheets/d/1n-qlSc2ji1Y1vScEpPCX6n7JfnpeduIpuT3RLs7o47c/edit?usp=sharing"
+        },
+        {
+          "title": "BeGIN overview and current status",
+          "link": "https://drive.google.com/file/d/18zNfkBZtD60GeSMi5Dd2SRqFKLSfbzJt/view"
+        }
+      ],
+      "timestampedVideo": {}
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Discussion Points:\n\nUpdates on the Status of the Research: \nEsther gave an update. \nMaking progress and moving forward in the research as developments and donations have been coming in for the past couple of weeks.\nIn addition to the qualitative research that is being done by the Ambassadors AI Ethics WG, a resource-sharing platform for people to make donations and fund specific, safe, ethical, and beneficial AI projects is on the way.\nOver the next weeks, coming up with ideas of how to collect funding and distribute it in a DAO fashion.\nKicking off with social integrations and a WordPress website, open to receiving input from anyone who knows of sites to model the ideas on.\nThe website's goal is to display projects, integrate with Deep Funding, and provide a space for people to propose projects. However, it would be a great idea to leverage existing infrastructures through Deep Funding.\nA simple interface for people to be able to donate resources before moving into more functions such as time banking\n\n\nUpdates/Feedback from Interviews:\nBased on the consent form, there are now 33 interviews coming from the Ambassador program.\nClement gave feedback on his interviews: the surprising turns the interviewees took and how expressive some of them have been. He also spoke about taking time to explain the privacy policy and how anonymity is maintained. His candidates were concerned about data privacy and understanding parts of the consent form. He also spoke of having to travel to different places, as online interviews were not his best bet. He said that facial cues and body language were a part of his research and he wanted to document that. Overall, it was a great experience.\n\nLeeLoo spoke of accessibility improvements being in the works, so that individuals who could be colourblind, have low hearing or low vision, would be able to participate and access consent forms etc without any issue.\n\nThere was also a discussion on the challenge of balancing how much information to provide in interviews without leading respondents, and gathering insights on how much an interviewee understands, whether people know terms like \"AI\" or whether we should say \"artificial intelligence\".\nWe raised the possibility of asking an initial question about how much the interviewee feels they know about AI, and coding interview responses to distinguish between participants who have been exposed to educational materials and those who haven't, to help avoid bias in interpreting the data. Acknowledging that participants’ answers could vary widely based on their limited or extensive exposure to different AI tools (e.g., ChatGPT vs. broader AI knowledge), and how this may impact the overall data interpretation.\n\nThere was discussion around the time and effort required for the consent process, and how that should be factored into the compensation for the interviews.\n\n\nTBD:\n- Potentially code the interview data to differentiate between interviews where the participant had no prior exposure to AI vs. those who have.\n- Consider ways to accommodate people with disabilities or limited technology access in the interview process.\n- Continue the conversation about how to factor in the time required for the consent process when compensating interviewees.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Ethics, chatbot, research, interviews, DAO, data analysis, human values, inclusive, demographic data, interviewing, survey, knowledge graphs, interview analysis, accessibility, disability",
+      "emotions": "Insightful, welcoming, relaxed, collaborative, progressive"
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
