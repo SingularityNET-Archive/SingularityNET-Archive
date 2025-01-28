@@ -87,19 +87,19 @@
               "status": "in progress"
             },
             {
-              "text": "Vani to add an FAQ on \\\"What are GMBLs\\\" to the Getting started Doc.",
+              "text": "Vani to add an FAQ on \"What are GMBLs\" to the Getting started Doc.",
               "assignee": "Vanessa",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
-              "text": "Sucre to add an FAQ on \\\"How do I get rewarded?\\\"",
+              "text": "Sucre to add an FAQ on \"How do I get rewarded?\"",
               "assignee": "Sucren",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
-              "text": "Onyeka to add an FAQ on \\\"What wallet is to be used\\\"",
+              "text": "Onyeka to add an FAQ on \"What wallet is to be used\"",
               "assignee": "Onyeka",
               "dueDate": "2023-11-23",
               "status": "in progress"
@@ -197,7 +197,7 @@
           "status": "carry over",
           "townHallUpdates": "1. Clement and Gorga Siagian gave an update on the last community town hall; they talked about the skills matrix where members of the group made inputs on the skills they already have and would also want to learn.   2. As a follow up to the skills matrix, they talked about the documentation session scheduled for 15th of August where Lady Tempest will anchor a training session. This session will be based on the skills decided upon by the workgroup based on the output of the skills matrix.  3. Additionally, they talked about the new set of onboarders who are tasked with the responsibility of onboarding new people into the group and program in general.",
           "issues": [
-            "\\\"Onboarding Journeys\\\" scripts - the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
+            "\"Onboarding Journeys\" scripts - the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
           ],
           "actionItems": [
             {
@@ -218,12 +218,12 @@
               "status": "todo"
             },
             {
-              "text": "Colleen to decide on a suitable date for the \\\"GitHub project management\\\" training in September.",
+              "text": "Colleen to decide on a suitable date for the \"GitHub project management\" training in September.",
               "assignee": "collene",
               "status": "in progress"
             },
             {
-              "text": "Following a discussion with the \\\"training in September,\\\" Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
+              "text": "Following a discussion with the \"training in September,\" Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
               "assignee": "Vanessa",
               "dueDate": "8 August 2024",
               "status": "done"
