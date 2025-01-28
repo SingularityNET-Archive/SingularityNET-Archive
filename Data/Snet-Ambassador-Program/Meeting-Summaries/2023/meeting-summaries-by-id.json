@@ -7,7 +7,7 @@
         "name": "Weekly",
         "date": "2023-11-16",
         "host": "Vanessa",
-        "documenter": "Onyeka ",
+        "documenter": "Onyeka",
         "peoplePresent": "Peter, Sucren, love, tone",
         "workingDocs": [
           {
@@ -31,7 +31,7 @@
       "agendaItems": [
         {
           "status": "carry over",
-          "townHallUpdates": "-Launch of the Onboarding survey form.\n-Collaboration with the Gamers Guild.\n\n",
+          "townHallUpdates": "-Launch of the Onboarding survey form.\n-Collaboration with the Gamers Guild.",
           "issues": [
             "Getting started Twitter thread",
             "Continuous Onboarding Document",
@@ -81,38 +81,38 @@
               "status": "in progress"
             },
             {
-              "text": "Sucre to change the cover photo of the Getting started Doc ",
+              "text": "Sucre to change the cover photo of the Getting started Doc",
               "assignee": "Sucren",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
-              "text": "Vani to add an FAQ on \"What are GMBLs\" to the Getting started Doc. ",
+              "text": "Vani to add an FAQ on \"What are GMBLs\" to the Getting started Doc.",
               "assignee": "Vanessa",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
-              "text": "Sucre to add an FAQ on \"How do I get rewarded?\" ",
+              "text": "Sucre to add an FAQ on \"How do I get rewarded?\"",
               "assignee": "Sucren",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
               "text": "Onyeka to add an FAQ on \"What wallet is to be used\"",
-              "assignee": "Onyeka ",
+              "assignee": "Onyeka",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
-              "text": " Vani to make a post on the Ambassador general channel about new members joining the Gamer's Guild.",
+              "text": "Vani to make a post on the Ambassador general channel about new members joining the Gamer's Guild.",
               "assignee": "Vanessa",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
             {
               "text": "Onyeka to create visuals for the Twitter thread doc",
-              "assignee": "Onyeka ",
+              "assignee": "Onyeka",
               "dueDate": "2023-11-23",
               "status": "in progress"
             },
@@ -141,7 +141,7 @@
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "We have decided to add some visuals to our Twitter thread about onboarding process. ",
+              "decision": "We have decided to add some visuals to our Twitter thread about onboarding process.",
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
@@ -150,10 +150,10 @@
             }
           ],
           "discussionPoints": [
-            "Minutes of last Meeting ",
+            "Minutes of last Meeting",
             "Changes to the Onboarding survey form",
             "Next Ambassador TH Update",
-            "Twitter thread on the Getting started doc ",
+            "Twitter thread on the Getting started doc",
             "Continuous Onboarding"
           ]
         }
@@ -173,7 +173,7 @@
         "name": "Weekly",
         "date": "2023-08-01",
         "host": "Clement Umoh",
-        "documenter": "Cjfrankie ",
+        "documenter": "Cjfrankie",
         "peoplePresent": "Vanessa, SucrenSpice, Peter, lord kizzy, Clement Umoh, LadyTempestt, daniel effiom, Yemi Solves, Duke, MartinSoki, Ayo, Cjfrankie, Gorga Siagian, Merryman, Eric Davies, AdavanceAmeyaw, Colleen, Kateri, Onize",
         "purpose": "Weekly meeting featuring discussions on August projections, and how to onboard people to the Ambassador program.",
         "workingDocs": [
@@ -195,9 +195,9 @@
       "agendaItems": [
         {
           "status": "carry over",
-          "townHallUpdates": "1. Clement and Gorga Siagian gave an update on the last community town hall; they talked about the skills matrix where members of the group made inputs on the skills they already have and would also want to learn. \n\n2. As a follow up to the skills matrix, they talked about the documentation session scheduled for 15th of August where Lady Tempest will anchor a training session. This session will be based on the skills decided upon by the workgroup based on the output of the skills matrix.\n\n3. Additionally, they talked about the new set of onboarders who are tasked with the responsibility of onboarding new people into the group and program in general.\n",
+          "townHallUpdates": "1. Clement and Gorga Siagian gave an update on the last community town hall; they talked about the skills matrix where members of the group made inputs on the skills they already have and would also want to learn. \n\n2. As a follow up to the skills matrix, they talked about the documentation session scheduled for 15th of August where Lady Tempest will anchor a training session. This session will be based on the skills decided upon by the workgroup based on the output of the skills matrix.\n\n3. Additionally, they talked about the new set of onboarders who are tasked with the responsibility of onboarding new people into the group and program in general.",
           "issues": [
-            "“Onboarding Journeys” scripts - the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
+            "\"Onboarding Journeys\" scripts - the next meeting will feature a discussion on the Onboarding Journeys script alongside the comments and thoughts from the WG members."
           ],
           "actionItems": [
             {
@@ -208,7 +208,7 @@
             },
             {
               "text": "Cj Frankie to add the meeting summary note for July the 4th to the meeting summary tool.",
-              "assignee": "Cjfrankie ",
+              "assignee": "Cjfrankie",
               "dueDate": "8 August 2024",
               "status": "done"
             },
@@ -218,12 +218,12 @@
               "status": "todo"
             },
             {
-              "text": "Colleen to decide on a suitable date for the “GitHub project management” training in September. ",
+              "text": "Colleen to decide on a suitable date for the \"GitHub project management\" training in September.",
               "assignee": "collene",
               "status": "in progress"
             },
             {
-              "text": "Following a discussion with the “training in September,” Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
+              "text": "Following a discussion with the \"training in September,\" Vani to share a post in the channel about what other skills people would like to learn because most are talking about decentralized governance.",
               "assignee": "Vanessa",
               "dueDate": "8 August 2024",
               "status": "done"
@@ -259,12 +259,12 @@
             }
           ],
           "discussionPoints": [
-            " Agreeing to the minutes of the last meeting.",
-            " Action items from the last meeting. ",
+            "Agreeing to the minutes of the last meeting.",
+            "Action items from the last meeting.",
             "Facilitation and Documentation Roster.",
-            " Facilitating and Documenting next time. ",
-            " Town Hall updates.",
-            " Skillshare Matrix.",
+            "Facilitating and Documenting next time.",
+            "Town Hall updates.",
+            "Skillshare Matrix.",
             "Assigned Tasks.",
             "Onboarding Journey."
           ]
