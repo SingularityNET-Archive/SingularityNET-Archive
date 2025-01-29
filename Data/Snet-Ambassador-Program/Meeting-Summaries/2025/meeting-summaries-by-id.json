@@ -4,7 +4,7 @@
       "workgroup": "Governance Workgroup",
       "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-07",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
@@ -101,7 +101,7 @@
       "workgroup": "Education Workgroup",
       "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-08",
         "host": "Slate",
         "documenter": "Slate",
@@ -167,7 +167,7 @@
       "workgroup": "Governance Workgroup",
       "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-09",
         "host": "PeterE",
         "documenter": "martinsoki",
@@ -238,7 +238,7 @@
       "workgroup": "AI Sandbox/Think-tank",
       "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
       "meetingInfo": {
-        "name": "Sandbox",
+        "typeOfMeeting": "Sandbox",
         "date": "2025-01-09",
         "host": "osmium",
         "documenter": "Kateri",
@@ -312,7 +312,7 @@
       "workgroup": "Governance Workgroup",
       "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-14",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
@@ -352,7 +352,7 @@
       "workgroup": "Video Workgroup",
       "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-10",
         "host": "Zalfred",
         "documenter": "LordKizzy",
@@ -407,7 +407,7 @@
       "workgroup": "Marketing Guild",
       "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2025-01-10",
         "host": "Ayo",
         "documenter": "Eric Davies",
