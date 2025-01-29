@@ -4,7 +4,7 @@
       "workgroup": "Deep Funding Town Hall",
       "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
       "meetingInfo": {
-        "name": "Biweekly",
+        "typeOfMeeting": "Biweekly",
         "date": "2022-06-23",
         "host": "Jan Horlings",
         "documenter": "Gorga Siagian",
