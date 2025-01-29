@@ -4,7 +4,7 @@
       "workgroup": "Onboarding Workgroup",
       "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2023-11-16",
         "host": "Vanessa",
         "documenter": "Onyeka",
@@ -170,7 +170,7 @@
       "workgroup": "Onboarding Workgroup",
       "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
       "meetingInfo": {
-        "name": "Weekly",
+        "typeOfMeeting": "Weekly",
         "date": "2023-08-01",
         "host": "Clement Umoh",
         "documenter": "Cjfrankie",
