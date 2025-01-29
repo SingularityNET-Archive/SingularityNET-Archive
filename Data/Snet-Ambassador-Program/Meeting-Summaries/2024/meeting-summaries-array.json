@@ -3,7 +3,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-24",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -94,7 +94,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-25",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -204,7 +204,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-25",
       "host": "LadyTempestt",
       "documenter": "Onyeka",
@@ -331,7 +331,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-24",
       "host": "Headelf",
       "documenter": "Slate",
@@ -418,7 +418,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-31",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -503,7 +503,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-31",
       "host": "Headelf",
       "documenter": "Slate",
@@ -573,7 +573,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-26",
       "host": "Rojo",
       "documenter": "Judith",
@@ -626,7 +626,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-02",
       "host": "Rojo",
       "documenter": "devon",
@@ -701,7 +701,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-03",
       "host": "Slate",
       "documenter": "devon",
@@ -761,7 +761,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-07",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -915,7 +915,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-08",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -1032,7 +1032,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-09",
       "host": "hogantuso",
       "documenter": "devon",
@@ -1082,7 +1082,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-24",
       "host": "Stephen",
       "documenter": "Stephen",
@@ -1155,7 +1155,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-15",
       "host": "Peter",
       "documenter": "Onyeka",
@@ -1259,7 +1259,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-14",
       "host": "Headelf",
       "documenter": "Slate",
@@ -1336,7 +1336,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-07",
       "host": "Peter, Slate",
       "documenter": "Slate",
@@ -1401,7 +1401,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-16",
       "host": "hogantuso",
       "documenter": "devon",
@@ -1446,7 +1446,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-16",
       "host": "Judith",
       "documenter": "lord kizzy",
@@ -1493,7 +1493,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-07",
       "host": "Stephen",
       "documenter": "Stephen",
@@ -1586,7 +1586,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-21",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -1718,7 +1718,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-17",
       "host": "Slate",
       "documenter": "devon",
@@ -1787,7 +1787,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-21",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -1896,7 +1896,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-24",
       "host": "Rojo, Guillermo",
       "documenter": "Guillermo",
@@ -1958,7 +1958,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-31",
       "host": "Curtis, Guillermo",
       "documenter": "Guillermo",
@@ -2019,7 +2019,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-07",
       "host": "Rojo, WaKa",
       "documenter": "Guillermo",
@@ -2080,7 +2080,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-14",
       "host": "Rojo, Guillermo",
       "documenter": "Guillermo",
@@ -2166,7 +2166,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-21",
       "host": "Headelf",
       "documenter": "Slate",
@@ -2235,7 +2235,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-23",
       "host": "Judith",
       "documenter": "lord kizzy",
@@ -2283,7 +2283,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-23",
       "host": "hogantuso",
       "documenter": "devon",
@@ -2327,7 +2327,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-23",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2361,7 +2361,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-30",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2394,7 +2394,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-09",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2427,7 +2427,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-16",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2460,7 +2460,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-06",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2493,7 +2493,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-13",
       "host": "Judith",
       "documenter": "Vanessa",
@@ -2526,7 +2526,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-20",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -2559,7 +2559,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-11",
       "host": "Judith",
       "documenter": "Vanessa",
@@ -2590,7 +2590,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-25",
       "host": "Judith, Jan Horlings",
       "documenter": "Vanessa",
@@ -2629,7 +2629,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-22",
       "host": "Tevo",
       "documenter": "André",
@@ -2691,7 +2691,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-22",
       "host": "SucrenSpice",
       "documenter": "LadyTempestt",
@@ -2803,7 +2803,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-03",
       "host": "hogantuso",
       "documenter": "devon",
@@ -2871,7 +2871,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-02",
       "host": "Slate",
       "documenter": "devon",
@@ -2934,7 +2934,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-28",
       "host": "Slate",
       "documenter": "Slate",
@@ -2995,7 +2995,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-29",
       "host": "Vanessa",
       "documenter": "LadyTempestt",
@@ -3105,7 +3105,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-07",
       "host": "LadyTempestt",
       "documenter": "Vanessa",
@@ -3249,7 +3249,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-07",
       "host": "André",
       "documenter": "André",
@@ -3305,7 +3305,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-06",
       "host": "Slate",
       "documenter": "Slate",
@@ -3384,7 +3384,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-08",
       "host": "Judith",
       "documenter": "lord kizzy",
@@ -3445,7 +3445,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-08",
       "host": "Slate",
       "documenter": "lord kizzy",
@@ -3527,7 +3527,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-06",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -3689,7 +3689,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-05",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -3728,7 +3728,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-12",
       "host": "Kenichi",
       "documenter": "Slate",
@@ -3806,7 +3806,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-26",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -3841,7 +3841,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-02",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -3901,7 +3901,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-09",
       "host": "Kenichi",
       "documenter": "Mikasa",
@@ -3970,7 +3970,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-16",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -4044,7 +4044,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-01",
       "host": "Kenichi",
       "documenter": "Mikasa",
@@ -4103,7 +4103,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-13",
       "host": "Slate",
       "documenter": "Slate",
@@ -4185,7 +4185,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-15",
       "host": "Judith",
       "documenter": "lord kizzy",
@@ -4239,7 +4239,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-16",
       "host": "Slate",
       "documenter": "devon",
@@ -4329,7 +4329,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-15",
       "host": "Slate",
       "documenter": "hogantuso",
@@ -4386,7 +4386,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-01",
       "host": "lord kizzy",
       "documenter": "cjfrankie",
@@ -4487,7 +4487,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-20",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -4625,7 +4625,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-13",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -4719,7 +4719,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-20",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -4862,7 +4862,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-22",
       "host": "Slate",
       "documenter": "hogantuso",
@@ -4941,7 +4941,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-21",
       "host": "Peter",
       "documenter": "lord kizzy",
@@ -5128,7 +5128,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-20",
       "host": "Slate",
       "documenter": "Slate",
@@ -5209,7 +5209,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-21",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -5357,7 +5357,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-26",
       "host": "Felix",
       "documenter": "Felix",
@@ -5413,7 +5413,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-27",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -5497,7 +5497,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-27",
       "host": "Curtis",
       "documenter": "Onyeka",
@@ -5585,7 +5585,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-27",
       "host": "Slate",
       "documenter": "Slate",
@@ -5666,7 +5666,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-30",
       "host": "Slate",
       "documenter": "Slate",
@@ -5743,7 +5743,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-29",
       "host": "Slate",
       "documenter": "hogantuso",
@@ -5821,7 +5821,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-03",
       "host": "Curtis, Guilermo",
       "documenter": "Onyeka",
@@ -5923,7 +5923,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-14",
       "host": "lord kizzy",
       "documenter": "LadyTempestt",
@@ -6050,7 +6050,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-28",
       "host": "Vanessa",
       "documenter": "lord kizzy",
@@ -6221,7 +6221,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-05",
       "host": "Slate",
       "documenter": "hogantuso",
@@ -6274,7 +6274,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-04",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -6414,7 +6414,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-03",
       "host": "Slate",
       "documenter": "Slate",
@@ -6494,7 +6494,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-03",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -6600,7 +6600,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-10",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -6735,7 +6735,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-10",
       "host": "Curtis, Guilermo",
       "documenter": "Onyeka",
@@ -6859,7 +6859,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-12",
       "host": "Slate",
       "documenter": "devon",
@@ -6909,7 +6909,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-10",
       "host": "Slate",
       "documenter": "Slate",
@@ -6983,7 +6983,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-12",
       "host": "Kenichi",
       "documenter": "devon",
@@ -7045,7 +7045,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-03",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -7106,7 +7106,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-13",
       "host": "Slate",
       "documenter": "devon",
@@ -7176,7 +7176,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-11",
       "host": "LadyTempestt",
       "documenter": "lord kizzy",
@@ -7358,7 +7358,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-08",
       "host": "All Members",
       "documenter": "Peter",
@@ -7407,7 +7407,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-02-27",
       "host": "Will Tatz",
       "documenter": "Vanessa",
@@ -7439,7 +7439,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-12",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -7472,7 +7472,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-08",
       "host": "Jan Horlings, Judith",
       "documenter": "Vanessa",
@@ -7504,7 +7504,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-02-22",
       "host": "Jan Horlings, Judith",
       "documenter": "Vanessa",
@@ -7535,7 +7535,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-07",
       "host": "Judith",
       "documenter": "Vanessa",
@@ -7566,7 +7566,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-03-21",
       "host": "Jan Horlings, Judith",
       "documenter": "Vanessa",
@@ -7598,7 +7598,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-17",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -7716,7 +7716,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-17",
       "host": "Slate",
       "documenter": "Slate",
@@ -7792,7 +7792,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-20",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -7897,7 +7897,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-19",
       "host": "Slate",
       "documenter": "devon",
@@ -7934,7 +7934,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-17",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -8052,7 +8052,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-20",
       "host": "Slate",
       "documenter": "devon",
@@ -8108,7 +8108,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-26",
       "host": "Slate",
       "documenter": "devon",
@@ -8183,7 +8183,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-24",
       "host": "Slate",
       "documenter": "Slate",
@@ -8250,7 +8250,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-17",
       "host": "Curtis, Guilermo",
       "documenter": "Onyeka",
@@ -8381,7 +8381,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-24",
       "host": "Guillermo",
       "documenter": "Onyeka",
@@ -8524,7 +8524,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-01",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -8644,7 +8644,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-03",
       "host": "Zalfred",
       "documenter": "killy",
@@ -8697,7 +8697,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-01-10",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -8829,7 +8829,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-04",
       "host": "Slate",
       "documenter": "devon",
@@ -8902,7 +8902,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-01",
       "host": "Slate",
       "documenter": "Slate",
@@ -8976,7 +8976,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-01",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -9042,7 +9042,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-18",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -9153,7 +9153,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-02",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -9259,7 +9259,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-24",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -9383,7 +9383,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-01",
       "host": "Guillermo",
       "documenter": "Onyeka",
@@ -9504,7 +9504,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-10",
       "host": "Zalfred",
       "documenter": "killy",
@@ -9594,7 +9594,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-08",
       "host": "Guillermo",
       "documenter": "Onyeka",
@@ -9721,7 +9721,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-08",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -9789,7 +9789,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-01-04",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -9825,7 +9825,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-22",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -9904,7 +9904,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-29",
       "host": "Kenichi",
       "documenter": "LadyTempestt",
@@ -9983,7 +9983,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-05",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -10047,7 +10047,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-19",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -10096,7 +10096,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-26",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -10135,7 +10135,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-03",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -10207,7 +10207,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-10",
       "host": "Kenichi",
       "documenter": "LadyTempestt",
@@ -10256,7 +10256,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-02",
       "host": "lord kizzy",
       "documenter": "Olokoji, LadyTempestt",
@@ -10417,7 +10417,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-08",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -10538,7 +10538,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-25",
       "host": "duke peter",
       "documenter": "LadyTempestt",
@@ -10692,7 +10692,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-09",
       "host": "Clement Umoh",
       "documenter": "cjfrankie",
@@ -10860,7 +10860,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-15",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -10998,7 +10998,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-07",
       "host": "Esther",
       "documenter": "Esther",
@@ -11058,7 +11058,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-17",
       "host": "Zalfred",
       "documenter": "killy",
@@ -11123,7 +11123,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-15",
       "host": "Guillermo",
       "documenter": "Onyeka",
@@ -11261,7 +11261,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-18",
       "host": "Slate",
       "documenter": "devon",
@@ -11318,7 +11318,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-16",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -11453,7 +11453,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-24",
       "host": "Zalfred",
       "documenter": "killy",
@@ -11544,7 +11544,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-15",
       "host": "Slate",
       "documenter": "Slate",
@@ -11610,7 +11610,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-15",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -11715,7 +11715,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-22",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -11830,7 +11830,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-22",
       "host": "Guillermo",
       "documenter": "Onyeka",
@@ -11972,7 +11972,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-24",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -12048,7 +12048,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-29",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -12188,7 +12188,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-29",
       "host": "Curtis",
       "documenter": "Onyeka",
@@ -12332,7 +12332,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-29",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -12423,7 +12423,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-31",
       "host": "Zalfred",
       "documenter": "killy",
@@ -12472,7 +12472,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-29",
       "host": "Slate",
       "documenter": "Slate",
@@ -12541,7 +12541,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-16",
       "host": "LadyTempestt",
       "documenter": "lord kizzy",
@@ -12605,7 +12605,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-01",
       "host": "Slate",
       "documenter": "devon",
@@ -12656,7 +12656,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-04",
       "host": "LeeLoo, Vanessa",
       "documenter": "LeeLoo",
@@ -12741,7 +12741,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-31",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -12818,7 +12818,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-07",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -12898,7 +12898,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-06",
       "host": "Duke",
       "documenter": "Onyeka",
@@ -12962,7 +12962,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-05",
       "host": "Slate",
       "documenter": "Slate",
@@ -13029,7 +13029,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-12",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -13136,7 +13136,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-14",
       "host": "Zalfred",
       "documenter": "killy",
@@ -13193,7 +13193,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-12",
       "host": "Slate",
       "documenter": "Slate",
@@ -13262,7 +13262,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-12",
       "host": "Stephen",
       "documenter": "Stephen, Vanessa",
@@ -13385,7 +13385,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-08",
       "host": "Slate",
       "documenter": "Slate",
@@ -13459,7 +13459,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-22",
       "host": "Slate",
       "documenter": "Slate",
@@ -13529,7 +13529,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-03",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -13637,7 +13637,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-03",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -13724,7 +13724,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-10",
       "host": "Vanessa",
       "documenter": "LadyTempestt",
@@ -13858,7 +13858,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-05",
       "host": "Onyeka , Guilermo",
       "documenter": "Onyeka",
@@ -14017,7 +14017,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-15",
       "host": "Slate",
       "documenter": "devon",
@@ -14089,7 +14089,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-23",
       "host": "Clement Umoh",
       "documenter": "LadyTempestt",
@@ -14209,7 +14209,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-30",
       "host": "lord kizzy",
       "documenter": "duke peter",
@@ -14372,7 +14372,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-06",
       "host": "duke peter",
       "documenter": "LadyTempestt",
@@ -14570,7 +14570,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-17",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -14650,7 +14650,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-04",
       "host": "Vanessa",
       "documenter": "Cjfrankie",
@@ -14761,7 +14761,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-17",
       "host": "Tevo",
       "documenter": "Tevo, Effiom",
@@ -14933,7 +14933,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-21",
       "host": "Zalfred",
       "documenter": "killy",
@@ -15007,7 +15007,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-19",
       "host": "Slate",
       "documenter": "Slate",
@@ -15063,7 +15063,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-14",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -15133,7 +15133,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-21",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -15192,7 +15192,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-19",
       "host": "lord kizzy",
       "documenter": "lord kizzy",
@@ -15310,7 +15310,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-19",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -15345,7 +15345,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-03-26",
       "host": "Peter",
       "documenter": "Vanessa",
@@ -15380,7 +15380,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-19",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -15501,7 +15501,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-05-28",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -15611,7 +15611,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-11",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -15745,7 +15745,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-20",
       "host": "LadyTempestt",
       "documenter": "lord kizzy",
@@ -15879,7 +15879,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-12",
       "host": "LeeLoo",
       "documenter": "Ayo",
@@ -16010,7 +16010,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-26",
       "host": "Stephen",
       "documenter": "Stephen, CallyFromAuron",
@@ -16204,7 +16204,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-26",
       "host": "Slate",
       "documenter": "Slate",
@@ -16290,7 +16290,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-29",
       "host": "Slate",
       "documenter": "devon",
@@ -16359,7 +16359,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-26",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -16480,7 +16480,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-07",
       "host": "Zalfred",
       "documenter": "killy, lord kizzy",
@@ -16526,7 +16526,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-12",
       "host": "Guilermo",
       "documenter": "lord kizzy",
@@ -16657,7 +16657,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-28",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -16709,7 +16709,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-02",
       "host": "Haley, iota_one, aetherblade",
       "documenter": "CallyFromAuron",
@@ -16819,7 +16819,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-10",
       "host": "André",
       "documenter": "CallyFromAuron",
@@ -17002,7 +17002,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-26",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -17116,7 +17116,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-01",
       "host": "Billy",
       "documenter": "Effiom",
@@ -17194,7 +17194,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-03",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -17298,7 +17298,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-05",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -17381,7 +17381,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-27",
       "host": "Onize",
       "documenter": "kateri",
@@ -17520,7 +17520,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-09",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -17562,7 +17562,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-16",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -17612,7 +17612,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-18",
       "host": "LadyTempestt",
       "documenter": "Gorga Siagian, lord kizzy, CallyFromAuron",
@@ -17655,7 +17655,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-10",
       "host": "Slate",
       "documenter": "Slate",
@@ -17741,7 +17741,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-04",
       "host": "Clement Umoh",
       "documenter": "Advanceameyaw",
@@ -17806,7 +17806,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-12",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -17894,7 +17894,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-13",
       "host": "Slate",
       "documenter": "devon",
@@ -17996,7 +17996,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-24",
       "host": "CallyFromAuron",
       "documenter": "Ayo, CallyFromAuron",
@@ -18148,7 +18148,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-08",
       "host": "CallyFromAuron",
       "documenter": "CollyPride",
@@ -18254,7 +18254,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-23",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -18302,7 +18302,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-05",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -18353,7 +18353,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-13",
       "host": "Duke",
       "documenter": "love, Onize",
@@ -18428,7 +18428,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-20",
       "host": "duke peter",
       "documenter": "Ayo, Onize",
@@ -18497,7 +18497,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-30",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -18551,7 +18551,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-07",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -18617,7 +18617,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-17",
       "host": "Slate",
       "documenter": "Slate",
@@ -18700,7 +18700,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-28",
       "host": "Kenichi, Cjfrankie",
       "documenter": "cjfrankie",
@@ -18751,7 +18751,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-16",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -18829,7 +18829,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-03",
       "host": "Slate",
       "documenter": "Slate",
@@ -18892,7 +18892,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-01",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -19034,7 +19034,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-14",
       "host": "Tevo",
       "documenter": "CallyFromAuron",
@@ -19087,7 +19087,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-06-25",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -19220,7 +19220,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-11",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -19331,7 +19331,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-18",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -19469,7 +19469,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-19",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -19587,7 +19587,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-17",
       "host": "lord kizzy",
       "documenter": "lord kizzy",
@@ -19697,7 +19697,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-24",
       "host": "Stephen [QADAO]",
       "documenter": "CallyFromAuron",
@@ -19811,7 +19811,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-17",
       "host": "Tevo",
       "documenter": "Effiom, Tevo",
@@ -19938,7 +19938,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-15",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -20083,7 +20083,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-25",
       "host": "LadyTempestt",
       "documenter": "lord kizzy",
@@ -20194,7 +20194,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-24",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -20297,7 +20297,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-26",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -20406,7 +20406,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-15",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -20475,7 +20475,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-22",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -20566,7 +20566,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-08",
       "host": "Effiom",
       "documenter": "Effiom",
@@ -20650,7 +20650,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-27",
       "host": "Slate",
       "documenter": "devon",
@@ -20746,7 +20746,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-24",
       "host": "Slate",
       "documenter": "Slate",
@@ -20821,7 +20821,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-26",
       "host": "Cjfrankie",
       "documenter": "Cjfrankie",
@@ -20871,7 +20871,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-19",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -20919,7 +20919,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-31",
       "host": "Slate",
       "documenter": "Slate",
@@ -21026,7 +21026,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-10",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -21214,7 +21214,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-22",
       "host": "CallyFromAuron",
       "documenter": "CallyFromAuron",
@@ -21357,7 +21357,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-09",
       "host": "Felix",
       "documenter": "Felix",
@@ -21433,7 +21433,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-30",
       "host": "Felix",
       "documenter": "Felix",
@@ -21465,7 +21465,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-11",
       "host": "Duke",
       "documenter": "esewilliams",
@@ -21541,7 +21541,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-18",
       "host": "Clement Umoh",
       "documenter": "esewilliams",
@@ -21607,7 +21607,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-07",
       "host": "Felix",
       "documenter": "Felix",
@@ -21682,7 +21682,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-11",
       "host": "Felix",
       "documenter": "Ese Williams",
@@ -21774,7 +21774,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-14",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -21862,7 +21862,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-04",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -21917,7 +21917,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-12",
       "host": "Kenichi",
       "documenter": "cjfrankie",
@@ -21979,7 +21979,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-01",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -22063,7 +22063,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-15",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -22170,7 +22170,7 @@
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-22",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -22292,7 +22292,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-31",
       "host": "lord kizzy",
       "documenter": "lord kizzy",
@@ -22394,7 +22394,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-03",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -22540,7 +22540,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-10",
       "host": "lord kizzy, guillermolucero",
       "documenter": "lord kizzy",
@@ -22672,7 +22672,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-02",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -22770,7 +22770,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-04",
       "host": "lord kizzy",
       "documenter": "Cjfrankie",
@@ -22865,7 +22865,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-11",
       "host": "CallyFromAuron",
       "documenter": "lord kizzy",
@@ -23007,7 +23007,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-18",
       "host": "CallyFromAuron",
       "documenter": "LadyTempestt",
@@ -23120,7 +23120,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-02",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -23191,7 +23191,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-31",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -23299,7 +23299,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-29",
       "host": "Tevo",
       "documenter": "Effiom, Tevo",
@@ -23407,7 +23407,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-29",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -23550,7 +23550,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-29",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -23649,7 +23649,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-07",
       "host": "lord kizzy",
       "documenter": "lord kizzy",
@@ -23764,7 +23764,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-08",
       "host": "Ayo",
       "documenter": "LadyTempestt",
@@ -23878,7 +23878,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-09",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -23989,7 +23989,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-14",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -24096,7 +24096,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-16",
       "host": "Zalfred",
       "documenter": "lord kizzy",
@@ -24252,7 +24252,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-24",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -24342,7 +24342,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-07",
       "host": "lord kizzy",
       "documenter": "Effiom",
@@ -24513,7 +24513,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-14",
       "host": "Slate",
       "documenter": "Slate",
@@ -24591,7 +24591,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-07",
       "host": "Slate",
       "documenter": "Slate",
@@ -24659,7 +24659,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-27",
       "host": "esewilliams",
       "documenter": "LadyTempestt",
@@ -24719,7 +24719,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-17",
       "host": "Slate",
       "documenter": "devon",
@@ -24810,7 +24810,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-05",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -24928,7 +24928,7 @@
     "workgroup": "WG Sync Call",
     "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-08-08",
       "host": "PeterE",
       "documenter": "lord kizzy",
@@ -24989,7 +24989,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-19",
       "host": "CallyFromAuron, Sucre n Spice",
       "documenter": "Onize, CallyFromAuron",
@@ -25094,7 +25094,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-05",
       "host": "CallyFromAuron",
       "documenter": "Colleen, sakujennbornean",
@@ -25192,7 +25192,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-21",
       "host": "lordkizzy",
       "documenter": "lord kizzy",
@@ -25296,7 +25296,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-21",
       "host": "Slate",
       "documenter": "Slate",
@@ -25365,7 +25365,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-21",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -25447,7 +25447,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-23",
       "host": "Slate",
       "documenter": "Hogantuso",
@@ -25583,7 +25583,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-15",
       "host": "Clement Umoh",
       "documenter": "Cjfrankie",
@@ -25643,7 +25643,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-16",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -25720,7 +25720,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-22",
       "host": "Duke",
       "documenter": "Kateri",
@@ -25768,7 +25768,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-20",
       "host": "guillermolucero",
       "documenter": "CallyFromAuron",
@@ -25878,7 +25878,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-12",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -25980,7 +25980,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-14",
       "host": "Effiom",
       "documenter": "Gorga Siagian",
@@ -26134,7 +26134,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-19",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -26255,7 +26255,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-06",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -26291,7 +26291,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-28",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -26399,7 +26399,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-13",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -26435,7 +26435,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-31",
       "host": "Slate",
       "documenter": "devon",
@@ -26529,7 +26529,7 @@
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-09-02",
       "host": "Tevo",
       "documenter": "André",
@@ -26627,7 +26627,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-30",
       "host": "Slate",
       "documenter": "Hogantuso",
@@ -26700,7 +26700,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-09",
       "host": "Cjfrankie",
       "documenter": "Gorga Siagian, CallyFromAuron",
@@ -26778,7 +26778,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-04",
       "host": "André",
       "documenter": "CallyFromAuron",
@@ -26897,7 +26897,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-04",
       "host": "Slate",
       "documenter": "Slate",
@@ -26979,7 +26979,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-23",
       "host": "Ayo",
       "documenter": "Photogee",
@@ -27063,7 +27063,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-30",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -27166,7 +27166,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-16",
       "host": "lord kizzy",
       "documenter": "Photogee",
@@ -27253,7 +27253,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-21",
       "host": "Gorga Siagian",
       "documenter": "Effiom",
@@ -27393,7 +27393,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-04",
       "host": "Tevo",
       "documenter": "LadyTempestt",
@@ -27537,7 +27537,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-02",
       "host": "CallyFromAuron",
       "documenter": "CallyFromAuron",
@@ -27660,7 +27660,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-26",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -27788,7 +27788,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-02",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -27990,7 +27990,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-28",
       "host": "malik",
       "documenter": "effiom",
@@ -28166,7 +28166,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-07-23",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -28318,7 +28318,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-05",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -28458,7 +28458,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-08",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -28591,7 +28591,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-13",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -28754,7 +28754,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "One-off event",
+      "typeOfMeeting": "One-off event",
       "date": "2024-08-15",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -28945,7 +28945,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-20",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -29135,7 +29135,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-27",
       "host": "Guillermo",
       "documenter": "Ines",
@@ -29328,7 +29328,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-08-29",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -29527,7 +29527,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-07",
       "host": "Slate",
       "documenter": "Hogantuso",
@@ -29592,7 +29592,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-04",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -29718,7 +29718,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-02",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -29836,7 +29836,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-11",
       "host": "Slate",
       "documenter": "Slate",
@@ -29906,7 +29906,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-06",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -30035,7 +30035,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-11",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -30152,7 +30152,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-14",
       "host": "Slate",
       "documenter": "devon",
@@ -30240,7 +30240,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-13",
       "host": "Slate",
       "documenter": "Hogantuso",
@@ -30342,7 +30342,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-13",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -30406,7 +30406,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-25",
       "host": "Duke Peter",
       "documenter": "Advanceameyaw",
@@ -30455,7 +30455,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-18",
       "host": "Stephen [QADAO]",
       "documenter": "CallyFromAuron",
@@ -30568,7 +30568,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-16",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -30783,7 +30783,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-18",
       "host": "Slate",
       "documenter": "Slate",
@@ -30862,7 +30862,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-18",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -31001,7 +31001,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-18",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -31123,7 +31123,7 @@
     "workgroup": "Treasury Policy WG",
     "workgroup_id": "f0ab47e5-bde0-4e4e-a968-28b117ca2a23",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-09",
       "host": "Tevo",
       "documenter": "Effiom, Tevo",
@@ -31245,7 +31245,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-13",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -31290,7 +31290,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-20",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -31383,7 +31383,7 @@
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-09-23",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -31560,7 +31560,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-26",
       "host": "CollyPride",
       "documenter": "CallyFromAuron",
@@ -31714,7 +31714,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-04",
       "host": "Jan Horlings, Judith",
       "documenter": "CallyFromAuron",
@@ -31749,7 +31749,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-18",
       "host": "Rafael Presa",
       "documenter": "CallyFromAuron",
@@ -31783,7 +31783,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-04-25",
       "host": "jay05|judithW, Rafael Presa",
       "documenter": "CallyFromAuron",
@@ -31818,7 +31818,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-02",
       "host": "jay05|judithW",
       "documenter": "CallyFromAuron",
@@ -31851,7 +31851,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-09",
       "host": "jay05|judithW",
       "documenter": "CallyFromAuron",
@@ -31886,7 +31886,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-28",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -31931,7 +31931,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-27",
       "host": "none",
       "documenter": "CallyFromAuron",
@@ -31964,7 +31964,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-29",
       "host": "none",
       "documenter": "CallyFromAuron",
@@ -31997,7 +31997,7 @@
     "workgroup": "Deep Funding Town Hall",
     "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-30",
       "host": "none",
       "documenter": "CallyFromAuron",
@@ -32030,7 +32030,7 @@
     "workgroup": "Ambassador Town Hall",
     "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-21",
       "host": "jay05|judithW",
       "documenter": "CallyFromAuron",
@@ -32066,7 +32066,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-13",
       "host": "Ayo",
       "documenter": "Onize, CallyFromAuron",
@@ -32179,7 +32179,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-15",
       "host": "LadyTempestt",
       "documenter": "hogantuso, CallyFromAuron",
@@ -32229,7 +32229,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-25",
       "host": "lord kizzy",
       "documenter": "lord kizzy",
@@ -32353,7 +32353,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "One-off event",
+      "typeOfMeeting": "One-off event",
       "date": "2024-09-30",
       "host": "Guillermo",
       "documenter": "Guillermo",
@@ -32459,7 +32459,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-27",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -32544,7 +32544,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-28",
       "host": "Slate",
       "documenter": "devon",
@@ -32624,7 +32624,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-02",
       "host": "Stephen [QADAO]",
       "documenter": "CallyFromAuron",
@@ -32726,7 +32726,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-02",
       "host": "Slate",
       "documenter": "Slate",
@@ -32808,7 +32808,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-09",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -32910,7 +32910,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-02",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -33033,7 +33033,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-03",
       "host": "PeterE, Duke",
       "documenter": "CallyFromAuron",
@@ -33109,7 +33109,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-30",
       "host": "CallyFromAuron",
       "documenter": "LadyTempestt",
@@ -33194,7 +33194,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-04",
       "host": "Slate",
       "documenter": "devon",
@@ -33295,7 +33295,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-03",
       "host": "LadyTempestt",
       "documenter": "Kateri",
@@ -33455,7 +33455,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-23",
       "host": "Cjfrankie",
       "documenter": "LadyTempestt",
@@ -33519,7 +33519,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-30",
       "host": "Cjfrankie",
       "documenter": "Ines",
@@ -33565,7 +33565,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-06",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -33626,7 +33626,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-12",
       "host": "Duke Peter",
       "documenter": "Cjfrankie",
@@ -33697,7 +33697,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-02",
       "host": "Tevo",
       "documenter": "Effiom",
@@ -33898,7 +33898,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-04",
       "host": "lord kizzy",
       "documenter": "Eric Davies",
@@ -33938,7 +33938,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-09",
       "host": "Slate",
       "documenter": "Slate",
@@ -34015,7 +34015,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-07",
       "host": "CallyFromAuron",
       "documenter": "Duke",
@@ -34090,7 +34090,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-09",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -34165,7 +34165,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-23",
       "host": "Ayo",
       "documenter": "Effiom",
@@ -34265,7 +34265,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-10-08",
       "host": "EstherG",
       "documenter": "onize",
@@ -34310,7 +34310,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-30",
       "host": "Tevo",
       "documenter": "Onize",
@@ -34482,7 +34482,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-07",
       "host": "Clement",
       "documenter": "Kateri",
@@ -34615,7 +34615,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-10",
       "host": "lord kizzy, osmium",
       "documenter": "lord kizzy",
@@ -34672,7 +34672,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-09",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -34802,7 +34802,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-03",
       "host": "",
       "documenter": "",
@@ -34834,7 +34834,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-10",
       "host": "",
       "documenter": "",
@@ -34866,7 +34866,7 @@
     "workgroup": "Dework PBL",
     "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-05",
       "host": "",
       "documenter": "",
@@ -34898,7 +34898,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-06-07",
       "host": "",
       "documenter": "",
@@ -34925,7 +34925,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-11",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -35017,7 +35017,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-20",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -35075,7 +35075,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-27",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -35132,7 +35132,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-12",
       "host": "Slate",
       "documenter": "devon",
@@ -35208,7 +35208,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-17",
       "host": "PeterE, Ayo",
       "documenter": "CallyFromAuron",
@@ -35301,7 +35301,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-16",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -35429,7 +35429,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-16",
       "host": "Slate",
       "documenter": "Slate",
@@ -35500,7 +35500,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-18",
       "host": "oep",
       "documenter": "Hogantuso",
@@ -35542,7 +35542,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-18",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -35637,7 +35637,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-17",
       "host": "Duke Peter",
       "documenter": "MartinSoki",
@@ -35754,7 +35754,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-17",
       "host": "lord kizzy",
       "documenter": "Kateri",
@@ -35829,7 +35829,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-18",
       "host": "Tevo",
       "documenter": "Tevo, Effiom",
@@ -35956,7 +35956,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-24",
       "host": "LadyTempestt",
       "documenter": "CallyFromAuron",
@@ -36060,7 +36060,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-21",
       "host": "Ayo",
       "documenter": "Photogee",
@@ -36157,7 +36157,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-05",
       "host": "Ayo",
       "documenter": "LadyTempestt",
@@ -36265,7 +36265,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-19",
       "host": "LadyTempestt",
       "documenter": "Gorga Siagian, CallyFromAuron",
@@ -36388,7 +36388,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-23",
       "host": "Slate",
       "documenter": "Slate",
@@ -36446,7 +36446,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-23",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -36580,7 +36580,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-17",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -36658,7 +36658,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-26",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -36774,7 +36774,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-22",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -36862,7 +36862,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-01",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -36971,7 +36971,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-01",
       "host": "Zalfred",
       "documenter": "Hogantuso",
@@ -37020,7 +37020,7 @@
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-10-28",
       "host": "Tevo",
       "documenter": "Tevo, CallyFromAuron, Valola",
@@ -37217,7 +37217,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-30",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -37331,7 +37331,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-23",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -37389,7 +37389,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-06",
       "host": "Stephen [QADAO]",
       "documenter": "CallyFromAuron",
@@ -37515,7 +37515,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-05",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -37577,7 +37577,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-04",
       "host": "Photogee",
       "documenter": "Cjfrankie",
@@ -37640,7 +37640,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-06",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -37722,7 +37722,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-08",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -37810,7 +37810,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-06",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -37920,7 +37920,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-08",
       "host": "Zalfred",
       "documenter": "Hogantuso",
@@ -37981,7 +37981,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-04",
       "host": "Felix",
       "documenter": "OluAyoola7D, CallyFromAuron",
@@ -38053,7 +38053,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-07-09",
       "host": "Peter",
       "documenter": "OluAyoola7D, CallyFromAuron",
@@ -38147,7 +38147,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-14",
       "host": "Duke",
       "documenter": "Kateri",
@@ -38223,7 +38223,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-13",
       "host": "Guillermo",
       "documenter": "Sergio",
@@ -38305,7 +38305,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-31",
       "host": "CallyFromAuron",
       "documenter": "Photogee, CallyFromAuron",
@@ -38428,7 +38428,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Sandbox",
+      "typeOfMeeting": "Sandbox",
       "date": "2024-11-14",
       "host": "osmium",
       "documenter": "Gorga Siagian",
@@ -38513,7 +38513,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-05",
       "host": "guillermolucero",
       "documenter": "CollyPride, CallyFromAuron",
@@ -38624,7 +38624,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-13",
       "host": "Guillermo",
       "documenter": "lord kizzy",
@@ -38753,7 +38753,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-20",
       "host": "LordKizzy",
       "documenter": "lord kizzy",
@@ -38886,7 +38886,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-15",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -38966,7 +38966,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-15",
       "host": "Malik",
       "documenter": "Zalfred",
@@ -39031,7 +39031,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-22",
       "host": "LordKizzy",
       "documenter": "Eric Davies",
@@ -39152,7 +39152,7 @@
     "workgroup": "Treasury Automation WG",
     "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-11-25",
       "host": "Tevo",
       "documenter": "Tevo",
@@ -39211,7 +39211,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-22",
       "host": "Malik",
       "documenter": "Zalfred",
@@ -39308,7 +39308,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-14",
       "host": "Clement Umoh",
       "documenter": "CJFrankie",
@@ -39377,7 +39377,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-08",
       "host": "CJFrankie",
       "documenter": "CJFrankie",
@@ -39433,7 +39433,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-15",
       "host": "CJFrankie",
       "documenter": "Cjfrankie",
@@ -39484,7 +39484,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-29",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -39542,7 +39542,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-29",
       "host": "Malik",
       "documenter": "Zalfred",
@@ -39611,7 +39611,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-23",
       "host": "CallyFromAuron",
       "documenter": "LadyTempestt",
@@ -39705,7 +39705,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-27",
       "host": "guillermolucero",
       "documenter": "lord kizzy",
@@ -39840,7 +39840,7 @@
     "workgroup": "Onboarding Workgroup",
     "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-28",
       "host": "Gorga Siagian",
       "documenter": "martinsoki",
@@ -39940,7 +39940,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-29",
       "host": "Ayo",
       "documenter": "LordKizzy",
@@ -40018,7 +40018,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-23",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -40118,7 +40118,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-06",
       "host": "Malik",
       "documenter": "Zalfred",
@@ -40186,7 +40186,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-04",
       "host": "Felix",
       "documenter": "Felix, CallyFromAuron",
@@ -40283,7 +40283,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-04-02",
       "host": "Peter",
       "documenter": "CallyFromAuron",
@@ -40356,7 +40356,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-12-09",
       "host": "CollyPride",
       "documenter": "CallyFromAuron",
@@ -40428,7 +40428,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-12-07",
       "host": "Slate",
       "documenter": "devon",
@@ -40506,7 +40506,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-06",
       "host": "esewilliams",
       "documenter": "Eric Davies",
@@ -40582,7 +40582,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-10",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -40671,7 +40671,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-04",
       "host": "advanceameyaw",
       "documenter": "lord kizzy",
@@ -40799,7 +40799,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-11",
       "host": "Slate",
       "documenter": "Slate",
@@ -40883,7 +40883,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-12-12",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -40954,7 +40954,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-01",
       "host": "CallyFromAuron",
       "documenter": "Effiom, CallyFromAuron",
@@ -41060,7 +41060,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-13",
       "host": "Zalfred",
       "documenter": "LordKizzy",
@@ -41106,7 +41106,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-15",
       "host": "PeterE",
       "documenter": "LadyTempestt",
@@ -41163,7 +41163,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-12-16",
       "host": "Tevo",
       "documenter": "Tevo, CallyFromAuron",
@@ -41322,7 +41322,7 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-12-16",
       "host": "esewilliams",
       "documenter": "Eric Davies",
@@ -41378,7 +41378,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Sandbox",
+      "typeOfMeeting": "Sandbox",
       "date": "2024-12-12",
       "host": "osmium",
       "documenter": "Kateri",
@@ -41466,7 +41466,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-05",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
@@ -41535,7 +41535,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-12",
       "host": "PeterE, guillermolucero, LadyTempestt",
       "documenter": "CollyPride, CallyFromAuron",
@@ -41624,7 +41624,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-12-02",
       "host": "CallyFromAuron",
       "documenter": "LadyTempestt",
@@ -41707,7 +41707,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-13",
       "host": "PeterE",
       "documenter": "Onize",
@@ -41812,7 +41812,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-15",
       "host": "PeterE",
       "documenter": "hogantuso, CallyFromAuron",
@@ -41892,7 +41892,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-04",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -41948,7 +41948,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-11",
       "host": "guillermolucero",
       "documenter": "lord kizzy",
@@ -42092,7 +42092,7 @@
     "workgroup": "Research and Development Guild",
     "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-18",
       "host": "guillermolucero",
       "documenter": "lord kizzy",
@@ -42244,7 +42244,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-11",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -42297,7 +42297,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-18",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -42349,7 +42349,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-25",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -42397,7 +42397,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-01",
       "host": "Tevo",
       "documenter": "Advanceameyaw, Effiom",
@@ -42539,7 +42539,7 @@
     "workgroup": "Archives Workgroup",
     "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-12-04",
       "host": "Stephen [QADAO]",
       "documenter": "CallyFromAuron",
@@ -42695,7 +42695,7 @@
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-01",
       "host": "Kenichi",
       "documenter": "Cjfrankie",
@@ -42750,7 +42750,7 @@
     "workgroup": "Video Workgroup",
     "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-25",
       "host": "Zalfred",
       "documenter": "Hogantuso",
@@ -42805,7 +42805,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-14",
       "host": "Tevo",
       "documenter": "Onize, PeterE",
@@ -42938,7 +42938,7 @@
     "workgroup": "Treasury Guild",
     "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-11",
       "host": "Tevo",
       "documenter": "Tevo, LadyTempestt",
@@ -43094,7 +43094,7 @@
     "workgroup": "Knowledge Base Workgroup",
     "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-22",
       "host": "Tevo",
       "documenter": "Effiom, Tevo",
@@ -43263,7 +43263,7 @@
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-25",
       "host": "Ayo",
       "documenter": "Eric Davies",
@@ -43373,7 +43373,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-09-18",
       "host": "guillermolucero",
       "documenter": "SergioBenaR",
@@ -43461,7 +43461,7 @@
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-08",
       "host": "guillermolucero",
       "documenter": "SergioBenaR",
@@ -43512,7 +43512,7 @@
     "workgroup": "GitHub PBL WG",
     "workgroup_id": "85a12783-563a-4760-9029-668e3eb9d1ca",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-10-14",
       "host": "Tevo",
       "documenter": "AndrewBen, Tevo, LadyTempestt",
@@ -43641,7 +43641,7 @@
     "workgroup": "GitHub PBL WG",
     "workgroup_id": "85a12783-563a-4760-9029-668e3eb9d1ca",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-11-04",
       "host": "Tevo",
       "documenter": "Tevo, LadyTempestt, Gorga Siagian",
@@ -43748,7 +43748,7 @@
     "workgroup": "GitHub PBL WG",
     "workgroup_id": "85a12783-563a-4760-9029-668e3eb9d1ca",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-11-18",
       "host": "Tevo",
       "documenter": "Tevo, Sucre n Spice, SubZero",
@@ -43843,7 +43843,7 @@
     "workgroup": "GitHub PBL WG",
     "workgroup_id": "85a12783-563a-4760-9029-668e3eb9d1ca",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-12-18",
       "host": "Tevo",
       "documenter": "Evelyn, Gorga Siagian",
@@ -43952,7 +43952,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-09",
       "host": "Slate",
       "documenter": "devon",
@@ -44035,7 +44035,7 @@
     "workgroup": "Gamers Guild",
     "workgroup_id": "aa802331-6011-429e-8f20-3a8f8bf3392c",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-23",
       "host": "Slate",
       "documenter": "devon",
@@ -44120,7 +44120,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-08-28",
       "host": "Slate",
       "documenter": "Slate",
@@ -44185,7 +44185,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-25",
       "host": "Slate",
       "documenter": "Slate",
@@ -44263,7 +44263,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-06",
       "host": "Slate",
       "documenter": "Slate",
@@ -44332,7 +44332,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-13",
       "host": "Slate",
       "documenter": "Slate",
@@ -44418,7 +44418,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-20",
       "host": "Slate",
       "documenter": "Slate",
@@ -44487,7 +44487,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-27",
       "host": "Slate",
       "documenter": "Slate",
@@ -44561,7 +44561,7 @@
     "workgroup": "Education Workgroup",
     "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-12-04",
       "host": "Slate",
       "documenter": "Slate",
@@ -44632,7 +44632,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Think-Tank",
+      "typeOfMeeting": "Think-Tank",
       "date": "2024-10-24",
       "host": "LordKizzy",
       "documenter": "martinsoki",
@@ -44715,7 +44715,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-31",
       "host": "osmium",
       "documenter": "martinsoki",
@@ -44809,7 +44809,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Think-Tank",
+      "typeOfMeeting": "Think-Tank",
       "date": "2024-11-07",
       "host": "LordKizzy",
       "documenter": "Kateri",
@@ -44891,7 +44891,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Think-Tank",
+      "typeOfMeeting": "Think-Tank",
       "date": "2024-11-21",
       "host": "osmium",
       "documenter": "Kateri",
@@ -44980,7 +44980,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Sandbox",
+      "typeOfMeeting": "Sandbox",
       "date": "2024-11-28",
       "host": "osmium",
       "documenter": "advanceameyaw",
@@ -45064,7 +45064,7 @@
     "workgroup": "AI Sandbox/Think-tank",
     "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
     "meetingInfo": {
-      "name": "Think-Tank",
+      "typeOfMeeting": "Think-Tank",
       "date": "2024-12-05",
       "host": "LordKizzy",
       "documenter": "martinsoki",
@@ -45159,7 +45159,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Monthly",
+      "typeOfMeeting": "Monthly",
       "date": "2024-11-04",
       "host": "CallyFromAuron",
       "documenter": "Colleen, CallyFromAuron",
@@ -45266,7 +45266,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-09-26",
       "host": "Duke",
       "documenter": "CJFrankie",
@@ -45324,7 +45324,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-03",
       "host": "Duke",
       "documenter": "advanceameyaw",
@@ -45387,7 +45387,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-10",
       "host": "Duke",
       "documenter": "Kateri",
@@ -45478,7 +45478,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-17",
       "host": "Duke",
       "documenter": "martinsoki",
@@ -45581,7 +45581,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-24",
       "host": "Duke",
       "documenter": "CJFrankie",
@@ -45633,7 +45633,7 @@
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-31",
       "host": "Clement Umoh",
       "documenter": "martinsoki",
@@ -45710,7 +45710,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-05-28",
       "host": "Felix",
       "documenter": "LadyTempestt",
@@ -45811,7 +45811,7 @@
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
-      "name": "Weekly",
+      "typeOfMeeting": "Weekly",
       "date": "2024-11-26",
       "host": "CallyFromAuron",
       "documenter": "LadyTempestt",
@@ -45878,7 +45878,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-11-05",
       "host": "EstherG",
       "documenter": "Onize",
@@ -45921,7 +45921,7 @@
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
-      "name": "Biweekly",
+      "typeOfMeeting": "Biweekly",
       "date": "2024-10-22",
       "host": "EstherG",
       "documenter": "Onize",
