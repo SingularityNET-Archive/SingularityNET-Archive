@@ -755,6 +755,92 @@
       "canceledSummary": false
     }
   ],
+  "b1a41b03-2441-4fe2-a470-8a8f8fc0e0d4": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-02-06",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, LordKizzy, CallyFromAuron, AshleyDawn, Clement Umoh, Sucre n Spice",
+        "purpose": "Weekly Open Governance meeting",
+        "workingDocs": [
+          {
+            "title": "Governance calls, rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          },
+          {
+            "title": "'Budget caps for Q2' discussion",
+            "link": "https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing"
+          },
+          {
+            "title": "DRAFT process for how to use the 'New Ideas' budget",
+            "link": "https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit?usp=sharing"
+          },
+          {
+            "title": "budget decision - main issues mentioned in objections",
+            "link": "https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing"
+          },
+          {
+            "title": "Retrospectives from the past",
+            "link": "https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "There was no agenda for today's meeting. (We had previously agreed that after January, we would try to keep the Thursday Open Governance meetings open, with no predetermined agenda, for anyone to raise a governance issue.)  The meeting was also quite small.  So the meeting was more digressive than usual - a gentle conversation touching on a range of topics not directly related to the governance mechanisms of the Ambassador program. We agreed to document in a minimal way, by simply logging the topics that arose.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that when Clement and AdvanceAmeyaw return from the ETH conference and a retrospective/ feedback session is held, it might be useful to invite Felix.",
+              "rationale": "Due to his longtime work on cross-chain collaboration.",
+              "opposing": "none",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that the doc 'Retrospectives from the past' https://docs.google.com/document/d/1GorEmCJzcrq3b73p1XUa8E7yYD7_UQETt9axt89qff4/edit?usp=sharing should be updated with material from the Q1 budget retrospective",
+              "rationale": "Because we need to keep track of issues and follow up on them",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We will document this meeting in quite a minimal way",
+              "rationale": "as part of Archives WG's current experiments with knowledge graphs, to see if minimal documentation still enables us to track topics as they develop and are discussed in different sessions",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Cross-chain collaborations (especially with ETH, given AdvanceAmeyaw and Clement's planned attendance at the ETHiopia Ethereum conference in mid Feb)",
+            "Cross-chain collaboration as a mindset",
+            "Adoption of different chains in Africa; which ones are most popular and widely used",
+            "Clement and AdvanceAmeyaw's plans for engagement at the ETHiopia conference",
+            "How we keep track of, and follow up on, issues that were raised in the retrospective sessions for previous Quarters' budget decisions",
+            "How we assess WG outputs and work quality - for example, video view numbers",
+            "What our priorities are as a Program for WGs' work",
+            "Is it easier to critique some kinds of WG outputs than others (e.g. outputs that are more quantifiable); and might that lead to some WGs getting harsher critiques than others?",
+            "How Thursday meetings should go in future - open space, perhaps not recording, perhaps more minimal documentation, discussion of Governance concepts, particularly decentralised governence, rather than making decisions - but with the exception that we might carry over any pending agenda from Tuesdays sessions",
+            "Tuesdays are the decision-making meeting - Thurs is gentler",
+            "How to document discursive meetings of this nature - whether simply logging the topics covered would allow the knowledge graph approach that Archives WG is developing to track those topics easily"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "cross chain collaboration, Ethereum, cross-chain mindset, Thursday vs Tuesday meeting style, retrospectives, open space, WG outputs, assessing outputs, work quality, adoption, Africa, Documentation, minimal documentation, knowledge graphs",
+        "emotions": "Discursive, gentle, wide-ranging, low attendance, calm"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "1db77311-e031-404a-bdd8-e799e3552d4b": [
     {
       "workgroup": "Governance Workgroup",
@@ -914,6 +1000,85 @@
       "tags": {
         "topicsCovered": "Q2 2025 budget, Q1 2025 report, core contributors, publicity, context-setting docs, budget minimums, timeline, infographic, WG reserves, New ideas, Treasury Policy",
         "emotions": "decisive, focused, lots of tasks assigned"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "6e2eeab8-1f60-44fa-9f14-9e984dd39e04": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-01-23",
+        "host": "Duke",
+        "documenter": "martinsoki, CallyFromAuron",
+        "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, osmium, Duke, hogantuso, AshleyDawn, Effiom, Clement Umoh, LordKizzy, AJ, Kateri, Slate, martinsoki",
+        "purpose": "Weekly Governance WG meeting",
+        "workingDocs": [
+          {
+            "title": "Governance calls, rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          },
+          {
+            "title": "Q1 2025 budget decision retrospective: Miro",
+            "link": "https://miro.com/app/board/uXjVLtid06I=/"
+          },
+          {
+            "title": "Ambassador program core contributors=sharing",
+            "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing"
+          },
+          {
+            "title": "Ambassador Program Core Contributors criteria",
+            "link": "https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing"
+          },
+          {
+            "title": "Proposal to Attend ETHiopia (the First EthConference in Ethiopia)",
+            "link": "https://docs.google.com/document/d/1p2dRPKG6g4mrc3lPizO4EWHNn6sG_2ZNQMJ1nV45sls/edit?usp=sharing"
+          },
+          {
+            "title": "Meetings, 13th Dec and 17th Jan, on using Program reserves for event attendance",
+            "link": "https://docs.google.com/document/d/1yggRVo_-VzjDPvlgJtxeEp0G8oLx6i8sGYmU9mJiTT0/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {}
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Criteria for core contributors:  In the last round, there was room for self-nomination and nomination by others, for people that didn't reach the criteria for getting the core contributor role.  The meeting  noted Tevo's comments in the GovWG Discord channel about the rewards threshold and participation threshold: 'Some of the downsides come because the rewards are more centralised to current core contributors and seems high earners are earning even more funds compared to last quarter, leaving out less tasks for people to reach 1000 AGIX threshold. In addition the core contributor list by rewards also affected by the price changes. The higher the AGIX price goes, the harder is to reach the threshold. However, the majority of renominated members are due to not attending enough meetings or not being recognized. From next quarter if people interested we can double down on Process Guild service to import Zoom participation to Treasury Manager, for now I do not know if we have funds for that. we definitely have the capability (even if still semi-automated)'.  and from Vani: 'But interestingly, this means we have 60 core contributors this time - and (what I am pretty sure is) a record 20% having been manually nominated. Hmmm... does this suggest we need to have a look at the criteria? Or are the criteria fine, and these are just anomalies?'  Currently we use:  1. Time-based recognition What does 'participation' mean? Is it just for passively attending meetings, or for actually taking part? speaking, commenting in Chat, etc) Vani noted that for now it is based only on attendance - we can't easily capture who is contributing in a meeting, as it could be complex to capture who spoke or commented in Chat.  2. Fund request recognition Clement noted that the criterion for having to be rewarded with at least 1000 AGIX in the last three months is not fair because of fluctuation in token price.  Peter noted that we don't require both time-based recognition and fund request recognition: it's either / or. However, the meeting still felt that the threshold should be in USD, not AGIX, to minimise the effects of token price fluctuation. After discussion, we agreed the threshold should be 300 USD a quarter.   Self nomination:  Should self-nomination continue to be possible, for people who have not reached the criteria for being a core contributor? Vani raised the issue of potential hostile capture if people can self-nominate, and suggested there should be no self-nomination; nominations should have to be made by an existing Core Contributor. Peter said he thinks it would usually be OK if a person is new and nominates themself. A poll was drawn and 11 people out of 14 said there should be no self nomination, but we agreed that we will revisit the decision after the end of Q1 2025.   Proposal for Attendance at the ETHiopia conference  https://eth-iopia.xyz/ By Clement and Advanceameyaw  They would like to be funded from Program reserves to represent sNET at this event. We noted that 2 focus groups have met to discuss criteria for using Reserves for event attendance - their recommendations have not yet been discussed or ratified, but this proposal meets most of them except a suggested budget limit per person. However, we also noted that this suggested limit may be too low - flights within Africa are very expensive, so a low budget limit could have the unintended effect of preventing African's from attending African events  The proposal was explained and we concluded that the proposal should be posted in Discord for all core contributors to consent or object,  and the results should be discussed in the Open Governance meeting on Thurs 28th Jan.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vani to make a consent form for the proposal to attend the ETHiopia event in February, and post it in the 'Decision To Be Made' Discord channel",
+              "dueDate": "28 January 2025",
+              "assignee": "CallyFromAuron"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to change the fund request recognition criterion for becoming a Core Contributor from 1000 AGIX to 300 USD",
+              "rationale": "Because, given that many WGs set task prices in USD, having the threshold in AGIX makes it unfairly difficult to become a core contributor when token price is low.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We decided that for the coming Quarter (Q2 2025) self-nomination will no longer be possible",
+              "opposing": "we agreed that we will revisit this decision after the end of Q1 2025",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Criteria to be core contributor",
+            "Self nomination",
+            "attendance at ETHiopia conference"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "core contributors, participation, self-nomination,  events attendance, Program reserves",
+        "emotions": "long, slow, straightforward"
       },
       "type": "Custom",
       "noSummaryGiven": false,
