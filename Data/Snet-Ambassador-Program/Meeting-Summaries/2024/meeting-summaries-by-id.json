@@ -46965,5 +46965,229 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "bf7bad2d-7cb1-49a9-98da-0381189c544c": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-08-01"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "d58ae334-f240-4ec1-bc38-8089fcd294a8": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-08-02"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "0101c42d-2f7d-4420-990c-d113de69102d": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-08-08"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "b9226b71-b655-46a9-9fff-7c85088ec7e8": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-08-09"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "59e098ee-d503-45a0-abec-7c98c5fbbdd7": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-08-29"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "c609b754-b06e-451e-89bf-8397a45fbb30": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-02"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "8c03210f-9123-47a3-9dd0-778cdcf65e87": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-05"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "9108a5b9-d30c-4276-b0c3-90e729bf8763": [
+    {
+      "workgroup": "Dework PBL",
+      "workgroup_id": "8b17683b-a30f-4ecc-ad72-69fee9567bf0",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-11"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "43bdce86-5205-4f58-8c53-d5986f6b7c15": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-12"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "c9101b38-7f94-4dfb-8d7c-c339657872c5": [
+    {
+      "workgroup": "Video Workgroup",
+      "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-20"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "de063015-08b1-43f9-aa69-d22f2bfc50dc": [
+    {
+      "workgroup": "Video Workgroup",
+      "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-27"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "0ab75bac-81b3-418a-b22f-d6f0f6f437be": [
+    {
+      "workgroup": "Strategy Guild",
+      "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-09-30"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "b7df719c-cdf5-4e7b-a5c1-68b9047fead0": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-07-05"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "1163f39b-0129-4040-a8d4-fe3ce08dae4f": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-07-12"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "9094af7a-17eb-4b8a-9cdb-7b97a105b562": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-07-19"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "d1e3b39c-048b-4419-8d12-d8b04961e2c0": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2024-07-26"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
   ]
 }
