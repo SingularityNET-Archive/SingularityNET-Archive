@@ -755,6 +755,149 @@
       "canceledSummary": false
     }
   ],
+  "ec99629f-b46c-4f58-8f5a-503d0093a651": [
+    {
+      "workgroup": "Archives Workgroup",
+      "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-02-05",
+        "host": "Stephen [QADAO]",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], hogantuso, Clement Umoh, AshleyDawn, évéline trinité",
+        "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+        "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+        "workingDocs": [
+          {
+            "title": "Archives Dashboard",
+            "link": "https://archives-dashboard.netlify.app"
+          },
+          {
+            "title": "Q1 2025 budget",
+            "link": "https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing"
+          },
+          {
+            "title": "Archive names (a list of the name that people are most commonly known by in the Archives)",
+            "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+          },
+          {
+            "title": "GitHub Issue for this meeting",
+            "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/245"
+          },
+          {
+            "title": "Q1 2025 DRAFT Quarterly report for Archives WG",
+            "link": "https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing"
+          },
+          {
+            "title": "Draft Archives budget for Q2 2025",
+            "link": "https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?  and discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/",
+              "assignee": "CallyFromAuron",
+              "dueDate": "19 February 2025",
+              "status": "todo"
+            },
+            {
+              "text": "We noted an issue with tags - people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings. Andre will look into this.",
+              "status": "todo",
+              "assignee": "André",
+              "dueDate": "5 March 2025"
+            },
+            {
+              "text": "Vani to mention the decision to no longer correct ,meeting summaries in the WG Sync Call at the end of Feb",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "27 February 2025"
+            },
+            {
+              "text": "vani and Andre to meet to sign off tag taxonomy, and decide whether to implement a controlled vocab for topic tags",
+              "status": "todo",
+              "assignee": "André, CallyFromAuron",
+              "dueDate": "5 March 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We noted that given current low-ish token price, we're not able to start the proposed initiative to create a skilled documentation team.   We'll review this next meeting We might look at creating a video walkthrough for the new version of the summary tool, as a cheaper way to show people how to use it.",
+              "rationale": "We had this in our Q1 budget: 'If token price rises sufficiently above $0.55' (the exchange rate at which Q1 budgets were calculated). Price hasn't risen enough.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Our Quarterly Report draft is open for comments and changes - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/231",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Needs to be submitted on 10th March - so we will sign it off in our next meeting on 5th March"
+            },
+            {
+              "decision": "We noted that there is a new repo for the new version of the summary tool - see https://github.com/Quality-Assurance-DAO/archive-tool/commits/main/?since=2025-01-01&until=2025-01-31",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "André, tool development: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/240 We noted that André has been working on an Autosave feature for the Summary Tool - he has it locally, and it will soon be rolled out.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We discussed the suggestion (from a Treasury meeting last month) of adding a feature to the Summary Tool for data capture for decisions made outside of WG meetings (for example, the quarterly budget decisions). We considered doing this as a new summary template, but decided against this approach, and will keep ideating",
+              "rationale": "because it might make us too constrained in how we capture these kinds of decisions",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We noted that Stephen has completed and shared his presentation on philosopher Robert Stalnaker's approach to context, and its relation to AI ethics https://youtu.be/VhYfA0ehw3w?si=N0tc_AW6T3Bx7duU",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Open source workflow, Stephen: Stephen has been doing some didactic work to document his thinking on what might be a best-practice approach to applying AI to records. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/233.   He is working towards a presentation on graph data modelling, and another on how to audit graph data.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "LLM development: 1st release of graph database in Python is now complete.  Stephen has used a single meeting summary (a Governance meeting from several months ago) as a demonstration of the graph process. He translates the JSON meeting data to a graph structure using Python, then  moves it to a Neo4j graph database, and has been working on suggestions for how to query it and verify that it makes sense.  For the rest of February he will be  - enhancing this so it is easier to use - adding additional records to it to see how it handles the connections between different summaries - adding an additional layer of data, from the Archives WG GitHub Board https://github.com/orgs/SingularityNET-Archive/projects/1/views/3",
+              "opposing": "Note that labels are not properly formulated yet - they are taken from the first part of the node name.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Ethics policy: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/234 When this is done, we agreed we will share it in AI Ethics WG and the AI Ethics forum on Discord for further input.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Tag taxonomy, especially for topic tags: Composability of our data - could a tag taxonomy 'sit on top' of our other structured data to help the graph rag process? We agreed that perhaps we do not need to completely dedupe the entire database - but a controlled vocab for tags might still be useful for the future, in the same way as the controlled vocab for names has been. Perhaps create a list that minimally dedupes (stripping out misspellings and similar, and replacing tags like 'budget' with 'Q4 2024 budget' etc - or perhaps rely on semantic similarity.  We might come back to the insights gained from the tag taxonomy project in future (the types of topics that get discussed, and how they are distributed across different WGs) when looking at the types of questions that can be asked of the corpus.  But the work we thought we needed to do - the exhaustive 'tidying up' of the database and correcting / deduplicating tags -  is probably not necessary.  Named Entity recognition scripts might relate to this - determining what an entity is (a person, an organisation, a topic?)",
+              "rationale": "Because the knowledge graph approach we are now using allows for more 'messy' data, but we nevertheless need to use proper techniques and be methodical, so people can see how we're doing things. Semantic similarity is of course one approach to finding connections - but for some data elements (e.g. people's names) this doesn't work, as names are abstract and won't display any semantic relation - so this makes a controlled vocab for names more important.  For tags, however, a graph *can* find sematic similarity between different-but-similar tags - especially the emotional tags - so we might not need to be so assiduous in ensuring that similar tags ('discursive' vs 'exploratory' or whatever) are deduped.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Names taxonomy: we agreed we do need to add 'All',",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "because it is quite often used to asssign action items that everyone in the WG is going to do."
+            },
+            {
+              "effect": "mayAffectOtherPeople",
+              "decision": "We noted that there is a sense in which Read.ai and other generic AI tools erase who we are as a community if they are used uncritically.   They have been designed to understand conventional business and corporate contexts; soi when they ceate meeting summaries for us, they tend to write them as though we are that kind of organisation. Lacking any context about decentralised communities and how they work, AI summaries can subtly miss the point, and can force a record that suggests the Ambassador Program operates like a corporate environment."
+            },
+            {
+              "decision": "We provisionally agreed the WG's budget for Q2 2025 https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing  Comments will stay open until next meeting, when we will sign it off",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Due to low exchange rate ($0.30) for Q2 budgets, we will not be able to afford to continue with archives management tasks of checking, correcting, and chasing meeting summaries.  So rather than push this cost to Q3, as we might have done in the past, we will use it as an opportunity to experiment. In Q2 we will not do any of this work; summaries will be archived 'as-is', and any late submissions will be recorded as 'no summary given' with no chasing. Then, we can constrain a graph to look only at Q2 summaries, and see what effect, if any, this has on the clarity and accuracy of information we are able to derive, and compare this with previous Quarters.    If we find it has a negative effect, we can look at ways of mitigating this (reinstate management of summaries; progress with setting up a skilled documenters' team; drastically simplify summary tool template and limit the amount of information we can derive; etc)",
+              "rationale": "To help us asssess if our graph-based process of interrogating the Archives corpus can work well regardless of summary quality. Impetus is partly financial; but partly because we would need to do this type of testing at some point, so it's good to do it now when there is also a financial reason to stop managing the Archives as we have been doing."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics, archives management",
+        "emotions": "Discursive, interesting, progressive, wide-ranging, inventive, didactic"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "b1a41b03-2441-4fe2-a470-8a8f8fc0e0d4": [
     {
       "workgroup": "Governance Workgroup",
@@ -1372,6 +1515,121 @@
       "tags": {
         "topicsCovered": "Q2 2025 budget, Reserves, consent process, Process Guild, Budget caps, anonymity, R&D guild, governance dashboard, safe space",
         "emotions": "decisive, Organised, Interactive, thoughtful"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "9b15cd8c-f020-4dcd-b50c-aa28046dfe50": [
+    {
+      "workgroup": "Archives Workgroup",
+      "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-03-05",
+        "host": "Stephen [QADAO]",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], PeterE, AshleyDawn, maxmilez, TheFreysDeFi, LordKizzy, Tevo, Zalfred, esewilliams, Alfred Itodele",
+        "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+        "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+        "workingDocs": [
+          {
+            "title": "Archives Dashboard",
+            "link": "https://archives-dashboard.netlify.app"
+          },
+          {
+            "title": "Q1 2025 budget",
+            "link": "https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing"
+          },
+          {
+            "title": "Archive names (a list of the name that people are most commonly known by in the Archives)",
+            "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+          },
+          {
+            "title": "Q1 2025 DRAFT Quarterly report for Archives WG",
+            "link": "https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing",
+            "title": "q2 2025 budget draft"
+          },
+          {
+            "title": "GitHub Issue for this meeting",
+            "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/247"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Vani has approached DeepFunding, to ask if the Events Circle could take on documentation of DF Town Hall. Focus Group agreed this would be valid - waiting for a reply  Also some interest in Focus Group re: how the Archives tool could be used for further documentation within DF",
+              "assignee": "CallyFromAuron",
+              "dueDate": "2 April 2025",
+              "status": "in progress"
+            },
+            {
+              "text": "André has fixed the  issue with tags where people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings.",
+              "status": "done",
+              "assignee": "André",
+              "dueDate": "5 March 2025"
+            },
+            {
+              "text": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
+              "status": "todo",
+              "assignee": "André, CallyFromAuron",
+              "dueDate": "2 April 2025"
+            },
+            {
+              "text": "Andre to add 'All', 'Alfred Itodele' and 'Maxmilez' as new Names in the names controlled vocab",
+              "status": "todo",
+              "assignee": "André",
+              "dueDate": "19 March 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Last meeting, we said that we would review, in this meeting, whether or not we can afford to implement the proposed initiative for this Quarter to create a skilled documentation team.   Unfortunately token price is even lower than it was, so we definitely cannot do it - but we noted that the need for it might be obviated by our proposed experiment with not correcting summaries in Q2.  We agreed to close the Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/235",
+              "rationale": "We had this in our Q1 budget: 'If token price rises sufficiently above $0.55' (the exchange rate at which Q1 budgets were calculated). Price has dropped.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Our Quarterly Report draft https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/231 and Q2 budget draft https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing were signed off",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Needs to be submitted on 10th March"
+            },
+            {
+              "decision": "André, tool development: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/248 This month the Autosave feature has been completed, and bug fixes have been done",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We noted that whilst during this Quarter, André has done additional development work as well as the Summary Tool redesign, in Q2 his focus will shift purely to the tool redesign",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "AI workflow, Q1 - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/233   We noted that Stephen was planning to look this month at approaches to auditing graph data - but this turned out to be a much bigger chunk of work than would fit into this budget line, so it has become a proposal in the BGI Nexus funding round  https://deepfunding.ai/proposal/ethical-ai-auditing-a-practice-based-approach/   Instead, in this issue, he will be focusing on building infrastructure tools.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "LLM development (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/244 (Feb) and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/252 (March) Stephen has built a GitHub App Token Generator - basic proof-of-concept, which uses GraphQL to interface with GitHub data via GitHub API.  In March, he will be looking at other data tools that might be useful in our work in Q2.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "WG Sync call at the end of March - we decided to reiterate that meeting summaries will not be audited during Q2, and suggest a time limit to submit a summary, after which it will be recorded as 'no summary given'  Suggestions ranged from a day to a Quarter - we settled on a month after the meeting took place.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "It shouldn't be turned into a competition; also, some WGs use meeting summary-writing as an onboarding task, so there needs to be time for support to be given and corrections to be made."
+            },
+            {
+              "decision": "Research on not correcting meeting summaries in Q2:   We noted that our planned approach might influence what kind of data we get in a meeting summary, and in the resultant knowledge graph.   Hypothesis: we will get well-defined edges (i.e. connections between entities), because this often depends on simple structured data (who was present in a meeting, which meetings a given topic was discussed in, etc); but we might have less information about what anyone *said* when they discussed a topic, since people in the Ambassador program have historically been less good at documenting this kind of information.  Analysis of what kind of data we are getting with uncorrected summaries might later feed in to the design of the new summary tool - perhaps by attempting to design it to help people collect the kind of data that is missing, if any."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics",
+        "emotions": "interesting, wide-ranging, well-attended, slightly combative"
       },
       "type": "custom",
       "noSummaryGiven": false,
