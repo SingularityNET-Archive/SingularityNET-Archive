@@ -46149,5 +46149,245 @@
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
     "type": "custom"
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-09-13"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-10-11"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-10-14"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-10-28"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Education Workgroup",
+    "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-10-30"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "WG Sync Call",
+    "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-10-31"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-07"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-11"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-12"
+    },
+    "noSummaryGiven": false,
+    "canceledSummary": true,
+    "canceledSummaryText": "Meeting was cancelled",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-18"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-22"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-25"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "LatAm Guild",
+    "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-11-27"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Knowledge Base Workgroup",
+    "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-02"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-02"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-06"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-09"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "LatAm Guild",
+    "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-11"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-13"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Writers Workgroup",
+    "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-12-13"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
   }
 ]
