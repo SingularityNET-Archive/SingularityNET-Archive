@@ -45707,6 +45707,56 @@
     "canceledSummary": false
   },
   {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-04",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "PeterE, CallyFromAuron, Duke, WaKa, Will Tatz, esewilliams, oep, Sucre n Spice, CollyPride, jay.05|Judith W., hogantuso, billy, guillermolucero, photogee, Martin Rivero, Onize, Zalfred, sakujennbornean, Effiom, Aetherblade, Tevo, Iain Wentworth, LordKizzy",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "100",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1NFXUJ-yyXkXR4SBUzuG-KsQb3-5veaaiK1b4TWhTTHU/edit?usp=sharing",
+          "title": "Proposal: Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem"
+        },
+        {
+          "title": "Q2 2024 budget process retrospective Miro",
+          "link": "https://miro.com/app/board/uXjVK_z6AbU=/"
+        },
+        {
+          "title": "Workgroup Points of Contact",
+          "link": "https://docs.google.com/spreadsheets/d/1x9y-AtraOY102YefgbEHZnhMD7z1R1CPtSXI20tvKkw/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/VWg9yUO1dcc?si=T56jkG0ygP0VARD2",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "00:00 Introduction 02:18 Deep Funding 03:30 ASI merger 04:10 Marketing Guild Update 09:08 African Guild 14:47 Inclusivity Research 24:20 Strategy Guild Updates 46:45 Quarterly Budget Procedure"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Core discussion in this Town Hall was about the recent retrospective of the Q2 2024 budget approval process, covering  - whether the budget process should continue to be quarterly (or should become monthly, or even rolling); - how to deal with lateness in submitting budgets, and whether to enforce deadlines - whether quarterly reports should be compulsory - whether in Q3 we need some budget for 'cross-WG' work such as mentorship in facilitating and documenting See documentation of the retrospective session itself here https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/june-2024/week-23#governance-workgroup   There was also discussion of the 'new version' of Strategy Guild, and whether it would have a centralizing effect or not.  The conversation in Chat also touched on timezone exclusion, particularlty for people from SE Asia; and the possibility of a SE Asia regional guild.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "inclusivity, strategy guild, African guild, Q3 2024 budgets, consent process,  Marketing Guild Lead, Marketing Guild, Deep funding round 4, ASI merger, disability, Decentralisation vs Centralisation, centralization, time zone exclusion, SE Asia, Consent deadlines, quarterly reports and budget",
+      "emotions": "cheerful, engaging"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "Governance Workgroup",
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
@@ -46389,5 +46439,156 @@
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
     "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-17"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Strategy Guild",
+    "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-24"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "WG Sync Call",
+    "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-27"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Marketing Guild",
+    "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-28"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-18",
+      "host": "Felix",
+      "documenter": "LadyTempestt, CallyFromAuron",
+      "peoplePresent": "Felix, CallyFromAuron, billy, PeterE, esewilliams, nick, Ayo, LordKizzy, guillermolucero, Sucre n Spice, Duke, gavriel, Edet, martinsoki, photogee",
+      "purpose": "Weekly Governance WG meeting",
+      "workingDocs": [
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        },
+        {
+          "title": "'Budget caps for Q2' discussion",
+          "link": "https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing"
+        },
+        {
+          "title": "DRAFT process for how to use the 'New Ideas' budget",
+          "link": "https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Budget Planner",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+        },
+        {
+          "title": "Governance WG Q4 2024 report",
+          "link": "https://docs.google.com/document/d/1hodB7gcG0JkJxlvAGs15mDtYmzReuLNPvuGE9UDUgE4/edit?usp=sharing"
+        },
+        {
+          "title": "GovWG budgets",
+          "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+        },
+        {
+          "title": "Context setting for Core Contributor decision on Q1 2025 budgets",
+          "link": "https://docs.google.com/document/d/1fyZZLDqeeoDanbzyY7c9m7sy_hU5w9v5niuR4m521ms/edit?usp=sharing"
+        },
+        {
+          "title": "Ambassador Program Core Contributors criteria",
+          "link": "https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "- Governance WG Budget/Report: We agreed to submit the same budget as the previous quarter Felix will get to it soon and also draft the Q2 report.   - Additional Governance Sessions: Do we host an open call to discuss governance topics concerning other WG or just check with the Strategy and Marketing Guild concerning the dates? This is mostly related to Marketing and Strategy Guilds needing some kind of support from us. Our fixed agenda for the month makes us less flexible in reacting to timely Governance changes or matters arising. The idea is to have it for a few weeks and then quit if it is no longer needed or helpful.  - Next decision-making processes: What do we want to improve? From the retrospective we did, we found out that the timeline for the budget decision-making process is a bit rushy as people need more time to fill out stuff and the whole process was not announced properly. We discussed stretching out the timeline a bit even into Q4 and better communication patterns by possibly bringing it to everyone's attention at Ambassador Townhall. There will also be monthly WG Leads' Call starting next week. Will a step-by-step easy explainer video do the trick? Or a better resharing of the context setting document created by the onboarding WG? We want something self-explaining about the whole decision-making process for approving budgets.   - Multi WG/Guilds Leads: We discussed workgroups deciding on internal representatives and the responsibilities of appointed leads, with a debate on whether formal leadership roles or a more shared approach to organizing tasks within workgroups would be more effective. We also considered the idea of co-leads in certain workgroups,  alongside discussions on resource allocation for timestamping and archiving.  - Upcoming Town Hall Presentation: Felix and Vani reviewed a presentation for the Town Hall meeting, ensuring alignment with the focus on budget and governance.    - Lumio Video Update: Duke Peter provided an update on the Lumio video, with Felix reassuring him there was no rush.",
+        "actionItems": [
+          {
+            "text": "Felix to initiate discussions for weekly governance calls and finalize the proposed schedule.",
+            "assignee": "Felix",
+            "status": "todo"
+          },
+          {
+            "text": "Duke to possibly create an easy explainer video on the consent decision making process for budgets.",
+            "assignee": "Duke",
+            "status": "todo"
+          },
+          {
+            "text": "Felix and Vani will set up documents and budgets for governance workgroup tasks, particularly for archiving and onboarding.",
+            "assignee": "Felix, CallyFromAuron",
+            "status": "done"
+          },
+          {
+            "text": "Felix and Vani will refine the Town Hall presentation to ensure it aligns with budget and governance topics.",
+            "assignee": "Felix, CallyFromAuron",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We will host open governance calls on Thursdays by 14:00 UTC and start out with the Marketing and Strategy Guild.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "There will be weekly governance calls to address ongoing topics and feedback.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Ese will be paid to add Felix's old documentation to the summary tool",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Governance WG Budget/Report",
+          "Additional Governance Sessions",
+          "Next decision-making processes",
+          "Multi WG/Guilds Leads",
+          "Upcoming Town Hall Presentation",
+          "Lumio Video Update"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Governance, WG Budget, Guild Leads, Town Hall Presentation.",
+      "emotions": "Interesting, contributive, engaging"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
