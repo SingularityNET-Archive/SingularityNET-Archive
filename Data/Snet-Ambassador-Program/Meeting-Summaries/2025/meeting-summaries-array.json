@@ -1536,12 +1536,6 @@
             "status": "in progress"
           },
           {
-            "text": "André has fixed the  issue with tags where people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings.",
-            "status": "done",
-            "assignee": "André",
-            "dueDate": "5 March 2025"
-          },
-          {
             "text": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
             "status": "todo",
             "assignee": "André, CallyFromAuron",
