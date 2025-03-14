@@ -1521,6 +1521,103 @@
       "canceledSummary": false
     }
   ],
+  "cf09a270-bf36-4bfc-bd4b-dbe2495e46d2": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-03-04",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, AshleyDawn, advanceameyaw, Tevo",
+        "purpose": "Weekly GovWG meeting",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing",
+            "title": "Ambassador Program Budget Planner"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing",
+            "title": "Ambassador Program Core Contributors"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing",
+            "title": "Ambassador Program End of Year report - draft outline"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Advance and Clement have drafted a report on the ETHiopia conference, which they will share in the Open Governance meeting this Thurs (6th March).  Dates for forthcoming sessions:  - the retrospective on the Q2 decision will be on Tues 1st April - initial meeting on budget minimums on Thurs 3rd April. Vani, Peter, Sucre and Effiom to plan it; Vani to make a Discord group to discuss it.  Other possible sessions for future Governance meetings:  - 1) We noted that Education Guild are planning to take on some educational sessions on governance issues - Vasu, Lord KIzzy and Vani are planning the sessions now, covering the core governance mechanisms in the Program - so this will cover the longstanding agenda item we have had about whether Governance WG itself should be undertaking governance education sessions  - 2) Kevin suggested a meeting with Mindplex - we decided this might not make so much sense as a Governance session, so Kevin will organise this outside of Governance meetings, perhaps under Marketing.  - 3) Tevo suggested discussing contribution systems, and who contributes - what are the patterns in the data we have, for example who are the 'high cost individuals', and should we aim to decentralise further on fund distribution? Others said that perhaps it's OK if 'high-cost individuals' are those who are prepared to do the most work. Also - look at the ratio of amount of work (in terms of MINS) vs amount earned in AGIX  - 4) we do need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality. What should the pathway be for raising it?   End of Year Report: anything still to be added should be done by this Friday (7th); then Vani will proofread over the weekend.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Tevo to calculate who is a Core Contributor for the coming budget decision",
+              "assignee": "Tevo",
+              "dueDate": "4 March 2025"
+            },
+            {
+              "text": "Vani, Peter, Sucre and Effiom to plan initial session on budget minimums on 3rd April; Vani to make a Discord group to discuss it.",
+              "status": "todo",
+              "assignee": "Effiom, PeterE, Sucre n Spice, CallyFromAuron",
+              "dueDate": "3 April 2025"
+            },
+            {
+              "text": "End of Year report - All to add any outstanding material by this Friday (7th)",
+              "status": "todo",
+              "assignee": "all",
+              "dueDate": "7 March 2025"
+            },
+            {
+              "text": "Vani will proofread end-of-year report over the weekend",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "10 March 2025"
+            },
+            {
+              "text": "Kevin to organise meeting with Mindplex outside of Governance meetings, perhaps under Marketing.",
+              "status": "todo",
+              "assignee": "TheFreysDeFi",
+              "dueDate": "14 March 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed it's time to calculate who is a Core Contributor for Q2 - Tevo will do it later today and post the results in the Governance Discord channel",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "allows time for people to nominate anyone who doesn't quite meet the criteria"
+            },
+            {
+              "decision": "We signed off the Q2 decision consent form",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed we need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "Because it's an issue that needs to be discussed, but it can be sensitive, and there is no clear pathway for how to bring it up."
+            }
+          ],
+          "discussionPoints": [
+            "Calculating Core Contributors for Q2",
+            "Signing off Q2 consent form",
+            "Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems)",
+            "End-Of-Year report 2024"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Core Contributors , Retrospective planning , budget minimums, ETHiopia event, consent form, consent process, mindplex, Collaboration, contribution, high-cost individuals",
+        "emotions": "low attendance, decisive,  forward-looking, Discursive"
+      }
+    }
+  ],
   "9b15cd8c-f020-4dcd-b50c-aa28046dfe50": [
     {
       "workgroup": "Archives Workgroup",
@@ -1628,6 +1725,88 @@
       "type": "custom",
       "noSummaryGiven": false,
       "canceledSummary": false
+    }
+  ],
+  "6bbb797f-8f40-42b2-9ea8-8e19eac0d87a": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-03-06",
+        "host": "Clement Umoh",
+        "documenter": "Eric Davies",
+        "peoplePresent": "Clement Umoh, Eric Davies, LordKizzy, CJFrankie, guillermolucero, PeterE, AshleyDawn, advanceameyaw, Sucre n Spice",
+        "purpose": "Weekly Open Governance meeting",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing",
+            "title": "Governance calls, rolling agenda"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1yXP6yaEmSsb-Lz4Zcyr1dz_fHZJ78YTDenSbOC36bzc/edit?usp=sharing",
+            "title": "Context setting for Core Contributor decision on Q2 2025 budgets"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1QSjiAAOrDyvh927peB1cOrosd0XkU8gbI7EkxoDtdAk/edit?tab=t.0#heading=h.ybfi2uikflvv",
+            "title": "Q1 2025 Governance WG Quarterly Report _ 050325"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1DBSIJsBIMaRr7Cxj9EBJ_w9Pe3M4DcaMUUH7CPeoGtA/edit?usp=sharing",
+            "title": "A REPORT ON THE ETHIOPIA POP UP CITY CONFERENCE AND HACKATHON"
+          },
+          {
+            "link": "https://drive.google.com/drive/folders/17QMHy0egCggNAKSD4U8ObNYgHAZ18Rwg?usp=drive_link",
+            "title": "Guillermo - outstanding Q1 GovWG meeting summaries"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Quarterly Report:  Guillermo shared the quarterly report draft and posted them in the Governance Discord for review until submission is due on Monday   Outstanding meeting summaries: Guillermo has some outstanding meeting summaries which he still needs to add to the Summary Tool  Retrospective on ETHiopia Pop Up City Conference And Hackathon:  - Clement shared a detailed report on his and Advance's attendance at this event, covering involvement in events, hackathons, media, and community engagement, highlighting challenges, support from volunteers, and key contributions from Samuel and Advance.  - He shared insights on their engagement at the event, highlighting outreach efforts; discussions on AI, blockchain, and decentralization; keynote presentations; KPI achievements, and future plans for sustaining momentum through partnerships and virtual meetups.  - CJFrankie applauded Clement and Advance for their outreach efforts in Ethiopia and raised concerns about the general lack of awareness of SingularityNET, especially among African audiences. He suggested allocating resources for physical meetups to enhance engagement and proposed that workgroups focus on making SingularityNET tools more accessible. He also requested clarification on whether SNET tools were used during the Hackathon.  - Advance explained that most hackathons operate in pools, often sponsored by different ecosystems like Mantle, and Ethereum in the context of the hackathon held during the program. Participants build projects using the sponsors' technologies, and those who integrate these tools effectively can receive funding or prizes. If SingularityNET were to sponsor a hackathon, it could incentivize developers to onboard their projects onto the AI Marketplace by offering prize pools for utilizing SNET services.  - Clement suggested that if SingularityNET had engaged earlier in the hackathon, it could have introduced the AI Marketplace sooner, leading to more participants utilizing its services. He recommended that SingularityNET consider sponsoring such events in the future to encourage developers to build on its platform and integrate its AI tools.  - Peter noted that SingularityNET is already sponsoring Hack India but emphasized that larger organizations like Deep Funding or the ASI Foundation are better suited for sponsorships. He highlighted that the AI Marketplace is still in beta, with many services as proof-of-concept. With the ASI merger, platforms like Agentverse and ASI Create will integrate, but onboarding developers remains unclear during this transition.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Advance & Clement to write an article capturing experiences from the Ethiopia event and share it with the team.",
+              "assignee": "advanceameyaw, Clement Umoh",
+              "dueDate": "20 March 2025"
+            },
+            {
+              "text": "Clement to discuss with the Marketing Workgroup about uploading event content on media channels.",
+              "status": "todo",
+              "assignee": "Clement Umoh",
+              "dueDate": "20 March 2025"
+            },
+            {
+              "status": "todo",
+              "text": "Clement to follow up with collected contacts to explore potential collaborations.",
+              "assignee": "Clement Umoh",
+              "dueDate": "20 March 2025"
+            },
+            {
+              "text": "Guillermo to integrate any comments/corrections to Q1 Quarterly report, and submit it and Q2 budget by the deadline of midnight on Mon 10th March",
+              "status": "todo",
+              "assignee": "guillermolucero",
+              "dueDate": "10 March 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Q2 Quarterly Report",
+            "Outstanding meeting summaries",
+            "Retrospective on ETHiopia Attendance Pop Up City Conference And Hackathon"
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Accountability, Organised,  informative, Discursive, Educative",
+        "topicsCovered": "ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible"
+      }
     }
   ]
 }
