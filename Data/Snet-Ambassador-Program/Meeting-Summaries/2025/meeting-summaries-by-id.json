@@ -1808,5 +1808,474 @@
         "topicsCovered": "ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible"
       }
     }
+  ],
+  "e5533fd2-855b-48d7-935e-41a262648be3": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2025-01-13",
+        "host": "Tevo",
+        "documenter": "Effiom, Tevo",
+        "peoplePresent": "advanceameyaw, effiom, tevo",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "meetingVideoLink": "https://youtu.be/lyGXP-AhHko",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764612932039153&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Knowledge Base WG - Introduction to Knowledge Base WG",
+            "link": "https://www.youtube.com/watch?v=jlHcTBzeJ0Y"
+          },
+          {
+            "title": "KBWG Schedule on Miro",
+            "link": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10"
+          },
+          {
+            "title": "Knowledge Base WG Miro Board and Activities",
+            "link": "https://www.youtube.com/watch?v=ml_kDw09omQ"
+          },
+          {
+            "title": "Managing Meeting Summaries Guide",
+            "link": "https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/"
+          },
+          {
+            "title": "TEMPLATE Meeting Summary dd.mm.2025",
+            "link": "https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU"
+          },
+          {
+            "title": "Knowledge Base WG Q1 2025 Report",
+            "link": "https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/"
+          },
+          {
+            "title": "Knowledge Base WG Q4 Report",
+            "link": "https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo/"
+          },
+          {
+            "title": "Knowledge Base WG Proposal Q1 2025",
+            "link": "https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY/"
+          },
+          {
+            "title": "Category Descriptions",
+            "link": "https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Workgroup Management - Distribute Action Items",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Effiom will draft the meeting summary and upload it to the summary tool.",
+              "assignee": "Effiom",
+              "dueDate": "27 January 2025",
+              "status": "in progress"
+            },
+            {
+              "text": "Tevo to review meeting summary and publish in Discord",
+              "assignee": "Tevo",
+              "dueDate": "27 January 2025",
+              "status": "in progress"
+            },
+            {
+              "text": "Tevo continues preparing the tool to generate Markdown files for the Knowledge Base GitBook",
+              "assignee": "Tevo",
+              "status": "in progress",
+              "dueDate": "27 January 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We are adopting a new meeting summary template using Google Docs",
+              "rationale": "Google docs is more user friendly compared to Miro, plus the final destination of meeting notes is the GitBook after it's been added to the summary tool and archived.",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Selection of a meeting summariser and a reviewer for 13.01.2025",
+            "New Meeting Summary template doc - https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU",
+            "Using Managing Meeting Summaries guide https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4 as Core Tasks guidelines"
+          ]
+        },
+        {
+          "agenda": "Review and Update KBWG Q1 2025 Report",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Include this agenda item in the next Meeting Agenda and assign it to someone",
+              "assignee": "Tevo",
+              "dueDate": "27 January 2025",
+              "status": "todo"
+            },
+            {
+              "text": "Everyone who has participated in any of the Knowledge Base calls can include engagement",
+              "status": "in progress",
+              "assignee": "Tevo",
+              "dueDate": "27 January 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will use the Exchange Rate (0.55) in Quarter 1. Hence, Hourly rate = Exchange Rate / 20 = 36 AGIX",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "This was the advised rate used when budgeting for Q1 2025",
+              "opposing": "None"
+            },
+            {
+              "decision": "We decided to keep most of the tasks as fixed AGIX amount",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "As the amount allocated is in AGIX",
+              "opposing": "None"
+            },
+            {
+              "decision": "We will reward 10 AGIX to those who add community engagement, but won't reward if added through meeting summary",
+              "effect": "affectsOnlyThisWorkgroup",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "Quarter 1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/",
+            "Adoption of the fixed hourly AGIX rate for tasks and fixed AGIX amount",
+            "Some fixed hourly rate tasks are meeting summary and review, preparation of meetings, and review of tasks",
+            "Should we assign the report update to someone at the next meeting?"
+          ]
+        },
+        {
+          "agenda": "Draft Q2 KBWG Proposal",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "We will continue to check on the Q2 proposal topic again at the next meeting",
+              "status": "todo",
+              "assignee": "all",
+              "dueDate": "27 January 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will do a final collective review of the proposal at the February meeting",
+              "effect": "affectsOnlyThisWorkgroup",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "What helps to draft the Q2 proposal?  Knowledge Base WG Q1 2025 Report- https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8  Knowledge Base WG Q4 Report - https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo  Knowledge Base WG Proposal Q1 2025 - https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY",
+            "What should we focus on in Q2?",
+            "User feedback, and uploading assets to Knowledge Base WG",
+            "Moving back to the basic process of what the group was initially intended for",
+            "Making all the relevant content created by the Ambassador Program easily accessible in an organized way"
+          ]
+        },
+        {
+          "agenda": "GitBook Management",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Effiom and AdvanceAmeyaw continue to show interest in providing descriptions",
+              "status": "todo",
+              "assignee": "Effiom, advanceameyaw",
+              "dueDate": "27 January 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "First priority is creating descriptions",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Second priority is to organise selected demo items on GitBook",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "No new updates have been made to Category Descriptions - https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Workgroup management, Category Descriptions, Async work, Meeting attendance, Q2 2025 budget, Q2 2025 proposal, Q1 2025 report, task prioritising, meeting summary template, Meeting Summaries, community engagement, user feedback, Async, GitBook, Miro to GitBook, script",
+        "emotions": "low attendance, Organised, simple"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "724abff8-31fa-49b8-ae5b-f1f3ce427b8f": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2025-01-27",
+        "host": "Tevo, Effiom",
+        "documenter": "Tevo, Gorga Siagian",
+        "peoplePresent": "effiom, tevo, AshleyDawn, PeterE, Gorga Siagian",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "meetingVideoLink": "https://youtu.be/lyGXP-AhHko",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764612932039153&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "Knowledge Base WG - Introduction to Knowledge Base WG",
+            "link": "https://www.youtube.com/watch?v=jlHcTBzeJ0Y"
+          },
+          {
+            "title": "KBWG Schedule on Miro",
+            "link": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10"
+          },
+          {
+            "title": "Knowledge Base WG Miro Board and Activities",
+            "link": "https://www.youtube.com/watch?v=ml_kDw09omQ"
+          },
+          {
+            "title": "Managing Meeting Summaries Guide",
+            "link": "https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/"
+          },
+          {
+            "title": "TEMPLATE Meeting Summary dd.mm.2025",
+            "link": "https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU"
+          },
+          {
+            "title": "Knowledge Base WG Q1 2025 Report",
+            "link": "https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/"
+          },
+          {
+            "title": "Knowledge Base WG Q4 Report",
+            "link": "https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo/"
+          },
+          {
+            "title": "Knowledge Base WG Proposal Q1 2025",
+            "link": "https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY/"
+          },
+          {
+            "title": "Category Descriptions",
+            "link": "https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Workgroup Management - Distribute Action Items",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Tevo to draft and archive the meeting summary for this meeting.",
+              "assignee": "Tevo",
+              "status": "todo",
+              "dueDate": "29 January 2025"
+            },
+            {
+              "text": "Gorga to reviews and publish it on Discord.",
+              "assignee": "Gorga Siagian",
+              "dueDate": "30 January 2025",
+              "status": "todo"
+            },
+            {
+              "text": "Once Knowledge Base GitBook is public, link it to the main GitBook and create a feedback form.",
+              "assignee": "Tevo",
+              "status": "in progress",
+              "dueDate": "10 February 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Q2 2025 Proposal and Q1 2025 Report to be updated in next meeting.",
+              "opposing": "None",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "Added Process Guild and Knowledge Base Proposals to GitBook.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Feedback form creation revisited; kept in backlog.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Reviewed and distributed WG tasks.",
+            "2k+ unread emails in the Ambassador Program inbox."
+          ]
+        },
+        {
+          "agenda": "Review Category Descriptions",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Writing descriptions is high priority",
+              "assignee": "Tevo",
+              "dueDate": "10 February 2025",
+              "status": "todo"
+            },
+            {
+              "text": "We can start updating GitBook with some of the examples we already have",
+              "status": "in progress",
+              "assignee": "all",
+              "dueDate": "10 February 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Not much progress made on descriptions yet",
+            "We added a clearer list of which descriptions are left to do"
+          ]
+        },
+        {
+          "agenda": "GitHub Markdown generation automation",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Create a new Excel Datatable that will store the new correct combined structure from the current version and top of the new table build functionality to generate markdown files. This makes a bit longer process, but allows us to faster achieve the goals",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "10 February 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Shared current status of development",
+            "Current challenges are cleaning the data and making Miro Board item names match with analysis"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Category Descriptions, Markdown, Ambassador GitBook, GitBook, Feedback Form, Documentation, Miro Board, GitHub, Q2 2025 budget, Q2 2025 proposal, Q1 2025 quarterly report, Ambassador Program email account, email",
+        "emotions": "well attended, Organised"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "39b0d903-0813-4e0e-8060-350cc15c0c5b": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2025-02-17",
+        "host": "Tevo, Effiom",
+        "documenter": "Tevo, Effiom",
+        "peoplePresent": "effiom, tevo",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764616945953621&cot=10",
+        "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/process-guild",
+        "workingDocs": [
+          {
+            "title": "How we manage Meeting Summaries",
+            "link": "https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4"
+          },
+          {
+            "title": "Meeting Summary Template",
+            "link": "https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/"
+          },
+          {
+            "title": "Knowledge Base WG Q1 Report",
+            "link": "https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/"
+          },
+          {
+            "title": "Knowledge Base WG Proposal Q2",
+            "link": "https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/"
+          },
+          {
+            "title": "Category Descriptions",
+            "link": "https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/"
+          },
+          {
+            "title": "KBWG GitBook",
+            "link": "https://ambassadorss-organization.gitbook.io/knowledge-base"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "Workgroup Management",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Effiom will draft the meeting summary and upload it to the summary tool",
+              "assignee": "Effiom",
+              "dueDate": "24 February 2025",
+              "status": "done"
+            },
+            {
+              "text": "Tevo will review and publish the Meeting Summary on Discord",
+              "assignee": "Tevo",
+              "dueDate": "24 February 2025",
+              "status": "done"
+            }
+          ],
+          "discussionPoints": [
+            "Going over old and new action items",
+            "Assigning meeting summarizer and reviewer for 17.02.2025",
+            "How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4",
+            "Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/"
+          ]
+        },
+        {
+          "agenda": "Finalise Quarterly Report and Proposal",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "text": "Report and Proposal to be submitted once the deadline has been fixed, as we are done",
+              "status": "todo",
+              "assignee": "Effiom, Tevo",
+              "dueDate": "3 March 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Continue with monthly Knowledge Base sessions, and continue updating Knowledge Base GitBook",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Are there any pending async tasks before we submit the report and proposal?",
+            "Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/",
+            "Does the Q2 proposal fit within the WG's budget cap?",
+            "Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/",
+            "Updating the Community Engagement section in the report"
+          ]
+        },
+        {
+          "agenda": "Review Category Descriptions",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "We will continue the category descriptions while script development is ongoing",
+              "status": "in progress",
+              "assignee": "all",
+              "dueDate": "3 March 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/",
+            "We reviewed 5 sub-sections of the categories"
+          ]
+        },
+        {
+          "agenda": "GitBook, GitHub, and Markdown Automation",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Updates on GitBook and GitHub",
+            "Updates on the current markdown automation progress",
+            "Knowledge Base structure is visible now on GitBook"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Miro Board, Workgroup Management, GitBook, GitHub, Budget, Category Descriptions, Q2 2025 proposal, Q2 2025 budget, Budget caps, Q1 2025 quarterly report, Miro to GitBook, Markdown, community engagement"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
