@@ -41107,6 +41107,78 @@
     "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
     "meetingInfo": {
       "typeOfMeeting": "Weekly",
+      "date": "2024-11-14",
+      "host": "CallyFromAuron",
+      "documenter": "Peegee",
+      "peoplePresent": "Effiom, Duke, Sucre n Spice, LordKizzy, advanceameyaw, AshleyDawn, CallyFromAuron",
+      "purpose": "Weekly Governance meeting- Discussions on Budget/ Budget Caps / A newly proposed tier system of Budgeting",
+      "mediaLink": "https://docs.google.com/document/d/1yOq8xIEAp80CPFQ4KwQtae7C3lvGTDDKHAH1Ie9lPxc/edit?usp=sharing",
+      "workingDocs": [
+        {
+          "link": "https://miro.com/app/board/uXjVK_z6AbU=/?moveToWidget=...",
+          "title": "Original proposal for budget caps for Q1 2025"
+        },
+        {
+          "title": "link to the draft process for deciding how to use the New ideas budget",
+          "link": "https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s/edit"
+        },
+        {
+          "title": "WG opinions on Budget Caps",
+          "link": "https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "Budget Approval Process ,  Budget Allocation, Q4 2024 budget",
+      "emotions": "Need for Clarity  , Divergent views"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "People's thoughts about the idea for a budget cap based on a tier system for each work group and direct feedback from each WG's leader/members were obtained. It is worthy of note that  although it seemed like most people were in favor of the idea of each work groups having a cap to the amount they can ask for for the next quarter, Q1, concerns about the actual specific totals some WGs have, looked like an issue for discuss by some work group team leads/members  African guild accepted the idea of a budget cap for the next quarter but requested for an additional 1500 Agix Ai ethics WG, Archive and  AI sandbox acknowledged that they liked the idea of the tier system/budget cap, although  Lord Kizzy requested for an extra allocation of 1500 Agix.  It is not clear if marketing were on board with the idea of the budget caps,vbut they did indicate interest in wanting up to 9000 Agix more. Gamers indicated interest for 1000 Agix extra, Process guild mentioned they may need less, while treasury did accept the idea of budget caps, they indicated interest for extra AGIX, and nothing has been heard from the videos WG. Besides these, it seemed like all other WGs were in sync with the idea on both counts.  Vani noted that there are quite a few workgroups going, yes, in theory, but we need more money, while this could be  understood for more money needed, it could scupper the process   Lord Kizzy commented on the disparity between the comment from R&D's consensus to the budget cap/ amount and the discussion in the R&D group. He stated that it was one of the problems faced last quarter...compensations for projects are quite small. 'This thing has actually reduced engagement from developers and people within the R&D group. We noticed that some members are dropping out and we try to reach out to them. And one of the reasons why they do not want to present proposals anymore or work on projects was due to the compensation getting from the program is not quite sufficient for the work itself'   Sucre talked about prioritization, emphasizing that workgroups should see what they have to do to in terms of prioritization.   Clarity on what the New idea budget is was given by Vani, she also suggested that the budget could be taken out and redistributed because of the many changes happening because of the budget cap  Clement spoke to the dynamism around the tier system calculation, he acknowledged that the idea is great but then it makes the workgroups operate from a fixed financial point of view. 'If we're considering that workgroups would need more, are we going to move them to a greater tier? Are there rules in place? Are there constitutions in place for movement between tiers? If something like this ever comes up, we need to speak to how dynamic this could be moving forward. Just some sort of flexibility around the whole system thing. It's great putting this up but then we need to speak to dynamism around this as well'. In response Vani said that there would be an entire quarter to work out the dynamism around that. Sucre mentioned that the tier system could be removed while the budget caps retained.  Discussions around what the  importance of a workgroup is and how it would be defined and what impact is were made as well as the process of dissolving a WG  if its aim is met was discussed. At the end, a temperature check was carried to decide if WGs would work with the budget caps as defined in that spreadsheet",
+        "actionItems": [
+          {
+            "status": "done",
+            "text": "-Tevo will confirm whether the GitHub PBL project will continue and its budget implications.",
+            "assignee": "Tevo",
+            "dueDate": "19 November 2024"
+          },
+          {
+            "text": "-Sucre n spice will provide a summary of the feedback from the education workgroup regarding their budget needs.",
+            "status": "done",
+            "assignee": "Sucre n Spice",
+            "dueDate": "19 November 2024"
+          },
+          {
+            "text": "-PG will document",
+            "status": "done",
+            "dueDate": "19 November 2024",
+            "assignee": "Peegee"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "- After a temperature check exercise, an agreement on the tier system and the decision on whether WGs should adopt the budget caps  was to be finalized on the next governance call, Tues 19th Nov, 2024?",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "- It was unanimously agreed that the will be a redistribution of the Q1 new idea funds to other work groups",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
       "date": "2024-10-15",
       "host": "PeterE",
       "documenter": "LadyTempestt",
