@@ -2446,5 +2446,380 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "458ea013-4e7a-4c15-b052-28a7ddaa98b8": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-03-25",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "guillermolucero, CallyFromAuron, LordKizzy, LadyTempestt, AshleyDawn, Évéline Trinite, UknowZork",
+        "purpose": "regular weekly GovWG meeting",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing",
+            "title": "Consent form, Q2 2025 budgets (Responses)"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "RESOLVING OBJECTIONS? Most of the objections are Tevo's; so because he was unable to be at this meeting, we were unable to try to resolve them.  We looked at the one other objection (by Vani, objecting to Writers' WG on the grounds of over-centralisation). Mikasa gave a defence saying that they have already planned to address the problem - but as this is exactly what was said last time the issue arose, Vani preferred not to resolve the objection, but to let it go to the consent process. So Writers' WG will address this in their 'response' doc.  There were no other objections by anyone other than Tevo.  CAN WE RULE ANY OBJECTIONS INVALID? We discussed whether we, as Governance WG, can rule any of the objections as 'invalid', as was done in previous rounds. For example, the objection to African Guild that they pay $25 per meeting for facilitation when the objector believes there should be a standard fee of $20 across the Program - we noted that there is no longer any agreed, enforcable 'standard fee', and that trying to impose one retroactively could infringe on the idea of workgroup autonomy, so this could therefore be considered an invalid objection. However, since Tevo isn't able to be here to discuss it, perhaps we should not rule out any objections as 'invalid', but should let all the objections go to the 2nd consent round - if individuals feel an objection is not valid, they will select 'objection has been addressed or is not an issue'.  This question will be looked at again in Thursday's meeting to confirm that we do not plan to rule any onbjection 'invalid' at this stage.  ARE OBJECTIONS INVALID IF THEY WERE NOT SUBMITTED IN THE 'WHAT IS YOUR OBJECTION' FIELD? We noted that some of the objections in the responses sheet were actually submitted in the 'What would need to change?' field, so it's not 100% clear that they are objections as such. (Example - the objection mentioned above, about African Guild paying $25 for documentation.) However, it is pretty clear from context that they are intended as objections.  SEPARATE THE INDIVIDUAL OBJECTIONS OUT? The draft 2nd-round consent form created by Vani separates each individual objection (even if it's part of a set of several points that were made by the same person), and asks people to agree / disagree with each one separately.  LordKizzy suggested that instead, we should give all the objections to a particular WG together, and ask people 'In the light of the above, do you consent or object to this WG's budget?' This might make the consenting process easier; but it might also mean that if someone only agrees with one of the objections, we won't know which one. This question will be looked at again in Thursday's meeting.  WHAT DOES '80/20' MEAN IN PRACTICE? We noted that it's not completely clear what the 80/20% rule means in this context. First - do abstentions count towards the total 'number of people who took part'? Is it '80%/20% including abstentions' or not? Second - to pass, does a WG need at least 80% of respondents saying 'this has been resolved, or is not an issue', or fewer than 20% saying 'this is still a problem'? This question will be looked at again in Thursday's meeting.  WHAT HAPPENS IF A WG'S BUDGET DOESN'T PASS? We realised that we have not definitely confirmed what the approach is this round. Will that be it - no budget? Or will there be any further attempts to resolve the situation? This question will be looked at again in Thursday's meeting",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Everyone to think about the 3 issues that will be carried over to Thursday's meeting",
+              "assignee": "all",
+              "dueDate": "27 March 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that in Thursday's meeting, we need further discussion of the following: - Can we, in a Governance meeting, deem a particular objection invalid?  - Should the 2nd round consent form list each objection separately, or should we consolidate them? - What does the 80/20% rule mean in practice in this context?",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "These issues were raised in today's meeting, but we didn't have time to reac firm conclusions."
+            }
+          ],
+          "discussionPoints": [
+            "Running through the outstanding objections to see if there were any we could resolve",
+            "Can we, in a Governance meeting, deem a particular objection invalid?",
+            "Should the 2nd round consent form list each objection separately, or should we consolidate them?",
+            "What does the 80/20% rule mean in practice in this context?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "consent process, Writers' WG, centralisation, 80% / 20% rule, invalid objections, abstentions",
+        "emotions": "thoughtful, inconclusive, knotty problems"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "c79761bb-a13d-4b20-910d-2a461b44b7a1": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-01",
+        "host": "PeterE",
+        "documenter": "UKnowZork",
+        "peoplePresent": "PeterE, UKnowZork, CallyFromAuron, guillermolucero, AshleyDawn, Jeffrey Ndarake, Maxmilez, Évéline Trinité, Alfred Itodele, LordKizzy, AJ, Effiom",
+        "purpose": "Regular weekly GovWG meeting",
+        "workingDocs": [
+          {
+            "title": "Governance calls rolling Agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          },
+          {
+            "title": "GovWG Budgets",
+            "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The Governance Workgroup discussed two major issues which are: Handling objections in decision-making and Dealing with budget cuts due to falling token prices.  We suggested a more structured way to address objections, either in meetings or asynchronously. Vani raised an issue about people consenting and not giving comments about why they are consenting. She feels it will be an issue amongst the workgroup. 'People are not saying what they feel because we've gotten rid of anonymity'(Vani). Peter also stated that if people are objecting and not saying the reasons for their objections then the objection seems irrelevant. Peter offered to help facilitate discussions and improve communication with better note-taking.  We suggested that the ongoing nature of the feedback form could allow for further clarification from objectors. We also acknowledged that the removal of anonymity might be discouraging honest feedback.  Budget concerns were a big topic, as the group's Q2 budget dropped by 33%. We explored solutions like adjusting payment schedules or delaying payments until prices recover. Vani also pointed out that we shouldn't respond to low token price by immediately going into volunteerism. We also noted that budget cuts were hurting participation, making governance harder to manage.  To improve discussions, We proposed unpaid facilitation to help members gain experience, but others worried this might lower attendance. A rotating facilitator system was considered to balance participation and budget concerns.  As the meeting ended, We focused on budget adjustments, clearer documentation, and the upcoming Town Hall for further discussions.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "dueDate": "2 April 2025",
+              "text": "Vani to create a roster for meeting facilitation in Q2, sharing it between the 8 people who volunteered",
+              "assignee": "CallyFromAuron"
+            },
+            {
+              "text": "Guillermo will share the amount of people who replied to the consent forms in the next meeting.",
+              "status": "todo",
+              "assignee": "guillermolucero"
+            },
+            {
+              "status": "todo",
+              "text": "Peter will facilitate sessions to address objections if someone receives more than 20% objections.",
+              "assignee": "PeterE"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "mayAffectOtherPeople",
+              "opposing": "",
+              "decision": "We suggested that If a workgroup has objections, we'll work with them to find a solution instead of simply stating there's no budget.",
+              "rationale": "It would be unsatisfactory to say that a workgroup doesn't exit for the quarter."
+            },
+            {
+              "decision": "There was a suggestion that we reduce expenses on Facilitating, documenting and on other tasks as well.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "opposing": "The Workgroup objected to the idea of not paying people for a work done. And noted that there should be a balance.",
+              "rationale": "This was because of the low token price and concerns around the budget."
+            },
+            {
+              "decision": "We decided to cut down the expenses on facilitation to Zero to help the workgroup understand their financial needs.",
+              "rationale": "The decision aims to preserve funds and reassess budget priorities, while adapting to market conditions.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "How do we resolve workgroups that have objections?",
+            "Is there a need to cut the governance workgroups Q2 budget?",
+            "What will be the impact of the current token price on the governance workgroup budget?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "consent process, Q2 2025 budget, facilitation roster, Participation in governance",
+        "emotions": "informative, Quiet, Only a few of those present spoke"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "fdb28a57-599e-4e20-903e-234301374c3a": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-03",
+        "host": "PeterE",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "PeterE, CallyFromAuron, UKnowZork, Tevo, LordKizzy, LadyTempestt, Effiom, Évéline Trinité, guillermolucero, Sucre n Spice, AshleyDawn",
+        "purpose": "Weekly Open Governance session",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1PPLz2LFADOziIb9cC3MNLPgrHAPlsui0XsrPdj1XcPs/edit?usp=sharing",
+            "title": "2nd round consent form Q2 budgets (Responses)"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing",
+            "title": "budget decision - main issues mentioned in objections"
+          },
+          {
+            "title": "Governance calls, rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "1) NUMBER AND VALIDITY OF RESPONSES IN THE 2nd ROUND CONSENT FORMS In total there were 17 responses, but 1 was from someone who is not a Core Contributor, so it was deleted.   2) HAVE THE BUDGETS OF THE REMAINING WGs PASSED? Yes, all have been approved. - African Guild: 11 consent, 2 object, 3 abstain. - AI Sandbox/Think Tank: 13 consent, 0 object, 3 abstain. - Education: 11 consent, 1 object, 4 abstain. - Marketing: 9 consent, 1 object, 6 abstain. - R&D: 11 consent, 2 object, 3 abstain. - Writers: 10 consent, 1 object, 5 abstain.  Wr noted, however, that several of those who abstained/objected didn't comment to say why; and we noted a fairly high number of abstentions. Are people abstaining because they see it as a 'soft' way to register an objection? Or because they are not anonymous? Tevo noted in Chat that he abstained to 'all where I saw progress in reporting and budget, but was not quite yet harmless'.  3) COMMENTS RAISED IN THE 2nd-ROUND CONSENT FORMS We read through the consent forms, and noted 1) which objections from Round 1 people had said were still an issue, and 2) all the comments.  There were severa l concerns that were about how people write their reports and budgets. We wondered whether there is a need for some sessions that look at this, and if so, whether Governance is the right place for it; but we didn't reach a conclusion.  4) HOW WILL WE TRACK THE CONCERNS RAISED? Some of them may need further discussion, and/or for the WG concerned to take action. We decided how to address these issues so they are not forgotten about (see 'decisions' below).  We also noted that: - Tevo can use PowerBI as usual to give stats and insights on the consent process;  - Guillermo could in the long term try to develop his planned Consent Process dashboard to help us track issues raised in the consent process; although this would be difficult at present, because low token price means the scope of that project can't easily be extended.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vani to add issues mentioned in 2nd round consent forms to the Governance WG rolling agenda where applicable",
+              "assignee": "CallyFromAuron",
+              "dueDate": "8 April 2025"
+            },
+            {
+              "status": "todo",
+              "text": "Vani to collate issues from this consent round in the 'budget decision - main issues mentioned in objections' doc",
+              "assignee": "CallyFromAuron",
+              "dueDate": "8 April 2025"
+            },
+            {
+              "text": "Tevo to export data from PowerBI about this consent round",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "10 April 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "All the WGs' budgets are now approved",
+              "rationale": "because they all met the approval threshold of no more than 20% objection (not counting abstentions)",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "Where appropriate, we will add the issues raised in the consent form comments to the GovWG agenda for discussion in future meetings",
+              "effect": "affectsOnlyThisWorkgroup",
+              "opposing": "some discussion about whether Governance meetings is the right place for further discussion of how to write a good quarterly report"
+            },
+            {
+              "decision": "We will use the doc 'budget decision - main issues mentioned in objections' to log issues that were raised in this consent process, and adapt the doc to note anything that should be tracked, e.g. if a WG said that it will address an issue in its next quarterly report.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "to ensure that issues don't get lost or forgotten."
+            }
+          ],
+          "discussionPoints": [
+            "Number and validity of responses from 2nd-round consent form",
+            "Have the budgets of the remaining 6 WGs in the 2nd round been approved or not?",
+            "Going through the comments raised in the consent forms",
+            "How will we track the concerns raised?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "consent process, Q2 2024 budget, abstention, tracking concerns, PowerBI, anonymity, dashboard",
+        "emotions": "good-natured,  forward-looking,  Collaborative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "b8ee0e89-fb2e-4732-a4ec-c5e8d04ff661": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-03-27",
+        "host": "PeterE",
+        "documenter": "Kateri, CallyFromAuron",
+        "peoplePresent": "guillermolucero, CallyFromAuron, LordKizzy, LadyTempestt, AshleyDawn, Évéline Trinite, UknowZork, Kateri, PeterE, Clement Umoh, advanceameyaw, Alfred, martinsoki, Mikasa, Sucre n Spice, Jeffrey",
+        "purpose": "Weekly Open Governance meeting",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing",
+            "title": "Consent form, Q2 2025 budgets (Responses)"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Peter reviewed the objections that were discussed in the last meeting, noting that some may need further discussion before moving to the consent process.   Guillermo talked about the importance of not delaying decisions because the objector is not present. Vani noted that we have already started moving with or without Tevo being present.  Peter highlighted the questions asked in the last meeting: - Whether to consolidate objections or keep them separate in the consent form? - Can we, in a governance meeting, deem a particular objection invalid ?  Lordkizzy presented that André has withdrawn his objection to AI Sandbox/Thnk Tank. We agreed to ask André to add a note in the Responses spreadsheet tp say this, and he did so during the meeting.  Vani asked what we plan to do if a workgroup doesn't get the required 80% consent in the 2nd round. We agreed that the workgroup should be able to continue to try to reach a resolution, rather than simply having no budget for Q2. Lord kizzy noted that we should track the objections to know which has been addressed and which has not.  Guillermo spoke that we shouldn't consolidate all the objections on a WG in the form, as it will make it difficult to be clear what someone is actually objecting to  Lord kizzy suggested that we should add a question in the form that asks 'Overall, do you consent to this WG's budget?' and then ask which, if any, of the objections from round 1 are still a concern. This would allow people to indicate if certain objections had not been satisfactorily addressed, even if on balance they consent to the WG's budget overall.  There was a brief discussion on workgroup autonomy, in relation to the objection to African Guild's charging $25 for facilitation when the objector felt that $20 was standard. Many felt that such objections interfered with workgroup autonomy; and it was noted that there is not actually any agreed 'standard' price. Nevertheless, we agreed not to ruke the objection as invalid, but to let it go to the 2nd-round consent process.  Clement raised concerns about the objection to African Guild in relation to reward distribution; he questioned whether it is true that rewards were being allocated solely based on meeting attendance rather than task performance and noted that token price fluctuations were limiting workgroup innovation.  Peter expressed caution about spending reserves when token prices are low, the idea of using reserves to support workgroup functions during downturns was tabled for another discussion.   We discussed exactly what the '80-20% rule' means, and how we calculate whether a WG has passed the threshold - do they need 80% consent or above 80%? or is it better to look at the threshold as 'no more than 20% objection'? And 80%/20% of what? Is it all those who participated, or are abstainers not counted? See 'Decisions' below.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vani will modify the Round 2 consent form to include 'consent' 'object' and 'abstain' on the budget as a whole, plus a question on which, if any, outstanding objections the person thinks are still a problem.",
+              "dueDate": "1 April 2025",
+              "assignee": "CallyFromAuron"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will ask objectors to review the shared documentation (WGs will each write a document addressing the objections they have received) before the 2nd consent round opens, and formally withdraw objections if they feel the issues have been resolved.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "The 2nd round consent form will ask people to consent, object or abstain to a Workgroup budget as a whole, before asking for their views on the individual objections from Round 1.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "Will be clearer, and will allow people to consent overall, even if they feel that some of the objections are still a concern."
+            },
+            {
+              "decision": "We will keep the different objections separate, and ask people which ones, if any, they think are a problem.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "This will enable us to identify which objections need to be discussed further (in general terms, rather than in relation to whether or not a WG gets its budget) once the consent process is over."
+            },
+            {
+              "decision": "We are not going to rule any objections invalid",
+              "rationale": "This meeting is perhaps not well-attended enough to give a real consensus that an objection should be overruled. It would be better to let them all go through the 2nd consent round and see which ones Core Contributors agree are an issue."
+            },
+            {
+              "decision": "The 80-20% rule means a Workgroup will pass unless **more than 20%** of those taking part object. As always, the 'number taking part' excludes abstainers",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Whether to list each objection separately in the consent form, or consolidate them.",
+            "How to prevent new objections from being raised in the 2nd consent round",
+            "What the 80%/20% rule means in practice - do WGs need more than 80% consent, or is it no more than 20% objections? The challenge of calculating percentages when some members abstain."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "consent process, Reserves, workgroup autonomy, invalid objections, African guild, consent form design, 80%/20% rule, abstentions",
+        "emotions": "thoughtful, satisfying, decisive"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "c5db7260-52cf-4f94-8efc-28a2e028c8a1": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-08"
+      },
+      "noSummaryGiven": false,
+      "canceledSummary": true,
+      "canceledSummaryText": "Meeting was cancelled",
+      "type": "custom"
+    }
+  ],
+  "2868166f-c4f0-4cc7-bbbf-66051a4806cd": [
+    {
+      "workgroup": "WG Sync Call",
+      "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-04-07",
+        "host": "PeterE",
+        "documenter": "UKnowZork",
+        "peoplePresent": "PeterE, CallyFromAuron, guillermolucero, Sucre n Spice, UKnowZork, Évéline Trinité, LordKizzy, advanceameyaw, hogantuso, Slate, AshleyDawn, Tevo, Effiom, Kateri",
+        "purpose": "Monthly call for all Workgroups to discuss Program-wide issues",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing",
+            "title": "Workgroups >< wider ecosystem collaborations"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "discussion": "PRIORITIES AND BUDGET CONSTRAINTS We discussed possible collaborations with spin-offs and other partners and how to deal with the current token prices which is at $0.16 today, half of what we calculated Q2 budget at. We considered different WGs past and intended collaborations, and Guillermo proposed that in future, we'd need to create a strategy that takes account of the effects of market price. We came to the conclusion that everyone - spin-offs included - will be affected by the low token price. We also had discussions on who we have to reach out first in the program.  PRODUCT IDENTITY AND METHODOLOGIES  We discussed various technical tools created by the workgroups and we thought of having to create different approach and methodologies on the tools created (We considered the idea of developing new approaches and methodologies for how these tools are used or improved). We also thought of how we can package that to share it with spin-offs and make it something that is to their advantage to use. We talked about having an independent research to look at different spin-offs that we have in the ecosystem and we'll add a page to the current 'Workgroups >< wider ecosystem collaborations' spreadsheet that outlines what we offer, which workgroup is it? What piece of tooling is it? And why a partner might need it. We decided to postpone the discussion on conducting independent research until more people have had the chance to share their input.   ECOSYSTEM OVERVIEW AND WORKGROUP COORDINATION  We emphasized the importance of understanding the needs of spin-offs and partners who we are offering our products too. We proposed a structured approach to document what each workgroup has built or made and what they could offer to their partners. We talked about the specific offerings that each Workgroup can offer to the ecosystem and we suggested forming a task force to streamline the process and the group will have a discussion on the next steps for outreach based on the compiled information.  PROJECTS AND COLLABORATION STRATEGIES  We noted that there are a number of ongoing collaborations, and we decided to actively promote collaboration through targeted outreach, and during the meeting, we outlined the projects each workgroup is involved in, along with their current partnerships.  Tevo shared his perspective on the role of his workgroups, emphasizing that it's not just about offering tools or seeking direct collaborations with spin-offs. Instead, he sees value in co-developing experimental approaches to decentralization - an iterative process that adapts to emerging needs. He noted in the chat, 'I still find my work to be relevant for improving decentralized autonomy and governance... but it's unclear if SNET still pursues this path openly.' Drawing on past experience, he referenced the Catalyst Governance Guild's early involvement in the Ambassador Program as an example of this experimental mindset, where the goal wasn't to push fixed solutions but to stay responsive and adaptive. Effiom added to this by pointing out that beyond tools, the real asset lies in the skills and capabilities people bring to the table.  We noted that if any of the spin-offs start thinking about launching a product, we'd be there to support them.  Peter highlighted the alignment of various spin-offs with decentralization and the significance of community involvement (He noted that this shared foundation is encouraging, but also pointed out that each spin-off may have its own approach, so alignment isn't guaranteed). The meeting wrapped up with reminders for Governance and Town-hall calls, alongside an invitation for participants to enter their workgroup information into the spreadsheet.",
+          "meetingTopics": [
+            "Priorities and Budget Constraints",
+            "Product identity and Methodologies",
+            "Ecosystem overview and Workgroup Coordination",
+            "Projects and Collaboration Strategies"
+          ],
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Kizzy propose that REJUVE could have have a project showcase of their Rejuve app for live testing in the next AI sandbox call coming up this Thursday.",
+              "rationale": "This could help in onboarding new members."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "BGI Nexus, Collaboration, spin-offs,  research, experiment, decentralized governance, Rejuve, tooling, Treasury, recordkeeping",
+        "emotions": "Organised, Discursive,  Collaborative, Resourceful,  forward-looking, Conclusive"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "597771fa-c897-4bde-bec3-348ee5d218c5": [
+    {
+      "workgroup": "WG Sync Call",
+      "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-01-30"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
   ]
 }
