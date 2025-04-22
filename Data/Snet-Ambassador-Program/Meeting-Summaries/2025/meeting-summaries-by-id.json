@@ -2584,6 +2584,125 @@
       "canceledSummaryText": "Meeting was cancelled"
     }
   ],
+  "2ed196cc-6e25-47ff-b8b4-75b3fe313a03": [
+    {
+      "workgroup": "Archives Workgroup",
+      "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-04-02",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], Jeffrey Ndarake, AshleyDawn, UKnowZork",
+        "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+        "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+        "workingDocs": [
+          {
+            "title": "Archive names (a list of the name that people are most commonly known by in the Archives)",
+            "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+          },
+          {
+            "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/254",
+            "title": "GitHub Issue for this meeting"
+          },
+          {
+            "title": "Q2 2025 final budget",
+            "link": "https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing"
+          },
+          {
+            "title": "Q1 2025 quarterly report for Archives WG",
+            "link": "https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing",
+            "title": "Wokrgroups >< wider ecosystem collaborations"
+          },
+          {
+            "title": "Archive names",
+            "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+          },
+          {
+            "title": "Low-Budget Brainstorm (Miro board)",
+            "link": "https://miro.com/app/board/uXjVISH_ACg=/"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Vani has approached DeepFunding, to ask if the Events Circle could take on documentation of DF Town Hall. Focus Group agreed this would be valid - waiting for a reply from Events Circle  Also some interest in Focus Group re: how the Archives tool could be used for further documentation within DF",
+              "assignee": "CallyFromAuron",
+              "dueDate": "2 April 2025",
+              "status": "in progress"
+            },
+            {
+              "text": "Andre to add 'Jeffrey Ndarake' 'UknowZork' 'Alfred Itodele' 'Évéline Trinite' and 'All' as new Names in the names controlled vocab here https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing",
+              "status": "todo",
+              "assignee": "André",
+              "dueDate": "30 April 2025"
+            },
+            {
+              "text": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
+              "status": "done",
+              "assignee": "André, CallyFromAuron",
+              "dueDate": "2 April 2025"
+            },
+            {
+              "text": "Vani to add any new tasks to the GitHub Board which have been funded for Q2",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "30 April 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We noted that our Q2 2025 budget was approved in the first consent round - but, due to current low token price, we agreed not to submit issues for payment for any pending tasks for Q1 or Q2, to see if token price improves. We'll reassess at the next meeting on 7th May if not before.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "The Q2 budget was calculated at the agreed exchange rate of $0.30 and AGIX is now at $0.20; so we will be unable to fulfil everything in it unless AGIX price rises a bit.",
+              "opposing": "We considered the idea of taking from the WG's reserves, but agreed that doing so at a time of low token price is not a good idea."
+            },
+            {
+              "effect": "mayAffectOtherPeople",
+              "decision": "We noted that a problem has arisen because some of the corrections made to meeting summaries haven't been added to the database, but are only showing up in the GitBook version of the Archive (because Vani accidentally made the changes in the wrong part of the summary tool interface). The database should be the 'source of truth', so André has created scripts to track the differences so they can be corrected. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/249   This also gives a way to see what kinds of things tend to get corrected when auditing summaries. Some are minor proofreading or formatting corrections, which are not  significant in terms of meaning; but others are factual or structural changes, which likely *would* affect how a graph RAG determines meaning. So we noted that it is useful to have these differences visible, for reference and to be able to see what kinds of things got corrected - so we will save these data examples to a repo for future reference.  We also noted that of course this auditing process will no longer be done in Q2, because we have decided to NOT correct meeting summaries at all in Q2 as an experiment.   We may find that using a graph-based process to interrogate the Archives will mean that most of the errors that people make in summaries do not matter much, and the graph process will still enable us to extract meaning even if people are not confident documenters, and our uncorrected summaries are factually inaccurate (as many of them are). So by the end of Q2 2025, we will want to check whether we see any substantial difference between Q2 data (which will be uncorrected) and the rest of the Archives. If we *don't* see this, however, then being able to see the kinds of corrections that were made in previous Quarters will be useful."
+            },
+            {
+              "decision": "We noted that in March, Stephen has continued with writing a GitHub app token generator - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/252.",
+              "rationale": "This is one of the 'pieces of the jigsaw' that will allow us to wrap up scripts that we write into GitHub apps."
+            },
+            {
+              "decision": "We noted that André and Vani met in March to wrap up work on the tag taxonomy project; Vani is currently correcting a final list of tags for topics and emotions, and we have agreed to dispense with the 'Other' tag category in the final tool redesign, as people have tended not to use it in very useful ways.  We have agreed on minimal editing of the controlled vocab - we're only removing obvious duplicates and misspellings - because we don't want to overdetermine similarity. Two tags that appear superficially similar might have very different connotations for the individual who created them - so we will try to preserve those differences, and see what a graph RAG process makes of it.  We noted that this lays the groundwork for what can be analysed later, using techniques such as proximity, semantic similarity, rarity of a tag, and co-occurence of tags (for example if a particular person's name/presence in a meeting is often correlated with a particular emotion tag, such as 'organised'). Also we noted that, particularly with negative emotions, the fact that a meeting was not tagged with a particular emotion doesn't necessarily mean that the emotion wasn't there - often, a problem needs to become really severe before someone will tag a summary with (for example) 'aggressive' or 'silencing', and there could be a buildup over several (untagged) meetings which led to it. Subject to funding, we could use our tag taxonomy as a basis for future community analysis of the topology of emotions and topics that has been identified in meetings.  There is also an ethical dimension to this - asking 'is AI drawing the correct conclusions?' and giving the community some ownership of the conclusions that are drawn  - which we will be able to examine.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "An extra WG Sync call on Mon 7th April will focus on collaborations between the Ambassador Program and sNET spinoffs/partners.   We added info on our past collabs and hoped-for future collabs in https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing - particularly looking at sharing our recordkeeping tooling with other organisations - and we'll attend the meeting to discuss.",
+              "opposing": "For us, collaborations might also extend cross-chain, and even to organisations outside of Web3"
+            },
+            {
+              "decision": "We will post in Discord to remind people that time limit to submit a summary, after which it will be recorded as 'no summary given', is one month after the date of the meeting.`"
+            },
+            {
+              "decision": "We discussed how to manage low token price in general.   Suggestions included drawing down (say) half of the overall Ambassador budget for a Quarter and converting it to a stablecoin, in order to give more stability and balance it with risk; asking the community how much risk they want to take (i.e. should it be half, or less, or more?) And the idea of not restricting our holdings to just AGIX.  These ideas will be added to the 'Low-Budget Brainstorm' Miro board https://miro.com/app/board/uXjVISH_ACg=/ for discussion in Governance WG.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We discussed the proposal that the Archives team has submitted to the BGI Nexus funding round and invited people to vote: see  https://deepfunding.ai/proposal/ethical-ai-auditing-a-practice-based-approach/  We noted that in the event that this work *doesn't* get funded in the BGI Nexus round, we will still want to find a way to do it - although this will be limited by budget constraints if we try to do it as part of the Workgroup.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "We now have a lot of data in the Archives, and want to look at how we ethically process and interrogate that data, and how we engage the community who 'owns' a dataset (in this case the Ambassador Program) with analysing and verifying the insights that an AI  might give about it - in other words, looking at AI's conclusions and developing the critical thinking to assess how accurate they are."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "interesting, wide-ranging",
+        "topicsCovered": "AGIX price, Q2 2025 budget, controlled vocab, Collaboration, collaboration with spinoffs and partners, WG Sync call, Knowledge management across the singularityNET ecosystem, cross-chain collaboration, Correcting errors in meeting summaries,  ACP, stablecoin, AI ethics, meaning, graph RAG, managing low token price, BGI Nexus funding round, critical thinking"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "fdb28a57-599e-4e20-903e-234301374c3a": [
     {
       "workgroup": "Governance Workgroup",
@@ -2820,6 +2939,96 @@
       "canceledSummary": false,
       "noSummaryGivenText": "No Summary Given",
       "type": "custom"
+    }
+  ],
+  "bb084f9f-107e-4549-85ea-1b9135e4146a": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-04-07",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "CallyFromAuron, CollyPride, PeterE, Sucre n Spice, LadyTempestt, UKnowZork, Jeffrey Ndarake, Effiom, barnabas",
+        "purpose": "Regular monthly meeting of the AI Ethics Workgroup",
+        "workingDocs": [
+          {
+            "title": "AI Ethics Workgroup stuff!",
+            "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Main topic of the meeting was the overall negative effects of low token price on the work of the group.  We went through our GitHub Board https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2, starting with issues 'In Progress', and then 'To Do'.   Many of the In Progress tasks are for transcription of research interviews, and are likely to be completed soon. However, due to low token price, we agreed that we will hold off from paying them for now, as this would use up all of our Q2 2025 budget (because budgets were calculated at $0.30, and token price is currently $0.16). Vani has DMed all those working on transcription, and they are all OK with waiting for payment.    We noted that technically, the WG went over budget at the end of Q1, due to an unexpected further price drop on the day we were paying out outstanding tasks. Vani has discussed this with Tevo in the Treasury Discord channel, arguing that when token price is falling, it matters less which Quarter a task was funded in, because a WG might need to dip into its reserves in order to pay for tasks from times when token price was higher. So when assessing if a WG is 'in the red', we should look at the WG's *cumulative* budget, including any reserves - which means that this WG *isn't* over budget overall, if we count its reserves and its Q2 2025 allocation.   RE: outstanding tasks from previous Quarters, we noted that due to the nature of this WG, tasks have often involved a steep learning curve (such as interviewing), so it's understandable that people have taken considerably longer than expected to complete their work. Unless we decide in future to pay tasks in advance if token price is high, even if the task is not completed yet, there's little that can be done to mitigate this - we need to allow people time to learn and to get to grips with complex tasks. Nevertheless, we agreed that we do need to close interviewing and survey-sharing tasks from Q4 that are still outstanding.   (We briefly discussed the idea of either paying core tasks in advance, if we know they will definitely be done, or converting the money for them to a stablecoin - but we didn't draw a conclusion on this. We will raise it in the forthcoming Governance WG session on responses to low token price.)  We then decided which as-yet-unpaid tasks from Q1 2025 will be paid as soon as the new allocation for Q2 is added to the Treasury dashboard, and which will have to wait.  We noted that we need to do some fairly drastic budget fitting for Q2 due to low token price, so we agreed on where those cuts will be made - see the fitted Q2 budget in https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing  We ended with a mention of the current BGI Nexus funding round, for proposals using AI for social good. There are 5 proposals by people from the Ambassador Program, so we encouraged people to vote. We noted that they are using an interesting 'pairwise voting' process, where voters are presented with randomised pairs of proposals and must select their favourite of the 2.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vani to chase Onize about the documentation of the February meeting, which is not yet completed",
+              "assignee": "CallyFromAuron",
+              "dueDate": "14 April 2025"
+            },
+            {
+              "text": "Vani to message Duke and Ese about closing their uncompleted interviewing tasks from Q4 2024, and Kenichi about his uncompleted Q4 survey-sharing task.",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "28 April 2025"
+            },
+            {
+              "text": "By the end of the Quarter, Vani will use the insights from the recent plenary session for interviewers, and this Issue on matters arising from interviewing https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues/117, to update the interviewers' training materials.",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "30 June 2025"
+            },
+            {
+              "text": "Vani will look at the transcripts that have already been done, and assess whether the price we have agreed for checking and editing transcripts ($20 per interview) is what's needed, or whether it could be less (if transcribers have done good work, and not much checking is needed",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "30 April 2025"
+            },
+            {
+              "text": "Vani and Clement (co-chair and co-chair mentee) will be meeting with the BGI Nexus team to discuss overall priorities and how to deal with low token price. This will be before the next WG meeting in May.",
+              "status": "todo",
+              "assignee": "CallyFromAuron, Clement Umoh",
+              "dueDate": "5 May 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "At our May meeting, we will reassess whether we are able to pay transcription tasks yet (although if token price rises significantly before then, the WG admin team could decide to pay them then).",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "In order for it to be 'safe' to pay out, we're ideally looking for a price at or above the $0.30 at which the Q2 2025 budget was calculated."
+            },
+            {
+              "decision": "We agreed that Vani will wait to be paid as co-chair for Q1 2025 until / unless token price goes up; but that Clement's pay for managing the AI Ethics forum in Q1 will be paid at the next payday.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Clement's pay is a relatively small amount ($80) so we can afford to pay it without jeopardising the Q2 budget."
+            },
+            {
+              "decision": "Budget-fitting: we agreed that for Q2 2025, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking.  If token price does rise significantly, we will aim to also do some new interviews.  If by the time of our May meeting, token price is still below $0.20, then we will likely need to make even more cuts, as the proposed fitted budget assumes an exchange rate of $0.20",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "We see the collecting and processing of research data as a priority - so for now, our main focus will be on transcribing and finishing as many of the existing interviews as we can, so that we have some finished data to work with; and if token price goes up significantly, we will add new interviews.",
+              "opposing": "No-one is entirely happy about these cuts, but needs must."
+            },
+            {
+              "decision": "Colleen, in her role as community organiser, will be organising a community discussion session on 'AI and emotion' as soon as possible",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "This will be covered by the $100 left in the budget for the 'community engagement' role. This is a 'hot topic' which we see as valuable to discuss."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Brief, despondent due to low token price, Only a few of those present spoke",
+        "topicsCovered": "Q2 2025 budget, low token price, Budget cuts, Interview Transcription, Workgroup reserves, uncompleted tasks, payment in advance, BGI Nexus funding round, pairwise voting, AI and emotion"
+      }
     }
   ]
 }
