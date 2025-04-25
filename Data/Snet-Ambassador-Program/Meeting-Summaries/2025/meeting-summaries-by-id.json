@@ -3030,5 +3030,1099 @@
         "topicsCovered": "Q2 2025 budget, low token price, Budget cuts, Interview Transcription, Workgroup reserves, uncompleted tasks, payment in advance, BGI Nexus funding round, pairwise voting, AI and emotion"
       }
     }
+  ],
+  "3bd51516-681f-48e8-8d48-4086b1271c05": [
+    {
+      "workgroup": "Writers Workgroup",
+      "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-21",
+        "host": "kenichi",
+        "documenter": "CJFrankie",
+        "peoplePresent": "kenichi, Mikasa, CJFrankie, Gorga Siagian, devon, Evelyn, inesgav, LadyTempestt, AJ",
+        "purpose": "The weekly meeting of the writers workgroup",
+        "workingDocs": [
+          {
+            "title": "Writer Draft Submission Form",
+            "link": "1FAIpQLSethRUYdbTEJoKv7nPu8APhf6ECpRtwhN23TOzYrIBA9vLALQ"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1p76mxmbZp3raZixJwQnlsvg7kCyGjBYFvHHLWk9OwfA/edit?usp=sharing",
+            "title": "WWG Role Document V1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kick-off: The writers' workgroup weekly meeting commenced at 3:10 p.m. Kenichi reviewed the action items from the previous meeting. He announced that the Twitter premium plan had been activated and that the monthly Town Hall updates from January would be the first publication on X. Furthermore, Kenichi stated that the Web3 publishing platforms required additional attention and, to that end, requested that Cj Frankie and Gorga submit their first drafts.  DRAFTs: As agreed in the previous meeting, article suggestions will now be submitted via spreadsheet. In this meeting, Kenichi demonstrated the new writer's draft submission form, which streamlines the process. Writers can now suggest articles, include submission and preferred publication dates, and provide other relevant information. The form's integration with a Google Sheet simplifies tracking for the workgroup. Ines also recommended considering tools like Trello to further enhance workflow. In response to a question from Lady Tempestt, Kenichi confirmed that both writers and scribes will have access to the submission form. Once a draft is approved, the scribes will submit it to the community page. Kenichi will coordinate with Peter to pin the form link to the writer's channel for easy access.  Role document: Ines inquired about the new role document and its associated thresholds. Kenichi clarified that the document would be accessible this quarter and that there would be no penalties for not meeting any outlined expectations. He explained that the document's purpose is to track Scribblers' progress over time, enabling the workgroup to make informed decisions, such as whether or not to onboard new members.  Ambassador program website: In this meeting, Ines proposed the idea of creating a platform or WordPress for the workgroup, where all information about what we do can be easily accessed! Kenichi then revealed that he is collaborating with the R&D guild to develop an ambassador program website. This site will house comprehensive information about all participating workgroups, each of which will have its dedicated page with updated access.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "dueDate": "28 February 2025",
+              "text": "Kenichi to chase Peter to pin the writer's draft submission form in the writer's channel.",
+              "assignee": "kenichi"
+            }
+          ],
+          "learningPoints": [
+            ""
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "4ec161af-00d7-47d6-88f3-3a53b180d622": [
+    {
+      "workgroup": "Research and Development Guild",
+      "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-02",
+        "host": "guillermolucero",
+        "documenter": "LordKizzy",
+        "peoplePresent": "LordKizzy, advanceameyaw, guillermolucero, jeffrey ndarake, Bandojayy, AshleyDawn",
+        "purpose": "R&D Updates and Discussions",
+        "workingDocs": [
+          {
+            "title": "MeTTa Coder Lab drive",
+            "link": "https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb"
+          },
+          {
+            "title": "Nunet Application Form",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Welcoming new Members and Introduction",
+            "Review of last meeting summary Action Items",
+            "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
+            "MetaCoders Lab Discussion",
+            "AOB Open discussions",
+            "Project Showcase Preparation for R&D Guild"
+          ],
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Lordkizzy to follow up on communication with the soft launch of the deployment of Legacy",
+              "assignee": "LordKizzy",
+              "dueDate": "9 April 2025"
+            },
+            {
+              "text": "Guillermo will advertise the voting for the new proposals.",
+              "status": "todo",
+              "assignee": "guillermolucero",
+              "dueDate": "9 April 2025"
+            },
+            {
+              "text": "Advance to check if Kenichi's AWS account can be used for the project deployment.",
+              "status": "todo",
+              "assignee": "advanceameyaw",
+              "dueDate": "9 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members",
+            "New proposal applications: Guillermo noted that he was going to put the three proposal submissions to a vote within the week.",
+            "UPDATE STATUS ON DEVELOPMENT: CSDB-Collaboration-Skills-Database: Advanceameyaw outlined that a showcase was planned for the AI Sandbox session. advanceameyaw also informed the guild on the difficulties encountered with Railway in fetching static files, which affects the appearance of the admin portal. The team had previously used Heroku for testing but opted for Railway to improve performance and reduce costs. Lordkizzy raised a question about the timeline for moving back to Heroku and its impact on project completion, which advance emphasized the benefits of deploying services on Heroku, particularly its user-friendly interface and free tier options. He compared the costs of Heroku and AWS, indicating that AWS could be more expensive unless they already have an account. Lordkizzy raised the question of whether they could use Kenichi's AWS account for their project deployment, to which Advanceameyaw agreed it could be a viable option.",
+            "Project Showcase Preparation for Collaboration Skill Database by R&D Guild Members with AI Sandbox: Lordkizzy detailed the upcoming project showcase for the Collaboration Skill Database, emphasizing its key features, including an in-depth overview, live demonstrations, and an exploration of real-world applications. Advance also mentioned that the session will cover challenges encountered during the project and improvements made, providing valuable insights for attendees. Guillermo provided some feedback to advance on the project, noting he should add a brief project description and noted that there would be another presentation of the project at Deepfunding TH."
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Nunet, CSDB,  Team Collaboration , Project Showcase, Proposals",
+        "emotions": "Collaborative,  informative,  Understanding."
+      }
+    }
+  ],
+  "0b3cb2b5-d16b-48ae-871a-a5ccdb2aa139": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2025-04-03",
+        "host": "Clement Umoh",
+        "documenter": "LordKizzy",
+        "peoplePresent": "LordKizzy, Sucre n Spice, Love, CallyFromAuron, AshleyDawn, Jeffrey, martinsoki, Kateri, UKnowZork, Alfred Itodele, zainab, CJFrankie, Effiom, Clement Umoh",
+        "purpose": "Bi-weekly meetings update on how to onboard people in our community",
+        "workingDocs": [
+          {
+            "title": "Context-setting for Core Contributor decision on Q2 2024 budgets",
+            "link": "https://docs.google.com/document/d/115c9r867HDV711v7cgu-thL6chfUHtK6Fhu6qVwA6es/edit?usp=sharing"
+          },
+          {
+            "title": "Analysis for Interview Answers to Onboarding To Decentralisation Research",
+            "link": "https://docs.google.com/document/d/1QoiFu7sdgmmJbeOGe3ig8-JtvMvlGT5w9ctnXJYyc2E/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "done",
+              "text": "Kizzy to complete the 'Onboarding to Decentralization analysis' before the next meeting.",
+              "assignee": "LordKizzy"
+            },
+            {
+              "text": "Kizzy to rework on the onboarding facilitation and documentation roster",
+              "status": "done",
+              "assignee": "LordKizzy"
+            },
+            {
+              "text": "Vani will provide an update on the fitted budget due to the token price drop in the next meeting on April 3rd.",
+              "status": "done",
+              "assignee": "CallyFromAuron"
+            },
+            {
+              "text": "Colly Pride will send a direct message to Duke to confirm his facilitation for the meeting on April 3rd.",
+              "status": "cancelled",
+              "assignee": "CollyPride"
+            },
+            {
+              "text": "Lordkizzy to send a reminder to kateri to document the next meeting",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "1 May 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided that Clement should facilitate in place of Duke",
+              "rationale": "Duke wasn't present in the call"
+            },
+            {
+              "decision": "We decided to transition to monthly sessions",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "This is due to the impact of AGIX price decline on the workgroup budget"
+            },
+            {
+              "opposing": "We worked out that if token price drops below $0.17 for any length of time, we will not be able to afford even this, and will have to rethink.",
+              "rationale": "Given AGIX price might be worth nothing right now",
+              "decision": "We decided to implement all the changes in the reduced budget",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Kickoff and Budget Updates: Clement kicked off the meeting with a discussion on action items. Sucren gave an update on the members' engagement, noting that some inactive members were contacted, while some active members received the onboarding tag, allowing them to participate in tasks. Vani provided an update on the timestamping task for the M&E Session. She mentioned that Onize had requested the session recording, and the task is currently in progress.",
+            "Onboarding to Decentralization Analysis Update Lordkizzy and Clement presented the analysis doc in the meeting ( https://docs.google.com/document/d/1QoiFu7sdgmmJbeOGe3ig8-JtvMvlGT5w9ctnXJYyc2E/edit?usp=sharing), noting the significant changes that were made to the document. Vani noted that some of the recommendations (Onboarding session, Training sessions) had already been done within the program, and they received low participation. Lordkizzy noted that most members are not aware of the processes in place within the program for onboarding to decentralization and suggested that we should make more efforts in raising the level of awareness on this.",
+            "Onboarding WG Budget Discussion Vani presented the final draft of the Onboarding WG Q2 budget, emphasizing the importance of prioritizing the Skillshare session on 'Understanding the Ecosystem' to sustain morale and engagement. She noted that meetings will be held monthly rather than biweekly, with a focus on supporting onboarders. Additionally, she mentioned that payment schedules are being considered, with options for monthly or quarterly disbursements.",
+            "AOB: BGI Voting Round: Clement reminded the group that the BGI Voting round was live and encouraged members to review proposals before the voting deadline."
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Collaborative,  forward-thinking, Concern, Productive, Openness",
+        "topicsCovered": "Budget Concerns,, Documentation Roster, AGIX price, Rewards"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "bd958329-6f11-4c2f-98c2-d541d4bd30ce": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-04",
+        "host": "Ayo",
+        "documenter": "martinsoki",
+        "peoplePresent": "kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, Mikasa, CJFrankie, photogee, Malik, PeterE, esewilliams, LordKizzy, Zainab",
+        "purpose": "Marketing Guild weekly meeting",
+        "workingDocs": [
+          {
+            "title": "Marketing Review Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Guild Distribution Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing"
+          },
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "title": "Q2/2025 R&D New Proposal Submission",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Insightful, welcoming, progressive, relaxed, collaborative",
+        "topicsCovered": "Q2 2025 budget, Initiatives,  Budget Allocation,  Zealy sprints"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Jeffrey to put a comment in the Marketing Guild channel on Discord to help us identify him.",
+              "status": "todo",
+              "assignee": "Jeffrey",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "text": "LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG",
+              "status": "todo",
+              "dueDate": "11 April 2025",
+              "assignee": "LordKizzy"
+            },
+            {
+              "text": "Eric Davies to provide clarity on the options for the Discord bot in the next meeting.",
+              "status": "todo",
+              "assignee": "Eric Davies",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "status": "todo",
+              "text": "Martinsoki to put all the action items for review in next call",
+              "dueDate": "11 April 2025",
+              "assignee": "martinsoki"
+            },
+            {
+              "text": "Ese to document all Q1 useful links into our Github Issue Board",
+              "status": "todo",
+              "assignee": "esewilliams",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "text": "Photogee to share the Marketing Guild Google Drive to LordKizzy",
+              "status": "todo",
+              "assignee": "photogee",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "text": "All members to review the governance documents and provide comments before the next meeting.",
+              "status": "todo",
+              "assignee": "members",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "text": "LordKizzy to execute the March payment status poll to finalize decisions on budget allocations.",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "11 April 2025"
+            },
+            {
+              "text": "LordKizzy to clarify the benefits of the Zealy initiative to improve understanding among members.",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "11 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction of New member: The discussion began with a warm greeting from Ayo. Zainab shared her experiences around the program and also introduce herself. Marttinsoki apologized for submitting the Meeting Summary note late.",
+            "Q1 Retrospective Discussion: LordKizzy highlighted the Guilds achievements but pointed out communication gaps with other guilds and workgroups. He stressed the importance of increasing awareness of the content calendar and the Ambassador program's processes. CJFrankie raised concerns about the ambassador program's effectiveness, suggesting a reduction in meetings and a focus on marketing initiatives. He emphasized the importance of community engagement through events and branded merchandise to raise awareness. CJFrankie also mentioned the potential for fundraising efforts, such as GoFundMe, to support these initiatives. Kareem emphasized the need for the Marketing Guild to create greater awareness about SingularityNet and its projects, arguing that current activities are too meeting-centric with limited outcomes. He suggested leveraging trends in the Web3 space for relevant content creation. Ayo questioned the implementation of marketing strategies, particularly regarding the roles of writers and video workgroups, while also noting that the ambassador program may not fully recognize its marketing responsibilities. Kareem suggested that the Ambassador Program might adopt new practices based on his experience. LordKizzy pointed out that the program's fixed allocation in agents creates challenges, particularly when the token price fluctuates, impacting the overall effectiveness of the program. He noted the absence of a supervisory council to address these issues and mentioned that many guilds are struggling due to the current funding structure.",
+            "Q2 Budget Discussion: LordKizzy pointed out the concerning low participation in a recent consent form from marketing guild members, which raises questions about engagement and involvement in critical decisions. He also mentioned that there are still some objections that need to be addressed, with the first one being related to the Zealy initiative. LordKizzy provided clarity on the Zealy Initiative and Zealy Impact. LordKizzy discussed the marketing group's budget for Q1 2025, revealing that expenses exceeded the planned budget by $1,100. He emphasized the difficulties arising from the low token price, which affects the distribution of rewards to the core/task force members and the execution of various initiatives. A proposal was made to revert to previous allocation rates to manage the financial strain. Kenichi highlighted ongoing issues with Zealy participants not receiving their rewards, while LordKizzy pointed out the lack of a public announcement detailing who was to be rewarded. LordKizzy stated that payments had been made twice, but confusion over account verification and duplicate names complicated the process. Both speakers agreed on the need for clearer communication and a more organized approach to reward distribution. Ayo called for finalizing the governance document to improve decision-making and budgeting processes, and Martisoki was encouraged to gather action items for review in the next meeting, with a reminder for Guild members to arrive early for enhanced productivity."
+          ]
+        }
+      ]
+    }
+  ],
+  "70cabb54-afd7-4b59-a8ab-3a62a34d83b5": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-11",
+        "host": "Ayo",
+        "documenter": "martinsoki",
+        "peoplePresent": "kareem, kenichi, Gorga Siagian, Eric Davies, Kateri, advanceameyaw, UknowZork, Jeffrey Ndarake, SubZero, CJFrankie, photogee, Malik, PeterE, esewilliams, Max Milez, LordKizzy, Udoma Obu",
+        "purpose": "Marketing Guild weekly meeting",
+        "workingDocs": [
+          {
+            "title": "Marketing Review Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Guild Distribution Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing"
+          },
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "title": "Q2/2025 R&D New Proposal Submission",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform"
+          },
+          {
+            "title": "R&D New Proposal Submission [Template]",
+            "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+          },
+          {
+            "title": "Governance Document For Marketing Guild",
+            "link": "https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing",
+            "title": "Workgroups >< Wider ecosystem collaboration"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=drivesdk",
+            "title": "ROLES AND RESPONSIBILITIES FOR MARKETING GUILD."
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "informative,  insightful,  Collaborative",
+        "topicsCovered": "Governance document, Proposals"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "LordKizzy to reach out to kenichi regarding the Zealy initiative allocation for Writers WG",
+              "status": "todo",
+              "dueDate": "4 April 2025",
+              "assignee": "LordKizzy"
+            },
+            {
+              "text": "Eric Davies to provide clarity on the options for the Discord bot in the next meeting.",
+              "status": "todo",
+              "assignee": "Eric Davies",
+              "dueDate": "4 April 2025"
+            },
+            {
+              "text": "Ayo to share the governance document for review in the next meeting.",
+              "status": "todo",
+              "assignee": "Ayo",
+              "dueDate": "18 April 2025"
+            },
+            {
+              "text": "Kenichi to share a document related to event role and playbook for hosting Twitter spaces in the next meeting.",
+              "status": "todo",
+              "assignee": "kenichi",
+              "dueDate": "18 April 2025"
+            },
+            {
+              "text": "Lordkizzy to add suggestions to the collaboration document shared in the chat.",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "18 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Ayo kicked off the Marketing Guild call, welcoming attendees. Noticing the low turnout, he considered holding off a bit to see if more members would join. He encouraged everyone to show up a little earlier for future meetings.",
+            "Review of Action Items and Governance Document Discussion: Ayo led a review of the action items from the previous meeting, confirming that while some tasks had been completed, others remained outstanding. LordKizzy noted that there had been no response to a proposed call with representatives from the writers and marketing groups. Ayo emphasized the importance of reviewing the governance document and encouraged all present members to actively participate in the discussion.",
+            "Attendance Policy Discussion: Ayo brought up concerns regarding the attendance policy, particularly the rule imposing penalties on members who miss four consecutive meetings. Lordkizzy clarified that core members are expected to attend and engage actively, with consequences for missing more than two meetings within a single month. Peter questioned the significance of the distinction between consecutive and monthly absences, suggesting that the proposed penalties might need reconsideration.",
+            "Governance Discussions and Attendance Metrics: Ayo initiated a conversation around the governance documents, suggesting that if consensus couldn't be reached, a dedicated focus group could be formed to conduct a thorough review. Photogee raised concerns about using attendance as a primary performance metric, arguing that it doesn't necessarily reflect the value or impact of members' contributions. Ayo acknowledged the difficulties in the current decision-making process and invited suggestions on how to enhance member commitment and encourage more consistent feedback.  Kenichi emphasized the importance of developing a living governance document-one that evolves alongside the guild's goals and incorporates community input through tools like Discord polls. He proposed that any modifications to the document be put to a vote, ensuring transparency and collaborative decision-making. Ayo raised the question of whether to move forward with the current version or integrate suggested changes, stressing the need for clarity in how such decisions are made. Ayo spoke on the importance of commitment within the Marketing Guild, emphasizing that the guild's vitality depends on consistent, active participation-not just maintaining a channel. He noted the lack of recent discussion around the Governance Document and proposed three potential paths forward: moving ahead with the current version, continuing broader discussions, or forming a focus group for deeper evaluation. Ayo also addressed concerns related to payment decisions, highlighting their possible influence on member performance and engagement. Ayo highlighted how late arrivals disrupt meeting flow and urged members to inform the group in advance if they're unable to attend. Lordkizzy echoed the importance of regular meetings for maintaining accountability, noting that they foster direct communication and help clarify each member's level of commitment. He also observed that past efforts to engage members outside of scheduled meetings had proven less effective. Kenichi raised concerns about the current governance process and proposed improvements to the voting documentation, suggesting Discord as a platform for better tracking and transparency. Ayo welcomed the suggestions and reiterated the importance of punctuality to ensure productive discussions during meetings. He also emphasized the value of gathering input from members who are unable to attend, to ensure broader participation in decision-making. Lordkizzy opened a discussion on Peter's document, emphasizing its importance and the need to cover key topics such as attendance policies and budget planning. He presented a spreadsheet detailing current collaborations and encouraged members to contribute ideas to strengthen marketing efforts. Kenichi recommended raising awareness for guild projects and proposed the creation of dedicated funding pools to support targeted initiatives."
+          ]
+        }
+      ]
+    }
+  ],
+  "312bb2b9-e59b-43b8-9d65-1c181cb77149": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-18",
+        "host": "Ayo",
+        "documenter": "martinsoki",
+        "peoplePresent": "kareem, kenichi, Eric Davies, Kateri, UknowZork, SubZero, photogee, esewilliams, LordKizzy, AJ, Évéline Trinité",
+        "purpose": "Marketing Guild weekly meeting",
+        "workingDocs": [
+          {
+            "title": "Marketing Review Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1Yycqsncnq7PK0zdfej_uqtEB4GZQQ0d_a1ZDyp7ABUs/edit?usp=sharing"
+          },
+          {
+            "title": "Marketing Guild Distribution Sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1BCxm7OateG6m8JhMORU9LXAvgO2aDgZsZbpSQwhuiPk/edit?usp=sharing"
+          },
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "title": "Q2/2025 R&D New Proposal Submission",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSf1RXR5kSfpGzQdm5si1yJzBONYzafhTcDWhYuTJoPq7nInLg/viewform"
+          },
+          {
+            "title": "R&D New Proposal Submission [Template]",
+            "link": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+          },
+          {
+            "title": "Governance Document For Marketing Guild",
+            "link": "https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing",
+            "title": "Workgroups >< Wider ecosystem collaboration"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=drivesdk",
+            "title": "ROLES AND RESPONSIBILITIES FOR MARKETING GUILD."
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "insightful,  Collaborative,  Satisfaction",
+        "topicsCovered": "Governance document,  Budget Proposals"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Ese Williams to schedule a follow-up call to discuss payment for Eric Davies and Photogee.",
+              "status": "todo",
+              "assignee": "esewilliams",
+              "dueDate": "25 April 2025"
+            },
+            {
+              "text": "Lordkizzy to present the graphics team's new structure and KPIs in the next meeting.",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "25 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Ayo kicked off the Marketing Guild call, welcoming attendees. Noticing the low turnout, he considered holding off a bit to see if more members would join.",
+            "Quorum Discussion and Updates: The discussion centered on the importance of establishing a quorum for future meetings, noting that sessions with low attendance risk being unproductive. Martinsoki suggested setting a minimum attendance threshold to determine whether meetings should proceed-a proposal that was well-received by others. Acknowledging that they currently lacked quorum, the group debated whether to continue or postpone the meeting. Members were encouraged to share updates that didn't require consensus, underscoring the need for clearer attendance and decision-making protocols going forward.",
+            "Updates on Proposals and Budget Discussion: Lordkizzy shared updates from his conversations with Kenichi regarding the Zealy project, with EricDavies noting the lack of feedback on the proposal. He emphasized the importance of clearly defining the graphics team's responsibilities, with some input from CJFrankie expected next week. Lordkizzy also stressed the need to adjust Q2 rewards in light of the current token price.",
+            "Updates on Twitter Spaces Document: Kenichi discussed a document he is developing to support the creation of Twitter databases, which he believes will aid growth efforts, despite facing technical difficulties. He proposed leveraging Twitter spaces to enhance the visibility of the Singularity Ambassador program and engage a wider audience.",
+            "Updates on Governance document: Ese Williams raised concerns about unpaid payments for Eric Davies and Photogee, suggesting a separate call to address the issue. Ayo noted the difficulty of making decisions without a quorum, emphasizing the need to adopt formal governance documents. The discussion also highlighted the importance of improving communication and collaboration within the Marketing Guild. Discussion on Core Member Rewards and Deliverables: Ayo emphasized the need to define core member value before addressing reward adjustments. Kareem noted that reduced funding for the graphics team would require scaled-back deliverables across all teams.  Discussion on Attendance, Rewards, and Quorum: The discussion focused on the importance of establishing a quorum for meetings, especially as attendance has declined due to reduced rewards. Concerns were raised about how the current token price limits fair reward distribution. Suggestions included adjusting the number of members and how rewards are allocated to address past complaints."
+          ]
+        }
+      ]
+    }
+  ],
+  "0b83a9b7-eca4-4e3f-8457-67cf5d4e4b27": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-04-15",
+        "host": "Tevo",
+        "documenter": "Évéline Trinité",
+        "peoplePresent": "Tevo, Gorga Siagian, Évéline Trinité, advanceameyaw, Jeffrey Ndarake, Effiom",
+        "purpose": "AGGREGATING AMBASSADOR PROGRAM ASSETS AND RELEVANT INFORMATION UNDER GITBOOK",
+        "miroBoardLink": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764622431858027&cot=10",
+        "workingDocs": [
+          {
+            "title": "Dework",
+            "link": "(https://app.dework.xyz/singularitynet-ambas/process-guild)"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "agendaItems": [
+        {
+          "agenda": "WORKGROUP MANAGEMENT",
+          "status": "resolved",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Daniel Effiom to draft Q2 progress report.",
+              "assignee": "Effiom"
+            },
+            {
+              "text": "Gorga to review Q2 Progress report.",
+              "status": "todo",
+              "assignee": "Gorga Siagian"
+            },
+            {
+              "status": "todo",
+              "text": "Eveline to draft Meeting summary",
+              "assignee": "Évéline Trinité"
+            },
+            {
+              "text": "Gorga to review meeting summary",
+              "status": "todo",
+              "assignee": "Gorga Siagian"
+            },
+            {
+              "text": "Daniel Effiom and Tevo lead to collect the assets",
+              "status": "todo",
+              "assignee": "Tevo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Recognise Knowledge Base WG contributions using Github",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Dework Task Management",
+            "Who will collect assets?"
+          ]
+        },
+        {
+          "agenda": "REVIEW KNOWLEDGE BASE GITBOOK",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Create a short (2min) video Tutorial on how to use Gitbook."
+            },
+            {
+              "text": "Create a short summary about the Knowledge Base approach for organising GitBook.",
+              "status": "todo"
+            },
+            {
+              "text": "Tevo to update Miro Board Colours to match with the new asset visibility status on GitBook",
+              "status": "todo",
+              "assignee": "Tevo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Focus on improving the guiding Knowledge Base users",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "What is the Knowledge Base GitBook useful for?",
+            "The Knowledge Base GitBook serves as a structured repository for storing key assets and information, enabling better coordination in a decentralized environment. It helps establish a commonly understood source of truth, ensuring alignment and accessibility across contributors.",
+            "The Knowledge Base GitBook is for searching general information about the Ambassador Program and understanding how contributors are engaging with current projects.",
+            "While the initial Miro Board layout helped visualise content types and identify gaps, the transition to GitBook has made it difficult to compare the coverage of questions.",
+            "Is there something that should be there that isn't there?",
+            "Is there a link that should be removed?",
+            "Is anything unclear or confusing?",
+            "Can you think of 'why' or 'how' questions that you would like to know about the Ambassador Program in the KB structure?",
+            "Do you use 'Knowledge Bases' often?",
+            "Decentralised organisations seem to use Knowledge Bases more often"
+          ]
+        },
+        {
+          "agenda": "REVIEW AND UPDATE END TO END KNOWLEDGE BASE UPDATE PROCESS",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Create a video showing and explaining the steps in the Organising Process"
+            },
+            {
+              "text": "Check back on the last meeting before Q3 submission if we benefit from having built in onboarding features used by our Organising GPT to help contribute to workgroup",
+              "status": "todo"
+            },
+            {
+              "text": "Check back on the last meeting before Q3 submission if we benefit from updating the Miro Board Organising Resources View (as now its directly done in Google Sheet using [KB GPT](https://chatgpt.com/g/g-5ynQ4fAv6-ambassador-program-knowledge-base-wg-ai-organiser))",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "This quarter, we will collect material without templates and publicity, but collect information that the selected leads choose to add to GitBook",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that short tutorial videos will be created by members of the Knowledge Base Workgroup who are both willing and familiar with the content. If additional support is needed, we'll follow the [Video Workgroup's commissioning process](https://snet-ambassadors.gitbook.io/home/workgroups-space/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup) to request assistance."
+            }
+          ],
+          "discussionPoints": [
+            "Reviewed Knowledge Organising Process",
+            "(New [Miro Board Window](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764624239502493&cot=10))",
+            "Should we create templates and publicity material?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Gitbook, Miro Board, Dework, Q2 Progress report, Video Tutorial, Summary, Github, knowledge base",
+        "emotions": "Collaborative, Businesslike."
+      }
+    }
+  ],
+  "454ba70a-19af-4788-8320-60aaf3a1bd5c": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-09",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "AshleyDawn, frosh, Gorga Siagian, UKnowZork, Zalfred, hogantuso",
+        "purpose": "Greetings after holidays - Updates from presentation series - LLM Showcase - Process Doc for certification program - token price impact and move forward",
+        "workingDocs": [
+          {
+            "title": "Process Document Certification Program",
+            "link": "https://docs.google.com/document/d/1_K0XyElxmG4FDrZGr9QCX-W5dwmBQAcszfMaLk45J-8/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "meetingTopics": [
+            "Updates from presentation series",
+            "LLM Showcase",
+            "Process Doc for certification program",
+            "token price impact and move forward"
+          ],
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Zalfred and Tuso to work upon the research task",
+              "assignee": "Zalfred, hogantuso",
+              "dueDate": "16 April 2025"
+            },
+            {
+              "text": "Update the process doc",
+              "status": "in progress",
+              "assignee": "Slate",
+              "dueDate": "16 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "The meeting started with Slate welcoming everyone and having a bit of topic discussion on holidays",
+            "Then showcased his work on the presentation that he is almost done with the module 2 and sent and showcased the links to the research work",
+            "Slate made some comments on the research work, to which gorga will make additions",
+            "Then zalfred chipped in that he is working on the presentation series module #3",
+            "After that Slate showcased the new version of gemini which is capable of doing good work and can be beneficial to use for educational purposes",
+            "Moving forward in the meeting the topic about the certification program process document started which was presented and inputs were taken and processes were explained",
+            "Two research task were distributed to Zalfred and Tuso",
+            "Zalfred raised a question on how to proceed with the token price fluctuation , on which Slate replied that we can take one project at a time to make things continue with flow without much impact on the budget"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "updates, Certification program, LLM development, newtools",
+        "emotions": "Collaborative,  Collaborative, Businesslike."
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "e1ffd2db-1eba-445f-9a8c-7b7a252bb956": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-16",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "kenichi, osmium, esewilliams, Zalfred, hogantuso, eve, AshleyDawn, Malik, Gorga Siagian",
+        "purpose": "CCCP Discussion - Presentation Series Discussion - Malik Presentation From Gamers Guild"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "assignee": "Slate",
+              "text": "Work upon Portfolio Forms",
+              "dueDate": "23 April 2025"
+            },
+            {
+              "status": "in progress",
+              "text": "Work upon Modules",
+              "assignee": "Gorga Siagian, Zalfred",
+              "dueDate": "23 April 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting started off with the discussion on the last week topic of Certification Program, and its process document .",
+            "Two platforms are being discovered: Canvas LMS and Moodle, which are being done by zalfred and tuso respectively.",
+            "Slate outlined the process of getting information regarding the portfolio's and other materials for the selection of creators.",
+            "Then the discussion on Presentation Series project started, with the discussion on module 2 and 3 which are being worked by zalfred and gorga , still some modifications required in both",
+            "Ese had some question for kenichi in regards to the presentation series :  'So this would be updated overtime? Cos we have knowledge bank of SingularityNet everywhere. So why should we use the presentation for every event knowing fully well every event have their theme, focus, and even pattern. How then would we be able to use it'",
+            "These questions were answered by Kenichi",
+            "Then Malik presented the Gamers Guild presentation of Education Guild which was liked and approved, with a little modification/ addition of certified tag on the NFT section"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "ACP, Google Classroom, proceses,  Budget Allocation"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "386095e0-bbe5-405c-b48a-2e1fc02a36ee": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-04-23",
+        "host": "Slate",
+        "documenter": "Slate",
+        "peoplePresent": "esewilliams, frosh, Gorga Siagian, LordKizzy, osmium, smilez, Zalfred, hogantuso, UKnowZork",
+        "purpose": "module adjustments - Zalfred Presentation on Canvas LMS - portfolio form"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Slate to share the form",
+              "assignee": "Slate",
+              "dueDate": "24 April 2025"
+            },
+            {
+              "text": "Zalfred to work upon the research module",
+              "status": "in progress",
+              "assignee": "Zalfred",
+              "dueDate": "30 April 2025"
+            },
+            {
+              "text": "Tuso to work upon the research task",
+              "status": "in progress",
+              "assignee": "hogantuso",
+              "dueDate": "24 April 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Canvas LMS seems like a good option for CCCP",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Most agreed",
+              "opposing": "nil"
+            }
+          ],
+          "discussionPoints": [
+            "Slate started the meeting welcoming everybody",
+            "Then after the welcome the meeting shifted to discussing the topic of the updates which were suggested to Gorga's presentation on DeepDive Ecosystem, which covered the addition of AI marketplace interaction and how to work with it",
+            "Afterwards this Zalfred presented his presentation on Canvas LMS platform , which according to the feedback felt really nice for the hosting of CCCP as it offers most of the feature that we are looking for and seems like a best fit",
+            "Tuso mentioned that he will be working on his presentation this week and will present in the next",
+            "Zalfred mentioned that he is going to be awaiting kenichi's reply on the adjustment that are needed to be made on the presentation series",
+            "At the end Slate shared the portfolio form on which discussion was held asking for improvement points and others, the form will be shared with everyone to participate by tomorrow"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "projects, CCCP,  research"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "14821a26-7387-404e-895f-4353535a164c": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Sandbox",
+        "date": "2025-04-10",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "Gorga Siagian, Kateri, martinsoki, Santos, LordKizzy, AJ, advanceameyaw, CollyPride, Jeffrey, Shalini",
+        "purpose": "AI Sandbox Project Showcase",
+        "mediaLink": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj",
+        "workingDocs": [
+          {
+            "title": "NuNet Application Form",
+            "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+          },
+          {
+            "title": "Approval Form to Join Organisation(s) and approval for the Wormhole Key",
+            "link": "https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true"
+          },
+          {
+            "title": "Blueprint for AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+          },
+          {
+            "title": "Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+          },
+          {
+            "title": "THINK PIECES/ FEEDBACK FORM",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+          },
+          {
+            "title": "AI SANDBOX/THINKTANK",
+            "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing",
+            "title": "AI SANDBOX/THINK-TANK Session #22"
+          },
+          {
+            "title": "Skills Database",
+            "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Members to submit their email to NuNet testers onboarding form",
+              "status": "todo",
+              "dueDate": "17 April 2025",
+              "assignee": "all"
+            },
+            {
+              "text": "Lordkizzy to inform the NuNet team about updates to the onboarding form.",
+              "status": "todo",
+              "dueDate": "17 April 2025",
+              "assignee": "LordKizzy"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction of New member: The discussion began with a warm greeting from LordKizzy. Lordkizzy addressed the group regarding the Unix testers onboarding form, noting complications with the Unix team's email communication. He urged participants to complete the onboarding form for NuNet appliances. He also gave reminders about the ASI form shared in a previous town hall.",
+            "Intellectual Property and AI Ethics Discussion: The session, led by Lordkizzy, focused on the intersection of intellectual property and AI ethics, fostering open dialogue among participants. Key concepts associated with AI ethics-such as equity, fairness, and responsibility-were highlighted by Advance and Gorga. The group participated in a poll on whether AI models should hold intellectual property rights for their generated content, which yielded a range of differing opinions. Discussion on AI Ownership and Intellectual Property Rights: The conversation further explored the issue of AI ownership and intellectual property rights, some participants argued that such rights should belong to the humans who create and operate AI systems, emphasizing that AI lacks agency and intent. Gorga added that ownership implies emotional and social dimensions-qualities machines do not possess. Discussion on Credit Attribution in AI Development: The group expressed varied perspectives on the legal and ethical implications of AI-generated content. Advanceameyaw emphasized the importance of proper credit attribution in AI development. He noted that while AI models like ChatGPT often receive significant public attention, the contributions of the developers behind these technologies frequently go unrecognized. LordKizzy agreed that credit should be context-dependent, taking into account the roles of both developers and data owners in the success of AI systems.  Discussion on AI Creation and Ownership: Lordkizzy led the conversation into the philosophical dimensions of AI as a product of human creation, with its roots traced back to divine creation. The ownership of AI outputs and the broader implications of AI's existence in relation to God were debated. Lordkizzy acknowledged the complexity of the topic and invited further contributions from other participants in the conference room to continue the discussion. Exploring the Value of AI in Creative Works: Advanceameyaw articulated the distinction between human creativity and AI, suggesting that while human work is authentic, AI operates through simulation. CollyPride added that the embodiment of AI in robotics could help bridge the gap between synthetic and real-world applications. Lordkizzy supported the idea that AI-generated art should not be viewed as less valuable than human-created art, as both forms can contribute meaningfully to the creative landscape. Consequences of Assigning Rights to AI: The conversation, initiated by Lordkizzy, centered on the potential consequences of granting rights to AI, particularly in relation to intellectual property. Concerns were raised by a participant regarding the autonomy of AI without human oversight and the necessity of a universal reputation system to ensure accountability. Lordkizzy highlighted the challenge of determining responsibility for AI's actions, stressing the need for clearer legal frameworks and enforcement mechanisms."
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Welcoming, Interactive, Educative,  Collaborative",
+        "topicsCovered": "NuNet appliance release update, Intellectual Property and AI Ethics"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "7e8c65cd-2af4-4313-8e00-26dab7c1a3d0": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Sandbox",
+        "date": "2025-04-03",
+        "host": "osmium",
+        "documenter": "Kateri",
+        "peoplePresent": "Gorga Siagian, Kateri, osmium, martinsoki, UknowZork, Alfred Itodole, Santos, LordKizzy, AJ, Max milez, AshleyDawn, PeterE",
+        "purpose": "AI Sandbox Project Showcase",
+        "mediaLink": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj",
+        "workingDocs": [
+          {
+            "title": "NuNet Application Form",
+            "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+          },
+          {
+            "title": "Approval Form to Join Organisation(s) and approval for the Wormhole Key",
+            "link": "https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true"
+          },
+          {
+            "title": "Blueprint for AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+          },
+          {
+            "title": "Roadmap of  AI SANDBOX/THINK TANK",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+          },
+          {
+            "title": "THINK PIECES/ FEEDBACK FORM",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+          },
+          {
+            "title": "AI SANDBOX/THINKTANK",
+            "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing",
+            "title": "AI SANDBOX/THINK-TANK Session #22"
+          },
+          {
+            "link": "https://docs.asi1.ai/docs/",
+            "title": "ASI 1"
+          },
+          {
+            "title": "Skills Database",
+            "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.canva.com/design/DAGjUEuDhOI/r1ZAFI83jCVphhX0FGOARw/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1743970482287400%26amp;usg%3DAOvVaw2BDrGTTvSD_ZK8sXwC1eBs&sa=D&source=docs&ust=1743970482296036&usg=AOvVaw1ySkvR7ymAYC13tQQUS_Uj"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "MartinSoki to document the next meeting",
+              "status": "todo",
+              "assignee": "martinsoki",
+              "dueDate": "10 April 2025"
+            },
+            {
+              "text": "Members to submit their email to NuNet testers onboarding form",
+              "status": "todo",
+              "dueDate": "10 April 2025",
+              "assignee": "all"
+            },
+            {
+              "status": "todo",
+              "dueDate": "9 April 2025",
+              "text": "Members to fill out the skill database project form",
+              "assignee": "Members"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination and Introduction: The meeting kicked off with Osmium, warmly welcoming everyone attendees in the meeting.  He encouraged members to submit their email on NuNet Testers Onboarding Form. Osmium presented the AI Sandbox Project Showcase, emphasizing its role as a play for highlighting innovative AI projects from SingularityNet community.",
+            "Introduction of the Skills Database (SDB): AJ gave a full presentation of the skill database. He explained that, the skill database is a structured skill registry designed to streamline team collaboration and that it enables users to provide their skills, expertise, availability and relevant experience.   He went further to talk about use cases of the skills database He said it could be used in real world scenarios, corporate team building, freelance and Gig platforms, organizations and educational institutions.  He also explained the potential impact and benefits. He explained how it helps enhance collaboration, it informed decision making, it streamlined onboarding and it assured data privacy.   He explained the flow of the user and the admin in the skill database platform.",
+            "After AJ presentation, Advanceameyaw led a live testing session for the AI project, encouraging user participation and feedback while maintaining data privacy. He discussed the project's first version and future updates, engaging participants in conversations about their skills and interests in AI. We tested using random data of UknowZork suggested by members. He encouraged everyone to fill the form.  Advanceameyaw detailed the technology stack used for the project and outlined the process for redeploying the application to identify and debug errors.  Advance highlighted key challenges for developers and mentioned ongoing improvements, including a scalable deployment service. Vasu suggested integrating scheduling tools like Zapier and Google Calendar to enhance workflow efficiency. The discussion also touched on budget constraints, with Lordkizzy emphasizing the need to trim expenses and potentially reduce the frequency of AI tool exhibitions."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Project Showcase, Skill Database",
+        "emotions": "Welcoming, Interactive, Informative, Educative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "f1543bfc-e860-4a0c-a1ed-f8e5ca3d319a": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2025-04-10",
+        "host": "Duke",
+        "documenter": "Kateri",
+        "peoplePresent": "Duke, CJFrankie, esewilliams, Kateri, UKnowZork, Jeffrey Ndarake",
+        "purpose": "Bi-weekly meeting of the African Guild",
+        "workingDocs": [
+          {
+            "link": "https://t.me/+NzN4KY30apI5Y2M0",
+            "title": "SingularityNET Africa Community"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1fygdMec6JD2j1KJYBdPi9WhpbjqpibK14GX49OmTYgw/edit?tab=t.127y5qorgs7x#heading=h.dgwohtz6gi0c",
+            "title": "WG Communication"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Introduction: The weekly meeting kicked off with a warm welcome from Duke. Before we got into the main agenda, he had a quick chat with us about the current drop in AGIX price and how we don't have any reserves to fall back on at the moment. We also went over the summary notes from the last meeting, it was great but a few corrections were spotted and sorted out.  Budget and Budgeting: Duke shared that our budget has been approved, but the AGIX price drop is becoming a real concern. He mentioned that last quarter we got 9,500 AGIX, which was around 5,220 USD and because of the token price, we're working with just 2,850 USD this quarter at the same 9,500 AGIX, noting that it's way below what we were hoping for.  Budget Discussion: We had a quick discussion on how to move forward this quarter with the current AGIX market price. Duke mentioned that we're already on biweekly meetings, which aren't as effective as weekly ones. Monthly meetings were also mentioned but was not considered   CJ brought up a suggestion from the Writer Workgroup. He shared that they've started paying in AGIX instead of USD and have cut out some of the more interesting and interactive tasks to stay within budget. Duke acknowledged it as a good idea, but also pointed out that this method pushes the risk of price fluctuations onto individuals.  Pending Tasks: Duke also reminded us that we still have some unpaid tasks from Q1 that, we initially agreed to hold off on payments until AGIX went back up, but here we are in a new quarter, and the token price is still down. If we decide to pay out now, it'll eat way into out Q2 budget   We suggested four possible options to handle this: 1. Pay all pending tasks now and work with whatever is left. 2. Pay only half of the amount owed. 3. Pay the pending tasks in USD and new ones in AGIX. 4. Pay out everything in AGIX.  Duke stressed the need for some quick math and budget readjustments. To move forward, an urgent focus group meeting will be held, and it's open to anyone interested in being part of the discussion.",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "dueDate": "24 April 2025",
+              "text": "Host a focus group meeting to decide how to settle pending Q1 tasks and do the necessary readjustments.",
+              "assignee": "all"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Q2 Budget decision , Collaboration, Documentation, Ambassador program, community manager, Pending rewards , Budget",
+        "emotions": "Collaborative, Businesslike."
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "22ba2cc1-ad19-4f5f-8eed-51a0e3a84c0b": [
+    {
+      "workgroup": "Writers Workgroup",
+      "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-03-21",
+        "host": "kenichi",
+        "documenter": "CJFrankie",
+        "peoplePresent": "kenichi, Mikasa, CJFrankie, Gorga Siagian, devon, Evelyn, inesgav, LadyTempestt, AJ",
+        "purpose": "The weekly meeting of the writers workgroup",
+        "workingDocs": [
+          {
+            "title": "Writer Draft Submission Form",
+            "link": "1FAIpQLSethRUYdbTEJoKv7nPu8APhf6ECpRtwhN23TOzYrIBA9vLALQ"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1p76mxmbZp3raZixJwQnlsvg7kCyGjBYFvHHLWk9OwfA/edit?usp=sharing",
+            "title": "WWG Role Document V1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Kick-off: The writers' workgroup weekly meeting commenced at 3:10 p.m. Kenichi reviewed the action items from the previous meeting. He announced that the Twitter premium plan had been activated and that the monthly Town Hall updates from January would be the first publication on X. Furthermore, he stated that the Web3 publishing platforms require additional attention and, to that end, requested that Cj Frankie and Gorga submit their first drafts.  DRAFTS: As agreed in the previous meeting, article suggestions will now be submitted via spreadsheet. In this meeting, Kenichi demonstrated the new draft submission form, which streamlines the process. Writers can now suggest articles, include submission and preferred publication dates, and provide other relevant information. The form's integration with a Google Sheet simplifies tracking for the workgroup. Ines also recommended considering tools like Trello to further enhance workflow. Both Scribblers and Scribes will have access to the submission form. Once a draft is approved, the Scribes will submit it to the community page. Kenichi will coordinate with Peter to pin the form link to the WWG Discord channel for easy access.  Role document: Ines inquired about the new role document and its associated thresholds. Kenichi clarified that the document will be accessible this Quarter, and there will be no penalties for not meeting any outlined expectations. The document's purpose is to track Scribblers' progress over time, enabling the workgroup to make informed decisions, such as whether or not to onboard new members.  Ambassador Program website: In this meeting, Ines proposed the idea of creating a platform or WordPress for the workgroup, where all information about what we do can be easily accessed. Kenichi then revealed that he is collaborating with the R&D guild to develop an Ambassador Program website, which will house comprehensive information about all workgroups, each of which will have a dedicated page with updated access.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "dueDate": "28 February 2025",
+              "text": "Kenichi to chase Peter to pin the draft submission form in the WWG Discord channel.",
+              "assignee": "kenichi"
+            }
+          ],
+          "learningPoints": [
+            ""
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Ambassador Program website, R&D guild, Twitter/X Premium, article submission form, roles",
+        "emotions": "Brief"
+      }
+    }
   ]
 }
