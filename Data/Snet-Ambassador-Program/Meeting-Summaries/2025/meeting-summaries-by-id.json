@@ -675,7 +675,7 @@
         "date": "2025-02-04",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, guillermolucero, AshleyDawn, Sucre n Spice, évéline trinité, hogantuso, advanceameyaw, LordKizzy",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, évéline trinité, guillermolucero, hogantuso, LordKizzy, PeterE, Sucre n Spice",
         "purpose": "Weekly Governance WG meeting",
         "workingDocs": [
           {
@@ -696,10 +696,12 @@
         {
           "status": "carry over",
           "narrative": "We agreed the following timeline for the Q2 budget consent process:  🌟 Thurs 6th March - deadline to confirm what the budget caps are for Q2 (in Open Gov meeting?) and the exhange rate to be used for calculating budgets 🌟 Mon 10th March: deadline for WGs to submit Q1 quarterly reports and Q2 budgets. Also - calculate who is a Core Contributor 🌟 Mon 17th March: deadline for Core Contributors to complete consent forms 🌟 Tues 18th March: discuss objections in Gov WG meeting. WGs without any objections are approved 🌟 Sun 23rd March: deadline for WGs with objections to submit a revised budget 🌟 Mon 24th March: 2nd-round consent forms go out, for those WGs that have objections 🌟 Weds 26th March: deadline for Core Contributors to submit 2nd consent forms 🌟 Thurs 27th March: discuss and finalise in Open Gov meeting  We have the dates for Q3 decision (June) and Q4 decision (Sept) worked out on a similar timeline; but we agreed to confirm these nearer the time. We also noted that for Q3, Guillermo/R&D's proposed dashboard will be ready, which might help streamline the decisionmaking process and shorten the timeline.  RE: setting an exchange rate to be used for Q2 budgets - we noted the current low token price, and suggested $0.35, but noted that the final decision doesn't need to be made until early March.  We discussed the suggestions in the 'Budget Caps for Q2' document, and decided our approach to the New Ideas budget; new workgroups; and budget cap amounts (see 'decisions' below).  In relation to budget caps - we emphasised that any WGs who feel their cap is too low need to prioritise, and there are not many WGs who have outputs that need to be protected regardless. WGs should also be encouraged to use their Q1 quarterly report to explain any negative effects of their budget caps - for example, listing the work that they would have liked to do but have been unable to do because their budget cap was too low - so that the community can assess whether their cap needs to be raised. But we did note that this process is quite slow.  The lobger term suggestions in the 'Budget caps for Q2?' doc particularly around the idea of WGs establishing minimums below which they can't operate - will be discussed in a later meeting.",
-          "actionItems": [
-            {
-              "status": "todo"
-            }
+          "discussionPoints": [
+            "Dates for Q2 budget consent process.",
+            "What exchange rate should be used for calculating Q2 2025 budgets?",
+            "Will there be a New Ideas budget for Q2 2025?",
+            "Will new WGs be permitted for Q2 2025?",
+            "Q2 2025 budget caps - will they stay the same as Q1?"
           ],
           "decisionItems": [
             {
@@ -724,7 +726,8 @@
             {
               "decision": "We agreed that *independent* new workgroups with their own separate budgets will not be permitted in Q2; but new WGs *can* be created under the heading of an existing Guild, and costed within that Guild's budget cap.",
               "rationale": "Because this will give e.g. regional Guilds the freedom to start new initiatives as they need, within their existing budgets; but it will not require budget caps to be changed to allow budget for completely new WGs.",
-              "opposing": "Not an opposing argument, but it was suggested that for clarity we shouldn't call these new initiatives 'workgroups' as such, but just 'neew initiatives."
+              "opposing": "Not an opposing argument, but it was suggested that for clarity we shouldn't call these new initiatives 'workgroups' as such, but just 'neew initiatives.",
+              "effect": "affectsOnlyThisWorkgroup"
             },
             {
               "decision": "We agreed that budget caps will stay the same (in AGIX) for Q2 as they were for Q1.",
@@ -736,13 +739,6 @@
               "decision": "We agreed there needs to be some kind of context-setting or informational material for WGs to explain this need to use their Q1 quarterly reports to explain any issues with their budget caps. This will be discussed in a later meeting.",
               "effect": "mayAffectOtherPeople"
             }
-          ],
-          "discussionPoints": [
-            "Dates for Q2 budget consent process",
-            "What exchange rate should be used for calculating Q2 2025 budgets?",
-            "Will there be a New Ideas budget for Q2 2025?",
-            "Will new WGs be permitted for Q2 2025?",
-            "Q2 2025 budget caps - will they stay the same as Q1?"
           ]
         }
       ],
@@ -752,7 +748,9 @@
       },
       "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "ec99629f-b46c-4f58-8f5a-503d0093a651": [
@@ -993,7 +991,7 @@
         "date": "2025-02-11",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, AshleyDawn, Effiom, Tevo, évéline trinité, esewilliams, LordKizzy, guillermolucero, kenichi",
+        "peoplePresent": "AshleyDawn, CallyFromAuron, Effiom, esewilliams, évéline trinité, guillermolucero, kenichi, LordKizzy, PeterE, Sucre n Spice, Tevo",
         "purpose": "Weekly Governance WG meeting",
         "workingDocs": [
           {
@@ -1028,86 +1026,18 @@
             "title": "Ambassador Program Core Contributors criteria",
             "link": "https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing"
           }
-        ],
-        "timestampedVideo": {}
+        ]
       },
       "agendaItems": [
         {
           "status": "carry over",
           "narrative": "Low attendance at first, but people drifted in gradually.  We assigned some tasks RE the Q2 budget decision (publicity and context-setting material, admin such as drafting consent form, plus this WG's own budget and Q1 2025 report)  We discussed what context-setting material is needed, and realised that we need material aimed at WGs to help them formulate their reports and budgets, as well as https://docs.google.com/document/d/1fyZZLDqeeoDanbzyY7c9m7sy_hU5w9v5niuR4m521ms/edit?usp=sharing which is aimed at Core Contributors to inform them about the consent process.  We discussed how to fit the GovWG budget to our budget cap. We noted that because we have been operating close to the minimum level of activity that would be meaningful for the WG, there is not much room to make cuts. We are unwilling to reduce meetings, or to rely on Peter (who doesn't take payment) facilitating all meetings.  We also noted that this discussion has a bearing on the question of WG minimum budgets, as outlined in the 'Budget caps for Q2' discussion doc here https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing and we noted that the approach we decided on (using WG reserves to cover any shortfall, and stating on our budget sheet which items will be covered this way) is a useful approach and should be included in the guidance we are writing for other WGs.  We briefly discussed the 'DRAFT process for how to use the 'New Ideas' budget' doc, but noted that there was not time to fully cover the issue. We briefly discussed the merits of a voting process versus a consent process for agreeing proposals to use the New Ideas budget. We agreed the proposed process will be finalised in the next Governance meeting on Thurs 13th Feb; and once finalised, it will be submitted as a Treasury Policy.",
-          "actionItems": [
-            {
-              "status": "todo",
-              "text": "Guillermo to create a timeline graphic for the Q2 budget decision, and an infographic to remind WGs to submit their budgets and reports by the deadline of 10th March",
-              "dueDate": "18 February 2025",
-              "assignee": "guillermolucero"
-            },
-            {
-              "text": "Guillermo to create an infographic to remind Core Contributors to take part in the consent process",
-              "assignee": "guillermolucero",
-              "dueDate": "6 March 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Vani to adapt the existing Core Contributors' context-setting doc (https://docs.google.com/document/d/1fyZZLDqeeoDanbzyY7c9m7sy_hU5w9v5niuR4m521ms/edit?usp=sharing) for the Q2 process",
-              "assignee": "CallyFromAuron",
-              "dueDate": "18 February 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Vani to draft a second context-setting doc, aimed at WGs, giving guidance on writing their budgets and reports",
-              "assignee": "CallyFromAuron",
-              "dueDate": "18 February 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Peter to make a Discord post about the decisions that have already been made around the Q2 process (i.e. Budget caps will stay the same as for Q1; there WILL be a new ideas budget of 1,500 AGIX; there will be no new WGs with their own independent budgets) to ensure everyone knows",
-              "assignee": "PeterE",
-              "dueDate": "18 February 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Tevo to ensure that a new calculation on who is a core contributor is done by 7th March, to alloow time for people to be nominated before the consent forms open on 10th March. This calculation will be partially automated, and will be done using the revised criteria in the Ambassador Program Core Contributors criteria doc https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing",
-              "assignee": "Tevo",
-              "dueDate": "7 March 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Peter to update Discord tags to reflect any changes to who is a Core Contributor",
-              "assignee": "PeterE",
-              "dueDate": "10 March 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Kenichi to prepare the consent form for the Q2 budget decision, basing it on the one used for Q1 decision, and share it in the Governance meeting no later than Thurs 6th March",
-              "assignee": "kenichi",
-              "dueDate": "6 March 2025",
-              "status": "todo"
-            },
-            {
-              "text": "LordKizzy to draft a new sheet in the Budget Planner for Q2 2025, no later than 6th March",
-              "assignee": "LordKizzy",
-              "dueDate": "6 March 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Guillermo to draft the Q1 2025 quarterly report for GovWG and will bring it to a meeting to be signed off no later than 25th Feb",
-              "assignee": "guillermolucero",
-              "dueDate": "25 February 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Vani to finish drafting the Q2 2025 budget, and bring it to  ameeting to be signed off no later than 25th Feb",
-              "assignee": "CallyFromAuron",
-              "dueDate": "25 February 2025",
-              "status": "todo"
-            },
-            {
-              "text": "Tevo to update the Core Contributor Criteria doc https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing to reflect the agreed changes, so they are not just comments.",
-              "assignee": "Tevo",
-              "dueDate": "18 February 2025",
-              "status": "todo"
-            }
+          "discussionPoints": [
+            "Publicity materials for Q2 2025 budget submission and decision process.",
+            "Context-setting materials for the Q2 2025 budget process.",
+            "Automation of process of calculating who is a Core Contributor.",
+            "How to make cuts to the GovWG budget, and using WG reserves to cover any shortfall.",
+            "Creating policy on how to use the New Ideas budget -."
           ],
           "decisionItems": [
             {
@@ -1117,7 +1047,8 @@
             },
             {
               "decision": "We agreed to cover any shortfall in our own Q2 budget by taking from our WG reserves",
-              "rationale": "Beause this is preferable to reducing the number of meetings, reducing payment for e.g. faciliattion and documentation (which, at $20, is already quite low compared to other WGs) or relying on Peter to facilitate all meetings."
+              "rationale": "Beause this is preferable to reducing the number of meetings, reducing payment for e.g. faciliattion and documentation (which, at $20, is already quite low compared to other WGs) or relying on Peter to facilitate all meetings.",
+              "effect": "affectsOnlyThisWorkgroup"
             },
             {
               "decision": "We agreed to finalise the process for using the New Ideas budget in the next meeting (Thurs 13th Feb), and then submit it as a Treasury Policy",
@@ -1130,13 +1061,79 @@
               "effect": "mayAffectOtherPeople"
             }
           ],
-          "discussionPoints": [
-            "Publicity materials for Q2 2025 budget submission and decision process",
-            "Context-setting materials for the Q2 2025 budget process",
-            "Automation of process of calculating who is a Core Contributor",
-            "How to make cuts to the GovWG budget, and using WG reserves to cover any shortfall",
-            "Creating policy on how to use the New Ideas budget",
-            ""
+          "actionItems": [
+            {
+              "text": "Guillermo to create a timeline graphic for the Q2 budget decision, and an infographic to remind WGs to submit their budgets and reports by the deadline of 10th March",
+              "status": "todo",
+              "assignee": "guillermolucero",
+              "dueDate": "18 February 2025"
+            },
+            {
+              "text": "Guillermo to create an infographic to remind Core Contributors to take part in the consent process",
+              "status": "todo",
+              "assignee": "guillermolucero",
+              "dueDate": "6 March 2025"
+            },
+            {
+              "text": "Vani to adapt the existing Core Contributors' context-setting doc (https://docs.google.com/document/d/1fyZZLDqeeoDanbzyY7c9m7sy_hU5w9v5niuR4m521ms/edit?usp=sharing) for the Q2 process",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "18 February 2025"
+            },
+            {
+              "text": "Vani to draft a second context-setting doc, aimed at WGs, giving guidance on writing their budgets and reports",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "18 February 2025"
+            },
+            {
+              "text": "Peter to make a Discord post about the decisions that have already been made around the Q2 process (i.e. Budget caps will stay the same as for Q1; there WILL be a new ideas budget of 1,500 AGIX; there will be no new WGs with their own independent budgets) to ensure everyone knows",
+              "status": "todo",
+              "assignee": "PeterE",
+              "dueDate": "18 February 2025"
+            },
+            {
+              "text": "Tevo to ensure that a new calculation on who is a core contributor is done by 7th March, to alloow time for people to be nominated before the consent forms open on 10th March. This calculation will be partially automated, and will be done using the revised criteria in the Ambassador Program Core Contributors criteria doc https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "7 March 2025"
+            },
+            {
+              "text": "Peter to update Discord tags to reflect any changes to who is a Core Contributor",
+              "status": "todo",
+              "assignee": "PeterE",
+              "dueDate": "10 March 2025"
+            },
+            {
+              "text": "Kenichi to prepare the consent form for the Q2 budget decision, basing it on the one used for Q1 decision, and share it in the Governance meeting no later than Thurs 6th March",
+              "status": "todo",
+              "assignee": "kenichi",
+              "dueDate": "6 March 2025"
+            },
+            {
+              "text": "LordKizzy to draft a new sheet in the Budget Planner for Q2 2025, no later than 6th March",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "6 March 2025"
+            },
+            {
+              "text": "Guillermo to draft the Q1 2025 quarterly report for GovWG and will bring it to a meeting to be signed off no later than 25th Feb",
+              "status": "todo",
+              "assignee": "guillermolucero",
+              "dueDate": "25 February 2025"
+            },
+            {
+              "text": "Vani to finish drafting the Q2 2025 budget, and bring it to  ameeting to be signed off no later than 25th Feb",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "25 February 2025"
+            },
+            {
+              "text": "Tevo to update the Core Contributor Criteria doc https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit?usp=sharing to reflect the agreed changes, so they are not just comments.",
+              "status": "todo",
+              "assignee": "Tevo",
+              "dueDate": "18 February 2025"
+            }
           ]
         }
       ],
@@ -1146,7 +1143,9 @@
       },
       "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "14e6beb2-c363-4987-a27c-4db4317ce60b": [
@@ -1158,7 +1157,7 @@
         "date": "2025-02-18",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, AshleyDawn, guillermolucero, CollyPride, Sucre n Spice, Évéline Trinité, maxmilez, Valola",
+        "peoplePresent": "AshleyDawn, CallyFromAuron, CollyPride, Évéline Trinité, guillermolucero, maxmilez, PeterE, Sucre n Spice, Valola",
         "purpose": "Weekly Governance WG meeting",
         "workingDocs": [
           {
@@ -1207,13 +1206,11 @@
         {
           "status": "carry over",
           "narrative": "We signed off Guillermo's infographics for the Q2 decision, and discussed how best to share them and what relevant links should be posted with them.  We agreed on an exchange rate of $0.30 for Q2 2025 budgets  We provisionally agreed the Q2 2025 budget for GovWG, pending any rethinks before the submission date of 10th March. We looked at the WG task sheet, and what surplus we have; and we discussed briefly whether we can still afford to continue with backlog documentation, or whether we should simply record 'No summary given' for uncompleted summaries - to be discussed  We discussed whether and how to implement the ideas around WG minimum budgets suggested in the 'Budget caps for Q2' discussion doc https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing. We decided yes, we should discuss how different WGs might approach decising on their operational minimum and what would be included in it, and that the next WG sync call would be a good place to start; so we added it to the WG Sync Call rolling agenda.",
-          "actionItems": [
-            {
-              "status": "todo",
-              "text": "Vani and Peter to share Guillermo's infographics regularly over the next few weeks, together with links to relevant docs",
-              "assignee": "CallyFromAuron, PeterE",
-              "dueDate": "10 March 2025"
-            }
+          "discussionPoints": [
+            "Agreeing publicity and infographics for the Q2 budget process.",
+            "Agreeing exchange rate for Q2 budgets.",
+            "Agreeing draft GovWG budget for Q2 2025.",
+            "Minimum WG budgets."
           ],
           "decisionItems": [
             {
@@ -1242,11 +1239,13 @@
               "effect": "mayAffectOtherPeople"
             }
           ],
-          "discussionPoints": [
-            "Agreeing publicity and infographics for the Q2 budget process",
-            "Agreeing exchange rate for Q2 budgets",
-            "Agreeing draft GovWG budget for Q2 2025",
-            "Minimum WG budgets"
+          "actionItems": [
+            {
+              "text": "Vani and Peter to share Guillermo's infographics regularly over the next few weeks, together with links to relevant docs",
+              "status": "todo",
+              "assignee": "CallyFromAuron, PeterE",
+              "dueDate": "10 March 2025"
+            }
           ]
         }
       ],
@@ -1256,7 +1255,9 @@
       },
       "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "6e2eeab8-1f60-44fa-9f14-9e984dd39e04": [
@@ -1347,7 +1348,7 @@
         "date": "2025-02-27",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, CollyPride, Duke, advanceameyaw, osmium, AshleyDawn, Clement Umoh, Sucre n Spice, kenichi",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, Clement Umoh, CollyPride, Duke, kenichi, osmium, PeterE, Sucre n Spice",
         "purpose": "Monthly call for all Workgroups to discuss Program-wide issues",
         "workingDocs": [
           {
@@ -1363,62 +1364,62 @@
             "link": "https://docs.google.com/spreadsheets/d/1DYQb3U4AkXsxtOl7uHONFtfBkavicU1wleJskQKf5Ms/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/document/d/11zOzbWaDG6ND7IHDETNQrqsKcQOq1Xbm5KYXgYZ6YPA/edit?usp=sharing",
-            "title": "#01 _ Agenda Items MCLab _ 250225  (MeTTa Coder Lab program)"
+            "title": "#01 _ Agenda Items MCLab _ 250225  (MeTTa Coder Lab program)",
+            "link": "https://docs.google.com/document/d/11zOzbWaDG6ND7IHDETNQrqsKcQOq1Xbm5KYXgYZ6YPA/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing",
-            "title": "CONFLICT RESOLUTION FOR SINGULARITY NET AMBASSADORS"
+            "title": "CONFLICT RESOLUTION FOR SINGULARITY NET AMBASSADORS",
+            "link": "https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing"
           }
         ]
       },
       "agendaItems": [
         {
           "status": "carry over",
-          "discussion": "1) Workgroups represented on the call: We asked in Chat and found the following groups are present - Archives - AI Ethics - Onboarding - Translation - Writers - Marketing - R & D - Moderators - African Guild - Governance - Sandbox/Think Tank   2) WG minimum budgets - How to progress discussion on the idea, proposed in the 'budget caps for Q2' discussion doc https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing , that WGs should determine their minimum budgets - it was decided that Governance WG is the best place for this conversation, and that we should not actually discuss it in this meeting.  2) Increasingly late meeting start times: We recognised that it's difficult to fix without putting people off turning up at all. Suggestions included: - If you're late, your participation will not be counted (but most people would not mind that); - Start meetings at 5 mins past, regardless of who's present - of course this can't be enforced on WGs, but we could suggest it, and try it out in e.g. Governance, Town Hall, etc.  3) Archives WG will not be checking meeting summaries during Q2 - Meeting summaries are often inaccurate or garbled, and it is a lot of overhead to check and correct them. So for budget reasons *and* experimental reasons, Archives will stop doing this during Q2, and will simply approve and archive whatever is submitted. They will then test whether the graph RAG process they are developing is able to 'fill in the gaps' and derive meaningful and accurate information from summaries in Q2. If yes, it will be helpful to know that our archiving system doesn't require accurate summaries; and if no, we can assess what kinds of errors matter.  4) Googleform responses on what WG Sync calls should cover: see https://docs.google.com/spreadsheets/d/1DYQb3U4AkXsxtOl7uHONFtfBkavicU1wleJskQKf5Ms/edit?usp=sharing There were 5 responses, all quite different. Key points:  - Some issues with not knowing when the call is (we need to keep publicising it)  - Best uses of time include cross-WG collaborations; feedback, evaluation, and knowledge sharing; top-level planning, and assigning relevant people to go off and discuss issues in more detail; external speakers.   - There was a suggestion of using the call for progress updates, but this was felt to be very similar to the monthly 'WG Updates' Town Hall, so perhaps not useful.  - Should NOT be used for: Grievances/conflict resolution (we note that there is a process in place for that, see https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing , though it has never been used); Personal ideas; Decisionmaking and detailed planning; Issues that belong in Governance meetings. Note that some people in the meeting disagreed with some of these.  - Future wishes for the calls - several of these have already started to be done; the idea of expert training sessions in the call itself, and followup discussion afterwards, remains to be discussed. We note that a previous Governance session (9th Jan 2025, https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2025/january-2025/week-2#governance-workgroup-1) discussed how to encourage attendance from all WGs - there was a suggestion of rewards from Program reserves for WGs that attended all 3 meetings in a Quarter; although we noted that given current token price, this might not be something we still want to do. Nevertheless, we have recorded which WGs were present.  5) End of Year Report 2024 - we agreed a final date of Sunday 9th March to finish the report https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing, and WGs who have not added material will do so by Fri 7th to allow time for a final proofread. We also noticed that several WGs (Education, Gamers, Strategy) have not added material *and* have not been coming to WG Sync calls - are they feeling excluded or disengaged in any way, or facing barriers? We did not reach conclusions on how or whether to ask them.  6) MeTTa Coder Lab: This is intended as a 'low-barrier-to-entry' way for people to learn MeTTa, and was originally a proposal in an RFP funding round, but was unsuccessful - so Guillermo is suggesting it as a cross-WG collaboration - education+ RND + AI SANDBOX +Onboarding plus any others who want to.  The proposal and other materials were shared and comments were invited. There will be meetings soon to discuss the collaboration and how to fund it.",
           "meetingTopics": [
-            "Which WGs are represented on the call?",
+            "Which WGs are represented on the call",
             "WG minimum budgets",
             "Increasingly late meeting start times",
             "Archives will not be checking meeting summaries in Q2 2025",
-            "What WG Sync calls should be about (results of Googleform)",
+            "What WG Sync calls should be about (results of Googleform",
             "Ambassador Program End of Year Report 2024",
-            "WGs that are not taking part?",
+            "WGs that are not taking part",
             "MeTTa Coders Lab initiative"
           ],
-          "actionItems": [
-            {
-              "status": "todo",
-              "text": "All to add comments on the MeTTa Coder Lab program doc #01 _ Agenda Items MCLab _ 250225",
-              "assignee": "all",
-              "dueDate": "4 March 2025"
-            }
-          ],
+          "discussion": "1) Workgroups represented on the call: We asked in Chat and found the following groups are present - Archives - AI Ethics - Onboarding - Translation - Writers - Marketing - R & D - Moderators - African Guild - Governance - Sandbox/Think Tank   2) WG minimum budgets - How to progress discussion on the idea, proposed in the 'budget caps for Q2' discussion doc https://docs.google.com/document/d/1kVd_4Ih-lSdMoIcmVeOS3_H3aqOdnMmMG6o1WqGTx1w/edit?usp=sharing , that WGs should determine their minimum budgets - it was decided that Governance WG is the best place for this conversation, and that we should not actually discuss it in this meeting.  2) Increasingly late meeting start times: We recognised that it's difficult to fix without putting people off turning up at all. Suggestions included: - If you're late, your participation will not be counted (but most people would not mind that); - Start meetings at 5 mins past, regardless of who's present - of course this can't be enforced on WGs, but we could suggest it, and try it out in e.g. Governance, Town Hall, etc.  3) Archives WG will not be checking meeting summaries during Q2 - Meeting summaries are often inaccurate or garbled, and it is a lot of overhead to check and correct them. So for budget reasons *and* experimental reasons, Archives will stop doing this during Q2, and will simply approve and archive whatever is submitted. They will then test whether the graph RAG process they are developing is able to 'fill in the gaps' and derive meaningful and accurate information from summaries in Q2. If yes, it will be helpful to know that our archiving system doesn't require accurate summaries; and if no, we can assess what kinds of errors matter.  4) Googleform responses on what WG Sync calls should cover: see https://docs.google.com/spreadsheets/d/1DYQb3U4AkXsxtOl7uHONFtfBkavicU1wleJskQKf5Ms/edit?usp=sharing There were 5 responses, all quite different. Key points:  - Some issues with not knowing when the call is (we need to keep publicising it)  - Best uses of time include cross-WG collaborations; feedback, evaluation, and knowledge sharing; top-level planning, and assigning relevant people to go off and discuss issues in more detail; external speakers.   - There was a suggestion of using the call for progress updates, but this was felt to be very similar to the monthly 'WG Updates' Town Hall, so perhaps not useful.  - Should NOT be used for: Grievances/conflict resolution (we note that there is a process in place for that, see https://docs.google.com/document/d/1beMEt9XmPvHNaH08Rh5_taTI0QhHcyy15Q6XcXXDWUI/edit?usp=sharing , though it has never been used); Personal ideas; Decisionmaking and detailed planning; Issues that belong in Governance meetings. Note that some people in the meeting disagreed with some of these.  - Future wishes for the calls - several of these have already started to be done; the idea of expert training sessions in the call itself, and followup discussion afterwards, remains to be discussed. We note that a previous Governance session (9th Jan 2025, https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2025/january-2025/week-2#governance-workgroup-1) discussed how to encourage attendance from all WGs - there was a suggestion of rewards from Program reserves for WGs that attended all 3 meetings in a Quarter; although we noted that given current token price, this might not be something we still want to do. Nevertheless, we have recorded which WGs were present.  5) End of Year Report 2024 - we agreed a final date of Sunday 9th March to finish the report https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing, and WGs who have not added material will do so by Fri 7th to allow time for a final proofread. We also noticed that several WGs (Education, Gamers, Strategy) have not added material *and* have not been coming to WG Sync calls - are they feeling excluded or disengaged in any way, or facing barriers? We did not reach conclusions on how or whether to ask them.  6) MeTTa Coder Lab: This is intended as a 'low-barrier-to-entry' way for people to learn MeTTa, and was originally a proposal in an RFP funding round, but was unsuccessful - so Guillermo is suggesting it as a cross-WG collaboration - education+ RND + AI SANDBOX +Onboarding plus any others who want to.  The proposal and other materials were shared and comments were invited. There will be meetings soon to discuss the collaboration and how to fund it.",
           "decisionItems": [
             {
               "decision": "We will continue to publicise the WG Sync calls, and the agenda, in Discord - maybe a little further in advance than we have been doing.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because the survey indicated that some people are not aware when the call is, or what is on the agenda"
+              "rationale": "Because the survey indicated that some people are not aware when the call is, or what is on the agenda",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "RE late start to meetings: we will try starting calls such as Governance WG, Town Hall, etc no later than 5 minutes in, regardless of who is present, rather than waiting; and will publicise that we will be doing this. Then in the next WG Sync we will discuss whether it has helped.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "to see if it helps encourage people to arrive on time"
+              "rationale": "to see if it helps encourage people to arrive on time",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "The question of how to approach WG budget minimums will be taken up in Governance WG",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "because this call (WG Sync) doesn't feel like the best place for it due to time constraints"
+              "rationale": "because this call (WG Sync) doesn't feel like the best place for it due to time constraints",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We agreed we will continue to capture which WGs are represented at the WG Sync Calls, but will decide at the end of the Quarter whether we want to go ahead with rewarding WGs who attend all 3 sessions, as agreed in Open Governance meeting on 9th Jan 2025 https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2025/january-2025/week-2#governance-workgroup-1",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Due to low token price"
+              "rationale": "Due to low token price",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "Ambassador Program End of Year Report 2024 to be finished by end of day, Sunday 9th March. Anything not added by then, will not be used",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because it is now well into 2025, so we need to finish it off"
+              "rationale": "Because it is now well into 2025, so we need to finish it off",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "actionItems": [
+            {
+              "text": "All to add comments on the MeTTa Coder Lab program doc #01 _ Agenda Items MCLab _ 250225",
+              "status": "todo",
+              "assignee": "all",
+              "dueDate": "4 March 2025"
             }
           ]
         }
@@ -1427,7 +1428,7 @@
         "topicsCovered": "budget minimums, late start to meetings, Archives WorkGroup, Correcting errors in meeting summaries, Meeting Summaries, WG sync call purpose, conflict resolution, End of Year report, End of Year Report 2024, Participation in governance, participation, disengagement, Strategy Guild, Education Guild, Gamers Guild, MeTTa Coder Lab, cross-WG collaboration",
         "emotions": "quiet, not many speakers, late start, positive, interesting"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
       "canceledSummary": false,
       "noSummaryGivenText": "No Summary Given",
@@ -1443,7 +1444,7 @@
         "date": "2025-02-20",
         "host": "PeterE",
         "documenter": "martinsoki, CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, AshleyDawn, guillermolucero, martinsoki, LordKizzy, LadyTempestt, Effiom, advanceameyaw, Évéline Trinité",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, Effiom, Évéline Trinité, guillermolucero, LadyTempestt, LordKizzy, martinsoki, PeterE",
         "purpose": "Weekly Open Governance meeting",
         "workingDocs": [
           {
@@ -1468,10 +1469,32 @@
         {
           "status": "carry over",
           "narrative": "We noted that in Q1, Process Guild voluntarily gave up 1,000 AGIX to help with budget fitting (reducing their cap from 2,000 to 1,000); so this should be restored in Q2. Since we have already said that budget caps will remain the same this Quarter as they were in Q1, the only way to do this is to give Process Guild 1,000 AGIX from Program reserves. We also agreed that we definitely need to reassess budget caps for Q3; and that this should be done in the light of the discussion on minimum budgets (the minimum a WG needs in order to operate).  Anonymity:  Peter noted that it can be difficult to resolve objections when the objectors are not present in the meeting and prepared to 'un-anonymise' themselves.   Vani said it can be difficult to raise concerns - especially serious, 'whistle-blowing' type concenrns - without anonymity. How will we make sure the space feels safe to raise things?  We recapped the point made in the previous meeting that the process is *not* anonymous now, because anyone with access to the Ambassador Gmail account can see who said what - but it's not clear if people fully realise that.  LordKizzy confirmed that the Governance dashboard being developed in R&D Guild will keep user identities anonymous to the public, but admins will still have access to this information - this raises the question of who should be an admin.   LadyTempestt stated that she doesn't feel OK raising issues in the budget consent forms ever since she found out that it is not confidential, so she just abstains.   We noted that it would be possible to create the consent forms on a different Google account that only 1 person has access to (perhaps Peter, given his particular role in the ecosystem).   Guillermo said that a non-anonymous consent process can foster a stronger community. When you fear to give your opinion whatever it is, it's not good - raising concerns openly will improve our professional relationships and help us learn to accept criticism. The planned Governance dashboard hopes to address this, and to make it easier for people to raise concerns transparently.  Vani said that while this *can* work, sometimes lack of anonymity means people give less honest feedback; so we get an apparent 'consensus' that isn't real. Also, any negative effects of removing anonymity are likely to fall more heavily on those who are already marginalized, or who feel the least confident or the least safe. Guillermo countered that having anonymity can make it more likely that people will raise unfair or nonsense concerns. Kizzy pointed out that if people do not attend the discussion meetings, they don't know that their concern has been resolved, and will raise it again next time, so we go round in circles. Guillermo suggested we could make it an option when the new Governance dashboard is built - people could choose whether or not they want to be anonymous. Vani referenced a previous Governance meeting where it was suggested that we need an independent person or group who maintain oversight, but are not otherwise involved in budget decisions, and are neutral. It was agreed back then that it would be difficult to find such a person  We noted that by the end of Q2, the Governance dashboard should be ready, and this might change things - so this Quarter might be the only chance we get to try out a non-anonymous consent process and see how it goes.  We checked the new sheet for Q2 which LordKizzy has added to the Budget Planner, and agreed the additions he needed to make to it.",
+          "discussionPoints": [
+            "Process Guild's budget cap for Q2 2025.",
+            "Need to reassess budget caps for Q3.",
+            "Anonymity in decision-making.",
+            "New Q2 sheet in the Budget Planner."
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to add 1,000 AGIX from Program Reserves to Process Guild's Q2 budget cap",
+              "rationale": "because Process Guild agreed last Quarter to voluntarily give up 1,000 AGIX to help with budget-fitting, but this was only ever intended as a temporary measure. When we agreed in a previous meeting that budget caps should stay the same as they were for Q1, we forgot about this.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that we will reassess / recalculate the budget caps for Q3, and will do it in the light of discussion of WG budget minimums",
+              "rationale": "Several WGs are unhappy with their caps; and we cannot continue to 'top up' Process Guild from reserves indefinitely; so there needs to be an adjustment; and we need to ensure that minimums are covered.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed to continue the discussion on anonymity next meeting.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
           "actionItems": [
             {
-              "status": "todo",
               "text": "Vani and Peter to share Guillermo's infographics regularly over the next few weeks, together with links to relevant docs",
+              "status": "todo",
               "assignee": "CallyFromAuron",
               "dueDate": "10 March 2025"
             },
@@ -1487,28 +1510,6 @@
               "assignee": "LordKizzy",
               "dueDate": "27 February 2025"
             }
-          ],
-          "decisionItems": [
-            {
-              "decision": "We decided to add 1,000 AGIX from Program Reserves to Process Guild's Q2 budget cap",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "because Process Guild agreed last Quarter to voluntarily give up 1,000 AGIX to help with budget-fitting, but this was only ever intended as a temporary measure. When we agreed in a previous meeting that budget caps should stay the same as they were for Q1, we forgot about this."
-            },
-            {
-              "decision": "We agreed that we will reassess / recalculate the budget caps for Q3, and will do it in the light of discussion of WG budget minimums",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Several WGs are unhappy with their caps; and we cannot continue to 'top up' Process Guild from reserves indefinitely; so there needs to be an adjustment; and we need to ensure that minimums are covered."
-            },
-            {
-              "decision": "We agreed to continue the discussion on anonymity next meeting.",
-              "effect": "mayAffectOtherPeople"
-            }
-          ],
-          "discussionPoints": [
-            "Process Guild's budget cap for Q2 2025",
-            "Need to reassess budget caps for Q3",
-            "Anonymity in decision-making",
-            "New Q2 sheet in the Budget Planner"
           ]
         }
       ],
@@ -1516,9 +1517,11 @@
         "topicsCovered": "Q2 2025 budget, Reserves, consent process, Process Guild, Budget caps, anonymity, R&D guild, governance dashboard, safe space",
         "emotions": "decisive, Organised, Interactive, thoughtful"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "cf09a270-bf36-4bfc-bd4b-dbe2495e46d2": [
@@ -1530,36 +1533,53 @@
         "date": "2025-03-04",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, AshleyDawn, advanceameyaw, Tevo",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, PeterE, Sucre n Spice, Tevo",
         "purpose": "Weekly GovWG meeting",
         "workingDocs": [
           {
-            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing",
-            "title": "Ambassador Program Budget Planner"
+            "title": "Ambassador Program Budget Planner",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing",
-            "title": "Ambassador Program Core Contributors"
+            "title": "Ambassador Program Core Contributors",
+            "link": "https://docs.google.com/spreadsheets/d/1VW10ZrPOrRBQ_E1T-g9N7POcZaGsq3C0Vr6ygVzMoGU/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing",
-            "title": "Ambassador Program End of Year report - draft outline"
+            "title": "Ambassador Program End of Year report - draft outline",
+            "link": "https://docs.google.com/document/d/1TxKxP9sDNgvKncAqO0F-UhZgoftMdDktaqbt50-h2XM/edit?usp=sharing"
           }
         ]
       },
-      "type": "custom",
-      "noSummaryGiven": false,
-      "canceledSummary": false,
-      "noSummaryGivenText": "No Summary Given",
-      "canceledSummaryText": "Meeting was cancelled",
       "agendaItems": [
         {
           "status": "carry over",
           "narrative": "Advance and Clement have drafted a report on the ETHiopia conference, which they will share in the Open Governance meeting this Thurs (6th March).  Dates for forthcoming sessions:  - the retrospective on the Q2 decision will be on Tues 1st April - initial meeting on budget minimums on Thurs 3rd April. Vani, Peter, Sucre and Effiom to plan it; Vani to make a Discord group to discuss it.  Other possible sessions for future Governance meetings:  - 1) We noted that Education Guild are planning to take on some educational sessions on governance issues - Vasu, Lord KIzzy and Vani are planning the sessions now, covering the core governance mechanisms in the Program - so this will cover the longstanding agenda item we have had about whether Governance WG itself should be undertaking governance education sessions  - 2) Kevin suggested a meeting with Mindplex - we decided this might not make so much sense as a Governance session, so Kevin will organise this outside of Governance meetings, perhaps under Marketing.  - 3) Tevo suggested discussing contribution systems, and who contributes - what are the patterns in the data we have, for example who are the 'high cost individuals', and should we aim to decentralise further on fund distribution? Others said that perhaps it's OK if 'high-cost individuals' are those who are prepared to do the most work. Also - look at the ratio of amount of work (in terms of MINS) vs amount earned in AGIX  - 4) we do need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality. What should the pathway be for raising it?   End of Year Report: anything still to be added should be done by this Friday (7th); then Vani will proofread over the weekend.",
+          "discussionPoints": [
+            "Calculating Core Contributors for Q2.",
+            "Signing off Q2 consent form.",
+            "Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems).",
+            "End-Of-Year report 2024."
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed it's time to calculate who is a Core Contributor for Q2 - Tevo will do it later today and post the results in the Governance Discord channel",
+              "rationale": "allows time for people to nominate anyone who doesn't quite meet the criteria",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We signed off the Q2 decision consent form",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed we need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality.",
+              "rationale": "Because it's an issue that needs to be discussed, but it can be sensitive, and there is no clear pathway for how to bring it up.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
           "actionItems": [
             {
-              "status": "todo",
               "text": "Tevo to calculate who is a Core Contributor for the coming budget decision",
+              "status": "todo",
               "assignee": "Tevo",
               "dueDate": "4 March 2025"
             },
@@ -1587,35 +1607,18 @@
               "assignee": "TheFreysDeFi",
               "dueDate": "14 March 2025"
             }
-          ],
-          "decisionItems": [
-            {
-              "decision": "We agreed it's time to calculate who is a Core Contributor for Q2 - Tevo will do it later today and post the results in the Governance Discord channel",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "allows time for people to nominate anyone who doesn't quite meet the criteria"
-            },
-            {
-              "decision": "We signed off the Q2 decision consent form",
-              "effect": "mayAffectOtherPeople"
-            },
-            {
-              "decision": "We agreed we need to discuss how to raise the issue of if/when a WG's outputs are felt to be low-quality.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because it's an issue that needs to be discussed, but it can be sensitive, and there is no clear pathway for how to bring it up."
-            }
-          ],
-          "discussionPoints": [
-            "Calculating Core Contributors for Q2",
-            "Signing off Q2 consent form",
-            "Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems)",
-            "End-Of-Year report 2024"
           ]
         }
       ],
       "tags": {
         "topicsCovered": "Core Contributors , Retrospective planning , budget minimums, ETHiopia event, consent form, consent process, mindplex, Collaboration, contribution, high-cost individuals",
         "emotions": "low attendance, decisive,  forward-looking, Discursive"
-      }
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "9b15cd8c-f020-4dcd-b50c-aa28046dfe50": [
@@ -1627,7 +1630,7 @@
         "date": "2025-03-05",
         "host": "Stephen [QADAO]",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "André, CallyFromAuron, Stephen [QADAO], PeterE, AshleyDawn, maxmilez, TheFreysDeFi, LordKizzy, Tevo, Zalfred, esewilliams, Alfred Itodele",
+        "peoplePresent": "Alfred Itodele, André, AshleyDawn, CallyFromAuron, esewilliams, LordKizzy, maxmilez, PeterE, Stephen [QADAO], Tevo, TheFreysDeFi, Zalfred",
         "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
         "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
         "workingDocs": [
@@ -1648,8 +1651,8 @@
             "link": "https://docs.google.com/document/d/1JUyVzyjeGJkFkjtzkqk-glsqzdUqlIZ5LdOwWM5OGJY/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing",
-            "title": "q2 2025 budget draft"
+            "title": "q2 2025 budget draft",
+            "link": "https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing"
           },
           {
             "title": "GitHub Issue for this meeting",
@@ -1660,26 +1663,6 @@
       "agendaItems": [
         {
           "status": "carry over",
-          "actionItems": [
-            {
-              "text": "Vani has approached DeepFunding, to ask if the Events Circle could take on documentation of DF Town Hall. Focus Group agreed this would be valid - waiting for a reply  Also some interest in Focus Group re: how the Archives tool could be used for further documentation within DF",
-              "assignee": "CallyFromAuron",
-              "dueDate": "2 April 2025",
-              "status": "in progress"
-            },
-            {
-              "text": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
-              "status": "todo",
-              "assignee": "André, CallyFromAuron",
-              "dueDate": "2 April 2025"
-            },
-            {
-              "text": "Andre to add 'All', 'Alfred Itodele' and 'Maxmilez' as new Names in the names controlled vocab",
-              "status": "todo",
-              "assignee": "André",
-              "dueDate": "19 March 2025"
-            }
-          ],
           "decisionItems": [
             {
               "decision": "Last meeting, we said that we would review, in this meeting, whether or not we can afford to implement the proposed initiative for this Quarter to create a skilled documentation team.   Unfortunately token price is even lower than it was, so we definitely cannot do it - but we noted that the need for it might be obviated by our proposed experiment with not correcting summaries in Q2.  We agreed to close the Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/235",
@@ -1688,8 +1671,8 @@
             },
             {
               "decision": "Our Quarterly Report draft https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/231 and Q2 budget draft https://docs.google.com/spreadsheets/d/1BLCkYgyV0rnt-Ntlqp_DXGCm1t3KieAVMS_HaUamqQI/edit?usp=sharing were signed off",
-              "effect": "affectsOnlyThisWorkgroup",
-              "rationale": "Needs to be submitted on 10th March"
+              "rationale": "Needs to be submitted on 10th March",
+              "effect": "affectsOnlyThisWorkgroup"
             },
             {
               "decision": "André, tool development: see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/248 This month the Autosave feature has been completed, and bug fixes have been done",
@@ -1709,11 +1692,38 @@
             },
             {
               "decision": "WG Sync call at the end of March - we decided to reiterate that meeting summaries will not be audited during Q2, and suggest a time limit to submit a summary, after which it will be recorded as 'no summary given'  Suggestions ranged from a day to a Quarter - we settled on a month after the meeting took place.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "It shouldn't be turned into a competition; also, some WGs use meeting summary-writing as an onboarding task, so there needs to be time for support to be given and corrections to be made."
+              "rationale": "It shouldn't be turned into a competition; also, some WGs use meeting summary-writing as an onboarding task, so there needs to be time for support to be given and corrections to be made.",
+              "effect": "mayAffectOtherPeople"
             },
             {
-              "decision": "Research on not correcting meeting summaries in Q2:   We noted that our planned approach might influence what kind of data we get in a meeting summary, and in the resultant knowledge graph.   Hypothesis: we will get well-defined edges (i.e. connections between entities), because this often depends on simple structured data (who was present in a meeting, which meetings a given topic was discussed in, etc); but we might have less information about what anyone *said* when they discussed a topic, since people in the Ambassador program have historically been less good at documenting this kind of information.  Analysis of what kind of data we are getting with uncorrected summaries might later feed in to the design of the new summary tool - perhaps by attempting to design it to help people collect the kind of data that is missing, if any."
+              "decision": "Research on not correcting meeting summaries in Q2:   We noted that our planned approach might influence what kind of data we get in a meeting summary, and in the resultant knowledge graph.   Hypothesis: we will get well-defined edges (i.e. connections between entities), because this often depends on simple structured data (who was present in a meeting, which meetings a given topic was discussed in, etc); but we might have less information about what anyone *said* when they discussed a topic, since people in the Ambassador program have historically been less good at documenting this kind of information.  Analysis of what kind of data we are getting with uncorrected summaries might later feed in to the design of the new summary tool - perhaps by attempting to design it to help people collect the kind of data that is missing, if any.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "actionItems": [
+            {
+              "text": "Vani has approached DeepFunding, to ask if the Events Circle could take on documentation of DF Town Hall. Focus Group agreed this would be valid - waiting for a reply  Also some interest in Focus Group re: how the Archives tool could be used for further documentation within DF",
+              "status": "in progress",
+              "assignee": "CallyFromAuron",
+              "dueDate": "2 April 2025"
+            },
+            {
+              "text": "André has fixed the  issue with tags where people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings.",
+              "status": "done",
+              "assignee": "André",
+              "dueDate": "5 March 2025"
+            },
+            {
+              "text": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
+              "status": "todo",
+              "assignee": "André, CallyFromAuron",
+              "dueDate": "2 April 2025"
+            },
+            {
+              "text": "Andre to add 'All', 'Alfred Itodele' and 'Maxmilez' as new Names in the names controlled vocab",
+              "status": "todo",
+              "assignee": "André",
+              "dueDate": "19 March 2025"
             }
           ]
         }
@@ -1722,9 +1732,11 @@
         "topicsCovered": "graph database, Neo4j, summary tool, autosave, decision tracking, Robert Stalnaker, AI ethics, Ai recordkeeping ethics, graph data modelling, Python, JSON, Decentralisation, Decentralization, representing our culture in summaries, tag taxonomy, names taxonomy, controlled vocabularies, comma-separated tags, semantic similarity, recordkeeping ethics, archives ethics",
         "emotions": "interesting, wide-ranging, well-attended, slightly combative"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "6bbb797f-8f40-42b2-9ea8-8e19eac0d87a": [
@@ -1736,44 +1748,44 @@
         "date": "2025-03-06",
         "host": "Clement Umoh",
         "documenter": "Eric Davies",
-        "peoplePresent": "Clement Umoh, Eric Davies, LordKizzy, CJFrankie, guillermolucero, PeterE, AshleyDawn, advanceameyaw, Sucre n Spice",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CJFrankie, Clement Umoh, Eric Davies, guillermolucero, LordKizzy, PeterE, Sucre n Spice",
         "purpose": "Weekly Open Governance meeting",
         "workingDocs": [
           {
-            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing",
-            "title": "Governance calls, rolling agenda"
+            "title": "Governance calls, rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/document/d/1yXP6yaEmSsb-Lz4Zcyr1dz_fHZJ78YTDenSbOC36bzc/edit?usp=sharing",
-            "title": "Context setting for Core Contributor decision on Q2 2025 budgets"
+            "title": "Context setting for Core Contributor decision on Q2 2025 budgets",
+            "link": "https://docs.google.com/document/d/1yXP6yaEmSsb-Lz4Zcyr1dz_fHZJ78YTDenSbOC36bzc/edit?usp=sharing"
           },
           {
-            "link": "https://docs.google.com/document/d/1QSjiAAOrDyvh927peB1cOrosd0XkU8gbI7EkxoDtdAk/edit?tab=t.0#heading=h.ybfi2uikflvv",
-            "title": "Q1 2025 Governance WG Quarterly Report _ 050325"
+            "title": "Q1 2025 Governance WG Quarterly Report _ 050325",
+            "link": "https://docs.google.com/document/d/1QSjiAAOrDyvh927peB1cOrosd0XkU8gbI7EkxoDtdAk/edit?tab=t.0#heading=h.ybfi2uikflvv"
           },
           {
-            "link": "https://docs.google.com/document/d/1DBSIJsBIMaRr7Cxj9EBJ_w9Pe3M4DcaMUUH7CPeoGtA/edit?usp=sharing",
-            "title": "A REPORT ON THE ETHIOPIA POP UP CITY CONFERENCE AND HACKATHON"
+            "title": "A REPORT ON THE ETHIOPIA POP UP CITY CONFERENCE AND HACKATHON",
+            "link": "https://docs.google.com/document/d/1DBSIJsBIMaRr7Cxj9EBJ_w9Pe3M4DcaMUUH7CPeoGtA/edit?usp=sharing"
           },
           {
-            "link": "https://drive.google.com/drive/folders/17QMHy0egCggNAKSD4U8ObNYgHAZ18Rwg?usp=drive_link",
-            "title": "Guillermo - outstanding Q1 GovWG meeting summaries"
+            "title": "Guillermo - outstanding Q1 GovWG meeting summaries",
+            "link": "https://drive.google.com/drive/folders/17QMHy0egCggNAKSD4U8ObNYgHAZ18Rwg?usp=drive_link"
           }
         ]
       },
-      "type": "custom",
-      "noSummaryGiven": false,
-      "canceledSummary": false,
-      "noSummaryGivenText": "No Summary Given",
-      "canceledSummaryText": "Meeting was cancelled",
       "agendaItems": [
         {
           "status": "carry over",
           "narrative": "Quarterly Report:  Guillermo shared the quarterly report draft and posted them in the Governance Discord for review until submission is due on Monday   Outstanding meeting summaries: Guillermo has some outstanding meeting summaries which he still needs to add to the Summary Tool  Retrospective on ETHiopia Pop Up City Conference And Hackathon:  - Clement shared a detailed report on his and Advance's attendance at this event, covering involvement in events, hackathons, media, and community engagement, highlighting challenges, support from volunteers, and key contributions from Samuel and Advance.  - He shared insights on their engagement at the event, highlighting outreach efforts; discussions on AI, blockchain, and decentralization; keynote presentations; KPI achievements, and future plans for sustaining momentum through partnerships and virtual meetups.  - CJFrankie applauded Clement and Advance for their outreach efforts in Ethiopia and raised concerns about the general lack of awareness of SingularityNET, especially among African audiences. He suggested allocating resources for physical meetups to enhance engagement and proposed that workgroups focus on making SingularityNET tools more accessible. He also requested clarification on whether SNET tools were used during the Hackathon.  - Advance explained that most hackathons operate in pools, often sponsored by different ecosystems like Mantle, and Ethereum in the context of the hackathon held during the program. Participants build projects using the sponsors' technologies, and those who integrate these tools effectively can receive funding or prizes. If SingularityNET were to sponsor a hackathon, it could incentivize developers to onboard their projects onto the AI Marketplace by offering prize pools for utilizing SNET services.  - Clement suggested that if SingularityNET had engaged earlier in the hackathon, it could have introduced the AI Marketplace sooner, leading to more participants utilizing its services. He recommended that SingularityNET consider sponsoring such events in the future to encourage developers to build on its platform and integrate its AI tools.  - Peter noted that SingularityNET is already sponsoring Hack India but emphasized that larger organizations like Deep Funding or the ASI Foundation are better suited for sponsorships. He highlighted that the AI Marketplace is still in beta, with many services as proof-of-concept. With the ASI merger, platforms like Agentverse and ASI Create will integrate, but onboarding developers remains unclear during this transition.",
+          "discussionPoints": [
+            "Q2 Quarterly Report.",
+            "Outstanding meeting summaries.",
+            "Retrospective on ETHiopia Attendance Pop Up City Conference And Hackathon."
+          ],
           "actionItems": [
             {
-              "status": "todo",
               "text": "Advance & Clement to write an article capturing experiences from the Ethiopia event and share it with the team.",
+              "status": "todo",
               "assignee": "advanceameyaw, Clement Umoh",
               "dueDate": "20 March 2025"
             },
@@ -1784,8 +1796,8 @@
               "dueDate": "20 March 2025"
             },
             {
-              "status": "todo",
               "text": "Clement to follow up with collected contacts to explore potential collaborations.",
+              "status": "todo",
               "assignee": "Clement Umoh",
               "dueDate": "20 March 2025"
             },
@@ -1795,18 +1807,18 @@
               "assignee": "guillermolucero",
               "dueDate": "10 March 2025"
             }
-          ],
-          "discussionPoints": [
-            "Q2 Quarterly Report",
-            "Outstanding meeting summaries",
-            "Retrospective on ETHiopia Attendance Pop Up City Conference And Hackathon"
           ]
         }
       ],
       "tags": {
-        "emotions": "Accountability, Organised,  informative, Discursive, Educative",
-        "topicsCovered": "ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible"
-      }
+        "topicsCovered": "ETHiopia event, Hackathon, sponsorship, AI marketplace, Q1 2025 quarterly report, Africa, awareness of sNET in Africa, Retrospective,  events attendance, Partnership, virtual meetups, sNET tools, making SingularityNET tools more accessible",
+        "emotions": "Accountability, Organised,  informative, Discursive, Educative"
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "e5533fd2-855b-48d7-935e-41a262648be3": [
@@ -2193,37 +2205,36 @@
         {
           "agenda": "Workgroup Management",
           "status": "resolved",
+          "discussionPoints": [
+            "Going over old and new action items.",
+            "Assigning meeting summarizer and reviewer for 17.02.2025.",
+            "How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4.",
+            "Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/."
+          ],
           "actionItems": [
             {
               "text": "Effiom will draft the meeting summary and upload it to the summary tool",
+              "status": "done",
               "assignee": "Effiom",
-              "dueDate": "24 February 2025",
-              "status": "done"
+              "dueDate": "24 February 2025"
             },
             {
               "text": "Tevo will review and publish the Meeting Summary on Discord",
+              "status": "done",
               "assignee": "Tevo",
-              "dueDate": "24 February 2025",
-              "status": "done"
+              "dueDate": "24 February 2025"
             }
-          ],
-          "discussionPoints": [
-            "Going over old and new action items",
-            "Assigning meeting summarizer and reviewer for 17.02.2025",
-            "How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4",
-            "Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/"
           ]
         },
         {
           "agenda": "Finalise Quarterly Report and Proposal",
           "status": "resolved",
-          "actionItems": [
-            {
-              "text": "Report and Proposal to be submitted once the deadline has been fixed, as we are done",
-              "status": "todo",
-              "assignee": "Effiom, Tevo",
-              "dueDate": "3 March 2025"
-            }
+          "discussionPoints": [
+            "Are there any pending async tasks before we submit the report and proposal?",
+            "Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/.",
+            "Does the Q2 proposal fit within the WG's budget cap?",
+            "Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/.",
+            "Updating the Community Engagement section in the report."
           ],
           "decisionItems": [
             {
@@ -2231,17 +2242,22 @@
               "effect": "affectsOnlyThisWorkgroup"
             }
           ],
-          "discussionPoints": [
-            "Are there any pending async tasks before we submit the report and proposal?",
-            "Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/",
-            "Does the Q2 proposal fit within the WG's budget cap?",
-            "Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/",
-            "Updating the Community Engagement section in the report"
+          "actionItems": [
+            {
+              "text": "Report and Proposal to be submitted once the deadline has been fixed, as we are done",
+              "status": "todo",
+              "assignee": "Effiom, Tevo",
+              "dueDate": "3 March 2025"
+            }
           ]
         },
         {
           "agenda": "Review Category Descriptions",
           "status": "carry over",
+          "discussionPoints": [
+            "Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/.",
+            "We reviewed 5 sub-sections of the categories."
+          ],
           "actionItems": [
             {
               "text": "We will continue the category descriptions while script development is ongoing",
@@ -2249,33 +2265,26 @@
               "assignee": "all",
               "dueDate": "3 March 2025"
             }
-          ],
-          "discussionPoints": [
-            "Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/",
-            "We reviewed 5 sub-sections of the categories"
           ]
         },
         {
           "agenda": "GitBook, GitHub, and Markdown Automation",
           "status": "carry over",
-          "actionItems": [
-            {
-              "status": "todo"
-            }
-          ],
           "discussionPoints": [
-            "Updates on GitBook and GitHub",
-            "Updates on the current markdown automation progress",
-            "Knowledge Base structure is visible now on GitBook"
+            "Updates on GitBook and GitHub.",
+            "Updates on the current markdown automation progress.",
+            "Knowledge Base structure is visible now on GitBook."
           ]
         }
       ],
       "tags": {
         "topicsCovered": "Miro Board, Workgroup Management, GitBook, GitHub, Budget, Category Descriptions, Q2 2025 proposal, Q2 2025 budget, Budget caps, Q1 2025 quarterly report, Miro to GitBook, Markdown, community engagement"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
-      "canceledSummary": false
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ],
   "a0689f23-8893-47f1-8135-7dd3dccbe0f5": [
@@ -2287,12 +2296,12 @@
         "date": "2025-03-18",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, LordKizzy, Tevo, guillermolucero, Sucre n Spice, CollyPride, LadyTempestt, SubZero, Slate, Alfred Itodele, AshleyDawn, Duke, Effiom, esewilliams, Malik, Évéline Trinité, MaxMilez, UknowZork, osmium",
+        "peoplePresent": "Alfred Itodele, AshleyDawn, CallyFromAuron, CollyPride, Duke, Effiom, esewilliams, Évéline Trinité, guillermolucero, LadyTempestt, LordKizzy, Malik, MaxMilez, osmium, PeterE, Slate, SubZero, Sucre n Spice, Tevo, UknowZork",
         "purpose": "Regular weekly GovWG meeting",
         "workingDocs": [
           {
-            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing",
-            "title": "Ambassador Program Budget Planner"
+            "title": "Ambassador Program Budget Planner",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
           },
           {
             "title": "Consent form, Q2 2025 budgets (Responses)",
@@ -2304,6 +2313,38 @@
         {
           "status": "carry over",
           "narrative": "We looked at the consent form responses, noting that 14 WGs have no objections and have thus passed; and 7 WGs have at least one objection, and these will need to be discussed.  We also noted that we did not establish any kind of quorum for this consent round - so even though some WGs only garnered very few responses (for example, Knowleddge Base only had 4), they still pass.  We started with the objections to AI Sandbox/Think Tank; this took most of the meeting and was still inconclusive by the end.  Key discussion points included:  ADMIN COSTS vs DELIVERABLES / OUTPUTS 2 objectors and 2 abstainers all commented that AI Sandbox/Think Tank is spending too high a proportion of their budget on admin (nearly 4x as much as they spend on outputs). In the discussion, it was suggested that perhaps some budget elements had been mis-described as admin, when actually they *are* outputs/deliverables. The nature of this WG means that its sessions are not just procedural meetings, but actual learning sessions or debates, so in effect, it delivers a community event each week, so in a sense, its meetings *are* 'outputs'.  WHAT ARE PROJECT MANAGEMENT TASKS? Tevo said that the project management tasks he does in his own WGs only take him minutes to do, so he queried why AI Sandbox/Think Tank is taking so much longer. He suggested the WG's quarterly report should list the fixed tasks needed to prepare each of its sessions - the WG has learnt, after operating for a few months, what these tasks are.  GITHUB vs DEWORK MANAGEMENT COSTS Is the WG 'double-dipping' by costing for both GitHub and Dework management? No. Project management for this WG (as for many other WGs) is done on a GitHub Board - but in order to process payments, the information still needs to be copy-pasted into Dework tasks, because the Treasury system unfortunately doesn't integrate directly with GitHub. But we noted that there may be questions over how long this should take, and that using Dework templates could make it faster.  PAYMENTS STOPPED IN Q1 2025 It was noted as background info that during Q1, Treasury stopped payments to Sandbox/Think Tank for certain project management tasks, because they felt it was not clear enough in the Dework task what was being done; and LordKizzy amended the Dework tasks to give more detail.  VALUE OF TOOL EXHIBITION SESSIONS Tevo queried the value of the WG's tool exhibition sessions - do they give any more information about the tools than a person could gain by simply Googling? Are the selected tools actually useful? Should the sessions cover only sNET tools rather than just any AI tool? What is the impact of the sessions if nobody is actually using the tools under discussion? He acknowledged that perhaps the value is in the discussion itself, but still had questions, which were not fully resolved in this meeting.  PUBLIC GITHUB BOARD Lord Kizzy screenshared the AI Sandbox/Think Tank GitHub board, and realised that as they're using 2 separate repos, one of them is not public. He agreed to make it all public, to improve transparency.  DOCUMENTING PLANNING SESSIONS AND ASYNC WORK  There was a suggestion that the WG's planning meetings and async discussions need to be documented, for transparency. But it was noted that many WGs do this kind of work and don't document it publicly, and have not been asked to; so it is important to ensure we are not demanding something of AI Sandbox/Think Tank that is not being asked of other WGs.  We noted that in future Quarters, it could be made an absolute requirement for WGs to fully document this type of work, but it currently is not.  FLAT RATES FOR ADMIN COSTS? It was suggested that all WGs should pay the same for admin costs such as facilitation, documentation, etc. The counter-argument was that in line with WG autonomy, WGs should continue to be able to make their own decisions on this, within reason, and that some variation is OK; particularly because the tasks are not exactly the same from WG to WG. There was no final decision on this.  TO RESOLVE OBJECTIONS TO AI SANDBOX/THINK-TANK To resolve his objections, Tevo said that AI Sandbox/Think Tank need to: - 1) update their budget sheet to remove as many things as possible from project management and assign to either of the deliverables (AI Sandbox sessions or AI Think Tank session); - 2) if possible, lower the rewards for Dework task management, because it should use a template which they copy paste, and the work should not be more than 30 mins per week - 3) make their GitHub board fully public so we can see all the tasks - 4) explain in more detail, in the relevant GitHub issues, what the operational calls and async planning consist of, ideally including relevant links.",
+          "discussionPoints": [
+            "Noting which WGs' Q2 2025 budgets have passed, and which have objections.",
+            "Working through the objections for AI Sandbox/Think Tank."
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that the following 14 WGs' budget have passed:  AI Ethics  Archives Gamers GitHub PBL Governance Knowledge Base LatAm Moderators Onboarding Process Strategy Treasury Treasury Automation Video",
+              "rationale": "Because they had no objections",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We noted that the following 7 WGs' budgets have NOT passed, and need to be further discussed:  African AI Sandbox/Think Tank Education Marketing R&D Translation Writers",
+              "rationale": "Because they have at least 1 objection",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We agreed that next meeting, rather than continuing where we left off in the discussion on AI Sandbox/Think-Tank, we will start by reading through all the objections to all WGs, before beginning to discuss any of them.",
+              "rationale": "To ensure that we at least make people aware of what all of the objections are, even if we do not get time to address them all in one meeting. In this meeting, we focused in too quickly on one WG, and that took up all of the time.",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed that we will need to adjust the schedule for Governance meetings to allow for several more sessions on discussing the budget objections.",
+              "rationale": "because sorting out budget objections properly is more important than getting the budgets agreed quickly.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We noted that we did not establish any kind of quorum for this consent round - so even though some WGs only garnered very few responses (for example, Knowleddge Base only had 4), they still pass.",
+              "rationale": "We have previously discussed the idea of a quorum, but never actually implemented one for this round.",
+              "opposing": "Possibly this is something to consider for next Quarter",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
           "actionItems": [
             {
               "text": "Everyone - particularly WGs with objections - will add comments in the 'Responses' Googlesheet to address the objection(s), in time for the next meeting (Thurs 20th March).",
@@ -2317,46 +2358,14 @@
               "assignee": "PeterE",
               "dueDate": "18 March 2025"
             }
-          ],
-          "decisionItems": [
-            {
-              "decision": "We agreed that the following 14 WGs' budget have passed:  AI Ethics  Archives Gamers GitHub PBL Governance Knowledge Base LatAm Moderators Onboarding Process Strategy Treasury Treasury Automation Video",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because they had no objections"
-            },
-            {
-              "decision": "We noted that the following 7 WGs' budgets have NOT passed, and need to be further discussed:  African AI Sandbox/Think Tank Education Marketing R&D Translation Writers",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because they have at least 1 objection"
-            },
-            {
-              "decision": "We agreed that next meeting, rather than continuing where we left off in the discussion on AI Sandbox/Think-Tank, we will start by reading through all the objections to all WGs, before beginning to discuss any of them.",
-              "effect": "affectsOnlyThisWorkgroup",
-              "rationale": "To ensure that we at least make people aware of what all of the objections are, even if we do not get time to address them all in one meeting. In this meeting, we focused in too quickly on one WG, and that took up all of the time."
-            },
-            {
-              "decision": "We agreed that we will need to adjust the schedule for Governance meetings to allow for several more sessions on discussing the budget objections.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "because sorting out budget objections properly is more important than getting the budgets agreed quickly."
-            },
-            {
-              "decision": "We noted that we did not establish any kind of quorum for this consent round - so even though some WGs only garnered very few responses (for example, Knowleddge Base only had 4), they still pass.",
-              "rationale": "We have previously discussed the idea of a quorum, but never actually implemented one for this round.",
-              "opposing": "Possibly this is something to consider for next Quarter",
-              "effect": "mayAffectOtherPeople"
-            }
-          ],
-          "discussionPoints": [
-            "Noting which WGs' Q2 2025 budgets have passed, and which have objections",
-            "Working through the objections for AI Sandbox/Think Tank"
           ]
         }
       ],
       "tags": {
-        "emotions": "well-attended, inconclusive, no decisions, in-depth, slow",
-        "topicsCovered": "Q2 2025 budget, Q1 2025 quarterly report, AI Sandbox/Think Tank, objections, admin costs, admin costs vs outputs, Town Hall, budget discussion burnout, GitHub project board, cost standardisation, Quorum, Dework, Dework template"
+        "topicsCovered": "Q2 2025 budget, Q1 2025 quarterly report, AI Sandbox/Think Tank, objections, admin costs, admin costs vs outputs, Town Hall, budget discussion burnout, GitHub project board, cost standardisation, Quorum, Dework, Dework template",
+        "emotions": "well-attended, inconclusive, no decisions, in-depth, slow"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
       "canceledSummary": false,
       "noSummaryGivenText": "No Summary Given",
@@ -2372,12 +2381,12 @@
         "date": "2025-03-20",
         "host": "PeterE",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "PeterE, CallyFromAuron, guillermolucero, Tevo, Jeffrey Ndarake, Eric Davies, CollyPride, LadyTempestt, Kateri, Effiom, AshleyDawn, UknowZork, LordKizzy, Sucre n Spice, advanceameyaw",
+        "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, CollyPride, Effiom, Eric Davies, guillermolucero, Jeffrey Ndarake, Kateri, LadyTempestt, LordKizzy, PeterE, Sucre n Spice, Tevo, UknowZork",
         "purpose": "Regular weekly Open Gov call",
         "workingDocs": [
           {
-            "link": "https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing",
-            "title": "Consent form, Q2 2025 budgets (Responses)"
+            "title": "Consent form, Q2 2025 budgets (Responses)",
+            "link": "https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing"
           },
           {
             "title": "Ambassador Program Budget Planner",
@@ -2389,10 +2398,11 @@
         {
           "status": "carry over",
           "narrative": "We read through all the objections in the spreadsheet here https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit?usp=sharing to ensure that they have at least all been publicly heard.  We noted that the only objection for Translation WG (i.e. to add links in the Quarterly Report to the translated articles) has been addressed and the links have been added, so we confirmed that Translation WG's budget has now been approved. As an aside, we noted that some of the translated articles are not tagged, so it would be difficult for people to find them - but this task is supposed to be done by Iain Wentworth.  We discussed some of the issues raised in the objections to the 6 WGs that have not yet been approved, but did not reach a resolution on any of them.  We realised that the current schedule, which requires the 2nd-round consent forms to go out this Sunday, 23rd March, is not possible, so we amended it to push all the dates back by 1 week (see 'Decisions' below).   We also decided on some changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections (see 'Decisions' below). We recognised that it is unlikely that even another 2 meetings will completely resolve all the objections; so as GovWG our role is to ensure everyone knows what the objections are, and has easy access to the WGs' comments on them - people can then use the 2nd round consent process to say whether they feel the objection(s) against each as-yet-unapproved WG are an issue, or not. In this, we agreed that it would be valid for someone who did not object to a WG in round 1 to rethink based on the objections raised by other people, and to say in Round 2 'Actually, I agree that such-and-such is a problem', but not for them to add new objections of their own at this stage.",
-          "actionItems": [
-            {
-              "status": "todo"
-            }
+          "discussionPoints": [
+            "Reading out all objections in the Q2 process.",
+            "Approving Translation WG.",
+            "Amending the timeline for the consent process.",
+            "Changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections."
           ],
           "decisionItems": [
             {
@@ -2406,17 +2416,18 @@
             },
             {
               "decision": "We agreed to amend the schedule for this consent process to a week later, so:  - Tues 25th and Thurs 27th March: Gov WG meetings will be additional budget approval sessions  - Sun 30th March: deadline for WGs with outstanding objections to submit amended budgets/reports  - Mon 31st March: Round 2 consent forms are shared  - Weds 2nd April: deadline for Core Contributors to send in their consent forms  - Thurs 3rd April - final meeting. If objections cannot be resolved, then WGs with 80% consent will be approved.",
-              "rationale": "because there clearly will not be time to proceed on the previously-agreed timeline"
+              "rationale": "because there clearly will not be time to proceed on the previously-agreed timeline",
+              "effect": "affectsOnlyThisWorkgroup"
             },
             {
               "decision": "We decided that WGs with objections should ideally create a doc where they list the objections and give their responses",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because this will be easier to read and to reference than having the points as comments in the 'Responses' spreadsheet."
+              "rationale": "Because this will be easier to read and to reference than having the points as comments in the 'Responses' spreadsheet.",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We decided that the second-round consent process should only allow people to comment on objections that have already been raised, rather than raising completely new ones.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "We won't have time to address brand-new objections; it could end up as a never-ending cycle; and it is unfair to WGs to continue to allow new objections to be raised that were not mentioned earlier."
+              "rationale": "We won't have time to address brand-new objections; it could end up as a never-ending cycle; and it is unfair to WGs to continue to allow new objections to be raised that were not mentioned earlier.",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We agreed that it would be valid for someone who did not object to a WG in round 1 to rethink based on the objections raised by other people, and to say in Round 2 'Actually, I agree that such-and-such is a problem'.",
@@ -2424,15 +2435,9 @@
             },
             {
               "decision": "We decided that the consent form for Round 2 needs to be amended to reflect the above. It should list the existing objections to each WG and ask people to agree or disagree; and it should all be in 1 form, rather than requiring people to complete separate forms for each WG.",
-              "effect": "mayAffectOtherPeople",
-              "rationale": "Because the form as it currently is would allow people to introduce new objections, which we have aagreed would be undesireable."
+              "rationale": "Because the form as it currently is would allow people to introduce new objections, which we have aagreed would be undesireable.",
+              "effect": "mayAffectOtherPeople"
             }
-          ],
-          "discussionPoints": [
-            "Reading out all objections in the Q2 process",
-            "Approving Translation WG",
-            "Amending the timeline for the consent process",
-            "Changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections"
           ]
         }
       ],
@@ -2440,7 +2445,7 @@
         "topicsCovered": "consent process, Translation WG, objections, consent process timeline, timeline, consent form",
         "emotions": "slightly prickly, inconclusive, circular, slow"
       },
-      "type": "custom",
+      "type": "Custom",
       "noSummaryGiven": false,
       "canceledSummary": false,
       "noSummaryGivenText": "No Summary Given",
@@ -2477,7 +2482,7 @@
           ],
           "decisionItems": [
             {
-              "decision": "We agreed that in Thursday's meeting, we need further discussion of the following: Can we, in a Governance meeting, deem a particular objection invalid? Should the 2nd round consent form list each objection separately, or should we consolidate them? What does the 80/20% rule mean in practice in this context?",
+              "decision": "We agreed that in Thursday's meeting, we need further discussion of the following: - Can we, in a Governance meeting, deem a particular objection invalid?  - Should the 2nd round consent form list each objection separately, or should we consolidate them? - What does the 80/20% rule mean in practice in this context?",
               "rationale": "These issues were raised in today's meeting, but we didn't have time to reac firm conclusions.",
               "effect": "affectsOnlyThisWorkgroup"
             }
@@ -2538,7 +2543,7 @@
             {
               "decision": "We suggested that If a workgroup has objections, we'll work with them to find a solution instead of simply stating there's no budget.",
               "rationale": "It would be unsatisfactory to say that a workgroup doesn't exit for the quarter.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "There was a suggestion that we reduce expenses on Facilitating, documenting and on other tasks as well.",
@@ -2637,8 +2642,8 @@
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "We noted that a problem has arisen because some of the corrections made to meeting summaries haven't been added to the database, but are only showing up in the GitBook version of the Archive (because Vani accidentally made the changes in the wrong part of the summary tool interface). The database should be the 'source of truth', so André has created scripts to track the differences so they can be corrected. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/249   This also gives a way to see what kinds of things tend to get corrected when auditing summaries. Some are minor proofreading or formatting corrections, which are not  significant in terms of meaning; but others are factual or structural changes, which likely *would* affect how a graph RAG determines meaning. So we noted that it is useful to have these differences visible, for reference and to be able to see what kinds of things got corrected - so we will save these data examples to a repo for future reference.  We also noted that of course this auditing process will no longer be done in Q2, because we have decided to NOT correct meeting summaries at all in Q2 as an experiment.   We may find that using a graph-based process to interrogate the Archives will mean that most of the errors that people make in summaries do not matter much, and the graph process will still enable us to extract meaning even if people are not confident documenters, and our uncorrected summaries are factually inaccurate (as many of them are). So by the end of Q2 2025, we will want to check whether we see any substantial difference between Q2 data (which will be uncorrected) and the rest of the Archives. If we *don't* see this, however, then being able to see the kinds of corrections that were made in previous Quarters will be useful.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "decision": "We noted that a problem has arisen because some of the corrections made to meeting summaries haven't been added to the database, but are only showing up in the GitBook version of the Archive (because Vani accidentally made the changes in the wrong part of the summary tool interface). The database should be the 'source of truth', so André has created scripts to track the differences so they can be corrected. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/249   This also gives a way to see what kinds of things tend to get corrected when auditing summaries. Some are minor proofreading or formatting corrections, which are not  significant in terms of meaning; but others are factual or structural changes, which likely *would* affect how a graph RAG determines meaning. So we noted that it is useful to have these differences visible, for reference and to be able to see what kinds of things got corrected - so we will save these data examples to a repo for future reference.  We also noted that of course this auditing process will no longer be done in Q2, because we have decided to NOT correct meeting summaries at all in Q2 as an experiment.  We may find that using a graph-based process to interrogate the Archives will mean that most of the errors that people make in summaries do not matter much, and the graph process will still enable us to extract meaning even if people are not confident documenters, and our uncorrected summaries are factually inaccurate (as many of them are). So by the end of Q2 2025, we will want to check whether we see any substantial difference between Q2 data (which will be uncorrected) and the rest of the Archives. If we *don't* see this, however, then being able to see the kinds of corrections that were made in previous Quarters will be useful.",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We noted that in March, Stephen has continued with writing a GitHub app token generator - see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/252.",
@@ -2647,7 +2652,7 @@
             },
             {
               "decision": "We noted that André and Vani met in March to wrap up work on the tag taxonomy project; Vani is currently correcting a final list of tags for topics and emotions, and we have agreed to dispense with the 'Other' tag category in the final tool redesign, as people have tended not to use it in very useful ways.  We have agreed on minimal editing of the controlled vocab - we're only removing obvious duplicates and misspellings - because we don't want to overdetermine similarity. Two tags that appear superficially similar might have very different connotations for the individual who created them - so we will try to preserve those differences, and see what a graph RAG process makes of it.  We noted that this lays the groundwork for what can be analysed later, using techniques such as proximity, semantic similarity, rarity of a tag, and co-occurence of tags (for example if a particular person's name/presence in a meeting is often correlated with a particular emotion tag, such as 'organised'). Also we noted that, particularly with negative emotions, the fact that a meeting was not tagged with a particular emotion doesn't necessarily mean that the emotion wasn't there - often, a problem needs to become really severe before someone will tag a summary with (for example) 'aggressive' or 'silencing', and there could be a buildup over several (untagged) meetings which led to it. Subject to funding, we could use our tag taxonomy as a basis for future community analysis of the topology of emotions and topics that has been identified in meetings.  There is also an ethical dimension to this - asking 'is AI drawing the correct conclusions?' and giving the community some ownership of the conclusions that are drawn  - which we will be able to examine.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "An extra WG Sync call on Mon 7th April will focus on collaborations between the Ambassador Program and sNET spinoffs/partners.   We added info on our past collabs and hoped-for future collabs in https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing - particularly looking at sharing our recordkeeping tooling with other organisations - and we'll attend the meeting to discuss.",
@@ -2655,17 +2660,13 @@
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "We will post in Discord to remind people that time limit to submit a summary, after which it will be recorded as 'no summary given', is one month after the date of the meeting.`",
-              "effect": "affectsOnlyThisWorkgroup"
-            },
-            {
-              "decision": "We discussed how to manage low token price in general.   Suggestions included drawing down (say) half of the overall Ambassador budget for a Quarter and converting it to a stablecoin, in order to give more stability and balance it with risk; asking the community how much risk they want to take (i.e. should it be half, or less, or more?) And the idea of not restricting our holdings to just AGIX.  These ideas will be added to the 'Low-Budget Brainstorm' Miro board https://miro.com/app/board/uXjVISH_ACg=/ for discussion in Governance WG.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "decision": "We will post in Discord to remind people that time limit to submit a summary, after which it will be recorded as 'no summary given', is one month after the date of the meeting.` - We discussed how to manage low token price in general.  Suggestions included drawing down (say) half of the overall Ambassador budget for a Quarter and converting it to a stablecoin, in order to give more stability and balance it with risk; asking the community how much risk they want to take (i.e. should it be half, or less, or more?) And the idea of not restricting our holdings to just AGIX.  These ideas will be added to the 'Low-Budget Brainstorm' Miro board https://miro.com/app/board/uXjVISH_ACg=/ for discussion in Governance WG.",
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We discussed the proposal that the Archives team has submitted to the BGI Nexus funding round and invited people to vote: see  https://deepfunding.ai/proposal/ethical-ai-auditing-a-practice-based-approach/  We noted that in the event that this work *doesn't* get funded in the BGI Nexus round, we will still want to find a way to do it - although this will be limited by budget constraints if we try to do it as part of the Workgroup.",
               "rationale": "We now have a lot of data in the Archives, and want to look at how we ethically process and interrogate that data, and how we engage the community who 'owns' a dataset (in this case the Ambassador Program) with analysing and verifying the insights that an AI  might give about it - in other words, looking at AI's conclusions and developing the critical thinking to assess how accurate they are.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             }
           ],
           "actionItems": [
@@ -2747,7 +2748,7 @@
             {
               "decision": "All the WGs' budgets are now approved",
               "rationale": "because they all met the approval threshold of no more than 20% objection (not counting abstentions)",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "Where appropriate, we will add the issues raised in the consent form comments to the GovWG agenda for discussion in future meetings",
@@ -2801,7 +2802,7 @@
         "typeOfMeeting": "Weekly",
         "date": "2025-03-27",
         "host": "PeterE",
-        "documenter": "CallyFromAuron",
+        "documenter": "Kateri, CallyFromAuron",
         "peoplePresent": "advanceameyaw, Alfred, AshleyDawn, CallyFromAuron, Clement Umoh, Évéline Trinite, guillermolucero, Jeffrey, Kateri, LadyTempestt, LordKizzy, martinsoki, Mikasa, PeterE, Sucre n Spice, UknowZork",
         "purpose": "Weekly Open Governance meeting",
         "workingDocs": [
@@ -2823,17 +2824,17 @@
           "decisionItems": [
             {
               "decision": "We will ask objectors to review the shared documentation (WGs will each write a document addressing the objections they have received) before the 2nd consent round opens, and formally withdraw objections if they feel the issues have been resolved.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "The 2nd round consent form will ask people to consent, object or abstain to a Workgroup budget as a whole, before asking for their views on the individual objections from Round 1.",
               "rationale": "Will be clearer, and will allow people to consent overall, even if they feel that some of the objections are still a concern.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We will keep the different objections separate, and ask people which ones, if any, they think are a problem.",
               "rationale": "This will enable us to identify which objections need to be discussed further (in general terms, rather than in relation to whether or not a WG gets its budget) once the consent process is over.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We are not going to rule any objections invalid",
@@ -2842,7 +2843,7 @@
             },
             {
               "decision": "The 80-20% rule means a Workgroup will pass unless **more than 20%** of those taking part object. As always, the 'number taking part' excludes abstainers",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             }
           ],
           "actionItems": [
@@ -2976,7 +2977,7 @@
               "effect": "affectsOnlyThisWorkgroup"
             },
             {
-              "decision": "Budget-fitting: we agreed that for Q2 2025, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking.",
+              "decision": "Budget-fitting: we agreed that for Q2 2025, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking.  If token price does rise significantly, we will aim to also do some new interviews.  If by the time of our May meeting, token price is still below $0.20, then we will likely need to make even more cuts, as the proposed fitted budget assumes an exchange rate of $0.20",
               "rationale": "We see the collecting and processing of research data as a priority - so for now, our main focus will be on transcribing and finishing as many of the existing interviews as we can, so that we have some finished data to work with; and if token price goes up significantly, we will add new interviews.",
               "opposing": "No-one is entirely happy about these cuts, but needs must.",
               "effect": "affectsOnlyThisWorkgroup"
@@ -2984,7 +2985,7 @@
             {
               "decision": "Colleen, in her role as community organiser, will be organising a community discussion session on 'AI and emotion' as soon as possible",
               "rationale": "This will be covered by the $100 left in the budget for the 'community engagement' role. This is a 'hot topic' which we see as valuable to discuss.",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             }
           ],
           "actionItems": [
@@ -3246,7 +3247,7 @@
         "date": "2025-04-04",
         "host": "Ayo",
         "documenter": "martinsoki",
-        "peoplePresent": "advanceameyaw, Ayo, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, martinsoki, Mikasa, PeterE, photogee, UknowZork, Zainab",
+        "peoplePresent": "advanceameyaw, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, Mikasa, PeterE, photogee, UknowZork, Zainab",
         "purpose": "Marketing Guild weekly meeting",
         "workingDocs": [
           {
@@ -3357,7 +3358,7 @@
         "date": "2025-04-11",
         "host": "Ayo",
         "documenter": "martinsoki",
-        "peoplePresent": "advanceameyaw, Ayo, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, martinsoki, Max Milez, PeterE, photogee, SubZero, Udoma Obu, UknowZork",
+        "peoplePresent": "advanceameyaw, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, Max Milez, PeterE, photogee, SubZero, Udoma Obu, UknowZork",
         "purpose": "Marketing Guild weekly meeting",
         "workingDocs": [
           {
@@ -3457,7 +3458,7 @@
         "date": "2025-04-18",
         "host": "Ayo",
         "documenter": "martinsoki",
-        "peoplePresent": "AJ, Ayo, Eric Davies, esewilliams, Évéline Trinité, kareem, Kateri, kenichi, LordKizzy, martinsoki, photogee, SubZero, UknowZork",
+        "peoplePresent": "AJ, Eric Davies, esewilliams, Évéline Trinité, kareem, Kateri, kenichi, LordKizzy, photogee, SubZero, UknowZork",
         "purpose": "Marketing Guild weekly meeting",
         "workingDocs": [
           {
@@ -3609,7 +3610,7 @@
           "decisionItems": [
             {
               "decision": "Focus on improving the guiding Knowledge Base users",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             }
           ],
           "actionItems": [
@@ -3639,7 +3640,7 @@
           "decisionItems": [
             {
               "decision": "This quarter, we will collect material without templates and publicity, but collect information that the selected leads choose to add to GitBook",
-              "effect": "affectsOnlyThisWorkgroup"
+              "effect": "mayAffectOtherPeople"
             },
             {
               "decision": "We agreed that short tutorial videos will be created by members of the Knowledge Base Workgroup who are both willing and familiar with the content. If additional support is needed, we'll follow the [Video Workgroup's commissioning process](https://snet-ambassadors.gitbook.io/home/workgroups-space/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup) to request assistance.",
@@ -3682,7 +3683,7 @@
         "date": "2025-04-09",
         "host": "Slate",
         "documenter": "Slate",
-        "peoplePresent": "AshleyDawn, frosh, Gorga Siagian, hogantuso, Slate, UKnowZork, Zalfred",
+        "peoplePresent": "AshleyDawn, frosh, Gorga Siagian, hogantuso, UKnowZork, Zalfred",
         "purpose": "Greetings after holidays - Updates from presentation series - LLM Showcase - Process Doc for certification program - token price impact and move forward",
         "workingDocs": [
           {
@@ -3742,7 +3743,7 @@
         "date": "2025-04-16",
         "host": "Slate",
         "documenter": "Slate",
-        "peoplePresent": "AshleyDawn, esewilliams, eve, Gorga Siagian, hogantuso, kenichi, Malik, osmium, Slate, Zalfred",
+        "peoplePresent": "AshleyDawn, esewilliams, eve, Gorga Siagian, hogantuso, kenichi, Malik, osmium, Zalfred",
         "purpose": "CCCP Discussion - Presentation Series Discussion - Malik Presentation From Gamers Guild"
       },
       "agendaItems": [
@@ -3792,7 +3793,7 @@
         "date": "2025-04-23",
         "host": "Slate",
         "documenter": "Slate",
-        "peoplePresent": "esewilliams, frosh, Gorga Siagian, hogantuso, LordKizzy, osmium, Slate, smilez, UKnowZork, Zalfred",
+        "peoplePresent": "esewilliams, frosh, Gorga Siagian, hogantuso, LordKizzy, osmium, smilez, UKnowZork, Zalfred",
         "purpose": "module adjustments - Zalfred Presentation on Canvas LMS - portfolio form"
       },
       "agendaItems": [
@@ -4075,7 +4076,7 @@
         "date": "2025-03-21",
         "host": "kenichi",
         "documenter": "CJFrankie",
-        "peoplePresent": "kenichi, Mikasa, CJFrankie, Gorga Siagian, devon, Evelyn, inesgav, LadyTempestt, AJ",
+        "peoplePresent": "AJ, CJFrankie, devon, Evelyn, Gorga Siagian, inesgav, kenichi, LadyTempestt, Mikasa",
         "purpose": "The weekly meeting of the writers workgroup",
         "workingDocs": [
           {
@@ -4083,8 +4084,8 @@
             "link": "1FAIpQLSethRUYdbTEJoKv7nPu8APhf6ECpRtwhN23TOzYrIBA9vLALQ"
           },
           {
-            "link": "https://docs.google.com/document/d/1p76mxmbZp3raZixJwQnlsvg7kCyGjBYFvHHLWk9OwfA/edit?usp=sharing",
-            "title": "WWG Role Document V1"
+            "title": "WWG Role Document V1",
+            "link": "https://docs.google.com/document/d/1p76mxmbZp3raZixJwQnlsvg7kCyGjBYFvHHLWk9OwfA/edit?usp=sharing"
           }
         ]
       },
@@ -4094,26 +4095,23 @@
           "narrative": "Kick-off: The writers' workgroup weekly meeting commenced at 3:10 p.m. Kenichi reviewed the action items from the previous meeting. He announced that the Twitter premium plan had been activated and that the monthly Town Hall updates from January would be the first publication on X. Furthermore, he stated that the Web3 publishing platforms require additional attention and, to that end, requested that Cj Frankie and Gorga submit their first drafts.  DRAFTS: As agreed in the previous meeting, article suggestions will now be submitted via spreadsheet. In this meeting, Kenichi demonstrated the new draft submission form, which streamlines the process. Writers can now suggest articles, include submission and preferred publication dates, and provide other relevant information. The form's integration with a Google Sheet simplifies tracking for the workgroup. Ines also recommended considering tools like Trello to further enhance workflow. Both Scribblers and Scribes will have access to the submission form. Once a draft is approved, the Scribes will submit it to the community page. Kenichi will coordinate with Peter to pin the form link to the WWG Discord channel for easy access.  Role document: Ines inquired about the new role document and its associated thresholds. Kenichi clarified that the document will be accessible this Quarter, and there will be no penalties for not meeting any outlined expectations. The document's purpose is to track Scribblers' progress over time, enabling the workgroup to make informed decisions, such as whether or not to onboard new members.  Ambassador Program website: In this meeting, Ines proposed the idea of creating a platform or WordPress for the workgroup, where all information about what we do can be easily accessed. Kenichi then revealed that he is collaborating with the R&D guild to develop an Ambassador Program website, which will house comprehensive information about all workgroups, each of which will have a dedicated page with updated access.",
           "actionItems": [
             {
-              "status": "todo",
-              "dueDate": "28 February 2025",
               "text": "Kenichi to chase Peter to pin the draft submission form in the WWG Discord channel.",
-              "assignee": "kenichi"
+              "status": "todo",
+              "assignee": "kenichi",
+              "dueDate": "28 February 2025"
             }
-          ],
-          "learningPoints": [
-            ""
           ]
         }
       ],
-      "type": "custom",
-      "noSummaryGiven": false,
-      "canceledSummary": false,
-      "noSummaryGivenText": "No Summary Given",
-      "canceledSummaryText": "Meeting was cancelled",
       "tags": {
         "topicsCovered": "Ambassador Program website, R&D guild, Twitter/X Premium, article submission form, roles",
         "emotions": "Brief"
-      }
+      },
+      "type": "Custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
     }
   ]
 }
