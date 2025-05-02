@@ -40360,7 +40360,7 @@
       "date": "2024-12-09",
       "host": "CollyPride",
       "documenter": "CallyFromAuron",
-      "peoplePresent": "CollyPride, CallyFromAuron, LadyTempestt, PeterE, EstherG, AshleyDawn, Mikasa, advanceameyaw, Gorga Siagian, osmium",
+      "peoplePresent": "advanceameyaw, AshleyDawn, CallyFromAuron, CollyPride, EstherG, Gorga Siagian, LadyTempestt, Mikasa, osmium, PeterE",
       "purpose": "One-off meeting, called by AI Ethics WG, to discuss Ambassador Program attendance at events and conferences",
       "workingDocs": [
         {
@@ -40371,24 +40371,15 @@
           "title": "2025 AI Conventions Discussion Agenda  _ 12092024",
           "link": "https://docs.google.com/document/d/1m89jxkScjBXxcw8l6IoozSF2VOG_g-oLyTpHt_dFkJI/edit?usp=sharing"
         }
-      ],
-      "timestampedVideo": {}
+      ]
     },
     "agendaItems": [
       {
         "status": "carry over",
         "narrative": "We discussed: 1. What are we trying to achieve by attending conferences? And what should we be doing there? 2. How does it get funded? 3. What kinds of events should we prioritise? (particular topics? virtual or IRL?)  4. How should we make the decision on who goes where? 5. How do we track the outcomes?  On 1, we came up with a list of key aims (see 'Decisions' below), and noted that these should influence what kinds of events we attend. We also discussed possible outputs: including the idea of short, vox-pop type videos on core questions about AI (similar to what was done in Panama). We noted that these could be shared on social media, and could help publicise sNET's ideas. We noted that, due to the lack of a robust consent process, such videos wouldn't be admissible as primary source material for BeGIN's research; but perhaps, if shared on social media, they could constitute secondary source material on people's opnions on AI-related questions.  On 2,  - Esther noted that depending on the type of event, the Foundation might be willing to fund conference attendance sometimes - We discussed whether and when Ambassador Program reserves should be used (see 'decisions' below - we suggested that perhaps there should be a cap/maximum per person that we should spend. - other suggestions on funding were that 'plus-1's shouldn't be covered, nor should staying longer than the length of the conference, and if someone wants to return to a different airport than they departed from, this should only be permitted up to original costs of one-way.  On 3 and 4, we didn't decide definitely what types of event are most important; but suggestions included  - a) Events that discuss decentralization, particularly in AI, but also in web3 communities as a whole - b) Events that discuss AI and AGI  - c) Events that discuss AI ethics issues (rather than events about business, or trade shows, etc) - d) Virtual events, for 'carbon footprint' and cost reasons;  - e) Twitter spaces and similar, as well as major conferences  - f) Events in places where we have a lot of people - for example, West Africa - or in places that we have regional focus (Latin America, Africa) - g) Selection of who attends should be at least partly based on who is nearby, to minimise travel costs - but that this would have to be coupled with looking for events in places where we have a lot of people. - h) We raised the issue of whether we could push for BGI-25 to be in an African country; but the location has already been almost selected for this year (still confidential), so perhaps we could lobby for an African location in 2026.  On 5, we noted that we should track results based on the specific event; we should set specific objectives based on our list of core reasons to attend (see 'decisions' below); but we might want to steer away from rigidly quantitative KPIs, and focus more on an assessment of meaningful outcomes (For examplerather than counting how many people we speak to, attendees should try to give an honest assessment of how useful they thought it was). We noted that attendees might have a tendency to exaggerate the value of attending; and we discussed the need to make it possible to say 'it wasn't useful' if it wasn't, and capture information from attendees on how we could make it better. We discussed asking attendees to write up a short summary evaluation of their attendance at an event (what went well, less well, what they learnt, how we can learn from any failures) which could be added to the Archives and referred to ahead of the next event.  We agreed that the question of tracking results needs further discussion.  We noted that different WGs might take a lead on different aspects of planning, depending on the nature of an event. We also mentioned the issue of how to decide who is able to (for example) represent the Ambassador Program at an event, and the possibility of mentorship to help people do this. (Twitter spaces could be a way to develop this.)",
-        "actionItems": [
-          {
-            "status": "todo",
-            "text": "Small 'task force' to meet later this week, and ideate on how to decide whether Ambassador reserves should be used to fund attendance at a conference",
-            "assignee": "PeterE, osmium, guillermolucero, CallyFromAuron",
-            "dueDate": "13 December 2024"
-          }
-        ],
         "decisionItems": [
           {
-            "decision": "Agreed the main things we are trying to achieve will vary according to the details of the event; and are (in no particular order):   \t1) Funnelling developers to DF (in collab with DF Developer Outreach Circle, ideally) \t2) Doing research interviewing for BeGIN Nexus \t3) Regional engagement (might mean we should prioritise events in Latin America and Africa?) \t4) Presenting on the stage about sNET \t5) Shouting about sNET's mission and vision!",
+            "decision": "Agreed the main things we are trying to achieve will vary according to the details of the event; and are (in no particular order):  1) Funnelling developers to DF (in collab with DF Developer Outreach Circle, ideally) 2) Doing research interviewing for BeGIN Nexus 3) Regional engagement (might mean we should prioritise events in Latin America and Africa?) 4) Presenting on the stage about sNET 5) Shouting about sNET's mission and vision!",
             "rationale": "This list of objectives might change in the longer term, but for now it's the main things we can do effectively",
             "opposing": "Not an opposing argument, but we noted that this list should influence what kinds of events we choose to attend.",
             "effect": "mayAffectOtherPeople"
@@ -40413,6 +40404,14 @@
             "rationale": "to build people's confidence that they know what to say, what issues to emphasise, how to respond to likely questions, etc.",
             "effect": "mayAffectOtherPeople"
           }
+        ],
+        "actionItems": [
+          {
+            "text": "Small 'task force' to meet later this week, and ideate on how to decide whether Ambassador reserves should be used to fund attendance at a conference",
+            "status": "todo",
+            "assignee": "PeterE, osmium, guillermolucero, CallyFromAuron",
+            "dueDate": "13 December 2024"
+          }
         ]
       }
     ],
@@ -40422,7 +40421,9 @@
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Gamers Guild",
@@ -40586,33 +40587,25 @@
       "date": "2024-12-10",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
-      "peoplePresent": "PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, FroshFX",
+      "peoplePresent": "AshleyDawn, CallyFromAuron, CollyPride, FroshFX, PeterE, Sucre n Spice",
       "purpose": "Weekly GovWG Meeting",
       "workingDocs": [
         {
           "title": "Governance calls, rolling agenda",
           "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
         }
-      ],
-      "timestampedVideo": {}
+      ]
     },
     "agendaItems": [
       {
         "status": "carry over",
         "narrative": "Most of the meeting was taken up with reviewing the topics still on the rolling agenda, and deciding what to cover in January. Our agreed agenda is:  - Tuesday January 7th - Why did those who did not take part, not take part? Results of Peter DMing non participants. And: Does the Foundation/the decision makers fully know what the Ambassador Program does? How to make them aware? Among others: End of year report  - Thurs 9th Jan: Compulsory participation in governance - yes or no (for individual Core Contributors) (for WGs)? Also - penalties for WGs for not taking part in governance, yes/no?   - Tues 14th Jan: Retrospective on Q1 2025 process   - Thurs 16th Jan: WG budget cap - processes around it, how to change your cap?  - Tues 21st Jan: WG autonomy/ New WGs?/Outputs. This covers: Process for starting new WGs? And merging WGs???  how do we determine which WGs are producing 'valuable' outputs - or do we? CAN there be an objective standard on this, or is it a matter of opinion? WG autonomy as a principle? (this links to the above, and to validity of objections).  Increasing numbers vs, non-increasing Program budget People's capability and whether/how we assess it / Should WGs train people?  (already started discussion, see Governance WorkGroup Session 30th July 2024)  - Thurs 23rd Jan: As above, continued  - Tues 28th Jan: Self nomination to Core Contrib status - yes or no?- (was briefly discussed on 21st Nov 2024, but no consensus, so discuss again at a later date.), Must a Core Contributor have a wallet - yes or no? and Is everyone happy with Core Contributor criteria?  - Thurs 30th Jan: Anonymity in the decisionmaking process - yes or no??  February: Looking at other decisionmaking processes besides consent - we said that we would do this in Q1, but will do it if it is agreed that we still want to. Could do it just as education rather than with a view to changing our process",
-        "actionItems": [
-          {
-            "text": "Peter to DM those who didnt take part to ask why they didn't, and if they have any feedback on the process.",
-            "assignee": "PeterE",
-            "dueDate": "20 December 2024",
-            "status": "todo"
-          },
-          {
-            "text": "Peter to start a document where WGs can add suggested material for an End Of Year Report",
-            "assignee": "PeterE",
-            "dueDate": "12 December 2024",
-            "status": "todo"
-          }
+        "discussionPoints": [
+          "Agenda items for January.",
+          "Differentiating Tues and Thurs meetings.",
+          "Retrospective session on the Q1 2025 budget decision.",
+          "Why some core contributors don't take part in the consent process.",
+          "WG Sync call."
         ],
         "decisionItems": [
           {
@@ -40635,7 +40628,7 @@
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "We agreed that we will do more to encourage people to add topics to the rolling agenda:  1) we will mention it more often at Town Hall  2) we will post in the Governance Discord channel on a Monday, to say what the Tuesday meeting topic is, and to invite topics for Thursday",
+            "decision": "We agreed that we will do more to encourage people to add topics to the rolling agenda: 1) we will mention it more often at Town Hall 2) we will post in the Governance Discord channel on a Monday, to say what the Tuesday meeting topic is, and to invite topics for Thursday",
             "rationale": "To try to ensure that Thurs meetings are more responsive and open",
             "effect": "affectsOnlyThisWorkgroup"
           },
@@ -40650,22 +40643,31 @@
             "effect": "mayAffectOtherPeople"
           }
         ],
-        "discussionPoints": [
-          "Agenda items for January",
-          "Differentiating Tues and Thurs meetings",
-          "Retrospective session on the Q1 2025 budget decision",
-          "Why some core contributors don't take part in the consent process",
-          "WG Sync call"
+        "actionItems": [
+          {
+            "text": "Peter to DM those who didnt take part to ask why they didn't, and if they have any feedback on the process.",
+            "status": "todo",
+            "assignee": "PeterE",
+            "dueDate": "20 December 2024"
+          },
+          {
+            "text": "Peter to start a document where WGs can add suggested material for an End Of Year Report",
+            "status": "todo",
+            "assignee": "PeterE",
+            "dueDate": "12 December 2024"
+          }
         ]
       }
     ],
     "tags": {
-      "emotions": "quiet, focused",
-      "topicsCovered": "participation, consent process, core contributors, agenda creation, inclusion, Workgroup sync call, holidays, Christmas, retrospective, Q1 2025 budget decision, workgroup autonomy, budget caps"
+      "topicsCovered": "participation, consent process, core contributors, agenda creation, inclusion, Workgroup sync call, holidays, Christmas, retrospective, Q1 2025 budget decision, workgroup autonomy, budget caps",
+      "emotions": "quiet, focused"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Research and Development Guild",
@@ -40803,8 +40805,8 @@
       "date": "2024-12-11",
       "host": "Slate",
       "documenter": "Slate",
-      "peoplePresent": "Gorga Siagian, esewilliams, AshleyDawn, Franklynstein, Kateri, Zalfred, hogantuso, frosh, tuso, AndrewBen",
-      "purpose": "Website / Wiki Integration Updates - AI For Beginners Discussion",
+      "peoplePresent": "AndrewBen, AshleyDawn, esewilliams, Franklynstein, frosh, Gorga Siagian, hogantuso, Kateri, Zalfred",
+      "purpose": "Regular weekly meeting of Education Guild, covering: Website / Wiki Integration Updates; AI For Beginners Discussion",
       "workingDocs": [
         {
           "title": "Ai for Beginners Team",
@@ -40820,36 +40822,28 @@
           "AI For Beginners Discussion",
           "Holidays"
         ],
-        "actionItems": [
-          {
-            "text": "Franklyn to work on Logo",
-            "assignee": "Franklynstein",
-            "dueDate": "18 December 2024",
-            "status": "in progress"
-          },
-          {
-            "text": "Franlyn to start the development process for the site",
-            "assignee": "Franklynstein",
-            "dueDate": "18 December 2024",
-            "status": "in progress"
-          },
-          {
-            "text": "Ese to post the submission for votes in the guild channel",
-            "assignee": "esewilliams",
-            "dueDate": "18 December 2024",
-            "status": "in progress"
-          }
+        "discussionPoints": [
+          "Slate started the meeting by greeting everyone.",
+          "After the introduction, the meeting started with some random topics of discussion.",
+          "Then the meeting set off with updates from the website and wiki integration. Gorga and Franklyn showcased the website design, on which everyone's opinion was taken.",
+          "Slate mentioned that the nav bar should have certification dashboard along with the integration of the live sheet to it, with the bar hovering on each screen.",
+          "The logo was mentioned to change as it didn't entailed anything, so franklyn is going to rework the logo for the website.",
+          "Then the design for the website was finalized, and will soon be put to production by Franklyn.",
+          "Then we discussed the Ai For Beginners project, on which there were multiple questions from Zalfred and Tuso which were cleared up by Ese.",
+          "Zalfred had a question regarding the review team for the certification program; Slate said that the next production for resources for the program will be starting from next quarter.",
+          "At the end there was a vote to decide whether Education Guild should go on holidays or not, on which majority agreed on going to holidays. The next meeting for Education Guild will be on 8th January."
         ],
         "decisionItems": [
           {
             "decision": "Website Design Finalized",
-            "rationale": "mostAgreed",
-            "effect": "mayAffectOtherPeople"
+            "rationale": "most people agreed",
+            "effect": "affectsOnlyThisWorkgroup"
           },
           {
             "decision": "Education Guild Logo should be reiterated",
             "rationale": "everyone agreed",
-            "opposing": "nil"
+            "opposing": "nil",
+            "effect": "affectsOnlyThisWorkgroup"
           },
           {
             "decision": "Holidays till 8th of January",
@@ -40858,26 +40852,37 @@
             "effect": "affectsOnlyThisWorkgroup"
           }
         ],
-        "discussionPoints": [
-          "Slate started the meeting greeting everyone",
-          "After the introduction, the meeting started with some random topics of discussion",
-          "Then afterwards, the meeting set off with the updates from the website and wiki integration, on which gorga and franklyn showcased the website design , on which everyone's opinion was taken",
-          "Slate mentioned that the nav bar should have certification dashboard along with the integration of the live sheet to it with the bar hovering on each screen",
-          "Logo was mentioned to change as it didn't entailed anything so franklyn is going to reworking on the logo for the website",
-          "Then after that the design for the website was finalized , and will soon be put to production by franklyn",
-          "AFter the first update the discussion regarding the Ai For Beginners Project started, on which there were multiple questions from zalfred and tuso which were cleared out by ese.",
-          "Zalfred had question regarding the review team for the certification program , which were cleared out by Slate that the next production for resources for the program will be starting from next quarter.",
-          "At the end there was a vote to decide whether education guild should go on holidays or not, on which majority agreed on going to holidays and the next meeting for education guild will be on 8th of January."
+        "actionItems": [
+          {
+            "text": "Franklyn to work on Logo",
+            "status": "in progress",
+            "assignee": "Franklynstein",
+            "dueDate": "18 December 2024"
+          },
+          {
+            "text": "Franklyn to start the development process for the website",
+            "status": "in progress",
+            "assignee": "Franklynstein",
+            "dueDate": "18 December 2024"
+          },
+          {
+            "text": "Ese to post the submission for votes in the guild Discord channel",
+            "status": "in progress",
+            "assignee": "esewilliams",
+            "dueDate": "18 December 2024"
+          }
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "CCCP, announcement, sugestion , website, Aiforbeginners, design, Task Assignment",
-      "emotions": "productive,  Collaborative, Businesslike."
+      "topicsCovered": "CCCP, certification, certification program, Wiki, Education website, website design, logo, Ai For Beginners, Task Assignment, review, integration, holidays",
+      "emotions": "productive,  Collaborative, Businesslike"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Governance Workgroup",
@@ -40887,7 +40892,7 @@
       "date": "2024-12-12",
       "host": "PeterE",
       "documenter": "CallyFromAuron",
-      "peoplePresent": "PeterE, CallyFromAuron, CollyPride, AshleyDawn, Sucre n Spice, LadyTempestt, Duke, osmium, Effiom, Gorga Siagian, CJFrankie",
+      "peoplePresent": "AshleyDawn, CallyFromAuron, CJFrankie, CollyPride, Duke, Effiom, Gorga Siagian, LadyTempestt, osmium, PeterE, Sucre n Spice",
       "purpose": "Monthly WG Sync call: aiming to support inter-WG collaboration",
       "workingDocs": [
         {
@@ -40902,20 +40907,17 @@
           "title": "form for feedback on individual WGs",
           "link": "https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform"
         }
-      ],
-      "timestampedVideo": {}
+      ]
     },
     "agendaItems": [
       {
         "status": "carry over",
         "narrative": "The meeting had a slow start, with only a few people in the call at the beginning; but eventually was quite well attended.  End-Of-Year Feedback We agreed to send out a Google Form to all workgroups, asking what they think the content of these WG Sync calls should be in future. Questions: 1) Did you attend any of the WG Sync calls in 2024? Why/why not? 2) What type of topics would you ideally discuss during this monthly WG Syncing call? Options: - Sharing best practices - Collaborative efforts/shared initiatives that all WGs could take part in - Tooling - Resolving conflicts between WGs - Resolving conflicts between individuals - Discussing any issues or problems with the Program as a whole - Addressing any responses to the standing Ambassador Program feedback forms - Other 3) Which topics do you think should NOT be part of the WG Syncing call, but addressed elsewhere?   Existing Ambassador Program feedback forms We noted that there are 2 existing feedback forms - one on the Program as a whole https://docs.google.com/forms/d/e/1FAIpQLSee0oIRpKd2I9tlqt_-QxQMK_wdZNHlmM9BqG61jWy2W8QhWw/viewform, and one for specific WGs https://docs.google.com/forms/d/e/1FAIpQLSckE_kso56kdeJfYcfEezAzKJzcTqFJ6Ej9yySalpMN7SL1uw/viewform. We suggested that we should check to see if they are still useful and worded in a way that is meaningful; if so, they should be monitored; and that the WG Sync call could be a good place for any issues raised to be discussed.   WG Sync rolling agenda We noted that there is a rolling agenda doc for these meetings, but it isn't getting used much; perhaps we need to publicise it more, e.g. in Town Halls and in Discord.   Ambassador Program Reserves We had a discussion about the Ambassador Program's financial reserves, and what they might be spent on.  Peter confirmed that the Program itself does have a large reserve, which is separate from the reserves of individual WGs. We noted that there was a meeting earlier this week https://snet-ambassadors.gitbook.io/singularitynet-archive/timeline/2024/december-2024/week-50#ai-ethics-wg to discuss the issues around the Ambassador Program attending events, which touched on whether event attendance should be paid for by using reserves; and a 'task group' is going to meet on Friday to discuss this specifically; but there are likely other things that people might want reserves to be spent on. A quick brainstorm suggested the following:     - Resurrect the 'New ideas'  budget?     - Training, skillsharing,  mentorship - including coaching e.g. for presenting at events and Twitter spaces? and pairing ambassadors with experts, offer one on one coaching sessions?     - Resurrect the podcast? Or move more towards X spaces instead?     - Research/interviewing people about AI-related topics?     - Organising our own events,as well as attending those organised by others?     - Make a commercial? We agreed that these and other ideas will need to be discussed further.",
-        "actionItems": [
-          {
-            "status": "todo",
-            "text": "Peter will create a Googleform for WGs to give feedback on the WG Sync calls, and what kinds of things they should cover in future",
-            "assignee": "PeterE",
-            "dueDate": "20 December 2024"
-          }
+        "discussionPoints": [
+          "End-of-year feedback / Getting input from all WGs on how these calls should be in future.",
+          "Existing Ambassador Program feedback forms.",
+          "WG Sync rolling agenda and how to publicise it.",
+          "Ambassador Program Reserves and how to spend them."
         ],
         "decisionItems": [
           {
@@ -40934,11 +40936,13 @@
             "effect": "mayAffectOtherPeople"
           }
         ],
-        "discussionPoints": [
-          "End-of-year feedback / Getting input from all WGs on how these calls should be in future",
-          "Existing Ambassador Program feedback forms",
-          "WG Sync rolling agenda and how to publicise it",
-          "Ambassador Program Reserves and how to spend them"
+        "actionItems": [
+          {
+            "text": "Peter will create a Googleform for WGs to give feedback on the WG Sync calls, and what kinds of things they should cover in future",
+            "status": "todo",
+            "assignee": "PeterE",
+            "dueDate": "20 December 2024"
+          }
         ]
       }
     ],
@@ -40948,7 +40952,9 @@
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Governance Workgroup",
@@ -41064,43 +41070,45 @@
       "date": "2024-12-13",
       "host": "Zalfred",
       "documenter": "LordKizzy",
-      "peoplePresent": "SubZero, Zalfred, AndrewBen, malik, lord kizzy, killy, frosh",
-      "purpose": "The meeting focused on weekly updates and tasks distribution",
-      "timestampedVideo": {}
+      "peoplePresent": "AndrewBen, frosh, killy, LordKizzy, malik, SubZero, Zalfred",
+      "purpose": "Weekly meeting of the Video Workgroup. The meeting focused on weekly updates and tasks distribution."
     },
     "agendaItems": [
       {
         "status": "carry over",
-        "actionItems": [
-          {
-            "text": "Zalfred to create review for the video suggestions",
-            "assignee": "Zalfred",
-            "status": "todo",
-            "dueDate": "20 December 2024"
-          }
+        "discussionPoints": [
+          "A quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress. UPDATE FROM THE SOCIAL MEDIA MANAGER:.",
+          "The Social Media manager, Andrew Ben, noted that he had undergone the training with Rojo and is currently catching up to speed on the activities. TOWN HALL UPDATES:.",
+          "Zalfred gave an update from the previous Town Hall (10th Dec), also pointing out that most Workgroups are currently on holidays. HOLIDAY AND VIDEO CREATION UPDATES:.",
+          "Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday after this call, returning on the 10th of January. He also noted that the workgroup will still keep creating content even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts. INTRODUCTION OF NEW MEMBER:.",
+          "There was a new attendee in the room (Frosh) who was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed."
         ],
         "decisionItems": [
           {
             "decision": "We decided to take a holiday from this call to return on the 10th of January 2025",
-            "rationale": "The workgroup activities will be on hold but content creation will still continue"
+            "rationale": "The workgroup activities will be on hold but content creation will still continue",
+            "effect": "affectsOnlyThisWorkgroup"
           }
         ],
-        "discussionPoints": [
-          "UPADTE FROM THE TASK MANAGER A quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress",
-          "Update from the Social Media manager, Andrew Ben noted that he had undergone the training with Rojo and is currently catching up to speed on the activities",
-          "Town hall updates: Zalfred gave the updates from the previous town hall, also pointing out that most Workgroups are currently on holidays.",
-          "Holiday and Video creation updates: Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday from this call and to return on the 10th of January, he also noted that the workgroup will still keep creating contents even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts",
-          "Introduction of new member: there was a new attendee in the room that was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed"
+        "actionItems": [
+          {
+            "text": "Zalfred to create review for the video suggestions",
+            "status": "todo",
+            "assignee": "Zalfred",
+            "dueDate": "20 December 2024"
+          }
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "Video Edit, Holidays",
-      "emotions": "Friendly, speedy , Collaborative"
+      "topicsCovered": "Video Edit, Holidays, New members",
+      "emotions": "Friendly, speedy, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Governance Workgroup",
@@ -41239,7 +41247,7 @@
       "date": "2024-12-16",
       "host": "Tevo",
       "documenter": "Tevo, CallyFromAuron",
-      "peoplePresent": "effiom, tevo, SubZero, CallyFromAuron",
+      "peoplePresent": "CallyFromAuron, effiom, SubZero, tevo",
       "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
       "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764607062092588&cot=10",
       "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
@@ -41278,54 +41286,19 @@
       {
         "agenda": "Guild Management",
         "status": "carry over",
-        "actionItems": [
-          {
-            "text": "Effiom to include hours to Dework Tasks",
-            "assignee": "Effiom",
-            "status": "todo"
-          },
-          {
-            "text": "Check up with Onize to learn how much she spent on drafting Treasury Proposal",
-            "assignee": "Onize",
-            "status": "todo"
-          },
-          {
-            "text": "Tevo to draft meeting Summary and upload in summary tool.",
-            "assignee": "Tevo",
-            "status": "todo"
-          },
-          {
-            "text": "Vani to review and publish in Discord",
-            "assignee": "CallyFromAuron",
-            "status": "todo"
-          },
-          {
-            "text": "Tevo to update Core Contributors in Discord",
-            "assignee": "Tevo",
-            "status": "todo"
-          },
-          {
-            "text": "Tevo to update Treasury Manager Configuration to automatically calculate AGIX rewards based on task points",
-            "assignee": "Tevo",
-            "status": "todo"
-          },
-          {
-            "text": "Draft Treasury Guild Quarter 1 Report",
-            "status": "todo"
-          },
-          {
-            "text": "Draft Treasury Guild Q2 Proposal",
-            "status": "todo"
-          },
-          {
-            "text": "Andre to update Quarter 1 2025 Budgets on Dashboard",
-            "assignee": "André",
-            "status": "todo"
-          }
+        "discussionPoints": [
+          "Reviewed Dework tasks.",
+          "Should we move to fixed AGIX rewards?",
+          "What are the upsides and downsides of fixed AGIX rewards?",
+          "How do we approach planning the next Quarter's Treasury Guild sessions?",
+          "What are the main topics of the next Quarter's Treasury Guild sessions?",
+          "[Treasury Guild Calendar on Miro Board] (https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601622292432&cot=14).",
+          "Who should be responsible for Q1 2025 Meeting preparations?",
+          "We checked Ambassador Program Q1 2025 Budgets for all Workgroups."
         ],
         "decisionItems": [
           {
-            "decision": "Treasury Guild will move to fixed AGIX Ratio rewards in Quarter 1",
+            "decision": "Treasury Guild will move to fixed AGIX Ratio rewards in Quarter 1 2025",
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
@@ -41333,62 +41306,99 @@
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "Notice! In Quarter 2, The Treasury Operators start to meet bi-weekly",
+            "decision": "Notice! In Quarter 2 2025, the Treasury Operators will start to meet bi-weekly",
             "effect": "mayAffectOtherPeople"
           },
           {
-            "decision": "Continue using the Meeting Summary rotation model that we started to experiment in Q4",
+            "decision": "We will continue using the Meeting Summary rotation model that we started to experiment in Q4 2024",
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "Tevo can continue supporting the Meeting Preparations and coordination",
+            "decision": "Tevo can continue supporting the meeting preparations and coordination",
             "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "The Ambassador Program Q1 Budgets are decided and approved.",
+            "decision": "The Ambassador Program Q1 Budgets are all decided and approved.",
             "effect": "mayAffectOtherPeople"
           }
         ],
-        "discussionPoints": [
-          "Reviewed Dework Tasks",
-          "Should we move to fixed AGIX rewards?",
-          "What are the upsides and downsides of fixed AGIX rewards?",
-          "How do we approach planning the next Quarter's Treasury Guild Sessions?",
-          "What are the main topics of the next Quarter's Treasury Guild Sessions?",
-          "[Treasury Guild Calendar on Miro Board] (https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601622292432&cot=14)",
-          "Who should be responsible for Q1 Meeting preparations?",
-          "Checked Ambassador Program Q1 Budgets"
+        "actionItems": [
+          {
+            "text": "Effiom to include his hours on his Dework Tasks",
+            "status": "todo",
+            "assignee": "Effiom"
+          },
+          {
+            "text": "Check up with Onize to learn how much time she spent on drafting Treasury Proposal for Q1 2025",
+            "status": "todo",
+            "assignee": "Onize"
+          },
+          {
+            "text": "Tevo to draft meeting summary and upload in summary tool.",
+            "status": "todo",
+            "assignee": "Tevo"
+          },
+          {
+            "text": "Vani to review and publish in Discord",
+            "status": "todo",
+            "assignee": "CallyFromAuron"
+          },
+          {
+            "text": "Tevo to update who has Core Contributor tag in Discord",
+            "status": "todo",
+            "assignee": "Tevo"
+          },
+          {
+            "text": "Tevo to update Treasury Manager configuration to automatically calculate AGIX rewards based on task points",
+            "status": "todo",
+            "assignee": "Tevo"
+          },
+          {
+            "text": "Draft Treasury Guild Quarter 1 2025 Report",
+            "status": "todo"
+          },
+          {
+            "text": "Draft Treasury Guild Q2 2025 Proposal",
+            "status": "todo"
+          },
+          {
+            "text": "André to update Quarter 1 2025 Budgets on Dashboard",
+            "status": "todo",
+            "assignee": "André"
+          }
         ]
       },
       {
         "agenda": "Ambassador Program Reserves",
         "status": "carry over",
+        "discussionPoints": [
+          "How are reserves calculated? What is 'Program reserves' and what is 'WG reserves'?",
+          "Do WorkGroup reserves get clawed back? - before 2023 it was done automatically, and currently nothing in place for this.",
+          "How long should we wait for workgroups to use the leftover funds each WG is collecting? Should there even be a time limit?",
+          "How flexible should budgets be - can WGs reallocate unspent funds to activities they need to do?",
+          "Do reserves get clawed back, and if so, how and when? How should this be decided? e.g. a consent process to all Core Contributors?"
+        ],
         "actionItems": [
           {
             "text": "Coordinate with Treasury Automation WG to improve calculations of reserves and have better overview of it in the dashboard.",
-            "assignee": "Tevo",
-            "status": "todo"
+            "status": "todo",
+            "assignee": "Tevo"
           },
           {
             "text": "Discuss the use of reserves in the next Town Hall on 7th Jan 2025, and in Governance WG; ensure everyone understands the current situation before asking for opinions on changing it",
             "status": "todo"
           }
-        ],
-        "discussionPoints": [
-          "How are reserves calculated? What is 'Program reserves' and what is 'WG reserves'?",
-          "Do WorkGroup reserves get clawed back? - before 2023 it was done automatically and currently nothing in place for this",
-          "How long should we wait for workgroups to use the leftover funds each WG is collecting? Should there even be a time limit?",
-          "How flexible should budgets be - can WGs reallocate unspent funds to activities they need to do?",
-          "Do reserves get clawed back, and if so, how and when? How should this be decided? e.g. a consent process to all Core Contributors?"
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "Quarter 1, Reporting, Quarter 2, Proposal, Budget , Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserve, Fixed AGIX Rewards, Rewards"
+      "topicsCovered": "Quarter 1 2025, Reporting, Quarter 2 2025, Proposal, Budget, Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserves, Fixed AGIX Rewards, Rewards"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Strategy Guild",
@@ -41398,7 +41408,7 @@
       "date": "2024-12-16",
       "host": "esewilliams",
       "documenter": "Eric Davies",
-      "peoplePresent": "Ayo, Photogee, Eric Davies, lord kizzy, Effiom, Mikasa, hogantuso",
+      "peoplePresent": "Ayo, Effiom, Eric Davies, hogantuso, LordKizzy, Mikasa, Photogee",
       "purpose": "Biweekly meeting of the Strategy Guild",
       "workingDocs": [
         {
@@ -41417,34 +41427,30 @@
           "title": "Strategy review",
           "link": "https://docs.google.com/document/d/12-7c62Bbdc3M8EuWxbJEYfjPS7_cgJPIO4-40q5wnwk/edit?usp=sharing"
         }
-      ],
-      "timestampedVideo": {}
+      ]
     },
     "agendaItems": [
       {
         "status": "carry over",
-        "narrative": "Q4 research report presentation by Effiom: The November workshop, focused on the Education and R&D workgroups, included three sessions-ideation, solution framework, and adoption framework-with strong participation from the R&D team and partial representation from Education, and the follow-up document is available for review and feedback.  Streamlining Feedback Collection for Async Teams: Ayo mentioned that the async follow-up team should have the autonomy to determine how they gather and document feedback, as past experiences showed challenges in managing surveys and contributions effectively. They might consider presenting feedback during workgroup meetings, allotting 5-10 minutes for discussions, and documenting insights gathered from these sessions.  Q4 research report by kizzy: The strategic guild's research report for the ambassador program highlights key strengths such as collaboration, strategic planning, and resource management, while addressing challenges in communication, role clarity, and resource allocation. It provides actionable recommendations, including enhancing inter-guild communication, fostering collaboration, and aligning resource allocation with community feedback to improve overall effectiveness and alignment with the program's objectives.  Community Conflict Resolution Update: Tuzo reported that the issue raised within the community has been addressed, with both parties engaged, one showing remorse, and emphasized the need for a conflict resolution guideline to streamline future cases.  Update on Guga's Absence and Conflict Resolution: Tuzo reported that after reaching out to Guga, he was unresponsive and uninterested in addressing the issue, and has not attended recent meetings, suggesting the team move on and focus on other matters.  Photogee also reiterated what Tuzo said, expressing frustration over Guga's lack of response and his desire to move on, which has left them feeling like they are the ones carrying the responsibility for the issue.  Ayo explained that after Goga criticized the Q4 budget, an independent committee was formed to investigate the matter, with Tuzo, CJ, Franki, and Photogee serving as neutral members to reach out to Goga and present evidence, though Goga later reassured them that the issue was now resolved.  Q1 2025 Budget Update and Strategic Initiatives Overview: Effiom provided an update on the Q1 2025 budget, highlighting that the estimated costs remain close to the previous quarter's budget, with a total of 2,200 USD allocated. While most operational costs stayed the same, a few areas, like workshops and research, had their budgets reduced. Effiom also mentioned that, due to limited funds, only one research initiative would be undertaken instead of the planned two. He emphasized the importance of feedback from the community to guide the research selection process, with members encouraged to contribute ideas during the holiday season. The bi-weekly meetings and the workshop structure will remain the same for Q1 2025.  Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for research and workshops will be done asynchronously, allowing members to think and submit their ideas, which will then be discussed in detail during the first meeting to plan the quarter, especially regarding research and workshops.",
+        "narrative": "Q4 research report presentation by Effiom: The November workshop, focused on the Education and R&D workgroups, included three sessions - ideation, solution framework, and adoption framework - with strong participation from the R&D team and partial representation from Education. The follow-up document is available for review and feedback.  Streamlining Feedback Collection for Async Teams: Ayo mentioned that the async follow-up team should have the autonomy to determine how they gather and document feedback, as past experiences showed challenges in managing surveys and contributions effectively. They might consider presenting feedback during workgroup meetings, allotting 5-10 minutes for discussions, and documenting insights gathered from these sessions.  Q4 research report by kizzy: Strategy Guild's research report for the ambassador program highlights key strengths such as collaboration, strategic planning, and resource management, while addressing challenges in communication, role clarity, and resource allocation. It provides actionable recommendations, including enhancing inter-guild communication, fostering collaboration, and aligning resource allocation with community feedback to improve overall effectiveness and alignment with the program's objectives.  Community Conflict Resolution Update: Tuso reported that the issue raised within the community has been addressed. Both parties engaged, one showing remorse, and emphasized the need for a conflict resolution guideline to streamline future cases.  Update on Gorga's absence and conflict resolution: Tuso reported that after reaching out to Gorga, he was unresponsive and uninterested in addressing the issue, and has not attended recent meetings, suggesting the team move on and focus on other matters.  Photogee reiterated what Tuso said, expressing his desire to move on, and his frustration over Gorga's lack of response, which has left them feeling like they are the ones carrying the responsibility for the issue.  Ayo explained that after Gorga criticized the Q4 budget, an independent committee was formed to investigate the matter, with Tuso, CJFrankie, and Photogee serving as neutral members to reach out to Gorga and present evidence, though Gorga later assured them that the issue was now resolved.  Q1 2025 Budget Update and Strategic Initiatives Overview: Effiom provided an update on the Q1 2025 budget, highlighting that the estimated costs remain close to the previous quarter's budget, with a total of 2,200 USD allocated. While most operational costs stayed the same, a few areas, like workshops and research, had their budgets reduced. Effiom also mentioned that, due to limited funds, only one research initiative would be undertaken instead of the planned two. He emphasized the importance of feedback from the community to guide the research selection process, with members encouraged to contribute ideas during the holiday season. The bi-weekly meetings and the workshop structure will remain the same for Q1 2025.  Q1 2025 Strategic Planning: Ayo clarified that the submission of ideas for research and workshops will be done asynchronously, allowing members to think and submit their ideas, which will then be discussed in detail during the first meeting to plan the quarter, especially regarding research and workshops.",
         "actionItems": [
           {
-            "text": "Effiom to collect meeting notes today to ensure payments are processed before the treasury closes tomorrow.",
-            "assignee": "Effiom",
-            "status": "todo"
-          }
-        ],
-        "decisionItems": [
-          {
-            "effect": "affectsOnlyThisWorkgroup"
+            "text": "Effiom to collect meeting notes today to ensure payments are processed before the Treasury closes tomorrow.",
+            "status": "todo",
+            "assignee": "Effiom"
           }
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "Budget , Async, Q1 projections, Workshop",
+      "topicsCovered": "Budget, Q1 2025 budget, Async, Q1 2025 projections, Workshop, Education Guild, R&D Guild, survey, conflict resolution, research",
       "emotions": "Friendly, calm, cool, chatty"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "AI Sandbox/Think-tank",
@@ -41454,8 +41460,8 @@
       "date": "2024-12-12",
       "host": "osmium",
       "documenter": "Kateri",
-      "peoplePresent": "AshleyDawn, Gorga Siagian, Kateri, advanceameyaw, CollyPride, martinsoki, Santos, LordKizzy",
-      "purpose": "AI TOOLSET EXHIBITION: Podcaster: A Podcast Automation Tool",
+      "peoplePresent": "advanceameyaw, AshleyDawn, CollyPride, Gorga Siagian, Kateri, LordKizzy, martinsoki, Santos",
+      "purpose": "AI TOOLSET EXHIBITION: Podcastle: A Podcast Automation Tool",
       "workingDocs": [
         {
           "title": "Blueprint for AI sandbox/Think tank",
@@ -41470,8 +41476,8 @@
           "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
         },
         {
-          "title": "Third Sandbox Presentation",
-          "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+          "title": "4th presentation AI Tools Exhibition: Podcastle",
+          "link": "https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?#1"
         },
         {
           "title": "Agenda Items AI Sandbox/Think Tank",
@@ -41486,53 +41492,58 @@
     "agendaItems": [
       {
         "status": "carry over",
-        "actionItems": [
-          {
-            "text": "Kateri to create 2025 documenting roaster",
-            "assignee": "Kateri",
-            "dueDate": "9 January 2025",
-            "status": "todo"
-          },
-          {
-            "text": "All members to fill the Iteration forms",
-            "assignee": "Members",
-            "dueDate": "31 January 2025",
-            "status": "todo"
-          },
-          {
-            "text": "Adavcemeyaw to prepare for the next quarter sandbox session",
-            "assignee": "advanceameyaw",
-            "dueDate": "9 January 2025",
-            "status": "todo"
-          }
+        "discussionPoints": [
+          "Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition series, talked about the mission, and highlighted the key takeaways and how it is relevant to the Ambassador program.",
+          "Showcasing the fourth presentation of the exhibition made by Gorga about Podcastle.ai: This AI tool helps to edit podcasts, to have a good quality audio, and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful.  He shared the link to the presentation https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted the.",
+          "a) Overview of the toolset: Podcastle.ai is a cloud based, AI-powered audio production platform design to streamline the creation of podcasts, voiceovers and other audio content.",
+          "b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart].",
+          "c) Demonstration [live demo or tutorial/ video walkthrough).",
+          "d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics).",
+          "Questions were asked and clarity was made on the operation of Podcastle.ai.",
+          "Iteration form: This is a form where members give monthly feedback on our sessions, on the tool we have showcased, and how we are going to progress implementing the tools."
         ],
         "decisionItems": [
           {
-            "decision": "We decided that the iteration form is always opened and would be looked into monthly",
-            "effect": "affectsOnlyThisWorkgroup",
-            "rationale": "To ensure members provide consistent, monthly feedback that helps track progress and refine processes within the Workgroup."
+            "decision": "We decided that the iteration form is always open and will be looked into monthly",
+            "rationale": "To ensure members provide consistent, monthly feedback that helps track progress and refine processes within the Workgroup.",
+            "effect": "affectsOnlyThisWorkgroup"
           },
           {
-            "decision": "Decided to resume for the next quarter on the 9th of January 2025",
+            "decision": "We decided to resume for the next quarter on Thurs 9th January 2025",
             "effect": "affectsOnlyThisWorkgroup"
           }
         ],
-        "discussionPoints": [
-          "Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program.",
-          "Showcasing the fourth presentation of the exhibition made by Gorga on Podcaster.ar: This AI tool helps to edit podcast, to have a good quality audio and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful.  he shared the link to the presentation  https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted the",
-          "a) Overview of the toolset: Podcaster.ai is a cloud based, or AI-powered cloud-based audio production platform design to streamline the creation of podcast, voiceovers and other audio content. b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart]  c) Demonstration [live demo or tutorial/ video walkthrough]  d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]",
-          "Questions were asked and clarity was made on the operation of the Podcast.ai.",
-          "Iteration form: Is a form were members give monthly feedback on our sessions, on the tool we have used, and how we are going to progress implementing the tools."
+        "actionItems": [
+          {
+            "text": "Kateri to create 2025 documenting roster",
+            "status": "todo",
+            "assignee": "Kateri",
+            "dueDate": "9 January 2025"
+          },
+          {
+            "text": "All members to fill the Iteration forms",
+            "status": "todo",
+            "assignee": "Members",
+            "dueDate": "31 January 2025"
+          },
+          {
+            "text": "Adavcemeyaw to prepare for the next quarter sandbox session",
+            "status": "todo",
+            "assignee": "advanceameyaw",
+            "dueDate": "9 January 2025"
+          }
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "AI TOOLSET EXHIBITION, Automating Workflows,  Roadmap of AI Sandbox/Think Tank, Podcaster.ai, Iteration, Iteration form",
+      "topicsCovered": "AI TOOLSET EXHIBITION, podcast, audio, transcrition, Roadmap of AI Sandbox/Think Tank, Podcastle.ai, Iteration, Iteration form, feedback, implementing tools",
       "emotions": "welcoming, informative, interactive"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Governance Workgroup",
@@ -42023,8 +42034,8 @@
       "typeOfMeeting": "Weekly",
       "date": "2024-12-11",
       "host": "guillermolucero",
-      "documenter": "lord kizzy",
-      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, guillermolucero, Slate, AJ",
+      "documenter": "LordKizzy",
+      "peoplePresent": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, LordKizzy, Slate",
       "purpose": "R&D Updates and Discussions",
       "workingDocs": [
         {
@@ -42085,80 +42096,82 @@
       {
         "status": "carry over",
         "meetingTopics": [
-          "Welcoming new Members and Introduction",
+          "Welcoming new members and Introduction",
           "Review of last meeting summary Action Items",
           "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
           "Facilitation in Q1",
-          "Open discussion How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.",
-          "MetaCoders Lab Discussion"
+          "Open discussion",
+          "MettaCoders Lab Discussion"
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members.",
+          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+          "R&D Guild Metta Coder Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the Foundation. Guillermo also noted that he will be presenting a proposal in DeepFunding for the Metta Coder labs initiative in R&D GUILD.",
+          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to the busy schedule of Rojo and kenichi.",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week.",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then educational materials could be created on the tool by Education Guild."
         ],
         "actionItems": [
           {
             "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "status": "todo",
             "assignee": "AJ, Advanceameyaw",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           },
           {
             "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "status": "todo",
             "assignee": "LordKizzy, guillermolucero",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           },
           {
             "text": "AJ to give a presentation on his updates to the CSDB project (Data privacy) in the next call",
+            "status": "done",
             "assignee": "AJ",
-            "dueDate": "11 December 2024",
-            "status": "done"
+            "dueDate": "11 December 2024"
           },
           {
-            "text": "Members to express interest in the sheet for facilitation,",
+            "text": "Members to express interest in the sheet for facilitation",
+            "status": "todo",
             "assignee": "All members",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           },
           {
-            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of calculating who is a Core Contributor by Treasury guild",
+            "status": "todo",
             "assignee": "LordKizzy, guillermolucero",
-            "dueDate": "11 December 2024",
-            "status": "todo"
+            "dueDate": "11 December 2024"
           },
           {
             "text": "Lordkizzy to schedule a meeting for the R&D and Education Guild members to discuss collaboration.",
+            "status": "todo",
             "assignee": "LordKizzy",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           },
           {
             "text": "Lordkizzy will prepare materials and create rooms for the brainstorming session scheduled for next week.",
+            "status": "todo",
             "assignee": "LordKizzy",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           },
           {
-            "text": "Aj to ensure integration with Rojo is completed before the next meeting.",
+            "text": "AJ to ensure integration with Rojo is completed before the next meeting.",
+            "status": "todo",
             "assignee": "AJ",
-            "dueDate": "18 December 2024",
-            "status": "todo"
+            "dueDate": "18 December 2024"
           }
-        ],
-        "discussionPoints": [
-          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members",
-          "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month",
-          "R&D Guild Metta Code Lab  Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD.",
-          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to the busy schedule of Rojo and kenichi",
-          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week",
-          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild"
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
-      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guilkd, collaboration, data privacy",
+      "emotions": "Casual, speedy, Welcoming, Friendly, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Research and Development Guild",
@@ -42167,8 +42180,8 @@
       "typeOfMeeting": "Weekly",
       "date": "2024-12-18",
       "host": "guillermolucero",
-      "documenter": "lord kizzy",
-      "peoplePresent": "lord kizzy, AshleyDawn, advanceameyaw, CollyPride, guillermolucero, AJ, kenichi, Rojo",
+      "documenter": "LordKizzy",
+      "peoplePresent": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, kenichi, LordKizzy, Rojo",
       "purpose": "R&D Updates and Discussions",
       "workingDocs": [
         {
@@ -42229,88 +42242,91 @@
       {
         "status": "carry over",
         "meetingTopics": [
-          "Welcoming new Members and Introduction",
+          "Welcoming new members and Introduction",
           "Review of last meeting summary Action Items",
           "UPDATE STATUS ON DEVELOPMENT: EC-Entity-Connections, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs",
           "Facilitation in Q1",
-          "Open discussion How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters.",
+          "Open discussion",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters",
           "MetaCoders Lab Discussion",
           "Good bye messages"
+        ],
+        "discussionPoints": [
+          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members.",
+          "UPDATE STATUS ON DEVELOPMENT: SBD Tokens: Kenichi highlighted that the work on the backend has been slow due to the holidays and that the smart contract (Cardano Plutus) is almost ready, he also noted the need for a call with the team members on the testing and promised to provide a quarterly report on development. He also requested the program's Database from Rojo for intergration.",
+          "R&D Guild Metta Coder Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the Foundation. Guillermo also noted that he will be presenting a proposal in DeepFunding for the Metta coder labs initiative in R&D GUILD.",
+          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to an expected integration issue, but hopes to resolve everything in the coming week, guillermo also pointed out the need to get the project out and receive feedback on it.",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Guillermo has been actively contributing by participating in Governance WG calls and documenting deliverables. Lordkizzy, on the other hand, acknowledged his absence due to a three-week journey but assured he would provide a report before the week's end.",
+          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenario where tools developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then educational materials could be created on the tool by Education Guild.",
+          "UPDATE STATUS ON DEVELOPMENT: Web 3 Contributors' Dashboard, Rojo apologized for being absent from previous calls due to time zone difference and pointed out that he was going to work on the Quarterly report for the  Web 3 Contributor's Dashboard."
         ],
         "actionItems": [
           {
             "text": "CSDB team to finish and get ready for redeployment by 25th of NOV",
+            "status": "todo",
             "assignee": "AJ, Advanceameyaw",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Lordkizzy and guillermo to have a call to discuss on the governance dashboard project",
+            "status": "todo",
             "assignee": "LordKizzy, guillermolucero",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Members to express interest in the sheet for facilitation,",
+            "status": "todo",
             "assignee": "All members",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild",
+            "status": "todo",
             "assignee": "LordKizzy, guillermolucero",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Lordkizzy to schedule a meeting for the R&D and Education Guild members to discuss collaboration.",
+            "status": "todo",
             "assignee": "LordKizzy",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Lordkizzy will prepare materials and create rooms for the brainstorming session scheduled for next week.",
+            "status": "todo",
             "assignee": "LordKizzy",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Aj to ensure integration with Rojo is completed before the next meeting.",
+            "status": "todo",
             "assignee": "AJ",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "ALL team members to provide a Quarterly report on projects in developments",
+            "status": "todo",
             "assignee": "Team members",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           },
           {
             "text": "Lordkizzy to provide a report on the Governance dashboard",
+            "status": "todo",
             "assignee": "LordKizzy",
-            "dueDate": "25 December 2024",
-            "status": "todo"
+            "dueDate": "25 December 2024"
           }
-        ],
-        "discussionPoints": [
-          "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members",
-          "UPDATE STATUS ON DEVELOPMENT: SBD Tokens: Kenichi highlighted that the work on the backend has been slow due to the holidays and that the smart contract (Cardano Plutus) is almost ready, he also noted the need for a call with the team members on the testing and promised to provide a quarter report on development. He also requested for the program's Database from rojo for the intergration",
-          "R&D Guild Metta Code Lab  Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD.",
-          "Follow up on the CSDB: Advance expressed a delay in the deliverables due to an expected integration issue, but hope to resolve everything in the coming week, guillermo also pointed out the need to get the project out and receive feedback on",
-          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Guillermo has been actively contributing by participating in governance calls and documenting deliverables. Lordkizzy, on the other hand, acknowledged his absence due to a three-week journey but assured he would provide a report before the week's end.",
-          "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild",
-          "UPDATE STATUS ON DEVELOPMENT: Web 3 Contributor's Dashboard, Rojo apologized for being absent from previous calls due to time zone difference and pointed out that he was going to work on the Quarterly report for the  Web 3 Contributor's Dashboard"
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB",
-      "emotions": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+      "topicsCovered": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guild, AI Sandbox/Think Tank, collaboration, Governance Dashboard, Governance Workgroup, DeepFunding",
+      "emotions": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative"
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Writers Workgroup",
@@ -43919,10 +43935,9 @@
       "date": "2024-12-18",
       "host": "Tevo",
       "documenter": "Evelyn, Gorga Siagian",
-      "peoplePresent": "Tevo, Evelyn, Gorga Siagian, Malik",
+      "peoplePresent": "Evelyn, Gorga Siagian, Malik, Tevo",
       "purpose": "We are creating a PBL course on Andamio about GitHub features and use cases to manage",
       "miroBoardLink": "https://miro.com/app/board/uXjVLYXTJ_M=/?moveToWidget=3458764607640763654&cot=10",
-      "otherMediaLink": "",
       "workingDocs": [
         {
           "title": "GitHub PBL Structure",
@@ -43950,19 +43965,12 @@
       {
         "agenda": "Workgroup management",
         "status": "carry over",
-        "actionItems": [
-          {
-            "text": "Create meeting summary",
-            "assignee": "Evelyn",
-            "dueDate": "23 December 2024",
-            "status": "done"
-          },
-          {
-            "text": "Review meeting summary",
-            "assignee": "Gorga Siagian",
-            "dueDate": "23 December 2024",
-            "status": "in progress"
-          }
+        "discussionPoints": [
+          "Allocating participation rewards.",
+          "We got ~2500 AGIX currently in Q4 budget.",
+          "When do we have Quarter 1 2025 sessions?",
+          "What are the main agenda points for Q1 2025 sessions?",
+          "We discussed the PBL project and the tasks of creating lessons assigned to some members of the Workgroup. At the time this discussion was held, the people assigned to these tasks were yet to make submissions."
         ],
         "decisionItems": [
           {
@@ -43974,24 +43982,30 @@
             "effect": "affectsOnlyThisWorkgroup"
           }
         ],
-        "discussionPoints": [
-          "Allocating participation rewards",
-          "We got ~2500 AGIX currently in Q4 budget.",
-          "When do we have Quarter 1 2025 sessions?",
-          "What are the main agenda points for Q1 2025 sessions?",
-          "We discussed the PBL project and the tasks of creating lessons assigned to some members of the Workgroup. At the time this discussion was held, the people assigned to these tasks were yet to make submissions."
+        "actionItems": [
+          {
+            "text": "Create meeting summary",
+            "status": "done",
+            "assignee": "Evelyn",
+            "dueDate": "23 December 2024"
+          },
+          {
+            "text": "Review meeting summary",
+            "status": "in progress",
+            "assignee": "Gorga Siagian",
+            "dueDate": "23 December 2024"
+          }
         ]
       },
       {
         "agenda": "Course content",
         "status": "carry over",
-        "actionItems": [
-          {
-            "text": "Tevo will check on those asssigned to the PBL Course tasks to find out how far they've gone and if they plan to finish lesson.",
-            "assignee": "Tevo",
-            "status": "todo",
-            "dueDate": "10 January 2025"
-          }
+        "discussionPoints": [
+          "Framework to be used for all the course modules.",
+          "Going over the assignees of each lesson and updating on status.",
+          "Having one assignment, meaning lesson expectations and surveys can't be done separately.",
+          "Restructuring who will make the background knowledge quizzes.",
+          "How do we select quizzes for courses?"
         ],
         "decisionItems": [
           {
@@ -44003,12 +44017,13 @@
             "effect": "affectsOnlyThisWorkgroup"
           }
         ],
-        "discussionPoints": [
-          "Framework to be used for all the course modules.",
-          "Going over the assignees of each lesson and updating on status.",
-          "Having one assignment, meaning lesson expectations and surveys can't be done separately.",
-          "Restructuring who will make the background knowledge quizzes",
-          "How do we select quizzes for courses?"
+        "actionItems": [
+          {
+            "text": "Tevo will check on those asssigned to the PBL Course tasks to find out how far they've gone and if they plan to finish lesson.",
+            "status": "todo",
+            "assignee": "Tevo",
+            "dueDate": "10 January 2025"
+          }
         ]
       }
     ],
@@ -44018,7 +44033,9 @@
     },
     "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Gamers Guild",
@@ -46549,49 +46566,49 @@
     "workgroup": "Strategy Guild",
     "workgroup_id": "783a30cb-7a49-42e7-aaf3-d9186eedde5b",
     "meetingInfo": {
-      "typeOfMeeting": "Weekly",
       "date": "2024-12-09"
     },
+    "type": "Custom",
     "noSummaryGiven": true,
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
-    "type": "custom"
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "LatAm Guild",
     "workgroup_id": "fe193241-3e54-4b41-9b66-6d6cf8f5ab33",
     "meetingInfo": {
-      "typeOfMeeting": "Weekly",
       "date": "2024-12-11"
     },
+    "type": "Custom",
     "noSummaryGiven": true,
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
-    "type": "custom"
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Marketing Guild",
     "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
     "meetingInfo": {
-      "typeOfMeeting": "Weekly",
       "date": "2024-12-13"
     },
+    "type": "Custom",
     "noSummaryGiven": true,
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
-    "type": "custom"
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Writers Workgroup",
     "workgroup_id": "3506256d-ae6f-4147-a2fb-a4a76ebac109",
     "meetingInfo": {
-      "typeOfMeeting": "Weekly",
       "date": "2024-12-13"
     },
+    "type": "Custom",
     "noSummaryGiven": true,
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
-    "type": "custom"
+    "canceledSummaryText": "Meeting was cancelled"
   },
   {
     "workgroup": "Strategy Guild",
@@ -46791,6 +46808,26 @@
       {
         "agenda": "Workgroup Management",
         "status": "carry over",
+        "discussionPoints": [
+          "We went over operational activities and assets we expect to produce before next meeting.",
+          "When and who will draft the Q1 2025 Report?",
+          "What could be used as a great source for drafting an early Report?",
+          "Who will do the Summary for the current Meeting?",
+          "When would we prefer to start and what would our cadence on quarterly schedule look like?",
+          "Should we move to fixed AGIX rewards?"
+        ],
+        "decisionItems": [
+          {
+            "decision": "Process Guild leads the process of proposing new date and time for Knowledge Base WG",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "From Quarter 1 we will start to have fixed hourly rate in AGIX",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
         "actionItems": [
           {
             "text": "Effiom to draft Q1 Report. Tevo will review.",
@@ -46810,31 +46847,16 @@
             "assignee": "Tevo",
             "dueDate": "6 January 2025"
           }
-        ],
-        "decisionItems": [
-          {
-            "decision": "Process Guild leads the process of proposing new date and time for Knowledge Base WG",
-            "opposing": "None",
-            "effect": "mayAffectOtherPeople"
-          },
-          {
-            "decision": "From Quarter 1 we will start to have fixed hourly rate in AGIX",
-            "opposing": "None",
-            "effect": "mayAffectOtherPeople"
-          }
-        ],
-        "discussionPoints": [
-          "We went over operational activities and assets we expect to produce before next meeting",
-          "When and who will draft the Q1 2025 Report?",
-          "What could be used as a great source for drafting an early Report?",
-          "Who will do the Summary for the current Meeting?",
-          "When would we prefer to start and what would our cadence on quarterly schedule look like?",
-          "Should we move to fixed AGIX rewards?"
         ]
       },
       {
         "agenda": "Review Category Descr﻿iption Statuses",
         "status": "carry over",
+        "discussionPoints": [
+          "We reviewed the outcomes so far.",
+          "We discussed the challenges of creating the descriptions.",
+          "We created new subgroup description 'How do we define Roles?' using GPT https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw."
+        ],
         "actionItems": [
           {
             "text": "Continue Drafting Categories + subcategories",
@@ -46854,11 +46876,6 @@
             "assignee": "Tevo, Gorga Siagian",
             "dueDate": "6 January 2025"
           }
-        ],
-        "discussionPoints": [
-          "We reviewed the outcomes so far",
-          "We discussed the challenges of creating the descriptions",
-          "We created new subgroup description 'How do we define Roles?' using GPT https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw"
         ]
       }
     ],
@@ -46866,8 +46883,10 @@
       "topicsCovered": "Miro Board, Reporting, planning, Roles, Descriptions, ChatGPT, categories, Q1 2025 quarterly report, script, Markdown, Miro to GitHub, Meeting summary, Fixed AGIX Rewards",
       "emotions": "small, low attendance, Organised, procedural"
     },
-    "type": "custom",
+    "type": "Custom",
     "noSummaryGiven": false,
-    "canceledSummary": false
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   }
 ]
