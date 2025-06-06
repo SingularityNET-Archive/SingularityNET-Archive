@@ -1,85 +1,103 @@
 #
-# Auto Agenda creator
+# Auto Project Management Issue Creator (runs on the 1st of each month)
 #
-name: Auto Meeting Agenda Creator
+name: Auto Project Management Issue Creator
+
 on:
   workflow_dispatch:
   schedule:
-  # 10h00 every Saturday – https://crontab.guru
-  - cron: 0 10 * * 6
-env: 
-  Org: "SingularityNET-Archive" 
+    # At 09:00 UTC on the 1st day of every month
+    - cron: '0 9 1 * *'
+
+env:
+  Org: "SingularityNET-Archive"
   Repo: "SingularityNET-Archive"
   Labels: "Meetings"
-  
+  # Project ID = 1 (your organization project number)
+  ProjectNumber: "1"
+  # Column name inside that project where new issues should land
+  ProjectColumn: "In Progress"
+
 jobs:
-  agenda_creator:
-    name: Auto Meeting Agenda Creator
+  monthly-pm-creator:
+    name: Create Monthly “Project Management” Issue
     runs-on: ubuntu-latest
     steps:
 
-    - name: Calculate week number
-      id: week-number
-      run: echo "::set-output name=week::$(date +'%U')"
-    
-    - name: Check if week number is uneven
-      id: check-week
-      run: |
-        if (( $(echo ${{ steps.week-number.outputs.week }} % 2) == 0 )); then 
-          echo "It's an even week, proceeding..."
-        else 
-          echo "It's not an even week, exiting..."
-          exit 78
-        fi
-        
-    - name: Find the last open meeting issue
-      id: last-issue
-      uses: micalevisk/last-issue-action@v2
-      with:
-        state: open
-        # Find the last updated open issue that has these labels:
-        labels: |
-          ${{ env.Labels }}
-          
-    - name: Set env data
-      id: propdata
-      run: |
-        echo "::set-output name=data::$(curl -s https://api.github.com/repos/${{ env.Org }}/${{ env.Repo }}/issues/${{ steps.last-issue.outputs.issue-number }} | jq '.body' | sed 's/\"//g')"
-    
-    - name: Set env body
-      run: |
-        echo "iBody=${{ steps.propdata.outputs.data }}" >> "$GITHUB_ENV"
+      # 1) Compute “last month” vs. “current month” strings
+      - name: Compute Dates
+        id: dates
+        run: |
+          # e.g. “June 2025”
+          PREV_MONTH_STR=$(date -d '1 month ago' '+%B %Y')
+          CURR_MONTH_STR=$(date '+%B %Y')
+          echo "PREV_MONTH=$PREV_MONTH_STR" >> "$GITHUB_ENV"
+          echo "CURR_MONTH=$CURR_MONTH_STR" >> "$GITHUB_ENV"
 
-    - name: Get template
-      uses: imjohnbo/extract-issue-template-fields@v1
-      id: extract
-      with:
-        path: .github/ISSUE_TEMPLATE/automeetingtemplate.md # assignees, labels, and title defined in issue template header
-      env: 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Prepare issue Message
-      id: issue-message-creator
-      run: |
-        text="${{ env.iBody }}"
-        text="${text//'%'/%25}"
-        text="${text//'\n'/%0A}"
-        text="${text//'\r'/%0D}"
-        echo "::set-output name=value::$text"
+      # 2) Fetch the body of last month’s issue titled “Project Management <PrevMonth>”
+      - name: Get Last Month’s Issue Body
+        id: fetch-body
+        run: |
+          # Build the exact title to find
+          TARGET_TITLE="Project Management $PREV_MONTH"
 
-    # Generates and pins new agenda creator issue, closes previous, writes linking comments, assigns to next person in line, adds to organization project number 550, column name "Duties", milestone number 10
-    - name: Todays date
-      run: echo "TODAY=$(date -d '4 days' '+ %A, %dth %B, %Y')" >> $GITHUB_ENV
-    - name: New agenda creator issue
-      uses: imjohnbo/issue-bot@v3
-      with:
-        token: ${{ secrets.PAT }} # Built in GITHUB_TOKEN permissions are too restrictive, so a personal access token is used here
-        assignees: ${{ steps.extract.outputs.assignees }}
-        labels: ${{ steps.extract.outputs.labels }}
-        title: Meeting (Project Management) - ${{ env.TODAY }}
-        body: ${{ steps.issue-message-creator.outputs.value }} 
-          
-        project: 1  # The project-number from organization project https://github.com/orgs/org/projects/project-number
-        pinned: false
-        close-previous: true
-        linked-comments: true
+          # Query all open issues with label=Meetings, then select by exact title match
+          BODY_RAW=$(
+            curl -s \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ env.Org }}/${{ env.Repo }}/issues?state=open&labels=${{ env.Labels }}" \
+            | jq -r --arg TITLE "$TARGET_TITLE" '.[] | select(.title == $TITLE) | .body'
+          )
+
+          if [ -z "$BODY_RAW" ] || [ "$BODY_RAW" == "null" ]; then
+            echo "No existing issue found for title: $TARGET_TITLE. Exiting."
+            # Exit gracefully (no issue to copy)
+            exit 78
+          fi
+
+          # Escape quotes for GitHub Action output
+          BODY_ESCAPED=$(printf "%s" "$BODY_RAW" | sed 's/\"/\\"/g')
+
+          echo "::set-output name=prev_body::$BODY_ESCAPED"
+
+      # 3) (Optional) Extract assignees & labels from ISSUE_TEMPLATE, if you still want to reuse that
+      - name: Get Default Assignees & Labels from Template
+        id: extract-template
+        uses: imjohnbo/extract-issue-template-fields@v1
+        with:
+          path: .github/ISSUE_TEMPLATE/automeetingtemplate.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4) Build the new issue title and payload
+      - name: Prepare New Issue Payload
+        id: payload
+        run: |
+          NEW_TITLE="Project Management $CURR_MONTH"
+          # Insert the raw body exactly as fetched (unescaped)
+          NEW_BODY="${{ steps.fetch-body.outputs.prev_body }}"
+
+          # For safety, double-URL-encode new body so special characters don't break the CLI
+          BODY_TEXT="$NEW_BODY"
+          BODY_TEXT="${BODY_TEXT//'%'/'%25'}"
+          BODY_TEXT="${BODY_TEXT//$'\n'/'%0A'}"
+          BODY_TEXT="${BODY_TEXT//$'\r'/'%0D'}"
+
+          echo "NEW_TITLE_ENCODED=$NEW_TITLE" >> "$GITHUB_ENV"
+          echo "NEW_BODY_ENCODED=$BODY_TEXT" >> "$GITHUB_ENV"
+
+          # Capture assignees/labels from template step
+          echo "ASSIGNEES=${{ steps.extract-template.outputs.assignees }}" >> "$GITHUB_ENV"
+          echo "LABELS=${{ steps.extract-template.outputs.labels }}" >> "$GITHUB_ENV"
+
+      # 5) Create the new issue via imjohnbo/issue-bot and pin it to “In Progress”
+      - name: Create 🔖 New Project Management Issue
+        uses: imjohnbo/issue-bot@v3
+        with:
+          token: ${{ secrets.PAT }}
+          title: ${{ env.NEW_TITLE_ENCODED }}
+          body: ${{ env.NEW_BODY_ENCODED }}
+          assignees: ${{ env.ASSIGNEES }}
+          labels: ${{ env.LABELS }}
+          project: ${{ env.ProjectNumber }}
+          project_column: ${{ env.ProjectColumn }}
