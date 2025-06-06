@@ -1,17 +1,19 @@
-name: Add meeting issue to beta project
+name: Add meeting issue to project
 
+# Trigger only when a new issue is opened
 on:
   issues:
-    types:
-      - opened
+    types: [opened]
 
 jobs:
   add-to-project:
-    name: Add issue to project
+    name: Add Issue to Project (In Progress)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/add-to-project@main
+      - name: Add this issue to “In Progress” column
+        uses: actions/add-to-project@main
         with:
           project-url: https://github.com/orgs/SingularityNET-Archive/projects/1/views/1
+          column-name: "In Progress"
           github-token: ${{ secrets.PAT }}
           labeled: Meetings
