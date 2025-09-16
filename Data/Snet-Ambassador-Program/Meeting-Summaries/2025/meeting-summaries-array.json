@@ -7408,12 +7408,6 @@
             "dueDate": "21 July 2025"
           },
           {
-            "status": "done",
-            "text": "Peter to post in Writers' WG Discord to ask what happened to the End Of Year Report and why it wasn't published. (Already done during meeting, so awaiting reply)",
-            "assignee": "PeterE",
-            "dueDate": "30 June 2025"
-          },
-          {
             "text": "Peter to post in Ambassador-General Discord channel to ask for people with an interest in facilitation to get together and plan a session on whether the 'overall premise' of the Program needs any changes.",
             "status": "todo",
             "assignee": "PeterE",
