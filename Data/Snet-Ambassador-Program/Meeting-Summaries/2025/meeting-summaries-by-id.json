@@ -8038,26 +8038,6 @@
       "agendaItems": [
         {
           "status": "carry over",
-          "actionItems": [
-            {
-              "text": "A member of DF Events Circle, Abdulbasit, has taken on documentation of DF Town Hall - Vani gave a walkthru/training session and he's planning to start with the next TH meeting.",
-              "status": "done",
-              "assignee": "CallyFromAuron",
-              "dueDate": "29 August 2025"
-            },
-            {
-              "text": "Stephen to post in the Archives Discord channel to say that our graph development repo has been moved to the sNET GitHub organization, and to encourage people to have a look  And he will attend the next Town Hall to say this and say a bit about what we are doing this Quarter.",
-              "status": "done",
-              "assignee": "Stephen [QADAO]",
-              "dueDate": "15 July 2025"
-            },
-            {
-              "status": "done",
-              "text": "Vani has contacted AI Sandbox/Think Tank, and yes, they will  host a workshop on our graph work towards the end of September - exact date to be confirmed",
-              "assignee": "CallyFromAuron",
-              "dueDate": "11 July 2025"
-            }
-          ],
           "decisionItems": [
             {
               "decision": "As token price remains low, we still won't submit any pending Q1 tasks at the moment; although we might rethink and pay anyway in September",
@@ -8471,6 +8451,159 @@
               "decision": "We agreed to help share future tutorials and guides that the Dashboard team might create,",
               "rationale": "to help contributors use the governance dashboard and lower barriers to participation."
             }
+          ]
+        }
+      ]
+    }
+  ],
+  "6102d08f-7d5d-47d3-b148-4c732362cde7": [
+    {
+      "workgroup": "WG Sync Call",
+      "workgroup_id": "89f6301b-dc91-45d1-baf5-d4815ea3f500",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2025-09-15",
+        "host": "PeterE",
+        "documenter": "Alfred Itodele, CallyFromAuron",
+        "peoplePresent": "Ayomishuga, Jeffrey Ndaraka, Rems, CallyFromAuron, PeterE, Tevo, AshleyDawn, Sucre n Spice, guillermolucero, AndrewBen, kenichi, UKnowZork, Alfred Itodele",
+        "purpose": "Monthly call for all Workgroups to discuss Program-wide issues",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1D541To5RCcf9nPboZoRnHU5HBQXl6TfwnTAAj6bmYhQ/edit?tab=t.0#heading=h.jxte4jt15v0",
+            "title": "fixing the governance process"
+          },
+          {
+            "title": "WG Syncing call, rolling agenda",
+            "link": "https://docs.google.com/document/d/1Mdxr2DT9LOi_-7ZS7oIC69ilY67oGqReVhvOuNwUgYQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Governance Dashboard, Q4 2025 budget timeline, migrating historical data, validity of objections, Consent decision-making process for Budget proposals, 80%/20% rule, Consent process",
+        "emotions": "Collaborative, Constructive, some skepticism, pragmatic"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "discussion": "1) Change to consent process timeline  The new dashboard's commenting feature encourages people to comment on budgets and reports, and allows WGs to amend them in response. So the consent process cannot start until this process is finished, to prevent changes after consent is given. To accommodate this, a new timeline with a single consent round was agreed: see 'decisions' below.  We noted that this does not mean the second round is removed forever.   2)Integration of historical data into the Governance dashboard  It would be useful to add past objections and other historical data into the new dashboard, as recurring issues are revealing. Migrating all data would be a significant effort. Could start with the most recent (Q2/3) data  Could allocate a budget from Ambassador reserves for the task. To be discussed further in a future meeting.   3) Verifying the validity of objections  The proposed timeline includes a focus group to check if objections are valid before they are discussed in the Governance WG meeting. Alfred raised concerns about a small, unelected group making decisions and suggested representation from all workgroups to ensure fairness. But it was pointed out to him that the validity check does *not* involve 'making decisions', but simply scanning for any potential invalidities, and the assessment is ratified or not in the Governance meeting. We agreed to make the validity check an open session where anyone can participate, rather than a pre-selected focus group. It was clarified that the role of this session is simply to check if an objection is valid, not to comment on how the objection should be resolved.   4) 80-20% rule  In past consent rounds, this rule has been applied in the 2nd round, so that a single objection cannot hold up the process indefinitely. As we no longer have a 2nd round, the rule might be inapproriate, as it would silence minority objections before they could be discussed. We agreed all objections will be discussed; and the 80/20 rule will only be applied if agreement cannot otherwise be reached.    5) Definition of consent decisionmaking  In response to a question from Ayomi, the consent process was explained.   - Consenting to a budget does not mean that you think it is perfect; just that it is 'safe enough to try'.  - Objections should not be the objewctor's own ideas for how things could be done better - an objection must identify actual, specific harm that would be caused if a proposal was carried out.  - The process then focuses on resolving objections by asking objectors what would need to change in order to get their consent.",
+          "meetingTopics": [
+            "Changes to consent process timeline - specifically, one round of consent instead of two - to conform with the features of the new Governance dashboard",
+            "Integration of historical data into the Governance dashboard",
+            "Verifying the validity of objections",
+            "Use of the 80-20 rule in the new single-round consent process",
+            "Definition of consent decisionmaking"
+          ],
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "To ensure the dashboard backend allows for proposals to be locked on Sept 22nd, at which point the consent function becomes active.",
+              "assignee": "guillermolucero",
+              "dueDate": "19 September 2025"
+            },
+            {
+              "text": "Guillermo and Lean to investigate adding a feature to the dashboard to track the resolution of each objection",
+              "status": "todo",
+              "assignee": "guillermolucero, leandro",
+              "dueDate": "30 September 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The group will adopt a single consent round for the Q4 budget process  The budget approval timeline was revised and finalized as follows: - Weds 17th Sept, 23:59 UTC: Deadline for WGs to submit reports and budgets. - Mon 22nd Sept: End of commenting period; budgets are locked; consent process opens. - Weds 24th Sept: Deadline for Core Contributors to consent/object/abstain. - Thurs 25th Sept before Governance meeting: objection validity check session, - Thurs 25th Sept: Discussion in Governance WG - Tues 30th Sept: Discussion in Governance WG",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "To test the new dashboard's commenting functionality and see if it is able to speed up the consent process."
+            },
+            {
+              "decision": "The meeting on Thurs 25th Sept to review objection validity will be an open session, and anyone who attends can participate.  It isn't a decision-making session - any 'invalid' flags will be ratified in the Governance call.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "Inclusion and transparency."
+            },
+            {
+              "decision": "The 80/20 rule will not be automatically applied. All valid objections will be discussed, even if raised by only one person; and the 80/20 rule will only be applied if agreement cannot otherwise be reached.",
+              "rationale": "To avoid silencing minority objections",
+              "effect": "mayAffectOtherPeople"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dcb194be-ed7f-4b86-95b9-2d489f4c94c5": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-08-26",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "CallyFromAuron, UKnowZork, guillermolucero, CollyPride, Maxmilez, Martin Heyam Bielecki, Alfred Itodele, AshleyDawn, Ayomi Shuga, Jeffrey Ndarake, LadyTempestt, Omolola Lawson, Sucre n Spice",
+        "purpose": "Regular Weekly GovWG meeting"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Interactive, detailed, educative, Insightful, relaxed,  Collaborative",
+        "topicsCovered": "Governance Dashboard, AI ethics, R&D, Consent process, exchange rate, Q4 2025 consent process timeline, token price, Q3 2025 quarterly reports"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "1) Q4 2025 exchange rate This Quarter's rate of $0.30 may be too high - token price has been closer to 27-28 cents, so sticking with 30 cents would constantly leave everyone short; but dropping it lower might squeeze budgets too much. People shared their thoughts, with suggestions ranging from 25 to 30 cents. After some back and forth, the room settled on 28 cents as a fair middle ground that wouldn't be too risky or too harsh on project funding.  2) Governance Dashboard Guillermo confirmed it will be ready in time for the start of the consent process, so we confirmed that it will be used.  3) Consent process timeline The original deadline for budget submissions was set for September 8th, but since the new governance dashboard still needs testing and orientation sessions, everyone agreed to push it back a week to September 15th. The extra time will give workgroups a chance to learn how to use the new system without rushing.  4) Additions to what should be included in budget and reports In previous GovWG meetings this Quarter we have agreed several changes, which we confirmed. WGs should include  - percentage breakdown of how much of their budget is admin costs vs how much is outputs (mandatory)  - amount of unallocated reserves (mandatory) - a 'reflection' section in reports on what could have gone better (optional) - a few lines about the purpose/aim of the WG (optional) - some information about this quarter's outcomes, not just outputs (optional)  5) Context-setting documents Colleen offered to take on updating these. Guillermo pointed out that much of the tracking would already be managed automatically by the dashboard. The group agreed it would still be helpful to have some guidance in place, but they emphasized not wanting the process to become too rigid.  6) Publicity We assigned Guillermo to redraft the timeline and the 'Take part in the consent process' graphic. Vani and Guillermo will both post them when the time comes.  7) New participant A new voice, Martin, joined in. He introduced himself as someone with a background in AI, neuroscience, and research into attention and consciousness. His questions about the ethics of training AI with books sparked a short discussion, and the group warmly welcomed him and pointed him toward the AI Ethics and R&D workgroups where those discussions would continue.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Colleen will revise and share the updated context-setting and budget guidance materials.",
+              "assignee": "CollyPride",
+              "dueDate": "8 September 2025"
+            },
+            {
+              "text": "Guillermo and the team will finalize the governance dashboard and organize testing/orientation sessions.",
+              "status": "in progress",
+              "assignee": "guillermolucero",
+              "dueDate": "1 September 2025"
+            },
+            {
+              "text": "Guillermo will update the consent process timeline grapic, and he and Vani will post it in the run-up to the start oif the consent process.",
+              "status": "todo",
+              "assignee": "guillermolucero, CallyFromAuron",
+              "dueDate": "2 September 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to shift the budget consent timeline forward by 1 week so it starts on September 15th",
+              "rationale": "This allows more time for the governance dashboard to be ready to use",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We decided that the governance dashboard would officially be used this quarter",
+              "rationale": "Gives it a first use case to be tested.",
+              "opposing": "We recognise it might not be perfect, but it's important to try it out.",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We decided that the exchange rate for Q4 budgets will be $0.28.",
+              "rationale": "Because token price has been below last Quarter's agreed rate of $0.30 for quite a lot of this Quarter",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "1) Q4 2025 exchange rate",
+            "2) Governance Dashboard",
+            "3) Consent process timeline",
+            "4) Additions to what should be included in budget and reports",
+            "5) Context-setting documents",
+            "6) Publicity",
+            "7) New member"
           ]
         }
       ]
