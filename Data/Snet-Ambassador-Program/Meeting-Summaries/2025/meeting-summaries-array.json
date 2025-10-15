@@ -8475,5 +8475,286 @@
         ]
       }
     ]
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-01-09",
+      "host": "Duke",
+      "documenter": "CJFrankie",
+      "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, Ayo, Duke, esewilliams, LadyTempestt, Boaz, Nebula",
+      "purpose": "The African Guild weekly meeting focused on reflecting on what happened in 2024 and possible ways to improve.",
+      "workingDocs": [
+        {
+          "title": "African Guild Meeting: 14th November 2024",
+          "link": "https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The weekly meeting of the African guild kicked off at 5:10 pm with a welcoming greeting from Duke. He expressed his joy for having to witness Q1 as a guild. Following that, we began to exchange greetings in our dialects.   Agenda number two featured a recap of minutes from the last meeting held in 2024 (14th November), you can find the summary here: Meeting Summary - African Guild - 14 November 2024 Momentarily, we ticked off the action items from the last meeting.  Discussion item: The theme of the discussion was 2024 in review. We want to see what we have done so far and possible ways to improve our output as a guild.   - According to Ayo, he said that the guild lived up to expectations, and he highlighted some of the initiatives that contributed to the success of the guild as well.  - Duke also added that the AMAs were so amazing and the marketing initiatives did the guild better; those initiatives have helped the guild to reach more people, cross-guild collaboration as well as cross-ecosystem collaboration, too.   - Duke also sends a shoutout to all the African guild members for their relentless efforts and dedication toward helping the guild achieve great milestones.  - On the other hand, Lady Tempestt talked about the need for proper budget planning.   - Martinsoki suggested that the guild should increase the meeting documentation reward to $25. Members embraced the idea, however, Clement added that the token price won't permit the guild at the moment, and Sucre also added that there shouldn't be any changes made to the Q1 budget.  Q4 marketing initiatives: Duke applauded the Q4 marketing initiative team for their commitment and excellent work. He also said that the winners of the initiative should be selected as soon as possible so we can reward them after the budget has been distributed. Through screen sharing, Duke showcased an interesting African documentary draft; he added that the documentary would be used to tell our stories as an African guild.  AMA session: It is worth mentioning that the last AMA session conducted in 2024 was a blast. The session had over 50 participants: Duke expressed his appreciation to the team, and he added the rewards will be distributed as soon as the Q1 budget is released. In Q4 2024, we decided to create a unique or separate catalog for documenting or reporting the AMA sessions so it is easy to track its impact over time.   Budget: We skimmed over the Q1 budget to have a look at what we planned to do in this quarter. Pending rewards will be paid from the Q1 allocation, after which the focus group will meet to refit the budget so that we do not run out of budget again like before. Duke also added that there would be research and education initiatives in Q1 as opposed to previous quarters where we did only research (we want to tell and educate people about our stories as an African). As a matter of finality, Duke said that the guild might revert to a bi-weekly meeting schedule just so we don't max out the budget 'Experience is the best teacher.'",
+        "actionItems": [
+          {
+            "text": "The Q4 marketing initiative team to select the winners of the campaign.",
+            "assignee": "esewilliams, CJFrankie, Ayo, LadyTempestt",
+            "dueDate": "23 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided to increase the meeting documentation reward to $25, but this will take effect from next quarter because we don't want to make any changes to the Q1 budget.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AMA session,  Q1 budget, marketing initiatives, Collaboration, Documentation, Rewards, documentary, African, research, education",
+      "emotions": "informative, forward-thinking, Welcoming, funny"
+    }
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-01-16",
+      "host": "Duke",
+      "documenter": "Kateri",
+      "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, esewilliams, LadyTempestt, Nebula, Kateri, hogantuso, Ayo, nebula, AndrewBen, Eric Davies, Mikasa, Onize",
+      "purpose": "The African Guild weekly meeting.",
+      "workingDocs": [
+        {
+          "title": "African Guild Meeting: 14th November 2024",
+          "link": "https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit"
+        },
+        {
+          "title": "Documentation with roaster for Q1",
+          "link": "https://docs.google.com/document/d/1YvuwMHJJ1unNzhCz2vkTL_JxflucAEmz/edit#heading=h.gjdgxs"
+        },
+        {
+          "title": "African guild meeting: 8th January 2025",
+          "link": "https://docs.google.com/document/d/10rmrozUMewGrZzTm7nB4HYAvonR8wjRaP54cgGk-1gM/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Introduction: The meeting started with a warm welcome from Duke, who asked if we should continue the greetings in multiple languages. Clement responded that it should be ceremonial, maybe once a month or every first meeting of the month someone can be assigned to lead it.  Action item from last meeting was looked into and followed up.  Q4 AMA report: Duke noted that we have the audio reports but still need a written format of the report, which Ayo replied that the written report is ready.  Q4 marketing initiation update: CJ Franklin updated that nomination of four individual has been made for there outstanding submissions and the announcement will be made on the discord channel which will lead to a vote to determine the first, second, third and fourth places. The vote will determine the winners   AMA session: This was held on 29th of November, which has at least 50 participant. They all came together to talk about the African landscape and how we are relating with AI and it was led by two amazing speakers Kosiso Udodi the founder of Colossai AI and Daniel Effiom the COO of Reno search. During the session there was icebreaker activities, speakers talk, interactive quizzes, closing remark and Q&A sessions. The main objective for the AMA was to have people express there concerns and questions regarding AI which was achieved. Questions were buzzing, interaction was great and feedback was awesome. We marketed this event on various social media platforms both individually and also in the SingularitNet ecosystem. Weaknesses: We had connectivity issues and also we expected wider reach not just Nigerians but other African nations which we didn't have. Key learning: From the session we learned about the roadblocks or the obstacles that Africans is having concerning adopting artificial intelligence solution as fast as the Western world or the European world are doing and it was noted to be just a thing of infrastructure and economical challenge which is largely associated with governmental policies and out of our control. But at the same time we spoke on the essence of having practical solution in healthcare, education and basic things that we are dealing with within Africa that's the Europeans and western world already has. Participants recommended that they should be better pre event communication, better details on events, better marketing strategy to reach more people, technical support for managing collectivity issues. We conclusion the event by speaking on our Future events.  Duke also added that for the future iteration of the AMA session, we should discuss more on SingularityNet focused conversations.   Partnership: During the holiday Hogantuso reached out to Chainbase led in African. Hogan stated that Chainbase is an AI project, and so he spoke with the led and they would love to be in a collaboration with SingularityNet. Duke also stated that this is a great opportunity and since we have no issue will cross ecosystem collaboration, we could leverage on to promote SingularityNet ecosystem and the ambassador program but there is some constraints we may have due to resources   Q1  2025 budget fitting:  The focus group met over the week to fit our budget. It was noted that we requested 5,220 USD and the budget was broken down and fitted into Q1 activities which amounted to the allocated budget but because of our outstanding payment  from Q4, we are left with 3,450 USD and because of this we have had to cut down so many things including our weekly meetings, we would have to revert to bi weekly meetings to reduce cost.  Ubuntu and AI II: This phase two of the Ubuntu and AI project is mostly going to focus on consolidation and community building. We are looking at expanding our reach by hosting the Ubuntu and AI conversations in Egypt, South Africa, Rwanda and Ghana.  Duke stated that the goal is to deepen our engagement within African communities, promote Ubuntu philosophy and AI ethics  and formalizing more partnerships and secure core funding. This is a year long project, during of 12 months from January 2025 to December 2025.   Duke discussed the SingularityNet Africa community's online platforms and a referral contest aimed at boosting engagement which top three will be rewarded. He highlighted the community's current membership is 257. Duke also outlined marketing and education initiatives for this quarter which will including partnerships beyond the Singularity ecosystem. Which may lead to funding members attendance at AI and blockchain events across Africa.",
+        "actionItems": [
+          {
+            "text": "The Q4 marketing initiative team to select the winners of the campaign.",
+            "assignee": "esewilliams, CJFrankie, Ayo, LadyTempestt",
+            "dueDate": "23 January 2025",
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AMA session,  Q1 budget, marketing initiatives, Collaboration, Partnership",
+      "emotions": "informative, Welcoming, productive"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-01-23",
+      "host": "Duke",
+      "documenter": "martinsoki",
+      "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, esewilliams, Kateri, Ayo, Onize, Duke, Kossiso Royce, BoazB, Celiwe_South Africa",
+      "purpose": "The African Guild weekly meeting.",
+      "workingDocs": [
+        {
+          "title": "African Guild Meeting: 14th November 2024",
+          "link": "https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit"
+        },
+        {
+          "title": "Documentation with roaster for Q1",
+          "link": "https://docs.google.com/document/d/1YvuwMHJJ1unNzhCz2vkTL_JxflucAEmz/edit#heading=h.gjdgxs"
+        },
+        {
+          "title": "African guild meeting: 8th January 2025",
+          "link": "https://docs.google.com/document/d/10rmrozUMewGrZzTm7nB4HYAvonR8wjRaP54cgGk-1gM/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Introduction: The meeting began with a discussion led by Duke about the quorum required for the weekly meetings. He raised the question of what should be the minimum number of attendees needed to constitute a valid meeting, given that their average attendance is around 14-15 people, but they've had meetings with as few as 3-4 people. We debated whether decisions made by a smaller quorum should be considered binding, even if the majority of members were absent.  Ese suggested that the quorum could be set at a minimum of 6 members, with the understanding that the gravity of the agenda items should also be considered. Ayo felt that monthly meetings would not work if the goal is to build a true community, and that bi-weekly meetings are more appropriate. We agreed to keep the meeting time the same, despite some suggestions to change it.  The discussion then moved to marketing initiatives. Ese reported they are still in the ideation phase, and need to have final brainstorming sessions to select a campaign focused on engaging the wider African community. Duke suggested it would be helpful to plan marketing initiatives further in advance, aligning them with the overall Singularity Net narrative and topics like Artificial Superintelligence (ASI).  Kossiso provided an update on Colossal AI's efforts to democratize access to AI in Africa. They are planning a series of training programs in February to teach people how to integrate AI into their workflows, as well as how to deploy large language models locally. This will be followed by a policy discussion event in March, and the launch of their own AI model, Imara, built on the DeepSeek foundation.  Clement discussed an upcoming 'Afro-AI Multilingual Literacy Drive' initiative, which will focus on creating community-centered educational materials to demystify AI and showcase its practical applications in areas like agriculture, education, health, and fintech. The content will feature African innovators and use storytelling approaches to inspire local participation.",
+        "actionItems": [
+          {
+            "text": "The Q4 marketing initiative team to select the winners of the campaign.",
+            "assignee": "esewilliams, CJFrankie, Ayo, LadyTempestt",
+            "dueDate": "30 January 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "it was decided that our meeting retains its normal time being 5pm on thrusday",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AMA session,  Q1 budget, marketing initiatives, Partnership, education initiatives",
+      "emotions": "Welcoming, Collaborative, Discursive"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-01-30",
+      "host": "Duke",
+      "documenter": "CJFrankie",
+      "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, SucrenSpice, Onize, Duke, esewilliams, Evelyn",
+      "purpose": "The African Guild weekly meeting and progress updates.",
+      "workingDocs": [
+        {
+          "title": "Afro-AI Multilingual Literacy Workshops",
+          "link": "https://docs.google.com/document/d/1RayZffScx5b_I6B_5x5qInoKOG8xCIJT7nutUoRMuyI/edit?tab=t.0#heading=h.q5luq7qmyhhm"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The weekly meeting of the African guild kicked off with a welcoming greeting from Duke; Following a discussion from previous meetings, Duke made it clear that moving forward, the African guild will not be meeting weekly but rather on a biweekly schedule.   Q4 marketing initiatives: From the marketing side of things, CjFrankie shared an update on the Q1 marketing initiative; he stated that the team is still brainstorming around what the best strategy would be for the guild in Q1.   Education & translation initiative: This groundbreaking initiative is spearheaded by Sucre and Clement, whose vision is to create a communication-centered initiative focused on AI/ASI in the African context. We had a presentation from Clement, which included a clear explanation of the project. Still in its infancy, Clement added that Africa lags in communications around AI, and the goal of the project is to bridge the gaps using a multilingual educational approach to create and translate artificial intelligence materials in three African languages. More so, some of the major objectives of this project are to diversify AI, ASI, and the SingularityNET ecosystem at large. Develop a library of multilingual AI content that can be used for continuous learning and engagement and create a learning platform for mass adoption.   The idea of creating a learning platform piqued Duke's interest, which led to him asking further questions for clarity's sake: Clement clears the air by saying that the 'learning platform' will be like a knowledge repository where people go for continuous knowledge sharing and learning, and the team may consider using a YouTube channel, while Duke suggested that Udemy will be a good platform to explore. This conversation switched gears as Duke talked about the importance of partnership in any project. At a glance, the initiative looks promising already, and there's a need to partner with some other WGs like the marketing guild, video, or writers WG to help us better amplify and publicize any future initiatives.   Partnership: Duke hinted that phase two of Ubuntu and AI is already in progress; he added that phase one of Ubuntu and AI didn't get the attention we needed, and as a result, the African guild should strengthen their ties with other workgroups to achieve great results. The meeting also included discussions about Clement and Advance Emmanuel, who recently received funding to travel to Ethiopia to spread awareness about SingularityNET and onboard new members through interviews and surveys. Congratulations to both Clement and Advance-cheers to a successful year ahead!",
+        "actionItems": [
+          {
+            "text": "The marketing initiative team to showcase their Q1 deliverables by the next meeting.",
+            "assignee": "esewilliams, CJFrankie, LadyTempestt, Ayo",
+            "dueDate": "14 February 2025",
+            "status": "in progress"
+          },
+          {
+            "text": "The Q4 marketing initiative team to select the winners of the ASI campaign.",
+            "assignee": "esewilliams, CJFrankie, LadyTempestt, Ayo",
+            "dueDate": "14 February 2025",
+            "status": "in progress"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We have decided to revert to biweekly meetings.",
+            "rationale": "We have decided to meet biweekly moving forward owing to the fact that our budget might not sustain us if we keep running weekly meetings.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "marketing initiatives, Partnership, education, Translation, learning platform, ai, ASI, SingularityNET, awareness, Ethiopia, multilingual, Marketing Guild, video & WWG",
+      "emotions": "insightful, informative, forward-thinking"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-02-13",
+      "host": "Duke",
+      "documenter": "Kateri",
+      "peoplePresent": "Clement Umoh, esewilliams, LadyTempestt, Evelyn, Sucre n Spice, Nebula",
+      "purpose": "African guild biweekly meeting to discuss"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Introduction: Duke gave a warm welcome and noted that our meetings are now biweekly's till this quarter ends.   Update on Advance and Clement's proposal: During the last meeting, the success of the proposal was highlighted. They are expected to depart very soon, in order to arrive in Ethiopia ahead of the day. At the Ethiopia event they will serve as point men to help expand SingularityNET African community.  Marketing initiatives: Ese gave an overview of the initiative, she highlighted that it is going to be in three phase.  Phase one, learning phase. This is when we gathering all the learning resources that have been created, create Africanized videos and post it on our social media and after every video there will be a short quiz to help foster engagement in our community. Phase two,  teaching phase. This is when we partner with communities hubs across different regions and host a series of workshops with them. Phase three, this is when we create journalistic content and share it across various channels in Africa.  Duke expressed his appreciation but encourage them to speed up the initiative.   Education and translation initiatives: Clement noted that we are currently creating materials and hopefully before the end of the month we should have the materials in English. He aslo said it not going to be a formal session, it is going to be like a movie session very interactive.  Clement noted that the story we would tell will be a blend of ASI SingularityNET, AI and technology and Africa. Our aim is to educate people about the ecosystem, AI, technology but all within the African context.  Members collective: Duke raised the idea to bring back the members collective. Where members were encouraged to shared their thoughts and have it funded in other to advance the guild. Duke thought of bringing back this initiative for Q2.",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Ese to share the working document for the marketing initiative",
+            "assignee": "esewilliams",
+            "dueDate": "27 February 2025"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "marketing initiatives, Collaboration, Documentation, African, research, education, translation initiatives, members collectives",
+      "emotions": "forward-thinking, Educative,  Collaborative"
+    }
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-02-27",
+      "host": "Duke",
+      "documenter": "CJFrankie",
+      "peoplePresent": "Duke, CJFrankie, advanceameyaw, Clement Umoh, esewilliams, Onize, Kateri, Iamnotblank, Benedicta Nelmon, Alfred Itodole, Emmanuel Grandison",
+      "purpose": "Bi-weekly meeting of the African Guild",
+      "workingDocs": [
+        {
+          "link": "https://t.me/+NzN4KY30apI5Y2M0",
+          "title": "SingularityNET Africa Community"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1fygdMec6JD2j1KJYBdPi9WhpbjqpibK14GX49OmTYgw/edit?tab=t.127y5qorgs7x#heading=h.dgwohtz6gi0c",
+          "title": "WG Communication"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The weekly meeting of the African guild kicked off at 5:07 pm with a welcoming greeting from Duke. Before we began the meeting proper, Duke asked everyone how they've been and what they've been up to lately. Some members spoke about a few things they've been working on. We also looked at the summary note from the last meeting, and everything looks good. However, Duke encourages documenters to always submit their summary promptly; he also emphasized the need for a standard font across all documentation.   Q1 Marketing Initiatives: Ese Williams shared an update on the progress of the Q1 marketing initiative spearheaded by Ayo, Lady Tempestt, CJ, and her humble self. She hinted that the content outline/script for the first video was ready! She added that the shooting will commence soon. She also talked about shooting the video at Badagry (because it has African heritage and culture). 'Once the video is shot and edited, it will be published on all the social media platforms, Ese.' Duke encouraged the team to hasten their work because Q1 is almost drawing to a close.  Updates on the Ethiopian Trip: Clement shares his experience and thoughts about his trip to Ethiopia 🇪🇹 with Advance Amayaw, 'It was quite interesting and unique. The event was held in Addis Ababa, where they interacted with individuals from other ecosystems, developers, and community managers. We also established partnerships, which will impact the African guild-Clement.' He also added that they engaged with African developers and some AI enthusiasts (students), and they spread the word about Deep Funding. Clement also said that it wasn't easy for him and Advance to adapt to the Ethiopian dishes.   Education and Translation Initiative: Clement gave a heads-up about these initiatives, hinting that the team is progressing towards making the series for the video content, and as a result, a video editor is needed. Thankfully, Eae showed interest in making the video! He spoke about how the initiative is poised to educate people about AI. For example, how AI can help farmers talk to the sky. Clement also mentioned that the video series will be hosted on GitHub for anyone to access. A few weeks ago, we talked about how we could set up a website and also host the series on learning platforms like Udemy. However, the token price has made us put a hold on that.   Content Calendar: Advance Amayaw showcased a document in the meeting that highlights the collaborative efforts of all workgroups in the Ambassador Program. Its primary purpose is to coordinate social media content ideas, schedules, and updates. The goal is to ensure that all workgroups follow brand guidelines when creating content (graphics, videos, etc.) and to provide feedback and approvals on drafted posts to maintain quality and brand alignment.  Budget: As Q1 2025 draws to a close, the drafting of the Q2 budget has begun. Duke mentioned that the African Guild is reviving the Members Collective-an initiative that allows guild members to propose ideas for bootstrapping marketing efforts and expanding SNET's reach across borders. The meeting concluded with Duke encouraging members to submit their proposals in hopes of securing funding to get the job done.  Highlights/Upcoming Events: Be on the lookout for phase 2 of the Ubuntu and AI series, as well as the marketing and translation initiatives and hackathon. As a matter of finality, the new people introduced themselves to the house; Alfred thanked the Duke for the warm welcome.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Ese to shoot and edit the Q1 marketing initiative video and upload it across all the social media platforms.",
+            "assignee": "esewilliams",
+            "dueDate": "31 March 2025"
+          },
+          {
+            "text": "Ese should follow up with Clement about the education and marketing initiative.",
+            "status": "in progress",
+            "assignee": "esewilliams",
+            "dueDate": "31 March 2025"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AMA session, Q2 Budget decision , marketing initiatives, Collaboration, Documentation,  Event, Hackathon, Contente Calendar, Ambassador program, brand guidelines, Ethiopia, community manager, AI developers, African, Video series",
+      "emotions": "informative, interesting, welcoming, funny,  insightful"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   }
 ]
