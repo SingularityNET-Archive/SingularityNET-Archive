@@ -9136,5 +9136,265 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "486c30d4-c474-428e-869c-149e5f2980cc": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-06",
+        "host": "Omolola Lawson",
+        "documenter": "Évéline Trinité",
+        "peoplePresent": "PeterE, CallyFromAuron, Sucre n Spice, Ayomi Shuga, AshleyDawn, LadyTempestt, Effiom, Maxmilez",
+        "purpose": "Regular weekly Open Governance session"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "What is the best approach to select people for task? current 'first come, first served' approach isn't working. A fairer approach could be based on:  - skills /capability (how do we test for needed skills? what questions should we ask? will the approach privilege one skill set over others?   Skills audit?)  -past performance (does this mean a reputation system? How should we record people's past performance?)  -time taken to complete (Not always a priority - quick completion but to a poor standard is a problem),  -mentorship (expensive and time-consuming, but maybe needed to help people improve their skills).  -application and even interview (but who's the interviewer? Those with relevant skills? If yes, that rules them out from applying. And - how to verify people's experience/skills?)  - giving trial periods (do we take chances and allow people to learn on the job? or experiment by randomly assigning tasks to see how a person handles it? and if that is an option, for how long? It would be time consuming and might be expensive).  -nomination (WGs nominate people? or open nomination across the whole program? Is self-nomination OK? What info would nominees need to give? how would we know if info given is accurate?  -lottery approach (like jury service. Studies show it can work. But - lottery of everyone, or just of those who have relevant skills?)  We discussed the idea of implementing a more open approach as an experiment, by assigning a task to anyone who wants to do it, to see how well it works. We decided to trial it with the task of analysing the current sentiment survey - we'll invite anyone who wants to do it to offer an analysis alongside Tevo's.  We also said that for future task assignments, we could try a lottery approach, or could try nomination with fairly minimal information required.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Omolola will post in the ambassador-general channel to invite volunteers to take on the survey analysis task.",
+              "assignee": "Omolola",
+              "dueDate": "11 November 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "As an experiment, we will offer the (unpaid) task of analysing the current sentiment survey to anyone who is interested, without the need for formally applying or demonstrating capability. This will be done in addition to Tevo's analysis.",
+              "rationale": "to determine if this approach is effective, and compare/contrast the results"
+            }
+          ],
+          "discussionPoints": [
+            "What is the best approach to select people for major tasks?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "voting, sentiment survey, training programs, time commitment, skills audit, trial period, mentorship, reputation, lottery, capability, timeliness, task assignment, first come first served",
+        "emotions": "Collaborative, peaceful,  Determination , Confused, multiple ideas, inconclusive"
+      }
+    }
+  ],
+  "f5994a84-a199-4f8d-8b00-dd9d4b73fd97": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-10-28",
+        "host": "Ayomi Shuga",
+        "documenter": "UKnowZork, CallyFromAuron",
+        "peoplePresent": "Ayomi Shuga, UKnowZork, PeterE, Alfred Itodele, AshleyDawn, Évéline Trinité, guillermolucero, Omolola Lawson, CallyFromAuron, Kateri",
+        "purpose": "Regular Weekly Open Governance Meeting",
+        "workingDocs": [
+          {
+            "title": "GovWG governance workgroup facilitation and documentation rota",
+            "link": "https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?gid=574333377#gid=574333377"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing",
+            "title": "Governance calls, rolling agenda"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "This was a discursive meeting, introducing some new ideas, and wasn't aiming at making decisions at this stage.  KEY QUESTIONS: - Should rewards be based more on impact and outcomes, rather than (as at present) on budget requests in advance, and KPIs?  - What changes would be required, and how might it affect funding and accountability? - How should we measure impact?   BUDGET APPROVAL IN RETROSPECT? This idea originated from discussions in a long Gov WG meeting last year, where it was suggested that rather than putting forward a budget plan for the coming Quarter, and getting consent in advance for things that might not happen (e.g. due to changes in token price), it might be better if WGs made spending decisions ad-hoc, and then reported at the end of the Quarter on what that had done, and if the community's consent for them to continue was given in retrospect on the basis of how they had managed their budgets. So WGs make no specific promises on what they will spend money on, other than that they will spend it wisely; and during the Quarter they can be responsive to changing conditions; and at the end, they are assessed on their results, not their promises So although there would be a danger of a WG mismanaging funds for one Quarter, after that they would no longer get the community's consent to continue.  This becomes easier now that we have implemented budget caps, so a WG cannot go above a pre-agreed amount.    And incorporating more recent discussions in GovWG about impact and outcomes - should we be asking WGs to report on the impact of their work, rather than outputs and KPIs, and is that what we should be asking the community to assess them on? So not so much 'was it done?' but 'was it a good idea?'    HOW TO MEASURE IMPACT? Should we use a WG's past performance / track record as a guide to assessing its impact? Perhaps not, because even a group with no track record could still have impact.  Should we take the radical approach of putting *all* WGs on 'probation' next Quarter, and they must prove their impact in order to continue? Could be a bit too harsh - but addresses the issue that at present, if no impact is made, nothing happens and it's not a problem. But overall, people felt the 'everyone is on probation' approach would be unfair, since some WGs *have* been producing impact.  Each WG could create a simplified / minimal Theory of Change to make intended impact cleearer - they could point to what has happened to move them towards their intended change?  Or a Social Value / Social Return on Investment approach?  Problem with measuring impact is that it requires gathering data, often qualitative data - which is expensive work that WGs rarely budget for.    IMPACT, EXPERIMENTATION, RISK, AND SUSTAINABILITY OF THE PROGRAM? Guillermo: if some WGs are not bringing outcomes, it raises concerns about the sustainability of the Program. Fairness - we should not treat all workgroups the same when they have different track records. Acccountability is important - but we shouldn't be too ready to experiment or change the whole process when token price is so low.  The alternative view was that low token price is the time to experiment with our processes, as we have little to lose in financial terms.  Should we be more cautious and less experimental when token price is low? And would an 'impact-based' approach mean more experimentation and risk taking, or less? If a WG tried a new idea and it failed and had no impact (even if they did other work that did have impact), would that failure mean they risk losing their funding in the following Quarter if the rest of the community disapproved? OR is the focus more on a 'consent process' idea of 'has it caused harm?' i.e. even if one part of a EWG;s work fails, the community would still consent if they felt that continuing to give them a budget was sufficiently safe and they were not going to keep wasting money?    REPORTING GUIDELINES, CONSENT, AND THE DANGERS OF A MAJORITY VOTe Advance planning can helps maintain focus and accountability However at times of falling token price, the need for constant 'budget fitting' is a lot of overhead. It might be better to leave WGs free to decide on spending ad-hoc, in response to conditions, rather than having to conform to an advance plan that might not be sustainable. Planning would of course still be done, but it would be more internal.  Perhaps a WG's Theory of Change would become its 'plan'? Keep the focus on what the impact needs to be, and respond to changing conditions to determine the best way to achieve it?  Alfred: We need clearer reporting guidelines. And - will the decision on how well a WG spent its money be a consent process, or will it morph into a majority vote? Will it give WGs too much freedom to do things without having to seek approval first? Without proper guidelines, the process couldturn into a popularity contest; and WGs with large memberships could secure majority approval even if they are not showing much impact.   IMPLEMENTING CHANGES? We noted that not all WGs are represented in Governance meetings, so they cannot be decision-making in and of themselves. But we also noted that meetings are open and people could attend if they chose - and also, any decision we suggest will be posted in the Decision-To-Be-Made Discord channel, and given a week for objections to be raised  FINAL THOUGHTS We agreed to a) reflect further on the idea of not submitting budgets in advance, and b) try to come up with other ideas for how to connect rewards with real impact. We will discuss further next meeting - the planned topic is ideas for changes to the consent process, so it's part of the same overall subject.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "A follow-up discussion will take place in the next meeting, alongside broader talks on improving the consent process. Members will reflect on alternative ways to connect rewards with demonstrated impact before then.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "Because the discussion today was inconclusive.",
+              "opposing": "Experimentation and sustainability of the Program?"
+            }
+          ],
+          "discussionPoints": [
+            "Should we shift from budget-based to impact-based rewards for workgroups.",
+            "Budget approval in retrospect?",
+            "How to measure or track impact?",
+            "Experimentation, risk, and sustainability of the Program?",
+            "Reporting guidelines, consent, and the dangers of majority voting"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Consent Process, transparency, fairnesss, accountability, flexibility, probation, theory of change, token price, impact, outcomes, KPIs",
+        "emotions": "Collaborative,  forward-looking,  insightful,  informative, Measuring outcomes, Only a few of those present spoke"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "8dec4dce-f1c5-4787-8961-4618f1922b1e": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-04",
+        "host": "PeterE",
+        "documenter": "UKnowZork, CallyFromAuron",
+        "peoplePresent": "PeterE, UKnowZork, CallyFromAuron, Ayomi Shuga, CollyPride, Omolola Lawson, AshleyDawn, Maxmilez",
+        "purpose": "Regular Weekly Open Governance Meeting",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSfO3Xz1EfMwQj0s91i7aHGna9Ml-k02MZ4-bsaO7BgHfcZLNw/viewform",
+            "title": "Sentiment Survey v3 - November 2025"
+          },
+          {
+            "title": "GovWG budgets",
+            "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+          },
+          {
+            "title": "draft report template for Q4 2025 workgroup reports",
+            "link": "https://docs.google.com/document/d/1cf4Rlw-nwp2UXNNW16ZeYuhIxM_VbTowkbvrfOeHtOk/edit?usp=sharing"
+          },
+          {
+            "title": "TEMPLATES - Progress Reports (Treasury Guilkd and Treasury Automation)",
+            "link": "https://docs.google.com/document/d/1UgxHLwrlIBgqgRzG1PgfPut67IpbAMLaSlkVTDNukhQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Core Contributor, poor documentation, collaborative documentation, sentiment survey, Q4 2025 quarterly reporting, Governance Dashboard, low token price, pricing tasks in AGIX, AGIX or USD, Fixed AGIX Rewards, outcomes, impact, work quality, transparency",
+        "emotions": "Collaborative, forward-looking, insightful, informative, Only a few of those present spoke"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "1) WG budget adjustments due to low token price  No payments have been made yet this Quarter due to falling token prace. We previously did a 'budget-fitting' in which we agreed to reduce payments for documentation from $20 to %15, but token price is now so low that even this is unaffordable.  We also need to clarify whether we will pay facilitators - currently we cannot afford to do so in USD, even if we (as previously agreed) do take the 1,500 AGIX that was left unallocated when we worked out the Q4 budget caps.  If we switch to pricing tasks in AGIX, however, we could pay both roles - payments would work out at around 80 AGIX per task. Till now, we have been reluctatnt to pass on the problem of token price instability to the individual - but with prices so low, there might be no alternative.  Vani will look at the budget, work out exactly where we stand, and suggest an approach and post in the GovWG channel so people can agree or disagree   2) Documentation inaccuracy  Currently documentation of GovWG meetings is quite poor, with decisions often not being accurately captured. A lot of correction is needed, and Vani no longer has time to do it. Perhaps the low standards are due to low pay? Suggestion - we will try having a live, collaborative doc during the meeting itself, where everyone can take part in keeping notes; then the documenter only needs to add it to the summary tool. Or we could keep notes in the Zoom Chat.    3) Reporting template for Q4 2025 quarterly reports  We have agreed that there will be no budget consent process this Quarter, and only minimal reporting. Vani drafted a template for minimal Q4 reports that can be added to the Governance Dashboard, and Guillermo has said this probably can be added to the Dashboard in time for the end of the Quarter. But Tevo and Alfred have done considerable work on how they want to report for Treasury Guild and Treasury Automation, using a template that gives more detailed info. We agreed that this template shouldn't be used for all WGs, as it's a bit too detailed and would remove the advantage of minimising the reporting overhead for WGs; but we agreed there needs to be an option for Treasury WGs to add their full reports as a doc. We also agreed to ask WGs to list work that they planned but *didn't* do this Quarter - this will almost certainly be due to low token price, and will help quantify how much work is hindered by token price fluctuations.    4) Finalise sentiment survey design  Based on feedback in last meeting and async, Vani has revised the draft. Instead of a list of tick-boxes, we now have a section for each WG, and space for people to optionally give rationales for their opinions. We recognise this will make the survey quite long, but it is optional.  We agreed the survey will be anonymous - we will ask for Discord names, to ensure that respondents are indeed Core Contributors, but this will only be visible to one person (probably Peter, or whoever's accoiunt the survey is shared on) and will be redacted before results are shared.  We agreed to include only the questions on  - work quality - impact - transparency as we felt these were the priority issues that we wanted to know about.  We refined the rating scale for 'impact' to 'Large positive; small positive; no impact; negative impact'.  We also agreed to include both 'I don't know this WG's work' and 'I prefer not to give an opinion' for all 3 questions.   5) Sentiment survey distribution We agreed on posting in Ambassador-General and Decision-To-Be-Made Discord channels for the first week; and then in the 2nd week, Peter and Vani will DM Core Contributors who haven't yet responded    The survey will go out tomorrow, 5th Nov, and close on Mon 17th. Results will be discussed in GovWG on 20th, 25th and 27th Nov, after Tevo's analysis.",
+          "actionItems": [
+            {
+              "text": "Vani to look at the budget, assess our options for pricing tasks, and post in GovWG Discord channel",
+              "status": "todo",
+              "assignee": "CallyFromAuron",
+              "dueDate": "12 November 2025"
+            },
+            {
+              "text": "Vani will share the sentiment survey in the main channels; Vani and Peter will DM Cire Contributors next week to ask them to complete it",
+              "status": "todo",
+              "assignee": "CallyFromAuron, PeterE",
+              "dueDate": "11 November 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed to consider moving to pricing tasks in AGIX for the WG, or to reduce prices for tasks if we want to keep calculating prices in USD",
+              "rationale": "low token price means we can no longer afford to pay the planned amount in USD for documentation and facilitation tasks"
+            },
+            {
+              "decision": "We decided to use the simple reporting template for Q4 2025 quarterly reports, but to include a field for WGs to add a more detailed report if they want to.",
+              "rationale": "To keep reporting simple and minimise admin obverhead for WGs",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "To fix the problem of poor meeting summaries in Gov WG, in future meetings we will either keep notes live in a shared doc, or keep a note of decisions in the Zoom chat",
+              "rationale": "because documenters are not capturing decisions accurately; and because we want to minimise the work documenters need to do considering the low price for the task",
+              "effect": "affectsOnlyThisWorkgroup"
+            },
+            {
+              "decision": "We agreed on the details of the sentiment survey - it will ask about work quality, impact, and transparency, and will give space for respondents to optionally add a rationale for their ratings."
+            }
+          ],
+          "discussionPoints": [
+            "WG budget adjustments due to low token price",
+            "Documentation inaccuracy",
+            "Reporting template for Q4 2025 quarterly reports",
+            "Finalise sentiment survey design",
+            "Sentiment survey distribution"
+          ]
+        }
+      ]
+    }
+  ],
+  "2f6ee719-868b-4fe1-99b4-ef0bc559953a": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-13",
+        "host": "CallyFromAuron",
+        "documenter": "CallyFromAuron, all (collaborative documentation)",
+        "peoplePresent": "CallyFromAuron, PeterE, omolola, Alfred Itodele, Kateri, guillermolucero, ayomi shuga, martinsoki, sharmila",
+        "purpose": "regular weekly Open Governance session",
+        "workingDocs": [
+          {
+            "title": "Demo 'invisible work' log",
+            "link": "https://docs.google.com/spreadsheets/d/1MD6V9PbW-h7OwqEj3kdVgf27RaQfr4G6v4gH67Ya2io/edit?usp=sharing"
+          },
+          {
+            "title": "Draft 'Invisible work hero' nomination form",
+            "link": "https://forms.gle/aujqzYv4SpkisPEt5"
+          },
+          {
+            "title": "collaborative documentation notes",
+            "link": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "TOPIC: What is 'work', and how do we recognise and value the invisible work we all do  1) What does this community value as 'work'?  What do we / don't we count, and why?  - participating in governance, monthly WG updates, Town Hall, etc are invisible work - R&D decided to reward otherwise invisible work on Gov-Dash - the off-record discussions and async chats. A lot of this kind of work we don't even track the time. Tevo did similar in Treasury - 'Emotional Housework' is pretty much always invisible - Support for new members and mentoring to tasks - Small micro-efforts - reminding people about stuff, posting reminders, that makes stuff work. Too small to put on Dework - Attending WG calls could be work right - but is attendance the same as participation? Participation over presence - Filing out surveys or consent forms - Things that people pay out of their own pockets - tooling etc (and paying tourist dollar rate on credit card!) Need to update lists of what paid accounts the program has and what individuals are paying for.    2) What's paid, and what's voluntary? How do we decide?  - We prioritise tech tasks over admin, emotional, community - perhaps we shouldn't - Lots of WGs are doing operations with no rewards - keep outcomes and scope, but rewards have dropped 70% of our work became invisible... LatAm; Onboarding; Archives; all have done this But tracking it still, so can reward it if price goes back up - Should we pay everything? Does it change the nature of it (e.g. giving someone emotional support)  if it becomes a transaction?    3) How do we count and record the voluntary bits?  - Vani shared demo 'invisible work' log - could everyine do this? - Important to keep overheads minimal - if it takes more effort to log than to do, it's not good. So keep it as rough estimates - we do need to know WHAT it was - It's all equivalent - For now, no need to check - it's an honour system (or maybe check very clear outliers but that's it). But maybe it becomes an issue if it feeds into a reputation system  - We also shared Draft 'invisible work hero' nomination form https://forms.gle/aujqzYv4SpkisPEt5   - It's not competitive - anyone who is nominated gets added to Dework and gets task points. - People liked this idea.  - Maybe nomination could eventually lead to a bonus?? - Are there ways we can reward work other than money/tokens? To be further discussed",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vani and Peter will be happy to add the results to Dework",
+              "assignee": "CallyFromAuron, PeterE",
+              "dueDate": "12 December 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We will start by implemeting the 'Invisible Work Hero' form",
+              "rationale": "feels like an interesting way to start capturing hidden work",
+              "effect": "mayAffectOtherPeople"
+            },
+            {
+              "decision": "We can also implement the spreadheet to record invisible work for those who want, although there was less enthusiasm for this",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "What does this community value as 'work'?  What do we / don;t we count, and why?",
+            "What's paid, and what's voluntary? How do we decide?",
+            "How do we count and record the voluntary bits?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "invisible work, volunteer work, emotional housework, token price, we used collaborative documentation",
+        "emotions": "thoughtful,  Collaborative, Interesting, sad, surprising, realisation of how much we all do"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
   ]
 }
