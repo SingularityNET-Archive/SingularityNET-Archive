@@ -9577,5 +9577,38 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "728bd6a2-7d45-457f-bd28-579abbf8fe4e": [
+    {
+      "workgroup": "AI Ethics WG",
+      "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+      "meetingInfo": {
+        "typeOfMeeting": "One-off event",
+        "date": "2025-10-23",
+        "host": "CallyFromAuron",
+        "documenter": "Kateri",
+        "peoplePresent": "LordKizzy, CallyFromAuron, Brian Boatz, Zainab Saidu, Sucre n Spice, Maxmilez, UknowZork, Kateri, Andrew Ben, Solomon Salifu, Morgan Ufuoma, Paul Mwambun, Victor Nderitu, Mathew Kasanga, Sheila Wanjiru, Duke, AshleyDawn, Peegee, Stephen [QADAO], guillermolucero, hogantuso, osmium",
+        "purpose": "Session 3 of the BGI-25 Virtual Unconference: 'AI ethics in community governance'",
+        "meetingVideoLink": "https://youtu.be/kYh4RLOCETY?si=UExvf72eEjgvNjY-"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI governance, ethical AI, AI ethics"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
   ]
 }
