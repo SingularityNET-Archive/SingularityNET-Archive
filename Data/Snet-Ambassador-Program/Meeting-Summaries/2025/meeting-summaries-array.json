@@ -9336,16 +9336,141 @@
     },
     "agendaItems": [
       {
+        "status": "carry over"
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AI governance, ethical AI, AI ethics, Ubuntu"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Think-Tank",
+      "date": "2025-10-23",
+      "host": "osmium",
+      "documenter": "Stephen [QADAO]",
+      "peoplePresent": "osmium, LordKizzy, others unknown",
+      "purpose": "Session 2 of the BGI-25 Virtual Unconference: 'AI Agent DAO Blueprint'",
+      "mediaLink": "https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing",
+      "workingDocs": [
+        {
+          "title": "Slides: AI Agent DAO Blueprint",
+          "link": "https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1lufZVGjK4Ltm-QmGd34iMcAxYh-LCj80oSEBJNgaBDc/edit?usp=sharing",
+          "title": "Blog post - From Idea to Action: my experience showcasing the AI Agent DAO at BGI-25"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
         "status": "carry over",
         "actionItems": [
           {
             "status": "todo"
           }
+        ],
+        "discussionPoints": [
+          "Vasu Madaan presented his idea for a new approach to regulating AI agents on tthe SingularityNET tech stack, by means of a DAO structure.  This would allow a decentralised approach to managing ethical risks, via a common ethical framework to guide the behaviour of AI agents, and a reputation system to evaluate and enhance their rustworthiness and accountability.  Key system components: - superintelligence.io: ASI coordination - singularitynet.io: AI services - fetch.ai: Autonomous infrastructure - agentverse.ai: Deployment layer - hyperon.opencog.org: Cognitive core  See  - slide deck here https://docs.google.com/presentation/d/1SUT5hd24HLzbxHqT88pkPybP-Ov_YhAii7qL3mARdeA/edit?usp=sharing  - blogpost here https://docs.google.com/document/d/1lufZVGjK4Ltm-QmGd34iMcAxYh-LCj80oSEBJNgaBDc/edit?usp=sharing  for more details"
         ]
       }
     ],
     "tags": {
-      "topicsCovered": "AI governance, ethical AI, AI ethics"
+      "topicsCovered": "DAOs, AI Agent, Decentralization, AI ethics, AI safety, accountability, human-in-the-loop, Human values, Fetch Ai, agentverse, OpenCOG Hyperon"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Research and Development Guild",
+    "workgroup_id": "5ba6b88f-3a26-4a9f-8318-7bd814b0f005",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2025-12-04",
+      "host": "guillermolucero",
+      "documenter": "LordKizzy",
+      "peoplePresent": "guillermolucero, CallyFromAuron, Tevo, PeterE, Esther Galfalvi, Alfred Itodele, Jeffrey Ndarake, kenichi, Leandro Gavidi",
+      "purpose": "R&D Updates and Discussions",
+      "workingDocs": [
+        {
+          "title": "MeTTa Coder Lab drive",
+          "link": "https://drive.google.com/drive/folders/1yUE7TQSRzE6BUyOUh41mHQGb_WmZhyEb"
+        },
+        {
+          "title": "Nunet Application Form",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSdwU_T2iANX63x3AYyofSb3s2cjp8SPZhMeoK60MTD8nSiIbA/viewform"
+        },
+        {
+          "link": "https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h",
+          "title": "Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access"
+        },
+        {
+          "title": "Enhancing Search Engine Optimization for the Ambassadors Program proposal",
+          "link": "https://docs.google.com/document/d/15dJCh1k8_MR39HS5MaQynf6hTho80rUO1XNZAtifgI0/edit?usp=sharing"
+        },
+        {
+          "title": "AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors.",
+          "link": "https://docs.google.com/document/d/1pJRfpdySCsvkjsMnWpDoeAMVpRJQQxJgTdJJWFj3ioc/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "meetingTopics": [
+          "Welcoming new Members and Introduction",
+          "Review of last meeting summary Action Items",
+          "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, W3CD-Web3-Contributors-Dashboard, CSDB-Collaboration-Skills-Database, Social-Media-Dashboard, Reputation-System-using-SoulBound-Tokens-SBTs,  Event Scheduling and Notification System / Enhancing Calendar Integration with Custom Access, Enhancing Search Engine Optimization for the Ambassadors Program,  AI-Agent @CoreContributor / Human-AI Powered Collaboration for Ambassadors.",
+          "Deployment of an AI agent for the BNB hack and ongoing proposals for Cudos",
+          "AOB Open discussions: Operations moving forward, identify and establish priorities, New proposals system redesign, Onboarding Devs"
+        ],
+        "actionItems": [
+          {
+            "text": "Kenichi to share a visual presentation highlighting the progress updates on the R&D Channel",
+            "status": "todo",
+            "assignee": "kenichi",
+            "dueDate": "1 October 2025"
+          },
+          {
+            "text": "Guillermo to share the summary of the BNB hackaton deployment on the Ambassadors General channel.",
+            "status": "todo",
+            "assignee": "guillermolucero",
+            "dueDate": "1 October 2025"
+          },
+          {
+            "text": "Vani to create a document for community discussion regarding the foundational prompt for the AI agent.",
+            "status": "in progress",
+            "assignee": "CallyFromAuron",
+            "dueDate": "1 October 2025"
+          },
+          {
+            "text": "Guillermo will follow up with Rems to set up a call regarding the UI design and integration.",
+            "status": "todo",
+            "assignee": "guillermolucero",
+            "dueDate": "1 October 2025"
+          }
+        ],
+        "discussionPoints": [
+          "AI Tool Development and Collaboration Strategies Guillermo discussed the roadmap for developing AI tools using the ASI stack, emphasizing the need for collaboration and resource sharing within the ecosystem. They highlighted the importance of cognitive capacities and ethical considerations in defining the AI's personality. The conversation also touched on the necessity of organizing ideas and prioritizing tasks to build a comprehensive framework for AI assistance.",
+          "Data Integration and AI Assistant Development Tevo Kask and Guillermo focused on the integration of data sources into a machine-readable format for the AI assistant. They highlighted the need for contextual training to ensure the AI can effectively assist with governance decisions within the Ambassador Program. Esther Galfalvi raised questions about the expected interactions with the AI assistant, while Vani pointed out the necessity of including relevant historical context to improve decision-making. Guillermo highlighted their significant usage of the AI assistant, with nearly a thousand interactions recorded since its launch. Vani questioned the method of counting these interactions, seeking clarity on whether they referred to individual chats or posts. The discussion also touched on the importance of having a disclaimer for deeper analysis of the AI assistant's conversations.",
+          "Data Privacy and Ethics Discussion Esther and Vani engaged in a discussion about the implications of data privacy and consent in their community. Vani argued that the focus should be on data privacy rather than AI ethics, expressing concerns about the potential for misuse of data. Guillermo recognized the importance of establishing a clear consent process and the need for transparency regarding data usage, while also noting the difficulties in managing individual consent in a small community. Guillermo highlighted the benefits of increased transparency in their reporting processes, noting that visibility encourages better attention to detail and accountability. Vani questioned the distinction between past and current reporting practices, suggesting that visibility has always existed. Esther proposed that the formalization of reports might enhance their perceived immutability."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Proposals, Governance Dashboard, Status update, AI Agent, Hackathon",
+      "emotions": "Understanding.,  Satisfaction , Lengthy"
     },
     "type": "custom",
     "noSummaryGiven": false,
