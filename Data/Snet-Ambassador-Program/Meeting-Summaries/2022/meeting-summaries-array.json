@@ -38,5 +38,652 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-06-07",
+      "host": "Peter",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Iain, Crandano, Architect of neurowork, Peter, Tevo, Felix, Julien Collins, Haley",
+      "townHallNumber": "5",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=NufVHLKPUWs",
+        "intro": "The Ambassador Town Hall is a regular event streamed live on the SingularityNET Discord Channel https://www.youtube.com/@SingularityNET every Tuesday at 19:00.",
+        "timestamps": "00:00:00 Intro 00:00:12 - Meeting agenda 00:01:20 - Last meeting short recap and feedback 00:02:39 - Workgroups - update 00:03:11 - Task Management (Presenting tasks in DeWork plataform) 00:24:03 - Gitbook and Signup Form 00:26:24 - Program Miro Board 00:38:40 - Community Podcast update 01:02:35 - Tasks Update 01:10:12 - Rewards distribution 01:13:10 - Translations Workflow and rewarding 01:18:10 - Open round 01:20:20 - Wrap up 01:21:40 - GMBL (Gimbalabs Tokens) as recognition token 01:29:46 - Proof of attendance token ideation 01:35:25 - Swarm Treasury 01:45:05 - Swarm Bounty Board 02:02:20 - Swarm Events 02:03:13 - Closing"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises Workgroups update, Community podcast update, New Group Task Management, and Structure group.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Community podcast update, new group, Task Management, structure group, GitBook",
+      "emotions": "informative, new ideas, planning, ideas, Collaborative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-06-14",
+      "host": "Peter",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Peter, Tevo, SucrenSpice, Felix, Haley, Architect of neurowork, Jan Horlings, EricS, Tera.TADAA, Julien Collins, kaiaofabian",
+      "purpose": "Workgroup progress - structure & podcast, Tasks & Rewards update, and Feedback",
+      "townHallNumber": "6",
+      "googleSlides": "https://docs.google.com/presentation/d/1Bqx1xtDD-Cw59lP4H_32eXpUYqejDMBDR8ASb2MRLYo/edit#slide=id.g1296df77e28_0_24",
+      "workingDocs": [
+        {
+          "title": "Slides",
+          "link": "https://docs.google.com/presentation/d/1Bqx1xtDD-Cw59lP4H_32eXpUYqejDMBDR8ASb2MRLYo/edit#slide=id.g1296df77e28_0_24"
+        }
+      ],
+      "timestampedVideo": {
+        "intro": "The Ambassador Town Hall is a regular event streamed live on the SingularityNET Discord Channel https://www.youtube.com/@SingularityNET every Tuesday at 19:00."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises Workgroups update, Community podcast update, Task Management Group, and Structure group, Setup: dework getting filled, gitbook live and account, set work session slot, and Additional roles need further defining.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, podcasts, GitBook, Dework, Task Management, structure group",
+      "emotions": "participatory, Friendly, Collaborative, ideas"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-06-21",
+      "host": "Peter",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Peter, Tevo, SucrenSpice, Felix, Crandano, Iain",
+      "purpose": "Workgroup progress - structure & podcast, Tasks & Rewards update, and Meeting POAPs brainstorm",
+      "townHallNumber": "7",
+      "googleSlides": "https://docs.google.com/presentation/d/1aMCU8n6qOTreuFFpJDYonn2UkBZ9M95CGxZsvHkLHMI/edit#slide=id.g1296df77e28_1_0",
+      "workingDocs": [
+        {
+          "title": "Slides",
+          "link": "https://docs.google.com/presentation/d/1aMCU8n6qOTreuFFpJDYonn2UkBZ9M95CGxZsvHkLHMI/edit#slide=id.g1296df77e28_1_0"
+        },
+        {
+          "title": "Ambassador GitBook",
+          "link": "https://snet-ambassadors.gitbook.io/home"
+        }
+      ],
+      "timestampedVideo": {
+        "intro": "The Ambassador Town Hall is a regular event streamed live on the SingularityNET Discord Channel https://www.youtube.com/@SingularityNET every Tuesday at 19:00."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises Workgroups update, Community podcast update, Task Management Group, open work session 22nd 09 UTC, Main focus: cleaning up imported translation tasks, Structure group, Setup: dework Translation update, gitbook live,  what content do we want on the gitbook?",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, podcasts, GitBook, Dework, Task Management, structure group, Translation",
+      "emotions": "questioning, ideas, Thoughtful"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-06-30",
+      "host": "Peter",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Peter, SucrenSpice, Iain, Julien Collins, jovan, little butts, MacForaday, Haley, Marina",
+      "purpose": "Workgroup progress - structure & podcast Tasks & Rewards update, budgetting Roles, Open topics",
+      "townHallNumber": "8",
+      "googleSlides": "https://docs.google.com/presentation/d/19UPn8iCDJ3nv1lFvQMiZIjyfu11QXVO-dDqpZ9gisXY/edit#slide=id.g1296df77e28_0_48",
+      "workingDocs": [
+        {
+          "title": "Slides",
+          "link": "https://docs.google.com/presentation/d/19UPn8iCDJ3nv1lFvQMiZIjyfu11QXVO-dDqpZ9gisXY/edit#slide=id.g1296df77e28_0_48"
+        },
+        {
+          "title": "GitBook",
+          "link": "https://snet-ambassadors.gitbook.io/home"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=tb-dv5b0a58",
+        "intro": "The Ambassador Town Hall is a regular event streamed live on the SingularityNET Discord Channel https://www.youtube.com/@SingularityNET On Thursday at 19:00."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises Workgroups update, Ambassador Process Guild, Setup: gitbook updated w/ ecosystem socials, guide Collected wallets for disbursement -  <Sunday>,Community podcast - update",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, podcasts, GitBook, Dework, Task Management, structure group, disbursement, Ambassador Process Guild",
+      "emotions": "Collaborative, progress made, ideas"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-07-05",
+      "host": "Peter",
+      "documenter": "Onize",
+      "peoplePresent": "Tevo, Iain, Julian, little butts, Haley, Jeffery Mashaw, malik, SingularityZoeille, others unknown, PeterE, Sucre n Spice",
+      "purpose": "Workgroup progress and podcast updates",
+      "townHallNumber": "9",
+      "googleSlides": "https://docs.google.com/presentation/d/1JKE2Mh6YTL9et6_IN1Fo9GPT2ZWZZE7SnlZy7QRqe08/edit#slide=id.g1296df77e28_0_24",
+      "workingDocs": [
+        {
+          "title": "Miro board",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/vBR4EiJy2Ko?si=9XII5qClMDqE4tjW",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "0:54 Intros by Peter 1:59 Agenda 3:53 Project Catalyst pitch 16:03 Cardano voting 21:39 Updates on Workgroups 21:47 Time slot for community podcasts 44:44 Updates on the rewards of June 46:41 Translations"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises monthly updates from each WorkGroup and Guild.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, podcasts, Budget , social media management, Translation, Proposals, Treasury",
+      "emotions": "participatory, Friendly, Collaborative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-07-12",
+      "host": "Peter",
+      "documenter": "Onize",
+      "peoplePresent": "Peter, Tevo, SucrenSpice, Iain, Julian, little butts, Haley, Jeffery Mashaw, malik, SingularityZoeille, others unknown",
+      "purpose": "Workgroup progress and podcast updates",
+      "townHallNumber": "10",
+      "googleSlides": "https://docs.google.com/presentation/d/1TIJXrFGrNLJ6q4esILH9q-vCeiupWnKbm7DosbBPG_g/edit?usp=sharing",
+      "workingDocs": [
+        {
+          "title": "Miro board",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/mgNhtJIMwE4?si=vyhHW_kN74nE22yu",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "0:11 Intros by Peter 0:18 Agenda 0:26 Tasks and Rewards updates 0:34 Social media updates 1:47 Podcast updates 11:17 Translations 13:22 Creating a sustainable token budget 15:12 The June Monthly Recap Blog 23:10 The Brazillian Translation Experiment 34:47 Supporting on Social Media"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises monthly updates from each WorkGroup and Guild.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, podcasts, Budget , social media management, Translation, Proposals, Treasury",
+      "emotions": "participatory, Collaborative, productive"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-07-26",
+      "documenter": "Onize",
+      "peoplePresent": "Tevo, Iain, Architect of neurowork, Felix, rainer, Sucre n Spice",
+      "purpose": "Workgroup progress and podcast updates",
+      "townHallNumber": "12",
+      "workingDocs": [
+        {
+          "title": "Miro board",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764556010598156&cot=10"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/4MQsO2eoLZ4?si=6fubZUeB20eWyIjx",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "0:18 Agenda 1:50 Community Podcast 2:43 The Process Guild 5:30 etting up infrastructure 10:20 Community Operated research 28:48 Translation tasks"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises monthly updates from each WorkGroup and Guild.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Process Guild, community, Community podcast update",
+      "emotions": "participatory, Collaborative, informative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-08-30",
+      "host": "PeterE",
+      "documenter": "Clement Umoh",
+      "peoplePresent": "Curtis, Nicola, Tevo, WaKa, Julian, osmium, Felix, PeterE",
+      "purpose": "To discuss workgroup progress - structure & podcast",
+      "townHallNumber": "16",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=d6IZyXm8kgc",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "0:00 Intro 0:10  Overview of today's agenda 1:44  Julian gives a status update on the interview with Patrick 12:03  Update on the ongoing talks with Mineplex Podcast  12:40  Quality control for translation tasks 20:53  Verifying translations  31:14  Uploading articles that need translation on Dework 31:43  Posting content on SingularityNet Subreddit  39:28  Rewards for August  41:19  Architect update on the Biomimicry plans and progress  44:10  Deep Funding update for August 2022 47:20  Upcoming Governance Experience 51:05  Discussion on Deep Funding values of decentralization  58:18  Outro"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The discussion on this Townhall meeting centered around the progresses with the workgroup structures. Discussions were also held around tasks and rewards for the preceding week.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, workgroup updates, Tasks, podcasts, Guilds , Quality Control, Governance, Biomimicry, Translation",
+      "emotions": "supportive, Discursive, Thoughtful , informative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-09-06",
+      "host": "PeterE",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Tevo, Felix, Eric, Jan Horlings, Julien Collins, little butts, Architect of neurowork, Haley Lowy, Sucre n Spice",
+      "townHallNumber": "17",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=d0eRE7TqQZg",
+        "intro": "The next Town Hall meeting will be going live and recorded on Tuesday, September 6th, at 18:00 UTC, on our Discord server.",
+        "timestamps": "0:00 Intro 1:37 Workgroup progress update 8:07 Suggestion to start uploading sections of the podcast on YouTube shorts 11:40 Rescheduling the meeting time to once a week instead of twice 16:15 Resolution to set up a vote cast to determine the convenient time for meetings 18:40 Discussion on creating a transaction role level to guarantee high-quality translations 20:28 Process guild presentation 21:25 Idea to start Ambassadors onboarding course  28:58 Overview of the Dework tasks 29:28 Issues concerning posting on Reddit 32:57 Pending distribution of the rewards for August 34:13 Question regarding deep funding and the best way to make use of Treasury funds 42:14 Outro"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises of discussions on Process guild presentation, Idea to start Ambassadors onboarding course, Overview of the Dework tasks, Question regarding deep funding and the best way to make use of Treasury funds",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Dework, DeepFunding, Treasury, Onboarding"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-09-13",
+      "host": "PeterE",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Tevo, Felix, Eric, Jan Horlings, Julien Collins, PeterE",
+      "townHallNumber": "18",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=d0eRE7TqQZg",
+        "intro": "The next Town Hall meeting will be going live and recorded on Tuesday, September 13th, at 18:00 UTC, on our Discord server.",
+        "timestamps": "0:00 Intro 1:05 Current Meeting slot 9:43 Translations and Quality Control 10:43 Meeting Notes 20:13 Sunday Rewards for August 32:12 Budget Overview"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises of discussions on Translation quality control, Rewards distribution and Workgroups Update",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Quality Control, Budget , Rewards"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-09-20",
+      "host": "PeterE",
+      "documenter": "lord kizzy",
+      "peoplePresent": "Tevo, Felix, Haley Lowy, PeterE",
+      "townHallNumber": "19",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=VpMjcZbN8Ao",
+        "intro": "The next Town Hall meeting will be going live and recorded on Tuesday, September 27th, at 18:00 UTC, on our Discord server.",
+        "timestamps": "00:00 Introduction by Peter 00:24 Agenda 03:59 What are the Translators Requirements 30:52 How to get people's Feedback 47:04 How the Ambassador program for Singularity work"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This Town Hall comprises of discussions on the Translation Workgroups Structure, Podcast Workgroup.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Translation WG, Podcast WG, Ambassdor program"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-10-04",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Felix, Julien Collins, Raido, Creed, LittleButts, PeterE, Sucre n Spice",
+      "purpose": "Community Ambassador Townhall Meeting: Workgroup Progress - Process and Podcast, Tasks and Rewards Update, also Open Topic/Ideas",
+      "townHallNumber": "20",
+      "workingDocs": [
+        {
+          "title": "Miro Notes",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/"
+        },
+        {
+          "title": "SingularityNET Ambassador Program rewards",
+          "link": "https://docs.google.com/spreadsheets/d/1sYaBn6qvaSObaJ_gRAUhWXDLqbxQLGmBsMA5KkTmxVQ/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=L_90KZo9gs8",
+        "timestamps": "01:27-02:00 Meeting Agenda  02:01-37:59 Process Guild Meeting 38:00-44:28 Process Guild align with Ambassador Programme 44:28-44:33 End of Meeting"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The meeting covers several topics including: Process Guild Meeting: *Discussed details of establishing translator requirements and creating a survey to onboard translators. *Defined a multi-stage process for onboarding translators that includes project management support, task management, and feedback loops. *Future meetings will finalize the process and identify other priorities. Ambassador Program: *The program is transitioning from a pilot phase to a more mature stage. *A member will be reaching out to gauge community sentiment and suggestions for improvement. Podcast Work Group: *The Jasmine Smith interview episode is being edited and will be posted soon. *A new intro graphic with a future city theme is being created for the podcast.  *The group is exploring collaboration with an artist and potentially expanding content beyond SingularityNET. *The next interview will likely feature Gabriel Axel Montes. Task Rewards: *Rewards for September work have been distributed. *There may be a temporary delay in receiving email notifications for transactions. Upcoming Ideas on Q3: *September ecosystem update recap block *Operations Q3 block  Additional Notes: * The meeting mentions a conference called 'RAT Fest' (likely pronounced 'rahp') focused on longevity. * The podcast work group meets on Mondays at 18:00 UTC.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Process Guild, Value of Ambassador Program, Translator Requirements, Project Management Support, Task Management, Feedback Loops, The Jasmine Smith interview episode, Marketing Channel, Podcast WG, The Gabriel Axel Montes interview episode",
+      "emotions": "participatory"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-10-11",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Felix, Julien Collins, Raido, Iain, PeterE, Sucre n Spice",
+      "purpose": "Community Ambassador Townhall Meeting: Workgroup Progress - Process and Podcast, Tasks and Rewards Update, also Open Topic/Ideas",
+      "townHallNumber": "21",
+      "googleSlides": "https://docs.google.com/presentation/d/1KyX6wkVL1vwdRHyPNS3yCCdK9fP9iQDz_SbEl-27A5Q/",
+      "workingDocs": [
+        {
+          "title": "Miro Board Notes",
+          "link": "https://miro.com/app/board/uXjVPQp07_o=/"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=zQLpz_psxx4&t=1s",
+        "intro": "Ambassador Townhall Meeting #21 | October 11th, 2022"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The meeting is focused on discussing the progress of different work groups and guild, such as:  Process Guild is working on a document that outlines the translation process, including interview questions, reward levels, and automatic calculators for translation tests. They are also considering how to account for fluctuations in the value of the AGIX token when assigning rewards.  Treasury Guild discussing how to spend the project's budget and determine how rewards will be distributed for different tasks. Members or anyone interested in this guild will meet bi-weekly or monthly, as needed.  Podcast WG Creating a podcast called 'Stories from the Singularity.' They are currently working on interviewing Gabriel Axel Montes and finalizing the design for the podcast's logo and banner.   An important discussion point in this meeting is how to handle fees associated with managing the project's budget. There is a consensus that project members should not be responsible for covering these fees out of pocket.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, workgroup updates, Documentation, Process Guild, treasury guild operations, Podcast WG, The Gabriel Axel Montes interview episode",
+      "emotions": "participatory, Friendly"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-10-18",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Felix, Mihai Bărbulescu, Iain, Julien Collins, malik, others unknown, PeterE",
+      "purpose": "Community Ambassador Townhall Meeting: Workgroup Progress - Process and Podcast, Tasks and Rewards Update, also Open Topic/Ideas",
+      "townHallNumber": "22",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=V7KF03BmL6g",
+        "intro": "Ambassador Townhall Meeting #22 | October 18th, 2022"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The meeting is about updating progress on various work groups and discussing challenges with the podcast work group. The Process Guild meeting also discussed the translation and Gimbalabs tokens will be used to incentivize translators and reputation building. The Process Guild made significant progress on the translation process and will do a full run through next week. The Treasury Guild meeting will take place on Thursday at 5:17 UTC.  The Podcast WG meeting could not be held, due to scheduling issues. Julien is working on rescheduling the Podcast WG meeting for some time this week. There are delays in receiving Swarm funds, causing financial difficulties for the podcast project. The podcast project needs to pay for software but cannot currently afford the $30 monthly fee. Julian might need to use his own funds to cover podcast expenses until the next round of funding arrives.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroup updates, Process Guild, treasury guild operations, Podcast WG, podcasts, Rewards, Gimbals",
+      "emotions": "participatory, Friendly"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-11-01",
+      "host": "PeterE",
+      "documenter": "Ayo",
+      "peoplePresent": "Julian, PeterE, LittleButts, Julien Collins, others unknown",
+      "purpose": "Workgroup Progress",
+      "townHallNumber": "23",
+      "workingDocs": [
+        {
+          "title": "Youtube Transcript",
+          "link": "https://www.youtube.com/watch?v=zPkHivC44YU&t=1441s"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=zPkHivC44YU&t=1441s",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "00:00 Introduction by Peter 02:07 Recap on previous discussion 04:35 Julian gives report on the podcast workgroup 16:22 Peter speaks about Social Media Workgroup 26:19 Deepfunding voting issues 35:12 Ambassador Program Pilot Phase Closing 42:40 Closing"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Workgroups are making progress. Meeting times are being communicated. The Ambassador Program Pilot face winding to an end. A report to be created to capture key lessons, failure and successes.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "podcasts, workgroup updates, social media, DeepFunding, pilot phase",
+      "emotions": "Discursive, calm, smooth"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2022-11-08",
+      "host": "PeterE",
+      "documenter": "Ayo",
+      "peoplePresent": "Tevo, WaKa, Felix, Headelf, Sucre n Spice, PeterE, Julien Collins",
+      "purpose": "Workgroups Progress and Updates",
+      "townHallNumber": "24",
+      "transcriptLink": "https://www.youtube.com/watch?v=Nf3p2V15kU0",
+      "workingDocs": [
+        {
+          "title": "Notes",
+          "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbExWNkRVSEhuWkhOdEJnQnpqZXlfSkpUa1A5d3xBQ3Jtc0ttODBURzhMOERfcjFtQTUyd2ZqamVMOFc3VG1GZjFmXzRJLTlGdEJXVmdXTGFsR3prMFVlb0l5c0o2dFdud3BWT1JadzlyR1dOV3I1SS0tNVdPc19uYmlJVVBaa05ZY2FNSEtQTFAxUmx1VlVpNDZGNA&q=https%3A%2F%2Fmiro.com%2Fapp%2Fboard%2FuXjVO0WVUBA%3D%2F&v=Nf3p2V15kU0"
+        },
+        {
+          "title": "Dework",
+          "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmF1ekRwaUdEVHVTX3BqUER0Z2VseHF5ZERTd3xBQ3Jtc0tubkNVRmlVT3RtV3VvUWFScVRWQzdyUlB2blBGT3pMQkZENmpLYjB2b2tkRXFiZWFIWnRIVVhJcUxxTWRFSHBLRVlxZ2ZURUNVYVRVVHVUYVBJUzZGd1k2MmtBdmIzWkNGaHJTa191Ry03V3FiUEJydw&q=https%3A%2F%2Fapp.dework.xyz%2Fsingularitynet-ambas%2F&v=Nf3p2V15kU0"
+        },
+        {
+          "title": "GitBook",
+          "link": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWFoZkpJOTE5T2xfWm9HNExjNFB2RmxfNDI2QXxBQ3Jtc0trRW9mMkJndmI5d1M4dDBJZTEzWFg3YzQxMFl3N0VyWWJDbjV3b1BkVnJZdkZZOTVwWUFndG50Ry02a2RxTS1SYU0zNU1fWlNnS1c5MF9IZHpvcmc3TTEtQTdOMDljRTNHelF2WVJDb0VJTWxZRDdMVQ&q=https%3A%2F%2Fsnet-ambassadors.gitbook.io%2Fhome%2F&v=Nf3p2V15kU0"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=Nf3p2V15kU0",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 19:00 UTC.",
+        "timestamps": "00:00 Introduction by Peter 02:24 Tevo gives recap on Video recap. 05:36 Hourly Rate discussion feedback 20:08 Peter calls for mini feedback on Pilot Phase Closing 20:48 Need for onboarding Procedure discussion 23:00 Time token and Gimbal discussion 27:18 Meeting Videos Transcription discussion 42:10 Merch Store for SingularityNET discussion 56:13 Podcast/Video Update from JUlian. 01:03:12 Closing"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The discussion on this Townhall meeting centered around the progresses with the workgroup structures. Discussions were also held around tasks and rewards for the preceding week.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rewards, workgroup updates, Tasks, podcasts, Guilds",
+      "emotions": "Discursive, Thoughtful , informative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
