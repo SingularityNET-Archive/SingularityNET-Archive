@@ -9543,5 +9543,154 @@
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
     "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-09-16",
+      "host": "NA",
+      "documenter": "NA",
+      "peoplePresent": "Abdulbasit Adigun Abdulrahman, Alfred Itodele, Ayo, Colleen Pridemore, Effiom, Guillermo Lucero, Jeffrey Ndarake, Malik, Omolola Lawson, Peter Elfrink, Re ms, CallyFromAuron, Vasu Madaan",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "164",
+      "timestampedVideo": {
+        "url": "https://app.read.ai/analytics/meetings/01K59V0TGKT5VY9A8RSH7VAQ3Y",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+        "timestamps": "00:00 Meeting Opening and Attendee Roll Call 08:52 Ambassador Program & Consent Process Update 14:09 R&D Guild and BNB Hackathon Update 21:30 Deep Funding DeepFeed Introduction 39:49 DeepFeed Q&A and Discussion 51:25 BGI 25 Planning Discussion 54:10 General Updates and Meeting Close"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The agenda included a presentation by Abdulbasit on the new Deep Funding community website, emphasizing the importance of the Ambassador Program and encouraging participants to engage through the Discord server. Peter Elfrink provided updates on the consent process, noting a deadline change and the requirement for only one round of consent using a governance dashboard. He also highlighted the establishment of a temporary workgroup for Q4 fundraising efforts, addressing challenges in member selection due to high interest. Guillermo Lucero followed with an update on hackathon participation, stressing the need for better communication and collaboration to enhance agent development.  Abdulbasit introduced DeepFeed, a social platform designed for internal communication among AI innovators, aimed at improving collaboration within the decentralized AI community. He detailed the platform's features, including user login with existing credentials, posting updates, and managing visibility of contributions. The initiative seeks to involve Singularity Net Ambassadors as early adopters to gather feedback and ensure effective communication. The discussion also covered the ongoing development of features to amplify the decentralized AI ecosystem, with an emphasis on community involvement and marketing strategies to promote the platform.  The meeting included a discussion on recruiting Singularity Net ambassadors, with Abdulbasit proposing a target of 50, which Peter suggested might be ambitious given the current number of core contributors. The group agreed on using Discord for outreach, as it would be more effective than email. Abdulbasit confirmed that the platform would allow all users to post content related to AI, Web3, and blockchain, and he mentioned plans for a feedback mechanism to enhance user engagement. Peter concluded by proposing a weekly session for BGI 25 planning this Friday 13UTC and reminded workgroup leads to submit budget proposals and quarterly reports by the next day.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "governance, budgets, tooling, Deep Funding",
+      "emotions": "engaging"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-09-30",
+      "host": "PeterE",
+      "documenter": "NA, CallyFromAuron",
+      "peoplePresent": "Alfred Itodele, Andrew Ben, Ashley Coventry, Ayo, Cosmo Kaan, Enyong Oku, Guillermo Lucero, Jeffrey Ndarake, kenichi, Leandro Gavidia, Malik, Slate, CallyFromAuron, Vani .",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "166",
+      "workingDocs": [
+        {
+          "title": "SingularityNET_Final_SEO_Report",
+          "link": "https://docs.google.com/document/d/1t7JTV9dLvoMm8-efZ_cFk-A4BYAU0Tyz/edit?usp=sharing&ouid=113948067158841872178&rtpof=true&sd=true"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://app.read.ai/analytics/meetings/01K6DWJCSC5W1GZ1H51VMYW3HD",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+        "timestamps": "00:00 Introduction & Welcome 07:39 Official Kick-off & Budget Process Update 11:05 Governance Dashboard Analytics 13:20 Upcoming Community Calls 15:27 Workgroup Update: Temporary Fundraising 17:40 Workgroup Update: Governance Agenda 20:25 Workgroup Updates: R&D & LATAM Achievements 38:38 Feedback on R&D/LATAM Updates 39:50 General Discussion & Final Announcements 43:18 Adjournment"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "The discussion focused on the ambassador program's role in promoting beneficial AGI, with Ambassadors SingularityNET emphasizing the need for increased participation and engagement from contributors. The agenda included workgroup updates and the quarterly budget process, noting that the deadline for proposals had closed and quorum was achieved. Four workgroups faced objections that will be addressed in the upcoming governance call. Alfred reported on the temporary fundraising workgroup's efforts to tackle funding challenges due to low token prices, and Vani encouraged contributions to governance discussions.  Guillermo Lucero provided insights into governance developments, including updates on the R&D dashboard and recent hackathon participation, which featured a partnership with BNB through the ASI Alliance. He discussed the successful deployment of an agent to enhance platform interactions and the integration of the ICP agent into the governance dashboard for LATAM. Additionally, Guillermo emphasized the importance of AI tools for translation and instructional content improvement. There was acknowledgment of recent progress from LatAm Guild, and mention of R&D Guild's recent SEO optimisation research project and a call for further engagement from other workgroups with it.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "governance, budgets, tooling, R&D Guild, Governance Dashboard, ASI Alliance, governance agent, translation, LatAm Guild, SEO research",
+      "emotions": "engaging, Discursive"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-10-28",
+      "host": "PeterE",
+      "documenter": "NA, CallyFromAuron",
+      "peoplePresent": "Alfred Itodele, Ayo, Colly Pride, Stephen [QADAO], Tevo, CallyFromAuron, sharmila, EstherG, guillermolucero, Haley Lowy, PeterE",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "170",
+      "timestampedVideo": {
+        "url": "https://app.read.ai/analytics/meetings/01K8P349YM01C38AWQM2SM02Z5",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+        "timestamps": "00:00 Intro & Time Zone Troubles 05:50 AI Game & Tool Showcase 07:43 Town Hall Overview 13:21 BGI25 Unconference Learnings 29:26 BGI25 Hackathon Highlights 45:40 ASI Chain & Future Proposals"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "No summary available due to limited meeting data.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "time zones, AI games, BGI-25 Virtual Unconference, BGI-25 hackathon, ASI Chain",
+      "emotions": "quiet, low attendance, thoughtful, retrospective"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-11-04",
+      "host": "PeterE",
+      "documenter": "NA, CallyFromAuron",
+      "peoplePresent": "Stephen [QADAO], Tevo, CallyFromAuron, AshleyDawn, guillermolucero, PeterE, CollyPride",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "171",
+      "timestampedVideo": {
+        "url": "https://youtu.be/Fgu184Yum-I?si=HeZY95zb8xXh20gD",
+        "timestamps": "00:00 Introduction & Initial Discussions 01:57 Tevo's Automation Project Update 04:00 Town Hall Overview & Governance Update 14:39 Archive Workgroup & META Prototype 19:30 Knowledge Base & Treasury Workgroup Updates 27:56 R&D and LATAM Initiatives 40:57 General Discussion & Q&A 50:52 AI Ethics & TQNN Integration Announcement 58:16 Closing Remarks & Token Price Discussion"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Peter announced a memorial session for Rama Zomaletho from DeepFunding, who recently passed away.   The usual WG updates at the end of last month didn't happen due to low attendance, so this Town Hall was a 'WG UPdates' session instead.  ## Updates: #### Governance WG:   Governance WG launched the new sentiment survey aimed at assessing workgroup effectiveness - closing date 17th Nov.  There will be no formal budget consent process for Q1 2026 budgets, and budget caps will remain the same as this Quarter, to alleviate administrative burden. Workgroups will only need to submit a brief report on Q4 activities by early December; a template for this will be in the Governance Dashboard.  #### Archives WG:  Stephen presented a prototype simulation utilizing MeTTa symbolic rules to illustrate a reputation system, allowing users to manipulate parameters and visualize agent interactions. See https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/288 and https://asi-chain-metta-simulation-dashboard.streamlit.app  Archives' current focus is ingestion of e.g. meeting summary data and use of AI tools in an *auditable* way - see Unified Graph Analysis Report - (Github Pages) - https://singularitynet-archive.github.io/Graph-Python-scripts/#summary and https://github.com/SingularityNET-Archive/Archive-RAG  We discussed the regular MeTTa group ttthat meets fortnightly, and said that Archives should share some of its current work there.  #### Treasury, Process and Knowledge Base:  Tevo explained that Knowledge Base WG has had a strategic shift to fortnightly sessions focused on preparation and brainstorming, which are recorded, to enhance collaboration and decision-making in main meetings. Treasury activities: there has been a backlog in updates related to the treasury GitHub dashboard and plans to test GitHub functionalities. Tevo Kask shared his recent coding efforts, highlighting a significant investment of time to automate a previously manual task, which has streamlined his workflow and improved prototype production. Peter acknowledged the importance of automation and the need to engage core contributors more effectively.  #### R&D, LatAm:  Guillermo gave updates on R&D and LatAm initiatives, emphasizing the importance of cultural context in AI development and the need for structured data management. The discussion also highlighted the significance of community involvement in understanding complex concepts like reputation and governance.  ## Open topics Colly Pride announced the integration of the Toridian Quantum Neural Network into OpenCog, which aims to enhance AI contextual reasoning and reduce energy consumption.   The next WG Sync Call will address the implications of the current low token price.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Rama Zomaletho memorial, sentiment survey v3, Toridian, low token price, MeTTa Coder Lab, Q4 2025 reporting, Governance Dashboard",
+      "emotions": "quiet, technical focus, low attendance"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
