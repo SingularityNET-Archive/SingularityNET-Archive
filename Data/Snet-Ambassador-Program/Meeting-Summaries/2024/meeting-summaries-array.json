@@ -47487,6 +47487,43 @@
     "canceledSummaryText": "Meeting was cancelled"
   },
   {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-11",
+      "host": "Sucre n Spice, PeterE, Ayo",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "PeterE, 5oundwave5, WaKa, Ayo, Gavriel, Clement Umoh, Sucre n Spice, Duke, Onize, LordKizzy, CallyFromAuron, guillermolucero, oep, Aetherblade, hogantuso, Zalfred, Rob Bedoya, osmium, Mikasa, CollyPride",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "101",
+      "timestampedVideo": {
+        "url": "https://youtu.be/Y3t3BkJbbow?si=d6NBeqcYMcRXFCiz",
+        "intro": "The meeting followed on from discussions in today's Governance Workgroup meeting.   Attendees divided into 3 breakout rooms.  - Group 1 covered the schedule for the Q3 budget decision;  - Group 2 discussed the suggestion of a new 'Navigator' role to help new people find their way round, to be led by Strategy Guild;  - Group 3 discussed setting up a monthly call for workgroups to discuss issues of common interest.  The video begins in Breakout room 3, then moves to the main room at 20:50.",
+        "timestamps": "00:00 Breakout room 2 - SucrenSpice introduces idea of a monthly call for WG collaboration. 06:00 When would such a call happen, and what would be the agenda? 07:30 Differences between this WG Leads call and Town Hall 12:06 Main objective of this kind of call  13:40 WGs should have more than one 'leader' 14:25 Time for meeting should address timezone exclusion 14:40 Facilitation should be rotated 15:39 Space to share about topics that all WGs are dealing with 16:56 Open to all, WG leads only, or a representative (not necessarily the 'lead') from each WG? 20:50 Return to main room - breakout rooms were too short! 21:55 Feedback from breakout rooms. Group 1: Town Hall isn't the right place to decide the budget decision schedule, and it should be picked up async in Discord, or in GovWG. Group 2 22:23 'Navigator' role - which WG will be responsible for it, what exactly it will do, and whether it might duplicate what Onboarding WG is already doing to support new people. 29:50 Could the Navigator role instead be more about maintaining awareness of what each WG is doing, promoting collaboration, and avoiding duplication of effort? 31:31 People should stop asking 'why' about the navigator role, and instead say 'why not?', and try it for a Quarter, even if they disagree abiut the details of what it will do. 33:50 Feedback from Breakout Room 3 on idea of a monthly cross-WG call. Agreed on last week of the month - day and time TBC. Agenda - issues of concern to multiple WGs. We need WG tepresentatives to attend - if not the lead, then another reporesentative - and whatever is discussed needs to be brought back to the group. Facilitation will be rotated. 37:12 Questions on proposed Navigator role. What problem is it aiming to solve? Is it about supporting and onboarding newcomers, supporting connections between WGs, or both? Will it duplicate Onboarding WG's work? 45:45 - Information asymmetry when an established member onboards someone; communications between established colleagues doesn't. Nobody has a complete overview to be able to direct new people 48:38 Draw on Onboarding WG's experience and contributions 51:00 People could inform themselves more about Onboarding's work, and ask Onboarding for their insights about how to onboard 57:52 Ayo Remarks on navigator role 1:00:19 Gavriel's Remarks 1:02:09 Peter's Remarks about Onboarding WG 1:03:10 Discussions regarding Onboarding WG 1:19:53 Miscellaneous"
+      }
+    },
+    "tags": {
+      "topicsCovered": "WG sync call, communication between WGs, information asymmetry, Onboarding, Onboarding WG, Navigator role, duplication",
+      "emotions": "tense, long speeches"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "workgroup": "African Guild",
     "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
     "meetingInfo": {
@@ -47561,5 +47598,54 @@
     "type": "custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-18"
+    },
+    "noSummaryGiven": true,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "type": "custom"
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-25",
+      "host": "PeterE",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "PeterE, CallyFromAuron, Clement Umoh, Felix, guillermolucero, Gorga Siagian, Tevo, Slate, LadyTempestt, hogantuso, haley lowy, advanceameyaw, Will Tatz, esewilliams, Sucre n Spice, CollyPride, LordKizzy, Kateri, kenichi, BoazB, Effiom",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "103",
+      "timestampedVideo": {
+        "url": "https://youtu.be/tdIP6LfShzs?si=Te3lSrcA3Myqdj7T",
+        "timestamps": "00:00 Intro 00:57 Who are the Ambassadors 01:34 Deep Funding Results R4 04:54 Work Group Updates 05:31 Latam Guild 10:40 Knowledge Based WG 16:27 Archives WG 19:54 Education WG 23:47 R&D Guild 29:09 Onboarding 33:06 African Guild 35:30 Marketing Guild 39:41 Video WG 41:07 Gamers Guilds 46:30 Governance WG 49:21 AI Ethics 54:30 Remarks"
+      }
+    },
+    "tags": {
+      "emotions": "Organised, Good natured, engaged",
+      "topicsCovered": "Marketing guild lead, LatAm Guild, African Guild, Knowledge Base Workgroup, Archives WorkGroup, Education Guild, R&D Guild, Onboarding WG, Video WG, Gamers Guild, AI Ethics WG, Governance WG, WG updates, AMA session, WG Sync call"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "This session was the monthly updates from workgroups about their work.  There were updates from several currently active WGs; and from Marketing Guild, which is presently involved in a process of restructuring and a (quite contentious!) decision on who will lead it after Judith leaving. There was also a first report from the newest new workgroup, AI Ethics; and there was news of African Guild's forthcoming AMA session and a planned live event in September in Nigeria about AI ethics.  We also briefly discussed the idea of making these monthly update sessions 90- mins instead of an hour, to ensure there is time for all the WGs; and templating the updates to make sure all the important things are covered. These ideas were scheduled for further discussion at the next WG Sync call.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ]
   }
 ]
