@@ -274,5 +274,275 @@
     "type": "Custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-01-10",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Julien Collins, OEP|Capella, Iain, LittleButts, Crandano, Creed, EricS, Haley, PeterE, Sucre n Spice, Fly, others unknown",
+      "purpose": "Translations - Operations Q4, AGI Progress 2023, Marketplace Services Review - Ideate, Infographic meeting schedule",
+      "townHallNumber": "29",
+      "workingDocs": [
+        {
+          "title": "ASI token merger useful resources",
+          "link": "https://docs.google.com/document/d/1HXkP6mo0jUJVFfpMSS82igfMgQQvS43QxnfL81_nBi8/edit?usp=sharing"
+        },
+        {
+          "title": "toekn merger vision paper",
+          "link": "https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial%20Superintelligence%20(ASI)%20Alliance%20Vision%20Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=oS2jJjcXCWU",
+        "intro": "Ambassador Town Hall Meeting #29 | January 10th 2023"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Translation, Operations, infographic, reviews, AI marketplace, process guild, Treasury guild, podcasts, social media, Marketing",
+      "emotions": "Casual, Well-attended"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-01-24",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Felix, Harry Hellyer, EricS, Crandano, Fly you fools, Julien Collins, meek|DIA Contributor, Curtis, PeterE, Rojo, Sucre n Spice, Haley Lowy, jay.05|Judith W., others unknown",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "31",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=kvUI_gbl3HE",
+        "intro": "Ambassador Town Hall Meeting #31 | January 24th, 2023"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Process Guild, Treasury, Podcast WG, Social Media Marketing, community governance, Mindplex Magazine",
+      "emotions": "Friendly, Well-attended"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-01-31",
+      "host": "PeterE",
+      "documenter": "Jenn",
+      "peoplePresent": "Tevo, Crandano, Iain, albertinim211, Creed, EricS, jay.05|Judith W., Joshado, kemi_friday, LittleButts, OEP|Capella, PeterE, Fly, Haley Lowy, Sucre n Spice",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "32",
+      "workingDocs": [
+        {
+          "title": "Marketing Guild Google Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1syEn1BOEXbfx8DTCdXemq4lcQS-mm8ff0uQyv1YKByE/"
+        },
+        {
+          "title": "SingularityNET Ambassador Program rewards Google Sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1sYaBn6qvaSObaJ_gRAUhWXDLqbxQLGmBsMA5KkTmxVQ/"
+        },
+        {
+          "title": "Process Guild Miro Board",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764544231084878&cot=10"
+        },
+        {
+          "title": "Treasury Guild Miro Board",
+          "link": "https://miro.com/app/board/uXjVO0WVUBA=/?moveToWidget=3458764544236633738&cot=10"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=KtHWqHcU6lk",
+        "intro": "Ambassador Town Hall Meeting #32 | Jan 31th, 2023   NOTE: Refernce is made in this meeting to the meeting on Jan 26th about a loyalty rewards pool - there were 4 such meetings in Jan and Feb 2023, and recordings are on the SingularityNET Youtube channel, e.g. here https://youtu.be/Y1OjnMQFdTY?si=OkE0XVCMyHsyxTjA"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Process Guild, Meeting Summaries, Governance, Rewards, TH Update , Marketing Guild, Podcast workgroup, Treasury Guild, DeepFunding round 2, community governance, loyalty rewards pool",
+      "emotions": "Thoughtful , repetitive, Well-attended"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-02-07",
+      "host": "PeterE",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Felix, Tevo, Fly, Rojo, Headelf, Crandano, $hotspot, Creed, Cujo, Doron, Iain, kwistyan, LittleButts, miguex, oscar, winter melon, PeterE, Sucre n Spice, Haley Lowy",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Coverage on the Workgroups, Done some other tasks, and some further mentions for open topics",
+      "townHallNumber": "33",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=BEB2ms9G57w",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the SingularityNET Discord Channel   https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Coverage on the Workgroups, Done some other tasks, and some further mentions for open topics  workgroups and guilds meeting notices, such as  Process Guild - Tuesday 19:00 UTC  Treasury Guild - Thursday 16:00 UTC bi-weekly (this week) Podcast Workgroup - on hold Marketing Guild - Friday 13:00 UTC + Thursday 17 UTC  All Public events on the SingularityNET Discord Channel Calender  There was brief mention of the idea of integrating the Swarm treasury system into the Ambassador program, as currently Peter has to do payments manually",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroups, calender, podcast workgroup, Marketing, process guild, treasury guild, Dework, task-based vs role-based work, integrating Swarm treasury system, translation, Deepfunding Town Hall",
+      "emotions": "insightful, Friendly, entertaining"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-02-14",
+      "host": "PeterE",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Kenichi, Mikasa, Felix, African Crypto Warlord, Tevo, jay05|judithW, Headelf, cameraheartwood, JJ SOUND, DevonHardy, cardano_class, PeterE, Sucre n Spice, oep, Fly, Haley Lowy",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Coverage on the Workgroups, Tasks, and Mentios Open Topics",
+      "townHallNumber": "35",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=HlryjVG7t6U",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the SingularityNET Discord Channel   https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.  NB: Have a issue in ambassador town hall february 2023, let's see on february 7 ambassador town hall #33 while on february 14, 2023 ambassador town hall #35, so where is ambassador town hall #34? while ambassador town hall was held 1 week ago.  So I submitted on February 14, 2023 to become town hall ambassador #35."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Coverage on the Workgroups,  tasks, and some further mentions for open topics  workgroups and guilds meeting notices, such as  Process Guild - Tuesday 19:00 UTC  Treasury Guild - Thursday 16:00 UTC bi-weekly (this week) Podcast Workgroup - with Marketing - Monday 19 UTC Marketing Guild - Friday 13 UTC + Thurs 18 UTC  All Public events on the SingularityNET Discord Channel Calender",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroups, calender, Tasks, Open topics, mentions",
+      "emotions": "Friendly, ideas, Well-attended"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-02-21",
+      "host": "PeterE",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "Kenichi, Mikasa, Felix, Tevo, jay05|judithW, Headelf, cardano_class, $hotspot, Iain, little butts, locatelo_goldfinger, Robinsaint, Natt, cameraheartwood, jovan, Creed, severoni, SamwiseGanjadi, PeterE, Sucre n Spice, oep, Fly",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Coverage on the Workgroups, Tasks, and Mentios Open Topics",
+      "townHallNumber": "36",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=mINy4M9UqrI",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the SingularityNET Discord Channel   https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Coverage on the Workgroups,  tasks, and some further mentions for open topics  workgroups and guilds meeting notices, such as  Process Guild - Tuesday 19:00 UTC  Treasury Guild - Thursday 16:00 UTC bi-weekly (this week) Marketing Guild -  Monday 19 UTC + Thursday 18 UTC + Friday 13 UTC  All Public events on the SingularityNET Discord Channel Calender",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroups, calender, Tasks, Open topics, mentions",
+      "emotions": "Friendly, ideas, Well-attended"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2023-02-28",
+      "host": "PeterE",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "SingularityZoeille, Pgates, Asu, Creed, Headelf, Iain, izhak, jovan, kaiaofabian, Libra, little butts, Soulseeres, TheFreysDeFi, PeterE, Rojo, Fly, Sucre n Spice",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Coverage on the Workgroups, Tasks, and Mentios Open Topics",
+      "townHallNumber": "37",
+      "timestampedVideo": {
+        "url": "https://www.youtube.com/watch?v=BhslfmtWI2g",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the SingularityNET Discord Channel   https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC."
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "Coverage on the Workgroups,  tasks, and some further mentions for open topics  workgroups and guilds meeting notices, such as  Process Guild - Tuesday 19:00 UTC  Treasury Guild - Thursday 16:00 UTC bi-weekly (this week) Marketing Workshop - Monday 19 UTC Marketing Guild -   Friday 13 UTC  Tasks  Translation - Ecosystem explainer + Rejuve later today Marketing guild board, Marketing Guild workshops, Twitter management, increasing self-organisation from the community, role definition discord moderation Rejuve tasks coming - translation + administrative. Tooling for managing tasks and payments using smart contracts: Daolens https://app.daolens.com/onboarding, vs Swarm treasury service and Dework  All Public events on the SingularityNET Discord Channel Calender.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "workgroups, calender, Tasks, Open topics, mentions, Translation, Rejuve, Marketing, Twitter management, citizen science, self-organisation, smart contracts",
+      "emotions": "Friendly, Well-attended, Organised"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
