@@ -8759,6 +8759,53 @@
       }
     }
   ],
+  "b5b04a6e-d8f8-4e42-9271-ac7cc3cd0d3d": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-01-08",
+        "host": "Duke",
+        "documenter": "CJFrankie",
+        "peoplePresent": "Clement, Advanceameyaw, Cjfrankie, Martin Soki, SucrenSpice, Ayo, Duke, esewilliams, LadyTempestt, Boaz, Nebula",
+        "purpose": "The African Guild weekly meeting focused on reflecting on what happened in 2024 and possible ways to improve.",
+        "workingDocs": [
+          {
+            "title": "African Guild Meeting: 14th November 2024",
+            "link": "https://docs.google.com/document/d/1JCPqPmrQzY1Ehu7rOLeEgJwwTXN-oKVDjBeAsPp_Xw4/edit"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Intro: The weekly meeting of the African guild kicked off at 5:10 pm with a welcoming greeting from Duke. He expressed his joy for having to witness Q1 as a guild. Following that, we began to exchange greetings in our dialects.   Agenda number two featured a recap of minutes from the last meeting held in 2024 (14th November), you can find the summary here: Meeting Summary - African Guild - 14 November 2024 Momentarily, we ticked off the action items from the last meeting.  Discussion item: The theme of the discussion was 2024 in review. We want to see what we have done so far and possible ways to improve our output as a guild.   - According to Ayo, he said that the guild lived up to expectations, and he highlighted some of the initiatives that contributed to the success of the guild as well.  - Duke also added that the AMAs were so amazing and the marketing initiatives did the guild better; those initiatives have helped the guild to reach more people, cross-guild collaboration as well as cross-ecosystem collaboration, too.   - Duke also sends a shoutout to all the African guild members for their relentless efforts and dedication toward helping the guild achieve great milestones.  - On the other hand, Lady Tempestt talked about the need for proper budget planning.   - Martinsoki suggested that the guild should increase the meeting documentation reward to $25. Members embraced the idea, however, Clement added that the token price won't permit the guild at the moment, and Sucre also added that there shouldn't be any changes made to the Q1 budget.  Q4 marketing initiatives: Duke applauded the Q4 marketing initiative team for their commitment and excellent work. He also said that the winners of the initiative should be selected as soon as possible so we can reward them after the budget has been distributed. Through screen sharing, Duke showcased an interesting African documentary draft; he added that the documentary would be used to tell our stories as an African guild.  AMA session: It is worth mentioning that the last AMA session conducted in 2024 was a blast. The session had over 50 participants: Duke expressed his appreciation to the team, and he added the rewards will be distributed as soon as the Q1 budget is released. In Q4 2024, we decided to create a unique or separate catalog for documenting or reporting the AMA sessions so it is easy to track its impact over time.   Budget: We skimmed over the Q1 budget to have a look at what we planned to do in this quarter. Pending rewards will be paid from the Q1 allocation, after which the focus group will meet to refit the budget so that we do not run out of budget again like before. Duke also added that there would be research and education initiatives in Q1 as opposed to previous quarters where we did only research (we want to tell and educate people about our stories as an African). As a matter of finality, Duke said that the guild might revert to a bi-weekly meeting schedule just so we don't max out the budget 'Experience is the best teacher.'",
+          "actionItems": [
+            {
+              "text": "The Q4 marketing initiative team to select the winners of the campaign.",
+              "assignee": "esewilliams, CJFrankie, Ayo, LadyTempestt",
+              "dueDate": "23 January 2025",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We have decided to increase the meeting documentation reward to $25, but this will take effect from next quarter because we don't want to make any changes to the Q1 budget.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AMA session,  Q1 budget, marketing initiatives, Collaboration, Documentation, Rewards, documentary, African, research, education",
+        "emotions": "informative, forward-thinking, Welcoming, funny"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
   "c555d00a-4106-46ab-a93b-1e24759abd98": [
     {
       "workgroup": "African Guild",
@@ -9959,6 +10006,223 @@
       "tags": {
         "topicsCovered": "Rama Zomaletho memorial, sentiment survey v3, Toridian, low token price, MeTTa Coder Lab, Q4 2025 reporting, Governance Dashboard",
         "emotions": "quiet, technical focus, low attendance"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "f7c20a39-db8c-4d87-9833-92a2c56cac08": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-11",
+        "host": "PeterE",
+        "documenter": "NA, CallyFromAuron",
+        "peoplePresent": "Guillermo Lucero Funes, Maxmilez, CallyFromAuron, PeterE, Ayomi Shuga",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "172",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Intro & Casual Chat 05:17 Meeting Attendance & Future Planning Concerns 08:55 Recap of Past Discussions & Group Size 12:02 Financials, Deep Funding Sync, and End-of-Year Plans 15:31 Team Morale and Token Price Impact 18:44 Restructuring Challenges & Budget Impact 22:37 Redefining Purpose & Ambassador Program Identity 28:04 Addressing Redundancy & Fostering Collaboration 36:28 Practical Approaches & Restructuring Process 41:55 AC Cloud Accelerator & Atypical Initiatives 44:57 Collaboration with SingularityNET & Retention 56:34 Leveraging Internal Systems & Payment Processes 01:02:42 Treasury Update & Closing Remarks"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Low attendance at Town Hall this week, so not really valid to discuss the planned restructure of the Ambassador Program - need more people.  Should we aim to meet with Deepfunding and with Rejuve before year end, or in January? Probably January.  Mentioned idea of an end of year report, taking material from people's impact statements in their minimal Q4 reports in the Governance dashboard  Current positives and negatives for the Program: - It is not a typical Ambassador program - could be an advantage.  - It's often isolated from other parts of the sNET ecosysttem - can be problematic - Redundancy/duplication of work - although we want to maintain variety of approaches, present low token price means we need to minimise overlap with different WGs doing similar, and maximise collaboration? -   Recent sentiment survey perhaps identifies high-performing groups?  People are dropping out and the Program is smaller than it was. Should we be trying to conduct some kind of exit interviews? Could be difficult to get people to take part - once they've gone, they're gone  Issues around calculating core contributor status - who is actually active, rather than merely present?",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "low token price, sentiment survey, participation, contribution, Core Contributors , wider sNET ecosystem, Deep Funding, Rejuve, Ambassador Program restructure, Meeting attendance, EOY report 2025",
+        "emotions": "quiet, low attendance, reflective, gloomy"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "47ed58d1-8022-4459-b6c2-123161307b2e": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-18"
+      },
+      "noSummaryGiven": true,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "type": "custom"
+    }
+  ],
+  "c4fb4fe8-38ce-4a2b-8edd-aa4568cfa01f": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-11-25",
+        "host": "PeterE",
+        "documenter": "NA, CallyFromAuron",
+        "peoplePresent": "CallyFromAuron, PeterE, CollyPride, esewilliams",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "172",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Intro & Scott's Recent Attendance 12:28 Workgroup Updates. Restructuring 20:01 Colleen's Projects & Discord Channel Discussion 27:07 Announcements & Closing Remarks"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Very low attendance at last week's TH - only Peter, Vani, and Scott Forshaw from Toridian. We briefly discussed ways to increase engagement and attendance, recognised that low attendance might be a result of low token price.  Colleen shared her efforts to connect Scott with Rafael at Deep Funding, and addressed the challenges of managing numerous connection requests.   Need for input from all workgroups for the upcoming WG sync call, particularly regarding core activities for 2026.  Updates included  - Colleen's proposal for the Cudos accelerator program, and her work on a roadmap incorporating new ideas - idea of a meeting between the Ambassador Program and Rejuve (first mooted during the recent AMA with Jasmine Smith organised by Onboarding WG and Education Guild) - BGI-Nexus's forthcoming working group sessions.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "quiet, low-key, low attendance, chatty, relaxed",
+        "topicsCovered": "low token price, Engagement, Toridian, DeepFunding, Rejuve, Cudos accelerator program, BGI Nexus"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "f03ab25c-4dce-4025-bb2c-589edab293ea": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-12-02",
+        "host": "PeterE",
+        "documenter": "NA, CallyFromAuron",
+        "peoplePresent": "Maxmilez, CollyPride, guillermolucero, PeterE, sharmila",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "172",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Intro & BGI working group reflections 00:50 Personal Updates - house move 03:17 Colleen Joins & BGI Kickoff 05:15 BGI Session Takeaways 08:08 Town Hall Attendance & Yoxi Project Update 13:31 Official Announcements & SophiaVerse 16:54 DevConnect Recap & Web3 Insights 23:29 Future of Town Halls & Governance 29:25 Funding & DeepFunding News 34:27 Closing Remarks & Next Meetings"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Peter reflected on his experience at the recent BGI Nexus working group session and expressed a desire for further informal discussions in future gatherings.   Colleen shared updates on the Yoxi tool, which aims to understand human emotions, and her efforts to involve Sophia the Robot in the project, while also onboarding Anshar Sarafat and Delphi to enhance their capabilities. Concerns were raised about the unpredictability of using Sophia in political contexts, given the control exerted by David Hanson.  Guillermo provided insights from the recent Ethereum DevConnect event in Buenos Aires https://devconnect.org/ , emphasising the significance of the x402 protocol for internet-native payments https://www.x402.org/   Recent Town Hall attendance has been low - should its structure or timing be changed? Does it need a more definite agenda?   Colleen stressed the importance of current Governance Workgroup discussions, while Peter highlighted the necessity of supporting the BGI initiative alongside their projects.   Finalists in the current Deepfunding RFP ideation process have been announced.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "BGI Nexus, DeepFunding, RFP round, Sophia the robot, DevConnect, x402 protocol",
+        "emotions": "low attendance, quiet, short, chatty"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "8ba67883-3d0d-4e8c-949c-74e7052ddbe4": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-12-09",
+        "host": "PeterE",
+        "documenter": "NA, CallyFromAuron",
+        "peoplePresent": "Alfred Itodele, Malik, Mikasa, Slate, Tevo, CallyFromAuron, Ayomi Shuga, PeterE, CollyPride, guillermolucero",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "173",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing",
+            "title": "How would YOU restructure the Ambassador Program?"
+          },
+          {
+            "title": "Ambassador Program restructure: collated responses",
+            "link": "https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing"
+          },
+          {
+            "title": "Sentiment session Miro board",
+            "link": "https://miro.com/app/board/uXjVJh1rXXQ=/"
+          },
+          {
+            "title": "#01 - Gov-Dash Docu Video Series Script _ 091225",
+            "link": "https://docs.google.com/document/d/1i2dZkk8FykfVZ45ILeSRgC6zexqNW0g7d4fZVR3JPRU/edit?usp=sharing"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://youtu.be/Nv2LiBAKPlo?si=2I9c8eIFciFdAKVi",
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "0:00 Intro 01:27 Ambassador Program Overview 01:57 Q4 2025 quarterly Reports deadline 03:20 Rejuve airdrop 4th epoch is live (for those who held AGIX during the HardFork in 2021) 04:16 End-of-Year Schedule and Calendar Reminders 10:00 Results of annual end-of-year sentiment session earlier today 21:14 Recording experiences with the AI Governance Assistant 25:59 AI Governance Assistant Framework's Iterations and Usage 33:51 Discussion on the Format for Sharing Experiences 40:57 Open Discussion: Next Steps for Restructuring and Sentiment Analysis"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "#### Mentions - The last 2 Town Halls had very low attendance, so it was decided not to upload videos to Youtube. - Congratulations to Ayomi's team, who succeeded in the recent Deepfunding RFP ideation round with Deep Funding University Network project.   - Any Q4 quarterly reports still outstanding should be submitted as soon as possible via the Governance Dashboard, since the deadline has technically already passed. - Rejuve airdrop 4th epoch is now live - for those who held AGIX at the time of the hardfork in 2021  #### End-of-year schedule:  - next week (16th December) will be the last Town Hall of the year. - All Workgroups should check that the calendar accurately reflects their meeting dates (if any) over the holidays.  - We'll be writing an end-of-year report, basing it on the impact statements that WGs have given in their Q4 reports.  - Over the holidays. people are encouraged to contribute to the open document on ideas for restructuring the program, and the planned one-to-one interviews about restructuring will be conducted by members of Gov WG, aminly with people who rarely attend Governance meetings - Treasury may swkip a couple of weeks over the holiday period if few payments are submitte for payment  #### Annual end-of-year sentiment analysis session In Governance WG earlier today, we used Miro board https://miro.com/app/board/uXjVJh1rXXQ=/ to discuss the same questions as at previous year-ends - how well do we organise our repetitions, how predictable is our funding, do we gather often enough, how well do we organise our reputation-building, do we have clear principles and roadmap, and have we established a good environment.  In comparison with previous years, there was a difference in focus around the questions themselves; and the sentiment was more negative and showed a strong wish for change. But we didn't have time to analyse the reasons - possibly it's partly influenced by all the recent discussion of restructuring the program?  In this TH we did a prioritisation activity to decide which 3 questions are the most important for further discussion. The results: (how well do we organise our repetitions), Q4 (how well do we organise our reputation-building) and Q5 (do we have clear principles and roadmap).  #### Collecting feedback on Gov-Dash and AI Assistant Guillermo will be creating a video documentary to capture insights from the experiment of using the AI assistant in the Governance Dashboard. People are invited to create a short video answering the questions in this doc https://docs.google.com/document/d/1i2dZkk8FykfVZ45ILeSRgC6zexqNW0g7d4fZVR3JPRU/edit?usp=sharing, and the videos will be edited together. People can also answer in writing in the doc itself. Deadline for contributions; Friday 12th Dec. Contributions do not necessarily have to be positive.  Reminder that Thursday's governance slot will be a final report from the temporary fundraising workgroup.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure, sentiment analysis, AI Assistant, Governance Dashboard, EOY report 2025, Deepfunding RFP ideation"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "a9a1f3ab-52ba-4e78-a5f5-623612ee9e9c": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-12-16",
+        "host": "PeterE",
+        "documenter": "NA, CallyFromAuron",
+        "peoplePresent": "Alfred Itodele, CollyPride, PeterE, osmium",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "174",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Intro & Greetings 01:38 Colleen's Project & ASI Cloud Update 08:19 Holiday Plans & Personal Reflections 12:10 Finding Community & Project Growth 17:44 Foundation Updates & Budget Cuts 22:37 Sophia OS & Accelerator Program 26:17 Ambassador Program & Decentralization 35:36 Vasu's Project & Closing Remarks"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Colleen provided updates on her project, focusing on the migration to ASI Cloud to improve ASI 1's performance and addressing concerns about managing advanced AI responsibly, especially regarding neurodivergent individuals. She is also working on Decentralized Autonomous Communities in collaboration with the Octopus Movement to enhance transparency and community engagement, and developing a meta DSL layer for semantic emotional comprehension through OpenCog. Peter offered to connect her with the Hyperon team for additional support.  Colleen shared her reflections on cyborg identity, emphasizing the importance of joy and respect in future projects while navigating her role within the community and acknowledging financial challenges.   The Foundation's financial pressures due to declining token prices will necessitate a re-evaluation of budget allocations, and strategic collaboration to avoid duplicating efforts.   Vasu reported on his discussions with Dan regarding project updates,   All workgroups should check their meeting schedules over the holidays are correcdt on the Calendar.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "quiet, short, low attendance",
+        "topicsCovered": "ASI Cloud, ASI 1, cyborgs, respect for AI, neurodivergence, Decentralized Autonomous Communities, SingularityNET Foundation, low token price, Collaboration, budget re-evaluation"
       },
       "type": "custom",
       "noSummaryGiven": false,
