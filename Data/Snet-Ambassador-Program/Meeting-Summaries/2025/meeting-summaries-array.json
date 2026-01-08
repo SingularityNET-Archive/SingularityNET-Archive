@@ -9942,5 +9942,1094 @@
     "type": "custom",
     "noSummaryGiven": false,
     "canceledSummary": false
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-07-04",
+      "host": "esewilliams",
+      "documenter": "UKnowZork",
+      "peoplePresent": "advanceameyaw, Duke, Jeffrey Ndarake, Alfred Itodele, esewilliams, UKnowZork",
+      "purpose": "Bi-weekly meeting of the African guild"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The session opened with Ese expressing concern over the low attendance in recent guild meetings. She pointed out that not only have fewer people been joining the calls, but active participation during the meetings has also declined. She asked if anyone present had attended the last session facilitated by Clement. Advance briefly recapped what was discussed in that session, and Jeffery chimed in, stating that while he had joined the call, he didn't catch enough context to contribute meaningfully or recall detailed discussions.  Highlights/Upcoming Events: Shifting the discussion toward the root of the issue, Ese asked the group how they believed participation could be improved. In response, Advance suggested that the decline might be due to financial challenges particularly referencing how the recent token price drop had affected multiple workgroups and guilds, potentially demotivating members. Building on this, UknowZork pointed out that the last two or three sessions facilitated by Duke had also seen very poor attendance, and this trend could be tied to the current bi-weekly meeting schedule, which, in her view, had dampened the spirit of the guild. She proposed returning to a weekly meeting structure to bring back engagement.  Advance supported this idea, agreeing that the bi-weekly format had reduced both effectiveness and enthusiasm among members. At this point, Ese posed a key question: 'Given our current budget and the drop in token value, can we realistically support weekly meetings?' UknowZork responded by suggesting a partial shift toward volunteerism, especially for tasks like facilitation. She proposed using these roles as mentorship opportunities where members could learn how to lead meetings, even if the tasks aren't currently funded.  While the proposal had merit, Advance expressed hesitation, indicating that while volunteerism is a thoughtful approach, it might not be sustainable at this time. Jeffery added another layer of concern, noting that it would be unfair to expect new contributors who haven't previously benefited from paid opportunities to volunteer, especially when others in the past had earned during more favorable conditions.  Recognizing all these perspectives, Ese cautioned that while the suggestions were valuable, any changes must be made carefully. She reflected on a time when the African Guild had consistently high participation and vibrant energy, but acknowledged that the token price crash played a major role in shifting that dynamic. To move forward, Advance and Jeffery both recommended reaching out directly to inactive guild members to understand their needs and encourage engagement. They also discussed the idea of sharing regular reminders in the guild's Discord channel to help boost meeting turnout.   AOB: Before wrapping up, Advance threw in a refreshing idea: 'Why don't we make the meetings more fun maybe add something cultural or playful to keep things lively?' Like little activities that remind us of home and bring back the sense of community. Ese loved the suggestion and encouraged everyone to think about creative ways we can make the sessions get lively and get more participation. The call ended on a hopeful note, with Advance offering to personally reach out to some guild members on Discord to help reignite that sense of connection.",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Advance and Jeffery to reach out to other guild members and ask about their well-being",
+            "assignee": "advanceameyaw, Jeffrey Ndarake",
+            "dueDate": "11 July 2025"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "welcoming, progressive, relaxed, collaborative",
+      "topicsCovered": "Token price, Meeting attendance, Facilitation, Volunteerism, African guild, Budget"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-07-08",
+      "host": "Clement Umoh",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Clement Umoh, advanceameyaw, UKnowZork, CJFrankie, Duke, Jeffrey Ndarake",
+      "purpose": "Bi-weekly meeting of the African guild"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The call opened with Clement suggesting a shift from bi-weekly to monthly meetings, citing the current low token price and our budget limitations. He proposed that the idea be discussed further with the Focus Group before making a final decision. CJFrankie supported the idea, suggesting that we hold meetings on the first Thursday of every month to help cut down on costs, especially given the unfavorable token rates. However, Advance expressed concerns about this change, emphasizing that bi-weekly meetings help maintain momentum and keep the workgroup effective. While he acknowledged that monthly meetings might ease the budget strain, he felt we should stick to the bi-weekly schedule if it's still feasible.    Highlights / Upcoming events Clement shared details about the upcoming Afro AI Multilingual Workshop in Nigeria, organized through the Education Initiative. This is the second phase of the workshop, and this time, the content will be translated into Hausa. Clement believes this approach will not only make the material more accessible but also encourage more people to learn the language. The workshop will spotlight African innovators and incorporate storytelling to foster deeper local engagement. Advance asked concerning communication around brand guidelines for flyer design and marketing support for post scheduling. If needed, the marketing team will assist with flyer design upon Clement's request, but he added that he will first check with Kizzy for clarity.   AOB: Advance asked about the next steps for the Research on Indigenous AI tools for Africans. Clement explained that while there were plans to continue, the Guild has put things on hold for now because of the current AGIX token price. They're hoping to pick it back up once the price improves.   The meeting wrapped up with Clement promising to share the storyline documents used in the Afro AI Multilingual Workshop via the Discord channel.",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "All members should come up with ideas on how to keep the guild moving - 16th of May"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Multilingual, Marketing Guild, Education initiative, Q2 2025 budget",
+      "emotions": "insightful, welcoming, progressive, relaxed, collaborative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-07-18",
+      "host": "Clement Umoh",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Clement Umoh, UKnowZork, Jeffrey Ndarake, advanceameyaw, Sucre n Spice, Alfred Itodele, CJFrankie",
+      "purpose": "Bi-weekly meeting of the African guild"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The meeting began with Clement addressing the challenges posed by current budget constraints, which have made it difficult to sustain weekly sessions. Despite this, he highlighted the importance of staying committed to impactful initiatives, particularly the Afro Multilingual Drive Initiative a quarterly program dedicated to advancing AI literacy across African languages.  Highlights / Upcoming events Afro Multilingual Drive Initiative (September Edition) The focus for this quarter will be on protecting digital money, using a fictional story set in a Nairobi marketplace. The scenario involves a jewelry seller who uses mobile money (tentatively named M-Pesa) and is protected from fraud by an AI system called SingularityNet. This narrative will transition into an AI learning session on Fintech, cybersecurity, and financial inclusion within the African context. Clement noted that the previous editions have produced videos and storytelling scripts in Swahili, Hausa, and French. Clement invited participants, especially those involved in Fintech, cybersecurity, and finance, to share tools, concepts, or projects suitable for the initiative. He emphasized the inclusion of Afro-owned innovations and culturally relevant financial tools. While he expressed openness to prototyping new ideas and collaborating with R&D teams, Clement noted that current financial constraints may limit the scope of implementation. The event will be held on a Zoom call, and there's openness to increasing the reach and size of the audience.  Advance was invited to revisit and possibly present a previous project from Ethiopia involving AI and finance. He agreed to coordinate with Sam for a potential feature in the upcoming edition. Clement will follow up via DM to finalize details.   AOB: Jeffrey inquired about volunteer opportunities for the September event. Clement responded that volunteer coordination will be discussed in a dedicated planning session later. Clement concluded the meeting by thanking attendees and encouraging continued idea submissions via DM.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "insightful, welcoming, progressive, relaxed, collaborative",
+      "topicsCovered": "Digital Finance, Afro Multilingual Drive, AI Literacy, Cybersecurity, Fintech, Budget constraints"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-08-14",
+      "host": "Duke",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Duke, UKnowZork, Alfred Itodele, Sucre n Spice, esewilliams, Udoma",
+      "purpose": "African Guild Meeting, 14th of August, 2025"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The meeting opened with Duke noting that payouts in FET rather than AGIX could ease some of the workgroup struggles, since AGIX no longer carries much utility. He admitted he had missed some meetings and wanted to catch up on direction, while Sucre joined shortly after. We briefly had discussion on the Ambassador Program, survey results, and the tension between efficiency expectations and limited resources. Duke pointed out that some groups like Strategy and Marketing Guilds were at risk of suspension due to low survey ratings, while others like Onboarding scored above thresholds. He stressed that without adequate resources, efficiency is unrealistic and workgroups can only do as much as their budgets allow.     Highlights / Upcoming events We discussed merging overlapping guilds to streamline costs, such as combining African Guild with LATAM or consolidating Marketing related groups under one umbrella. We also talked about redefining outputs for the next quarter, with African Guild focusing on outreach, events, and partnerships. Past activities like hackathons and multilingual literacy phases were highlighted as successful, though they required substantial funding. The conversation turned to sustainability: budgets are expected to shrink, and by next year, allocations may reduce further. Duke and Sucre agreed external funding was tricky, since it doesn't make sense to promote SingularityNet with another company's money. Cardano was suggested as a possible exception, but skepticism remained about its feasibility. The general consensus was that funding should come from within Deep funding or the foundation itself.  UknowZork raised a concern about the recent survey results, saying her fear was how they should brace themselves for this quarter since the survey will likely influence the budget and consent process for the next one. She pointed out that the African Guild was rated low in terms of work quality and expressed worry about how that might affect them moving forward. The discussion then circled around the challenge of producing quality work within the African Guild despite limited funding. Sucre stressed that last quarter it seemed like only one project was accomplished, and suggested the group should look for smaller activities or events that require little to no funding, things that could still keep the Guild active and engaged, maybe with just $50-$100. She also raised concerns that the Guild feels too West African or Nigerian-centric rather than pan-African, which she feels undermines its name and purpose. Advance agreed and explained that while people from other regions in Africa do exist in the ecosystem, many are more active elsewhere, often because better funding and opportunities attract them. He suggested low-cost initiatives like virtual meetups or collaborations to bring a more continental balance back. Duke expanded on this, acknowledging the reality that without strong funding, participation is hard to sustain. He emphasized that Nigerians naturally dominate because of numbers and adoption rates, but if real funding were available, people from all over Africa would join in droves. He also noted that while ideas aren't lacking, the resources to execute them are.     AOB: AOB: As the conversation wound down, Sucre proposed a practical step: everyone should come to the next meeting with two affordable project ideas. Duke backed this, saying ideas should also be collected in advance, either in a shared document or group chat, so they can be refined before the meeting. UknowZork stepped in and offered to help scout and gather ideas. There was also some back-and-forth about absent members. Should they be expected to contribute ideas too? In the end, the group decided yes: those present would bring two, while at least one should be collected from those not in attendance. The emphasis was on persistence in following up, since getting people to actually submit can be a challenge. The meeting wrapped up on a lighter note, with a few jokes and encouragement shared. Even though the group was smaller than usual, everyone agreed it had been productive and left feeling that, with a pool of new project ideas, the African Guild could keep moving forward despite the constraints.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "UknowZork to reach out to the rest of the guild to brainstorm plans for the next quarter.",
+            "assignee": "UKnowZork",
+            "dueDate": "19 August 2025"
+          },
+          {
+            "text": "Uknowzork to ask each member to submit at least 2-3 ideas for potential initiatives.",
+            "status": "in progress",
+            "assignee": "UKnowZork",
+            "dueDate": "15 August 2025"
+          }
+        ],
+        "discussionPoints": [
+          "The team spent the call walking through a proposal for building a platform over 12 months, with quarterly milestones, full documentation, demo videos, and integration into the Cardano mainnet. Colleen shared her screen and went through the details of everything from Estonian translations in the materials, to how transactions and APIs would work, and an interesting 'reverse gas model' where end users pay the fees.",
+          "Peter flagged an important concern: submitting this to Catalyst could knock them out of the current hackathon because of funding rules, and the scope feels far too big for a hackathon MVP. Colleen outlined how the platform would simplify cross-chain agent integration, while Vasu filled in some of the technical background around embeddings, vector stores, and ICP infrastructure. Guillermo suggested splitting it into two proposals, a smaller, simpler one for the hackathon and a more ambitious one for Catalyst -and brought up the Masumi project as a solid Cardano based example they could learn from.",
+          "We discussed whether to keep ICP integration just for the hackathon or build it into the bigger plan, and touched on polishing the proposal's wording. Colleen admitted she probably couldn't take on development work for the hackathon this time because of technical setup challenges, though she still liked the ICP idea for the future.",
+          "Toward the end, the conversation shifted to a planned 'think tank' session with four discussion topics, ideas for connecting it to AI ethics work, and possibly putting together an RFP to fund AI experts. The call wrapped up with an agreement to keep sharing materials in the R&D channel, gather data, and continue working toward next steps."
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "Deep Funding, Cardono, FET, Hackathon, Multilingual Literacy, Marketing Guild, LatAm, AGIX rate",
+      "emotions": "Interesting, Insightful, welcoming, progressive, relaxed, collaborative, foward looking"
+    }
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-08-28",
+      "host": "Duke",
+      "documenter": "martinsoki",
+      "peoplePresent": "Duke, UKnowZork, Sucre n Spice, Jeffrey Ndarake, Isaac Daniel, Alfred Itodele",
+      "purpose": "African Guild Meeting, 28th of August, 2025"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Duke welcomed everyone warmly. Duke, while going through the last meeting note summary, pointed out that a few things were missing from the summary and that UKnowZork should update the names in the summary note. He emphasized the need to focus summaries on guilds specific matters and suggested reaching out to UKnowZork to revise the summary. Duke discussed the result of a Build Idea Brainstorming season, noting that only three people contributed ideas, He shared two main ideas: hosting in person events across African region to boost adoption and community growth, which he acknowledged will be capital-intensive. and personal plan to organize in-person event in Abuja to promote AI discussions and potentially attract other ecosystem.  Community Event Hosting Strategy: Alfred proposed a low-cost approach to hosting events by leveraging existing event opportunities and providing stipends to community members who attend or host events. Duke supported the idea, noting that previous attempts to organize events were unsuccessful due to high cost and lack of interest from the community.  X Spaces Initiative Restart Plan: Duke discussed reviving the X spaces initiative, which was previously paused due to budget constraints, and proposed a voting system to select the strongest ideas.  Q4 Activities and Events Ideas: Duke presented ideas for Q4 activities, including a storytelling video, partner micro-events, and Guild as a service pilot, with a total budget around 2k USD. He also discussed reviving X spaces with AI conversations and mentioned an African Guild Research Survey.  Q3 Activities Planning Discussion: The team discussed and agreed on four main ideas for Q3 activities: virtual and in person events, a Lean Guild Challenge for sharing art, stories, and memes, trivia and quizzes with prizes, and attendance and partnerships with tech events. Duke presented these ideas and asked for feedback, which Isaac provided by agreeing with the concepts and inquiring about the platform for the Lean Guild Challenge.  African Guild Strategic Funding Initiatives: Duke discussed the African Guilds re-strategy document, emphasizing its regional focus and distinction from program centered guilds like treasury. He mentioned working on external funding options, including potential partnerships with African universities, innovation hubs, and global organizations interested in Afrocentric AI research.  African Guild Strategy and Events: The team discussed the African Guild re-strategy draft document, which Duke is finalizing and will share publicly to reinforce the organizations mission and purpose.",
+        "actionItems": [
+          {
+            "text": "Sucre n Spice and Clement to create and distribute flyers for the Afro Multilingual event scheduled for September 11th.",
+            "status": "todo",
+            "dueDate": "11 September 2025",
+            "assignee": "Sucre n Spice, Clement Umoh"
+          },
+          {
+            "text": "Duke to incorporate the agreed-upon ideas into the African Guild Re-Strategy Draft document and share it publicly.",
+            "status": "todo",
+            "assignee": "Duke",
+            "dueDate": "11 September 2025"
+          },
+          {
+            "text": "Duke to finalize the four main idea categories for Q4 planning.",
+            "status": "todo",
+            "assignee": "Duke",
+            "dueDate": "11 September 2025"
+          },
+          {
+            "text": "UKnowZork to redo the meeting summary notes with corrections on names and content focus.",
+            "status": "todo",
+            "assignee": "UKnowZork",
+            "dueDate": "11 September 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "The group decided on the four main ideas for Q3 2025 activities:  virtual and in person events;  a Lean Guild Challenge for sharing art, stories, and memes; trivia and quizzes with prizes; and attendance and partnerships with tech events.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "The team spent the call walking through a proposal for building a platform over 12 months, with quarterly milestones, full documentation, demo videos, and integration into the Cardano mainnet. Colleen shared her screen and went through the details of everything from Estonian translations in the materials, to how transactions and APIs would work, and an interesting 'reverse gas model' where end users pay the fees.",
+          "Peter flagged an important concern: submitting this to Catalyst could knock them out of the current hackathon because of funding rules, and the scope feels far too big for a hackathon MVP. Colleen outlined how the platform would simplify cross-chain agent integration, while Vasu filled in some of the technical background around embeddings, vector stores, and ICP infrastructure. Guillermo suggested splitting it into two proposals, a smaller, simpler one for the hackathon and a more ambitious one for Catalyst -and brought up the Masumi project as a solid Cardano based example they could learn from.",
+          "We discussed whether to keep ICP integration just for the hackathon or build it into the bigger plan, and touched on polishing the proposal's wording. Colleen admitted she probably couldn't take on development work for the hackathon this time because of technical setup challenges, though she still liked the ICP idea for the future.",
+          "Toward the end, the conversation shifted to a planned 'think tank' session with four discussion topics, ideas for connecting it to AI ethics work, and possibly putting together an RFP to fund AI experts. The call wrapped up with an agreement to keep sharing materials in the R&D channel, gather data, and continue working toward next steps."
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "Multilingual Literacy, LatAm, Build Idea Brainstorming season, Q3 2025 activities",
+      "emotions": "Interesting, collaborative, foward looking"
+    }
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-09-11",
+      "host": "Clement Umoh",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Clement Umoh, UKnowZork, Sucre n Spice, Kateri, Duke, martinsoki, esewilliams, Udoma, Jedidiah Omotayo, Omolola Lawson, Emmanuel Ita, Alfred Itodele",
+      "purpose": "African Guild Meeting, 11th of September, 2025"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting opened with Clement welcoming everyone to the third phase of the Afro Multilingual Literacy Drive. He reminded participants that the initiative has already held a couple of series in the past, each one focused on a specific theme around learning and community growth. Today's session, he explained, would revolve around Finance, with a central theme titled: 'M-PESA & AI Guardian: Practicing Digital Money.'  To set the tone, Clement began with a short historical reflection. He began by reflecting on the past, noting how coins once served as our main form of transaction a few years back. He explained that M-PESA, widely used in Kenya, works much like what Opay and Moniepoint do in Nigeria-proving that financial innovation can be homegrown. Clement stressed that Africa is fertile ground for such innovations in financial literacy. However, he also pointed out the potential risks: digital wallets can be hacked, fraudsters exploit weaknesses in the system, and inflation can erode trust. This, he argued, is where AI can serve as a guardian, strengthening the security of Africa's digital financial systems.  Clement emphasized how platforms like M-PESA, Airtel Money, and Opay have become 'banks for the unbanked.' With nearly 60% of Sub-Saharan Africa's population still unbanked, these platforms are more than convenient-they represent digital literacy and financial inclusion.   He then moved to a more interactive part of the session. He asked the group whether anyone had personal experiences of how mobile money had impacted trade, family support, or community development in their lives. Jedidiah was the first to respond. He shared how mobile money had been a lifeline for him during particularly difficult times. He explained that in situations where access to physical cash or banks was limited, having a mobile wallet made the difference between being stranded and being supported. Duke followed by narrating his experience during the 2023 'No Cash' crisis in Nigeria, when physical currency was scarce, and daily transactions became a struggle. He recalled how PalmPay came to his rescue during a very difficult issue he faced. Since that experience, he has continued to use the platform regularly, though he admitted that he avoids keeping large sums of money in his account for safety reasons. Udoma added his own perspective, focusing on frustrations with traditional banks. He spoke about repeated cases of unnecessary charges, which he felt were unfair and exploitative. These experiences had led him to close multiple accounts over the years, further strengthening his reliance on digital platforms.  After hearing these contributions, Clement returned to the broader discussion. He pointed out that many of these digital financial platforms are now going beyond just storing money or processing transactions. Increasingly, they are integrating advanced tools that help detect fraudulent activity, verify customer identities, and even offer personalized financial advice to users. This, he suggested, demonstrates how digital money can become not only a tool of convenience but also a system of trust and guidance for users across Africa.  He then posed a thought-provoking question to the group: 'Who should own the intelligence that protects Africa's digital money?' His point was that while AI and advanced technologies can safeguard financial systems, the ownership and control of that intelligence remain a critical matter for Africa's future.  Omotayo responded firmly, saying that Africans must be the ones to own and manage such intelligence. Since the financial assets belong to African users, the control and security systems around them should also remain within African hands. He emphasized that ownership is not just about technology it is about independence and empowerment.  Duke supported this idea and expanded on it. He argued that there is no need for Africa to abandon digital platforms in favor of offline methods. Instead, Africans should be given the tools and opportunities to protect and manage their digital assets themselves, without over-reliance on external systems.  The meeting came to an end with Clement reinforcing the idea that while digital money platforms have already proven themselves as powerful tools for inclusion, the future lies in ensuring that these tools are secure, accessible, and truly African-owned. The discussion, he noted, is not just about financial convenience it is about shaping the continent's future in terms of trust, innovation, and self-reliance.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Afro Multilingual Literacy Drive, M-PESA & AI Guardian, Finance, Digital money, banks for the unbanked, financial technology, Sub-Saharan Africa's population",
+      "emotions": "Friendly, Collaborative, funny , Thoughtful , engagement, entertaining, insightful, quiet, New members"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-09-25",
+      "host": "Clement Umoh",
+      "documenter": "martinsoki",
+      "peoplePresent": "UKnowZork, Sucre n Spice, Kateri, Duke, martinsoki, esewilliams, Udoma, Jedidiah Omotayo, Isaac Daniel, Iphone",
+      "purpose": "African Guild Meeting, 25th of September, 2025"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting opened with Clement welcoming everyone to our last meeting for this quarter. The meeting began with a recap of the previous session, which focused on digital financial assets and traditional banking experiences in Africa. The group discussed the Q4 2025 budget, which totals $1,900, with $600 allocated to recurring tasks and the remainder split between projects and workshops. They outlined various initiatives for the quarter, including the Lean Guild Challenge, Talking Drone Dispatch, and plans for Twitter spaces and village meetings. SucrenSpice mentioned creating an alternative budget based on a lower AJX price to account for recent fluctuations.  The team introduced a new quarterly initiative: a bi-weekly newsletter titled 'Talking Drum Dispatch,' designed to engage the community using Afrocentric naming and themes. Duke explained that the newsletter would be sent to the existing email database to help convert leads into warm or hot prospects for future events and funding opportunities. The team also addressed concerns about declining meeting attendance-Duke noted that while past events attracted up to 80 participants, recent turnout has been lower.  Duke emphasized the need for renewed marketing and lead nurturing through the Talking Drum Dispatch, targeting contacts from the past year with updates on TestNet, TestNet Africa, and AI in Africa. He also outlined plans for Afro AI storytelling videos and shorts, initially conceived as part of the Green Guild Challenge. SucrenSpice and Clement assisted in retrieving relevant details from the meeting transcript to support planning.  Duke announced the launch of the Lean Guild Challenge, a new competition aimed at promoting SingularityNet, AI, AGI, and Africa through creative ideas and potential video content. While the exact competition format is still being developed, Duke suggested possible collaboration with the video workgroup and promotion via the Marketing Guild and Ambassador Program's YouTube channel. He also highlighted plans to revive X Spaces and support small, low-budget events, encouraging participants to focus on generating tangible outputs in the final two months of the quarter.  The team began planning a smaller-scale Lean creative competition with a modest $100 budget, modeled after a previous initiative. They agreed to form a focus group to structure the competition and generate ideas. Love volunteered to create a brief submission form for participants who prefer not to join live discussions. The competition will be open to both guild members and non-members, with plans to award prizes to the top three submissions-rather than just one winner-to boost participation and motivation.  The team discussed cross-guild content collaboration, agreeing to assign a delegation to engage with LATAM counterparts for Q1 2026 planning. They prioritized the first five items on their action list and began brainstorming topics for an upcoming African youth meeting. Duke suggested a topic on how AI could predict the rapture, which Love expressed interest in.",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Love to create and share a form for members to submit ideas for the Lean Guild Challenge.",
+            "assignee": "LadyTempestt",
+            "dueDate": "9 October 2025"
+          },
+          {
+            "text": "Duke to foster conversations with University of Abuja's computer science department regarding the Village Meeting event",
+            "status": "todo",
+            "assignee": "Duke",
+            "dueDate": "9 October 2025"
+          },
+          {
+            "text": "Focus Group to meet and provide structure for the Q4 initiatives before the week ends.",
+            "status": "todo",
+            "dueDate": "9 October 2025",
+            "assignee": "focus group"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "They agreed that the focus group will provide structure and brainstorm ideas for the Lean creative competition."
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "Friendly, Collaborative, funny",
+      "topicsCovered": "Meeting Recap, Lean Guild Challenge, Talking Drone Dispatch, cross-guild content collaboration"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-10-09",
+      "host": "Duke",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Sucre n Spice, esewilliams, Alfred Itodele, CJFrankie, Jeffrey Ndarake, Omolola Lawson, Duke, UKnowZork",
+      "purpose": "Bi-weekly Meetings of the African Guild",
+      "workingDocs": [
+        {
+          "title": "Lean Guild Challenge",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSd23hAPS-XSy3z-V0mAuI8p_PywGAGbaC_vKVUMz02KKYYdYA/viewform"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "The meeting began with Duke noting that a Google Form had been shared earlier but had received no engagement. He suggested that everyone fill out the form live during the call to save time and help define the guild's direction for the quarter. Duke emphasized that without input from team members, delegation and planning could not progress. He then asked SucrenSpice to share the form so participants could complete it in real time rather than postponing it again.  SucrenSpice expressed frustration that no one besides her had completed the form, calling it disappointing given the enthusiasm from the previous meeting. Duke acknowledged her concern and mentioned his network limitations, agreeing that completing the form together would be more efficient. Once SucrenSpice shared the link, Duke encouraged everyone to take five minutes to fill it out so they could gather data to guide their ideas.  As participants worked on the form, ESE requested clarification about the 'Lean Guild Challenge,' noting that she hadn't fully understood it before. Duke explained that it was a smaller-scale version of last year's creative contests, designed to generate engagement and publicity with limited funds. He described it as a community-driven challenge open to creative proposals, where members would submit, vote, and reward winning ideas. SucrenSpice added that the entire guild would then collaborate to execute the chosen idea, distributing roles accordingly.  After collecting some responses, SucrenSpice read out the submitted ideas. Suggestions included:  Gartic Games - A drawing and guessing game inspired by SingularityNET themes.  AI Writing Challenge - A social media challenge focused on AI and Singularity Africa, with engagement-based rewards.  Digital Handshake & Story Map - Members pin their locations on a shared map and write one sentence about their connection to Africa ('My Africa is...').  Problem and Possibility Seed Bank - Members share one local problem and one potential solution, creating a pool of future project ideas.  Six-Word SNET Story - Participants summarize their vision for Africa or SingularityNET in six words, with recognition for the most creative entries.  SNET Impact Challenge (#StickTheChange) - A social media movement where participants showcase how they're using AI or community action to make a difference in Africa. The campaign would include regional leaderboards, weekly highlights, and rewards for impactful contributions.  As the guild reviewed the ideas, participants discussed creating short labels and descriptions to simplify the voting process. A quick poll was conducted, and ESE's Impact Challenge received six votes, emerging as the winning concept. Duke asked ESE to document the idea clearly and share it soon so execution could begin, noting the short two-month quarter and limited meeting schedule. ESE agreed to draft the document, initially proposing next week, but SucrenSpice and Duke encouraged an earlier deadline-preferably Monday. ESE later confirmed she would share a preliminary version soon, even if brief.  Toward the end of the meeting, SucrenSpice proposed running multiple projects concurrently-such as Twitter Spaces, Afro-storytelling video shorts, and other initiatives-to avoid delays and ensure all quarterly goals were met. Duke agreed, emphasizing that future meetings would focus on review and execution rather than ideation. He encouraged members to select specific roles or tasks they were interested in, stressing the importance of delegation moving forward.  To streamline coordination, SucrenSpice offered to create a shared project tracker listing ongoing and upcoming initiatives, including Talking Drum, physical meetups, newsletters, X Spaces, and videos, allowing members to indicate where they could contribute. Duke endorsed the idea, thanked everyone for their input, and reminded the team that the quarter was already underway-prompt action was critical.  The meeting concluded on a cooperative and motivated note, with Duke expressing appreciation to all present members for their participation and commitment.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Ese to draft a detailed document outlining the SNET Impact Challenge",
+            "assignee": "esewilliams",
+            "dueDate": "22 October 2025"
+          },
+          {
+            "text": "SucrenSpice to create a shared project tracker listing all ongoing and upcoming projects (Talking Drum, physical meetups, newsletters, X Spaces, Afro-storytelling videos) and share the tracker with guild members for them to indicate preferred roles or contributions.",
+            "status": "in progress",
+            "assignee": "Sucre n Spice",
+            "dueDate": "16 October 2025"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Lean Guild Challenge, Content Initiatives, Impact challenge",
+      "emotions": "informative,  insightful,  Collaborative,  forward-looking, Friendly"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-11-06",
+      "host": "Duke",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Sucre n Spice, Clement Umoh, Kateri, Udoma, Omolola Lawson, martinsoki, Duke, UKnowZork",
+      "purpose": "Bi-weekly Meeting of the African guild",
+      "workingDocs": [
+        {
+          "title": "African Guild Q4 Tasks sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1qAffHBzmBrEqEX7GIEGrZ4ywwFJ50Z8XI_MWtvSkBeE/edit?gid=1623734355#gid=1623734355"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The meeting, facilitated by Duke, opened with a clarification about the rescheduling confusion that followed the BGI Summit. Members acknowledged lapses in communication, which had caused several participants to miss the previous meeting. Duke asked whether to proceed with the small turnout or postpone until more members joined. After brief discussion, the group agreed to continue since key matters-task assignments, budgeting, and next steps required attention.    Highlights / Key Discussions 1. Task Sheet Review and Participation Duke shared the task sheet that had been circulated two weeks earlier, outlining all planned activities for the quarter. He noted that participation in filling it out had been minimal, though most of the contributors were present. As he shared his screen, the group reviewed the task list, which included initiatives like the Lean Guild Challenge, Afro-AI storytelling, Twitter Spaces, newsletters, and a physical meeting in Abuja.  Members exchanged light banter as Duke pointed out that UnowZork's name appeared across nearly every section, drawing playful comments about being the team's 'bulldozer.'  2. Task Redistribution and Role Balancing During the discussion, Martin volunteered for additional responsibilities, while SucrenSpice suggested that UnowZork narrow down their roles to create room for others. Duke clarified that holding multiple roles wasn't an issue as long as participation remained balanced. After brief adjustments, assignments were redistributed: 1. Clement, Martin, and Kateri took on newly defined roles. 2. UnowZork and Udoma retained two to three key tasks each.  SucrenSpice reminded everyone that focusing on one core deliverable per person would ensure efficiency and accountability.  3. Assignments and Deliverables Each member's responsibilities were clarified as follows: 1. Lean Guild Challenge: Team to begin work immediately and coordinate with Ese for design and publicity. 2. Newsletters (Nov-Dec): Martin to draft and submit for review to Duke or SucrenSpice before publishing. 3. Afro-AI Storytelling: Clement and Udoma to finalize scripts and video production concepts. 4. Twitter Space Event: Lola to lead coordination and hosting. 5. Physical Village Meeting (Abuja): Duke and Udoma to handle logistics and planning. 6. Cross-Guild Content: UnowZork to collaborate with the LATAM team. 7. Quarterly Showcase: SucrenSpice to compile a consolidated presentation of all outputs.  The tone remained upbeat, with a mix of humor and productivity as the group confirmed roles and deliverables.  4. Budget and Resource Efficiency When budget constraints surfaced, Duke encouraged minimizing costs by having the same individuals handle multiple related tasks for instance, combining infographic design and publicity duties. SucrenSpice clarified that Esther's role in the Lean Guild Challenge would remain facilitative, not as an additional paid implementer.  Duke emphasized that all teams should begin their assigned tasks immediately, with some outputs particularly publicity materials and newsletter drafts expected by the following week.    AOB: As the conversation wound down, Duke proposed a practical step: Everyone should maintain consistent communication to prevent rescheduling confusion, balance task distribution to ensure shared workload and efficiency, prioritize low-cost, high-impact deliverables given limited funding and ensure all assignments have visible progress before the next session.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "UknowZork and Kateri to begin Lean Guild Challenge coordination with Ese",
+            "assignee": "UKnowZork, Kateri, esewilliams",
+            "dueDate": "30 November 2025"
+          },
+          {
+            "text": "Martinsoki to prepare November-December newsletters and share drafts for review",
+            "status": "in progress",
+            "assignee": "martinsoki",
+            "dueDate": "30 November 2025"
+          },
+          {
+            "text": "Clement and Udoma to finalize Afro-AI storytelling concept (scripts + visuals)",
+            "status": "in progress",
+            "assignee": "Clement Umoh, Udoma",
+            "dueDate": "30 November 2025"
+          },
+          {
+            "text": "Omolola to organize and coordinate Twitter Space event",
+            "status": "in progress",
+            "assignee": "Omolola Lawson",
+            "dueDate": "30 November 2025"
+          },
+          {
+            "text": "Duke and Udoma to coordinate, organize and plan logistics for Abuja physical meeting",
+            "status": "in progress",
+            "assignee": "Duke, Udoma",
+            "dueDate": "30 November 2025"
+          },
+          {
+            "text": "SucrenSpice to compile quarterly showcase report",
+            "status": "in progress",
+            "assignee": "Sucre n Spice",
+            "dueDate": "30 November 2025"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "BGI Summit, Lean Guild Challenge, Afro-AI Storytelling, Newsletter, Abuja Meeting, LATAM Collaboration, Budget Coordination",
+      "emotions": "Focused, collaborative, humorous, members left with a clear sense of direction and renewed energy to execute their tasks."
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-11-20",
+      "host": "Duke",
+      "documenter": "martinsoki",
+      "peoplePresent": "Sucre n Spice, Omolola Lawson, martinsoki, rems, UKnowZork, CollyPride, Jeffrey Ndarake, Duke",
+      "purpose": "Bi-weekly Meeting of the African guild",
+      "workingDocs": [
+        {
+          "title": "African Guild Q4 Tasks sheet",
+          "link": "https://docs.google.com/spreadsheets/d/1qAffHBzmBrEqEX7GIEGrZ4ywwFJ50Z8XI_MWtvSkBeE/edit?gid=1623734355#gid=1623734355"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The meeting began with the discussion of ongoing tasks, Duke gave an update on Martinsoki work and issue on the email, he noted that he plans to follow up with ESE about that and share a spreadsheet with Martin. He also mentioned the work with Lola and how it is falling in place.   Lean Guild Challenge: Uknowzork noted that they hadn't been able to reach ESE regarding the Lean Guild Challenge because she had been offline.   Team Reorganization and Reward Adjustments: SucrenSpice announced a restructuring of team roles, including reassigning Kateri and Ese to focus on the Lean Guild Challenge, while moving Uknowzork into the Twitter Community/X space role previously handled by Kateri and the removal of Martinsoki from the Village Meeting. SucrenSpice also addressed changes to the rewards distribution, noting that the drop in token price reduced the total available funds from 1,800 USD to 1,050 USD. The rewards will now be issued in AGIX tokens to preserve their value.  Duke offered to help Martinsoki learn System.io by finding a suitable video tutorial. Martinsoki added that he is currently watching YouTube lessons to better understand how to use the platform.  Email Marketing Strategy: Duke and Martinsoki reviewed the current email marketing approach. Duke noted that the existing educational-style content might result in a low open rate and suggested shifting to a more direct, action-focused style aligned with direct response copywriting. He also proposed revisiting the setup of the email marketing platform to support this improved structure. Both agreed to schedule a follow-up call to further refine the email content and overall strategy.  Twitter Space Event Coordination: The team reviewed plans for the upcoming Twitter Space event scheduled for next Thursday, emphasizing the need to coordinate with Lola to finalize the event flyer. Duke faced technical issues and had to leave the meeting early, so the team agreed to continue the conversation asynchronously. Colly offered support for any questions or challenges that might come up. The discussion concluded with a reminder to reach out to Lola promptly to confirm all event details.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Kateri to begin Lean Guild Challenge coordination with Ese",
+            "assignee": "Kateri, esewilliams",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Martinsoki to prepare November-December newsletters and share drafts for review",
+            "status": "in progress",
+            "assignee": "martinsoki",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Clement and Udoma to finalize Afro-AI storytelling concept (scripts + visuals)",
+            "status": "in progress",
+            "assignee": "Clement Umoh, Udoma",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Omolola to organize and coordinate Twitter Space event",
+            "status": "in progress",
+            "assignee": "Omolola Lawson",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Duke and Udoma to coordinate, organize and plan logistics for Abuja physical meeting",
+            "status": "in progress",
+            "assignee": "Duke, Udoma",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "SucrenSpice to compile quarterly showcase report",
+            "status": "in progress",
+            "assignee": "Sucre n Spice",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Uknowzork to Create flyer and publicise on social media accounts",
+            "status": "in progress",
+            "assignee": "UKnowZork",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "Duke to follow up with ESE about the email contacts and to share the spreadsheet with Martinsoki",
+            "status": "todo",
+            "assignee": "Duke",
+            "dueDate": "4 December 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Martinsoki and Duke agreed to schedule a follow-up call to further refine the email content and overall strategy.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Lean Guild Challenge, Newsletter, Budget Coordination",
+      "emotions": "Understanding.,  Satisfaction ,  forward-looking"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "African Guild",
+    "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2025-12-11",
+      "host": "Sucre n Spice",
+      "documenter": "UKnowZork",
+      "peoplePresent": "Sucre n Spice, UKnowZork, Kateri, AndrewBen, Kevin Frey, Alfred Itodele",
+      "purpose": "Bi-weekly Meeting of the African Guild",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/presentation/u/0/d/1oV-pOLn2NyLvAcdBHnscmTu-E1B-a1Fdm3VNY5BlN4U/mobilepresent?pli=1&slide=id.g3afa51893dd_0_21",
+          "title": "SNET African Guild Q4 initiative"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Intro: The meeting opened with SucrenSpice welcoming everyone and explained that the session was meant to reflect on the quarter's activities and showcase what the African Guild achieved despite funding and logistical constraints. SucrenSpice briefly restated the guild's mission: advancing decentralized AI adoption, education, and innovation across Africa. The focus then shifted to reviewing the initiatives planned for Q4 and assessing what was completed.                          Highlights / Upcoming events The SNET Impact challenge was highlighted as one of the quarter's biggest successes. Kateri shared that her role involved background support, while Ese worked directly with participants. The challenge received about 12 submissions showcasing how Africans are using AI, generated strong social media engagement, and attracted new members to SingularityNet. We agreed that the quality of submissions, especially those focused on education, was encouraging.   The Talking Drum Dispatch was discussed next. Martinsoki led the November edition, which covered AI innovations across Africa, SingularityNet updates, AI governance training in Kenya, and an Angolan logistics company using AI. The December edition is currently in progress, and members were encouraged to read and engage with the shared dispatch. Next we discussed the virtual event hosted and held in Abuja.  The village meeting was described as a standout event. Although most people  couldn't attend due to distance, reports and videos showed strong impact, with around 45 new participants introduced to SingularityNet. The culturally grounded, in-person format was widely praised as one of the guild's best events so far.  Updates were also given on ongoing and postponed initiatives. The community Twitter/X Space is still in progress due to login issues and may take place soon or move into the new year. Cross-guild collaboration with the LATAM guild and the planned AI video content were moved to the next quarter because of funding and availability challenges.  Looking ahead: We discussed plans for 2026, focusing on sustaining and scaling successful initiatives, expanding the reach of the Talking Drum Dispatch, growing the guild's presence in academic institutions and tech communities, and organizing more workshops to to simplify decentralized AI and make SingularityNet more accessible across Africa.   AOB:  UknowZork asked about the short AI videos that were planned for the quarter and SucrenSpice confirmed that the team assigned to the task had been unavailable and that the initiative would be moved to Q1, with funds still intact. With no further questions, the meeting was wrapped up.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Martinsoki to continue engagement with Talking Drum Dispatch and promote readership",
+            "assignee": "martinsoki",
+            "dueDate": "19 December 2025"
+          },
+          {
+            "text": "Roll over incomplete initiatives (AI videos, cross-guild collaboration, X Space) to Q1 2026",
+            "status": "in progress"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Lingo Challenge, Talking Drum Dispatch, Village Meeting, Decentralized AI, SingularityNet, Community Outreach, Q4 2025 showcase",
+      "emotions": "interesting, insightful, welcoming, progressive, relaxed, Reflective, appreciative, realistic, collaborative, forward-looking"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2025-08-04",
+      "host": "CallyFromAuron",
+      "documenter": "Clement Umoh, CallyFromAuron",
+      "peoplePresent": "Sucre n Spice, LadyTempestt, PeterE, Alfred Itodele, CollyPride, advanceameyaw, barnabas, AshleyDawn, UKnowZork",
+      "purpose": "Monthly Meeting of the AI Ethics Workgroup",
+      "workingDocs": [
+        {
+          "title": "AI Ethics Workgroup Github Board",
+          "link": "https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues"
+        },
+        {
+          "title": "AI Ethics WG Interview Training slides",
+          "link": "https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?usp=sharing"
+        },
+        {
+          "title": "Transcription Training AI Ethics WG slides",
+          "link": "https://docs.google.com/presentation/d/1VhssQ6qJ2gAwMCBNJSUSLbg25Z_eci5iElm-g40OpWo/edit?usp=drivesdk"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "AI Ethics MOOC Study group, Interview Transcription, Interviews, Budget Management , Events, BGI-25 conference, low token price",
+      "emotions": "Brief, Deliberative"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Task Review: 'In Progress' tasks on the Github board were reviewed.   Transcription tasks: these were all completed by the due date at the end of July  Co-Chair (Vani):  Vani has been reorganising the folder structure on the BGI Nexus drive where interview material and transcripts are stored. Esther and Vani are discussing whether to retain or delete the original (non-anonymised) recordings - likely they will be deleted to avoid accidentally sharing them. Once all this Quarter's interviews are done, Vani will be verifying interview validity and sending the tasks for payment.  WG Internal Management (Sucre n Spice): Sucre's work is progressing well for this Quarter; she has somewhat less to do than in previous Quarters due to lower token price, the Workgroup has fewer paid tasks that need processing.   WG Async Work Support (Love): Work is going as planned; no blockers.   Transcript checking (Vani): in progress; no blockers, although checking ranscripts is always quite slow work.  Interviews: Deadline for Q3 interviews is 8th August. If any interview is not done by then, tbe budget for it will either be reassigned to someone else, or returned to the pot. The assignees are Clement(2x), Grandi(2x), UknowZork(2x), Rems, and Jeffrey. The validity criteria will be similar to previous quarters, but with a slight tweak to the thresholds for part-paying interviews that are too short.  Conferences & Events: Nothing concrete yet about any potential involvement in the BGI-25 conference in October 2025 in Istanbul. Vani will meet with Esther later this month to discuss.   We discussed how to manage payments given the current low token price - see 'Decisions' below.",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Vani to meet with Esther and Haley about the Workgroup's potential involvement in the BGI-25 conference in October",
+            "assignee": "CallyFromAuron",
+            "dueDate": "11 August 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "AI Ethics MOOC Study Group: We decided not to proceed",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "we realized that nobody currently has time to take part in a course so we agreed to revisit the idea in our September meeting."
+          },
+          {
+            "decision": "The timing for task payments will be dependent on token price",
+            "rationale": "The WG will maintain its financial decision of no task payout during the Quarter if the token price is below the price at which the budget was calculated (Q3 2025 was calculated at 1 AGIX = $0.30)  If the token price stays below $0.30 for the whole Quarter, then at the end of the Quarter, priority fr payments will be given to 'output-based' tasks done by members, rather than admin roles - so the admin team will 'take the hit'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2025-10-06",
+      "host": "CallyFromAuron",
+      "documenter": "Grandi, CallyFromAuron",
+      "peoplePresent": "Gorga Siagian, CallyFromAuron, UKnowZork, AshleyDawn, barnabas, CollyPride, Alfred Itodele, LadyTempestt, Sucre n Spice, EstherG, Omolola, AJ, Mariia Lagutina",
+      "purpose": "Monthly meeting of the AI Ethics workgroup"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "#### AI Ethics MOOC  As agreed, we revisited the idea of joining a MOOC and meeting to discuss. Some members (Gorga, Alfred, MaxMilez, Guillermo, Vani) are still interested despite pressure of other work. FutureLearn (3-week course) and Coursera (4 weeks) were agreed on the best options as they are relatively short. Final decision will be made async, and we'll aim to start soon and review progress during the November meeting.  #### BGI-25 Several workgroups (R&D, LatAm, Archives, ThinkTank, and (tbc) African Guild) will be presenting sessions via Zoom on Day 3 of the conference (23rd October), which is an 'Unconference' (a more paricipatory, less planned event where anyone can present a session).  AI Ethics WG is taking a co-ordinating role for this, and will also be presenting a session to showcase our research work. We assigned Sucre as presenter, Love as facilitator, and Lola as documenter for our session.   Esther and Vani are preparing web text connecting the BGI 25 Unconference to the ambassador programs. A draft will be ready by tomorrow or soon after, and final breakout room timings will be added once confirmed.  We discussed what should be said in the session. Group members highlighted the cultural advantages of interviewer-interviewee alignment, noting that shared backgrounds especially within West African contexts often yield richer and more authentic responses. Members raised concerns about interviewee diversity and the risk of over-centralizing certain perspectives within the research. The group also considered the challenges and benefits of conducting interviews in non-English languages, recognizing the potential for deeper engagement and more nuanced insights; and mentionbed the importance of how we train interviewers and transcribers  WG members were invited to contribute async any further personal insights on interviews and transcription processes by the Wednesday, and these will be incorporated ino the presentation. There will be a final planning meeting this Wednesday at 9 a.m. UTC to finalize breakout content.  This work is funded directly by the Foundation, not from the WG budget.  #### Interview coding Merry (Mariia), an intern supporting Esther with qualitative research, introduced herself. She has been coding the WG's interviews and has so far completed 4. She will be taking part in the group's session at the BGI-25 virtual unconference to present early findings.  #### Budget fitting The Q4 2025 budget, initially approved at an exchange rate of $0.28, was reviewed due to volatile and lower actual rates.  Budget items cancelled: community engagement work (other than BGI-25); coding interviews.  Budget items reduced: 11 transcripts rather than the planned 14. These adjustments bring the equivalent rate to a safer $0.22. The workgroup agreed to maintain a cautious approach, with further reviews planned for November based on exchange rate developments.  #### Q4 2025 tasks Interviewing and transcription tasks were assigned. We noted that Jeffrey completed a bonus interview in the previous quarter; his payment will be processed in the current one. We also assigned meeting documentation tasks for this Quarter's meetings. Vani will add all tasks to the github board in the coming week.  #### Payment structure for short interviews Reminder that interviewers should aim for 30 mins or more of actual interview material (i.e. not counting introductions, going through the consent form, etc). If they don't reach this, the payment structure is     25 mins and upward - full pay, $25     20-25 mins: $15     10-20 mins: $10     Under 10 mins: $0  We also confirmed that Vani will offer support via DM to first-time interviewers if they need it.",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Vani will create relevant GitHub issues for Q4 tasks.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "13 October 2025"
+          },
+          {
+            "text": "All participants: Contribute to the spreadsheet with insights for the BGI 25 breakout room by Wednesday.",
+            "status": "todo",
+            "assignee": "All Participants",
+            "dueDate": "8 October 2025"
+          },
+          {
+            "status": "todo",
+            "text": "Presenter, Facilitator, and Documenter for the BGI-25 session",
+            "assignee": "Sucre n Spice, Omolola, LadyTempestt",
+            "dueDate": "23 October 2025"
+          },
+          {
+            "text": "Admin team to monitor and review the budget adjustments, with potential revisions in November.",
+            "status": "todo",
+            "assignee": "CallyFromAuron, Sucre n Spice, LadyTempestt",
+            "dueDate": "3 November 2025"
+          },
+          {
+            "text": "Esther and Vani to coordinate and develop promotional materials for the BGI 25 Unconference",
+            "status": "todo",
+            "assignee": "EstherG, CallyFromAuron",
+            "dueDate": "8 October 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Budget adjustment - the group agreed to remove community engagement and coding activities due to budget constraints. The number of transcription tasks was reduced from 14 to 11.",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "due to fall in token price"
+          },
+          {
+            "decision": "4 interviews is budgeted for this quarter - one already completed by Jeffrey. To assign the other 3, the admin team prioritized those who haven't done interviewing before. Deadline: 31st October.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "11 transcription tasks were assigned. All recordings will be anonymised before giving to a transcriber. Deadline: 14th November. Only transcribers with a record of high-quality work will be assigned tasks this time.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "outreach and promotion plan for BGI 25, AI Ethics MOOC Study group, interviewing, transcription, work standards, BGI-25 Virtual Unconference, interview coding, Q4 2025 budget, Budget fitting, qualitative research",
+      "emotions": "Collaborative, Interactive, Solution oriented, Discursive"
+    }
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2025-11-03",
+      "host": "CallyFromAuron",
+      "documenter": "lola lawson",
+      "peoplePresent": "Alfred Itodele, Duke, CallyFromAuron, EstherG, LadyTempestt, CollyPride, Jeffrey Ndarake, zainab, PeterE, merry lagutina, UKnowZork, sharmilla, grandi, Rems, lola lawson",
+      "purpose": "Regular monthly meeting of the AI Ethics WG",
+      "workingDocs": [
+        {
+          "link": "https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup",
+          "title": "GitHub board"
+        },
+        {
+          "link": "https://deepfunding.ai/rfp_ideation/hearing-the-silenced-voices-ai-supported-interviewer-training-for-ai-ethics-research-with-marginalised-communities/",
+          "title": "BGI nexus ideation proposal 'Hearing silent voices'"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "#### Documentation Updates: October meeting documentation (by Grandi) is complete but the link was not added to GitHub issue. Vani will update the board.  #### AI Ethics MOOC:  The idea of doing a MOOC as a group has been on the agenda for long. Last meeting, we said we would co-ordinate async and start attending one (either Coursera or FutureLearn), but it didn't happen due to people's lack of time; so we agreed to close the issue. The idea can always be revisited in future.  #### Q4 2025 budget: Last meeting, we made some budget-fitting cuts, and agreed that the WG admin team will keep an eye on things. But with the token price now extremely low, adjusting the rate again no longer makes sense. We agreed that we will instead move to calculating task prices in AGIX.  This means that the payment for tasks in real terms will be very low - but if prices do rise, then payees will benefit (as long as they have been able to hold their AGIX, rather than offramping immediately). But if people feel that the payments are now too low in real terms for it to be worth them completting tasks that are assigned to them, this is understandable.  The admin team have already elected to take their Q4 payment in advance . Other contributors were asked via Discord last week to indicate their preferred option directly on their GitHub issue - to be paid immediately the task is completed; to wait until the end of the Quarter for payment; or to not complete the task. If they choose not to complete the task, we will try to leave it assigned to them and carry over to next Quarter when hopefully token price will be better - though this does depend on budget decisions for Q1 2026 and whether or not the WG is still doing the task in question.  #### Outstanding tasks from earlier Quarters • A few older transcription tasks remain, including reassigned items from past quarters. • Merry is assisting with transcript checking, so that we can get this completed faster • All task-specific updates will be managed on the GitHub board.  #### Interviewing & Transcription Tasks (Q4): • Interview and transcription task updates were shared (see GitHub board for details) - most people have elected to continue with tasks and are on track to meet deadlines, but a few have asked for the task to be carried over to next Quarter  #### Interview coding session: • A short introductory session on interview coding, led by Esther, is scheduled for 3rd December. This will be a simple walkthrough on identifying themes, tags, and patterns in interview transcripts.  #### 'Hearing the Silenced Voices':  BGI Nexus Ideation Round The WG admin team have submitted a proposal to the current BGI-Nexus ideation round, drawing on the WG's experiences of researching with the public in Africa, and focusing on AI-supported interviewer training for marginalized communities. It aims to help local interviewers engage with their own demographic groups. If successful, the proposal will eventually lead to the creation of an RFP for solutions to address the issue of training interviewers from marginalised communities, to which WG members will be able to submit proposals.",
+        "actionItems": [
+          {
+            "text": "Sucre to update GitHub links and oversee payments",
+            "status": "todo",
+            "assignee": "Sucre n Spice",
+            "dueDate": "14 November 2025"
+          },
+          {
+            "text": "Love to follow up with clement, Maxmillez and advanceameyaw regarding task status",
+            "status": "todo",
+            "assignee": "love",
+            "dueDate": "14 November 2025"
+          },
+          {
+            "text": "All memebers to update their GitHub issues with payment choice and completion status",
+            "status": "todo",
+            "dueDate": "14 November 2025",
+            "assignee": "all"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "All Q4 tasks will now be priced in AGIX, not USD. AGIX equivalents of the agreed USD prices will be calculated at an assumed exchange rate of $0.23 (the rate that we calculated our budget at when we did a round of budget fitting in October).",
+            "rationale": "Low Token price."
+          },
+          {
+            "decision": "People with tasks assigned to them can decide whether to proceed with their tasks or not. They should note their preference in their GitHub Issue",
+            "rationale": "Tne AGIX prices for tasks have been calculated according to the AGIX equivalent of the USD prices that were set at the start of the Quarter, which were based on an AGIX price of $0.23. Since price is now much lower, this may mean that payments for tasks are very low in real terms"
+          },
+          {
+            "decision": "Interview tasks not completed by 3the 1st October deadline are being either reassigned, given a revised deadline of 14th Nov, or moved back to to-do if the assignee prefers not to complete them at the current low payment rate."
+          }
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "task management, AI Ethics MOOC initiative, Q4 2025 budget adjustment, AGIX budgeting, low token price, AI Ethics MOOC Study group, BGI Nexus Ideation Round, Deepfunding RFP ideation, interview coding",
+      "emotions": "Collaborative, practical,  Understanding., Friendly,  forward-thinking"
+    }
+  },
+  {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2025-12-01",
+      "host": "CallyFromAuron",
+      "documenter": "UKnowZork, CallyFromAuron",
+      "peoplePresent": "CallyFromAuron, UKnowZork, PeterE, CollyPride, Alfred Itodele, Jeffrey Ndarake, esewilliams, Gorga Siagian, LadyTempestt, Rems",
+      "purpose": "Monthly meeting of the AI-Ethics Workgroup",
+      "workingDocs": [
+        {
+          "title": "AI Ethics WorkGroup Github board",
+          "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2"
+        },
+        {
+          "title": "AI Ethics Q4 2025 workgroup report",
+          "link": "https://docs.google.com/document/d/12N-nSKCE-tfjvjqPH1q3BLIawI9V8WdOQJ_BuVqAiBo/edit?usp=sharing"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing",
+          "title": "Ambassador Program restructure: collated responses"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing",
+          "title": "How would YOU restructure the Ambassador Program?"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "#### End Of Year Report The Program's end-of-year report for 2025 will be drawn from WGs' mini Q4 impact statements; we reviewed our WG's report in the Governance dashboard. Colleen suggested adding a note about the  MOOC study group on AI ethics being pushed to January, and Vani agreed pending the fixes to the Governance Dashboard editor (at present, in order to make an edit, you have to re-input the entire report).   #### Ambassador Programme Restructure Vani updated the group on the planned restructuring of the Ambassador Program, as discussed in the workgroup sync call earlier today. Governance WG is collecting community input via two open documents: One with structured prompts https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing One fully open for any redesign ideas (small improvements or radical proposals) https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing  We discussed ideas for the restructure from the perspective of this WG.  Colleen suggested increasing support for builders, possibly combining R&D and AI Sandbox/Think Tank to focus on that, and developing a structured onboarding process for new builders.   Peter pointed out that we have 'builder-related' focus in several WGs - while it's good for different groups to be building, there might be overlaps that could be brought together.   Vani suggested a more quarter-by-quarter, project-based approach for WGs to define what they are building each Quarter so we can see where the overlaps are, but we wouldn't necessarily want them to merge - the diversity of approach have been useful so far. On the question of *what* we build - she suggested we should focus on using the ASI tech stack, and on building a) governance tools for decentralised communities, and b) building governance and ethical processes and methodologies, and embedding AI ethics and decentralised governance into what we build, because governance is one of our strengths. Similar to the approach LatAm are already using - they build on the ASI tech stack, then they promote and publicise what they built; 'ambassadorship' means promoting use of sNET's technology.  We discussed how our ethics discussions might overlap with Sandbox/Think Tank  Should this workgroup's main activity continue to be supporting the BGI Nexus research project? Or are there other things we should do? If the focus of the Ambassador Program shifts more towards building, how do we ensure ethical considerations are embedded in that? and engage more directly with builders and asking 'What are the ethical issues raised by what you are building?' Colleen would like to continue faciliating community discussions on ethics, as she has done before, but (based on dicussions with Dr Mihaela Ulieru) with more of a focus on baking in foundational principles for builders and developers, and living, dynamic moral generator functions.  We could also work to inform and educate the general public on what this technology can do, and what the social and ethical implications of it are. Insights from interviewing can feed into this crystallising of ethical and social meaning of the technology - 2 way process of sense-making - the public tells us how they see the technology, and we tell them how we see it?   Vani and Esther have discussed the idea of this WG moving some of its function away from the Ambassador Program, and at least partly being more directly part of BGI -Nexus, and funded by them. It's not out of the question, and could have some advantages, but a) it would be heavily dependent on token price as to whether BGI Nexus could afford it, and b) it might affect our independence/autonomy if we were completely part of BGI Nexus? It would be good to retain some kind of ethics WG in the program.  Another possibility that has been discussed in the past could be a direct funding pipeline from BGI Nexus for small ethics-related projects.   #### Interview coding session The training session on interview coding that was planned for December 3rd has been rescheduled to January because Esther is very busy at the moment.   #### BGI-25 Virtual Unconference progress:  Treasury has already sent out payments! Much speedier than payments for previous work funded direct from the Foundation - thanks to Esther and Peter for their work on expediting it  The short videos prepared by Video WG from the BGI sessions will be uploaded to SNET's YouTube, and the full-length videos of the breakout rooms will be on the Ambassador Program YouTube channel. Esther and Vani plan to meet on hursday with Pam from the Foundation's marketing team to organise this; and Peter will be able to help with ensuring material is shared.   #### Task updates We reviewed the transcription and interview tasks on the Github board: Several tasks, particularly transcription, are uncompleted - people elected not to complete them because, after our decision last month to calculate task prices in AGIX, the pay for the task is so much lower than it was due to low token price. Alfred shared (with humor) that his transcription almost defeated him, but guilt wouldn't let him quit, and he will finish them later today. We agreed that any task not wrapped up by tomorrow will shift into Q1 2026, provided it still fits the project's planned work. Vani's pending transcript-checking tasks, especially for last Quarter, are still pending because there isn't the money to pay them so they aren't a priority - but she will aim to complete them as soon as possible.   #### Budget & payments Payments for those who wanted to be paid immediately on task completion have already been processed. Those who opted to be paid at the end of the Quarter will be paid this Thursday (final Treasury payment day).  Going into Q1, we agreed that we will continue calculating task prices in AGIX, to avoid the need for constant budget-fitting and rethinking while token price is so volatile. We acknowledged that this is not ideal, as it shifts the burden/risk of token price fluctuations to the individual rather than the Program; but with price so low at present (around $0.09) there's no alternative.   #### Priorities and budget for Q1 2026 There is no biudget consent process for Q1, to keep admin overheads down at a time of very low token price. So we will have the same budget cap as this Quarter, and the admin team will see how things are in January and decide how much work we can afford to do. But today, we discussed what the prioroties should be in Q1.  Love noted that we should focus on clearing the transcription backlog instead of doing more interviewing, so that we have more completed interview material that can be coded and analysed. Everyone agreed that this was the most realistic direction.  Alfred raised that transcription is difficult and currently undercompensated, and takes far longer than expected. We all acknowledged that payment for ttranscription needs to be higher in Q1, despite low token price.  Zork suggested adjusting payments to track the token price, but Vani noted fairness concerns that if people are doing the same work, they may end up being paid differently depending on timing   #### Kickoff session for BGI Nexus Working Groups Peter reminded everyone that the first BGI-Nexus working groups session will take place tomorrow, 2nd December, and is open to all. This is the start of BGI Nexus's project to create open working groups to progress their work on various aspects of AI ethics, governance and safety. There will be breakout rooms on: - AGI for Human Flourishing / Nurturing & Governing AGI - The Consciousness Revolution - Proactionary vs Precautionary Approaches to AGI",
+        "actionItems": [
+          {
+            "text": "Vani to update the end of the year report on the dashboard once it gets fixed.",
+            "status": "in progress",
+            "assignee": "CallyFromAuron",
+            "dueDate": "16 December 2025"
+          },
+          {
+            "text": "All members contribute to governance restructure documents.",
+            "status": "in progress",
+            "dueDate": "16 December 2025",
+            "assignee": "all"
+          },
+          {
+            "text": "Vani, Esther and Peter to coordinate with Pam's team on BGI video publishing.",
+            "status": "in progress",
+            "assignee": "CallyFromAuron, EstherG, PeterE",
+            "dueDate": "4 December 2025"
+          },
+          {
+            "text": "WG Admin team to come to the January 2026 meeting with a suggestion on how we wil;l spend Q1 budget, and to price transcription a bit higher",
+            "status": "todo",
+            "assignee": "CallyFromAuron, Sucre n Spice, LadyTempestt",
+            "dueDate": "12 January 2026"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to focus on transcription in Q1 2026",
+            "rationale": "because unfinished transcripts from previous quarters are piling up and slowing down our research workflow. Clearing the backlog means we can move to focusing on coding and analysis of the completed and transcribed interviews."
+          },
+          {
+            "decision": "Incomplete Q4 transcription and transcript checking tasks will roll over into Q1. Uncompleted interview tasks - it will depend on whether we have budget to do any nrew interviewing in Q1."
+          },
+          {
+            "decision": "Tasks will continue to be priced in AGIX for Q1 due to the drop in token price.",
+            "rationale": "to avoid the constant recalculation and budget fitting that is nbeeded if we price tasks iun USD and then toekn price changes."
+          },
+          {
+            "decision": "We agreed that the current price for transcription tasks is too low. While we probably cannot afford to match the price of $35 we have used in previous Quarters, it should be higher in Q1 than it is now.",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "Because transcription is a time-consuming task, and the current low price is making it hardly worth it for people to do."
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "MOOC study group, interview transcription, interviews, Q4 2025 quarterly report, transcription backlog, low token price, AGIX budgeting, Ambassador Program restructure, BGI Nexus, BGI Nexus working groups, Governance Dashboard, BGI-25 Virtual Unconference, Q1 2026 priorities, builders, builder onboarding, developer support, ASI stack, decentralized governance tooling, governance methodologies, embedding AI ethics, ambassadorship, LatAm Guild, Dr Mihaela Ulieru",
+      "emotions": "collaborative, deliberative, forward-looking., wide-ranging"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Think-Tank",
+      "date": "2025-01-30",
+      "host": "LordKizzy",
+      "documenter": "Kateri",
+      "peoplePresent": "AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Malik, osmium, LordKizzy, Kateri",
+      "purpose": "AI open discussion",
+      "workingDocs": [
+        {
+          "title": "Blueprint for AI sandbox/Think tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "Presentation Template",
+          "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        {
+          "title": "Third Sandbox Presentation",
+          "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },
+        {
+          "title": "Agenda Items AI Sandbox/Think Tank",
+          "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+        },
+        {
+          "title": "Iteration Form",
+          "link": "https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Kateri to mentor Ashley",
+            "assignee": "AshleyDawn, Kateri",
+            "dueDate": "30 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Gorga to document next sandbox meeting",
+            "assignee": "Gorga Siagian",
+            "dueDate": "6 February 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Lord kizzy, Vasu and Malik to represent us at strategy guild workshop",
+            "dueDate": "28 February 2025",
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided hold on any payment for now",
+            "rationale": "Because AGIX is low and it will significantly affect our budget",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone a",
+          "Strategy guild representation selection: Strategy guild is hosting a workshop and needs representatives from AI sand, so Vasu, LordKizzy and Malik agreed to represent the workgroup.",
+          "Collaboration with education on Expert-Led workshops: Lord kizzy  noted that education is organizing webinar series in relation to expert-led workshops and so we want to collaborate with them.  Vasu noted that the Expert led is a deep drive into the project, which aim to leverage expertise into Singularitynet to educate and inspire the community. He went further and said the workshop will feature presentations, case studies, modules delivered by experts which will help provide participants with in depth insights into AI applications, emerging trends and innovative solutions. Purpose is to encourage collaboration and partnership.",
+          "Open discussion:  Ethical and regulatory issues and how researchers based AI could be going to prevent misuse? Peter stated that being centralized is being governed by single body and so could use AI for different application and sometimes it's not properly governed which could cause harm. Ashley stated that establishing government work can help prevent the misuse of the centralized AI because the most complied to the existing regulations and such as data protection and privacy laws.  Security and trust, how can decentralized AI ensure secured data, transmission, and storage to prevent data breaches? Vasu stated that some of the companies have some biases upon trust and it has become a trust issue and not a security issue.  How can AI models improve without centralizing the data? Ashley stated that using secured aggregation techniques such as combining data from multiple source in which ensure confidentiality of the data. It will ensure secure data transmission and storage.  Will decentralized AI become the mainstream or will centralized AI always dominate? Peter said that is a believer in decentralized AI compared to centralized. But if people are using something they don't care about centralized vs decentralized, they just care about using it."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Expert-led workshop, AI open discussion , AI regulation, Decentralized AI, Education Guild",
+      "emotions": "welcoming, informative, interactive, educational"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Sandbox",
+      "date": "2025-02-06",
+      "host": "LordKizzy",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Malik, osmium, Kateri, guillermolucero",
+      "purpose": "AI TOOLSET EXHIBITION: Spotter Studio",
+      "workingDocs": [
+        {
+          "title": "Blueprint for AI sandbox/Think tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "Third Sandbox Presentation",
+          "link": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },
+        {
+          "title": "Agenda Items AI Sandbox/Think Tank",
+          "link": "https://docs.google.com/document/d/1ot2TBgCfUt3HGYoMPTFgqamBRNdiodaBA1A8yKhC_Ng/edit?tab=t.0"
+        },
+        {
+          "title": "Iteration Form",
+          "link": "https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1"
+        },
+        {
+          "title": "Presentation Template",
+          "link": "https://www.canva.com/design/DAGdA7i0tfc/eUjBwtDT1RwZoIHbAKgxxQ/edit?utm_content=DAGdA7i0tfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        },
+        {
+          "title": "Rountable",
+          "link": "https://docs.google.com/document/d/1OUzMzydBfKSkZSMNKTHUg-4etyMpsWJUdQgVcGoHFv8/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Santos to Document next AI Think Thank Session",
+            "assignee": "Santos",
+            "dueDate": "30 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Create a poll in the discord channel to determine what format to use for the Think Thank Roundtable Session.",
+            "assignee": "LordKizzy",
+            "dueDate": "6 February 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Reach out to the Graphics Team and Social media Team of X SNET Program Ambassadors to create graphics and publish to social media for next week's Think Thank RoundTable Session.",
+            "dueDate": "28 February 2025",
+            "status": "todo",
+            "assignee": "LordKizzy"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided hold on any payment for now",
+            "rationale": "Because AGIX is low and it will significantly affect our budget",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We agree that the selection of the debate structure to be conducted next week is determined by the most polls shared in the discord channel.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Agree to create graphics for next week's Debate Rountable and share them on social media X SingularityNET Ambassador Program",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone, and Osmium gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program.",
+          "Showcasing the second presentation of the exhibition made by Osmium Spotter Studio: Spotter Studio is a comprehensive platform designed to enhance content creators' workflows by providing advanced analytics, performance tracking, and content optimization tools. With Spotter Studio, users can better understand their audience's engagement patterns, monetize their content effectively, and create data-driven strategies to maximize their reach and revenue.  https://www.canva.com/design/DAGdA7i0tfc/eUjBwtDT1RwZoIHbAKgxxQ/edit  -  a) Overview of the toolset [Detailed Description and Use Cases]  b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart]  c) Demonstration [live demo or tutorial/ video walkthrough]  d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]",
+          "Questions were asked and clarity was made on the tool",
+          "Glimpse of What the upcoming session of AI Roundtable in Think Tank is going to be like by Lordkizzy on this Roundtable: The AI Roundtable and Think Tank sessions are designed to create an interactive environment where participants can share diverse perspectives on artificial intelligence (AI) topics. The discussions focus on exploring ethical dilemmas, technical challenges, and the broader implications of AI on society. The goal is to foster critical thinking, collaborative ideation, and open discussions without the pressure of competition.  Discussion Goals:   - To examine the societal, economic, and cultural impacts of artificial intelligence and machine learning.  - To debate emerging frameworks and ethical dilemmas surrounding AI technologies and their applications.  - To encourage innovation and critical thinking through diverse perspectives and collaborative discussions.  Proposed Discussion Structures:  - Panel Debate:     a. Two teams (proposition and opposition) engage in a structured discussion on a specific AI-related topic.  Each team consists of two members who prepare arguments and counterarguments.     b. This format allows for in-depth intellectual exchanges and encourages participants to explore different perspectives on the topic.  - Breakout Discussions:     a. Larger groups are divided into smaller teams to discuss the same topic from the proposition and opposition sides.     b. This setup promotes open collaboration and critical thinking within smaller groups before reconvening for a collective discussion.  Debate Structure and Format:   a. Panel Debate: Two teams, each consisting of two members, engage in a structured discussion where one side supports the topic and the other opposes it.  b. Breakout Discussions: Larger groups are divided into smaller teams, with each team representing either the proposition or the opposition side, fostering collaboration and idea development before joining a larger collective discussion.  The debate structure selection will be determined through a poll that will be created on the Discord Channel.  No Winners or Losers: The focus is on learning and understanding diverse perspectives rather than competition.The format promotes open dialogue and collaboration, providing a safe space for sharing ideas and critical thinking.It aims to deepen understanding of complex issues through collective brainstorming and discussions, enhancing learning outcomes for all participants.  Knowledge-Based Graph for Documentation: Knowledge-based graphs will be created to capture key insights and arguments from the discussions. These graphs will help document and structure the discussions, making it easier to retrieve information and understand complex topics.The graphs will also support collaborative learning by documenting diverse perspectives and facilitating knowledge sharing among participants.  Reports Shared with the Community: Reports will be compiled from the discussions, offering structured analysis of the key arguments and insights shared during the sessions. These reports will be accessible through a centralized platform, ensuring transparency and fostering ongoing engagement within the community for future reference."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "AI TOOLSET EXHIBITION, Spotter Studio, Think Thank RoundTable Session",
+      "emotions": "welcoming, informative, interactive, educational"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Think-Tank",
+      "date": "2025-02-13",
+      "host": "LordKizzy",
+      "documenter": "Santos",
+      "peoplePresent": "AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Kateri, LordKizzy, AJ, CollyPride, Jocko wdd, Duke, Evelyn, osmium",
+      "purpose": "AI Roundtable Discussion/Debate:Open source and closed source AI models",
+      "workingDocs": [
+        {
+          "title": "AI SANDBOX/ THINK-TANK#16",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/10STkqa6z7OQWmn888h02BBdKR_dVxqe9uIXDz3TcOfQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784514%26amp;usg%3DAOvVaw3GDzjtl2RRVCAciMBnlmwD&sa=D&source=docs&ust=1740362130790336&usg=AOvVaw2pIHParbdXMAogcvWmXcAE"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp%253Ddialog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784726%26amp;usg%3DAOvVaw2s9f7zvnRdmBW2rVa6lQSK&sa=D&source=docs&ust=1740362130790448&usg=AOvVaw1tPFSE0GTMqimnouU0emwC"
+        },
+        {
+          "title": "BLUEPRINT FOR AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784893%26amp;usg%3DAOvVaw1XZwJAL7eqrS2u5So0og3-&sa=D&source=docs&ust=1740362130790523&usg=AOvVaw19yfA7ArsUr420sewCulZ2"
+        },
+        {
+          "title": "ROADMAP OF AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785093%26amp;usg%3DAOvVaw1sQMy0FMqryaOf43syuRD-&sa=D&source=docs&ust=1740362130790604&usg=AOvVaw2fiFWCOaiphVlTiQ9Lk6Zl"
+        },
+        {
+          "title": "AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785317%26amp;usg%3DAOvVaw2Ehnb2otJ4ECrwa6Mp2Iwa&sa=D&source=docs&ust=1740362130790669&usg=AOvVaw3C1etC0PltWOiJibKOmNXF"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "LordKizzy is to contact Malik about presenting on the next AI sandbox meeting",
+            "dueDate": "20 February 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Malik is to present the next AI tool exhibition",
+            "dueDate": "20 February 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Malik  [due] 20th February 2025[status] to do - [action]  Advanceameyaw is to document the  next meeting",
+            "dueDate": "20 February 2025",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introduction: The meeting kicked off with lordkizzy going over the agenda of the meeting and he introduced the breaker session.",
+          "Think pieces: Participants were urged to share their opinions on AI related topics anonymously on the think piece.",
+          "AI think Tank (debate structure): The new breakout session was introduced with everyone having to choose, each either in favor of open source or closed source AI model  which lasted 20[mins]. This allowed members of each breakout to discuss their points and also pick their representative.",
+          "AI Roundtable Discussion: We debated Open source vs Closed source AI Models with each AI model having its pros and cons. We narrowed our debate down to these key points; - Innovation: We discussed which AI model drives more innovation with representatives giving their beliefs as well as their reasons. - Security: The representatives from each side gave their views on what model seems to be more secure. -Economic and Ethical Implications: Each representative stated their thoughts on the implications of each AI model on ethical and economic aspects with both representatives giving their reasons. -Real-World Examples: Real world examples were used as well where representatives stated not just the success stories but also the failures as well. -Future of Technology: The future of technology was also debated on with each representative trying to prove which could lead the future of technology"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Open source, Closed source, AI Models",
+      "emotions": "Interactive, Educative, Productive, Welcoming"
+    }
   }
 ]
