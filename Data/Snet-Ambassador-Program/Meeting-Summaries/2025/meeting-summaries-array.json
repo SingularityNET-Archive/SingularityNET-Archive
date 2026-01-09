@@ -11031,5 +11031,752 @@
       "topicsCovered": "Open source, Closed source, AI Models",
       "emotions": "Interactive, Educative, Productive, Welcoming"
     }
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-02-20",
+      "host": "osmium",
+      "documenter": "advanceameyaw",
+      "peoplePresent": "LordKizzy, Gorga, Kateri, martinsoki, Effiom, Clement Umoh, Santos, Osmium, advanceameyaw",
+      "purpose": "AI TOOLSET EXHIBITION",
+      "mediaLink": "Platform link: https://audioread.com/   Video demo: https://www.youtube.com/watch?v=MVcS_jpdJPk",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing",
+          "title": "Blueprint for AI sandbox/Think tank"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "Presentation Template",
+          "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        {
+          "title": "Agenda Items AI Sandbox/Think Tank",
+          "link": "https://www.canva.com/design/DAGfnJj49tM/8VsHIyWkNxl9Fqv0gzxdFA/edit"
+        },
+        {
+          "title": "Iteration Form",
+          "link": "https://docs.google.com/forms/d/1JgatonAmY27QNYv9aSV-TiykAFR0oIUfbKJ8LWtwPKc/edit?chromeless=1"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallUpdates": "",
+        "actionItems": [
+          {
+            "status": "done",
+            "text": "advanceameyaw to document meeting",
+            "assignee": "advanceameyaw",
+            "dueDate": "27 February 2025"
+          },
+          {
+            "text": "publishing the roundtable session video and retrospective sessions",
+            "status": "todo",
+            "assignee": "LordKizzy, osmium",
+            "dueDate": "13 March 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to try the breakout session for the panel debate again next time to measure its impact",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introductions:The call started with a welcoming conversation and  retrospection on AI toolset exhibition, budget and AGIX performance were mentioned. - Kizzy drew our attention to the fact that we have to start looking into possible adoption and  testing of some the tools that have been presented, eg.,  erazer.io, podcast.ai and LM notetaker. - Osmium walked us through the overview and importance of  AI toolset exhibition.  - The meeting continued with Gorga finally presenting on  Audioread.",
+          "-Overview of the toolset: Audioread converts articles, PDFs, text, and emails into audio, allowing you to listen via your favorite podcast app or browser for more efficient content.  - Architecture and Technology Stack: Audioread's system includes a Chrome extension and mobile apps for access, AI-powered TTS for text and PDF conversion, and API integrations for seamless podcast syncing and sharing.  -Outcome Report or Results and Impact:Audioread boosts productivity with 90% user satisfaction, fast 10-15s conversions, 98% accuracy, helping professionals and students save time with audio content. -Presentation was concluded with questions and comments concerning opensource projects within the context of  the tool presented.",
+          "- Kizzy highlighted on our next session plan, AI Sandbox & Project Showcase presentation by the NuNet core team on onboarding a device to NuNet. - Some concerns  and challenges concerning our breakout panel debate session were raised, and we discussed on how we can  do better  next time."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Audioread, architecture and technology, nunet, breakout panel debate, productivity.",
+      "emotions": "Informative, interactive, educational"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Sandbox",
+      "date": "2025-02-27",
+      "host": "LordKizzy",
+      "documenter": "martinsoki",
+      "peoplePresent": "AshleyDawn, Gorga Siagian, advanceameyaw, martinsoki, PeterE, Santos, Kateri, LordKizzy, Samski NuNet, Jennifer Bourke, Bube Amadi, Andrew Ben, Zar, Hogan Robert, Emmanuel Grandison Adu-Gyamfi, Zalfred, Clement Umoh, CollyPride, osmium",
+      "workingDocs": [
+        {
+          "title": "AI SANDBOX/ THINK-TANK#16",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/10STkqa6z7OQWmn888h02BBdKR_dVxqe9uIXDz3TcOfQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784514%26amp;usg%3DAOvVaw3GDzjtl2RRVCAciMBnlmwD&sa=D&source=docs&ust=1740362130790336&usg=AOvVaw2pIHParbdXMAogcvWmXcAE"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp%253Ddialog%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784726%26amp;usg%3DAOvVaw2s9f7zvnRdmBW2rVa6lQSK&sa=D&source=docs&ust=1740362130790448&usg=AOvVaw1tPFSE0GTMqimnouU0emwC"
+        },
+        {
+          "title": "BLUEPRINT FOR AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130784893%26amp;usg%3DAOvVaw1XZwJAL7eqrS2u5So0og3-&sa=D&source=docs&ust=1740362130790523&usg=AOvVaw19yfA7ArsUr420sewCulZ2"
+        },
+        {
+          "title": "ROADMAP OF AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785093%26amp;usg%3DAOvVaw1sQMy0FMqryaOf43syuRD-&sa=D&source=docs&ust=1740362130790604&usg=AOvVaw2fiFWCOaiphVlTiQ9Lk6Zl"
+        },
+        {
+          "title": "AI SANDBOX/ THINK-TANK",
+          "link": "https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp%253Dsharing%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1740362130785317%26amp;usg%3DAOvVaw2Ehnb2otJ4ECrwa6Mp2Iwa&sa=D&source=docs&ust=1740362130790669&usg=AOvVaw3C1etC0PltWOiJibKOmNXF"
+        },
+        {
+          "title": "NuNet 🌐 (@nunet_global) on X",
+          "link": "https://x.com/nunet_global/status/1895666442407985168?t=NfWBoZVKShjyaRqC3si86g&s=33"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "LordKizzy is to contact Malik about presenting on the next AI sandbox meeting",
+            "dueDate": "17 February 2025",
+            "status": "todo",
+            "assignee": "LordKizzy"
+          },
+          {
+            "text": "Malik is to present the next AI tool exhibition",
+            "dueDate": "20 February 2025",
+            "status": "todo",
+            "assignee": "Malik"
+          },
+          {
+            "text": "Advanceameyaw is to document the  next meeting",
+            "dueDate": "20 February 2025",
+            "status": "todo",
+            "assignee": "advanceameyaw"
+          }
+        ],
+        "discussionPoints": [
+          "The meeting took off by LordKizzy welcoming everyone present.",
+          "The discussion centered on the decentralized platform NUNET, my name is Jennifer and I am the marketing community leader here at NUNET. NUNET is a open source decentralized platform that's designed to create globally accessible and democratized network for computing power. likening its operation to Uber in how it matches supply and demand for computing tasks. NuNet optimizes the allocation of computational tasks across a peer-to-peer network, which eliminates bottlenecks and hopefully will reduce costs as well. So NUNET was designed to address the limitations of centralized cloud infrastructure, which is often expensive, restrictive, and controlled by a few large providers or players in the space. The orchestration layer of NUNET efficiently assigns workloads to devices, while blockchain technology ensures secure micro-payments, providing a flexible alternative to traditional cloud services, particularly beneficial for AI and IoT applications.",
+          "Samski explained the structural differences between NUNET decentralized public cloud infrastructure and centralized public cloud infrastructure systems such as AWS Google, etcetera, they basically have private data centers with very specific hardware, operating systems and everything that runs on top of that is containerized or virtualized. He emphasized that NUNET allows for community-run data centers and operates on a peer-to-peer network, which contrasts with the centralized management and orchestration systems. Additionally, he noted the integration of blockchain technology for payment and security, further enhancing the decentralized nature of NUNET. He also discussed the complexities of the existing command-line interface for the Decentralized Management System (DMS) and the development of a more user-friendly appliance that integrates best practices for operating systems and security, which can be deployed on various hardware.",
+          "Overview of DMS and Appliance Development Samski explained that the DMS currently operates primarily through a command-line interface, which can be a barrier for users not accustomed to such environments. He detailed the functionalities, including workload specifications and deployment options, and emphasized the intention to develop an appliance that simplifies the user experience. This appliance will bundle essential utilities and security measures to enhance the management and monitoring of devices.",
+          "Installation and Configuration of NUNET Appliance on Windows Samski led a demonstration on installing the NUNET appliance on Windows, emphasizing the need to extract files and run the installer with administrative privileges. He addressed a question from Peter regarding Multipass defaulting to a drive with insufficient space, suggesting a solution involving creating a mount point. Vasu recommended using a Google Drive link for sharing the installation files. Samski provided an overview of the NUNET virtual appliance installation, showcasing the MultiPass GUI as a user-friendly interface. He detailed how users can manage the appliance through a shortcut that displays its status and allows for operations like starting and stopping. Additionally, he mentioned the installation of Docker and DMS, emphasizing the importance of obtaining a peer ID for network connectivity.",
+          "Overview of Decentralized Encryption and Network Capabilities In the demonstration, Samski showcased the process of joining the NUNET testnet and utilizing the Wormhole encryption tool to send and receive decentralized identifiers (DIDs). He highlighted the ability for users to authorize each other and bid on deployments while ensuring that only trusted organizations can run deployments on the network. This approach aims to maintain order and build trust within the community as the network develops.",
+          "LordKizzy said a big thank you to the NUNET team, on behalf of the ambassador program, and also AI Sandbox community. So thank you for your valuable insights and basically educating us. And yeah, he would also love to have you guys on more of our sessions. Where we can look at the applications and also the use cases. LordKizzy raised questions for a feedback form where by members can write their issues faced while test running the application. Samski said there's an application form to join the NUNET program where by doing that, you can submit your DID and then join the NUNET organization. And as part of that whole process, there's a whole kind of support process around that. I think there's a blog post, if it's not going out today, then it's going out on Monday. There's a bunch of onboarding videos that basically goes through what I've just shown you here for Windows, Linux and Mac."
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "Interactive, Educative, Productive, Welcoming",
+      "topicsCovered": "NuNet Town Hall, Nunet, decentralized encryption, decentralized public cloud infrastructure"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Sandbox",
+      "date": "2025-03-06",
+      "host": "LordKizzy",
+      "documenter": "Gorga Siagian",
+      "peoplePresent": "LordKizzy, AshleyDawn, Gorga Siagian, advanceameyaw, Santos, CollyPride, martinsoki, PeterE, Maximus, Kateri, osmium, Alfred Itodele",
+      "purpose": "AI Roundtable Discussion/Debate:Open source and closed source AI models",
+      "workingDocs": [
+        {
+          "title": "AI SANDBOX/THINK-TANK Session #19",
+          "link": "https://docs.google.com/document/d/1vUW3rIxBKlLqHID-vleANpIVo3foXXD5FGanxNaAJbU/edit?tab=t.0"
+        },
+        {
+          "title": "NuNet Application Form",
+          "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+        },
+        {
+          "title": "Approval Form to Join Organisation(s) and approval for the Wormhole Key",
+          "link": "https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true"
+        },
+        {
+          "title": "Blueprint for AI Sandbox/ Think Tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK FORM",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+        },
+        {
+          "title": "AI SANDBOX/THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Kateri Documenting for the next session",
+            "assignee": "Kateri",
+            "dueDate": "13 March 2025"
+          },
+          {
+            "text": "Lord Kizzy Share the template for AI project showcase with Alfred",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "13 March 2025"
+          },
+          {
+            "text": "Lord Kizzy Pin  the Nunet Application onboarding form on the WG's Discord channel",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "13 March 2025"
+          },
+          {
+            "text": "Kateri create a documenting and facilitation roster for Q2 2025",
+            "status": "todo",
+            "assignee": "Kateri",
+            "dueDate": "27 March 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Next week's meeting will focus on recognizing and discussing Nunet application challenges and issues.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Members agreed that the budget allocation for Q2 will be reduced by 45% from the previous budget and that the payment for Q1 will be paid if the $AGIX token price rises.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introduction: The meeting kicked off with lordkizzy going over the agenda of the meeting and he introduced the breaker session.",
+          "Showing the Nunet Application Onboarding Form, Approval Form to Join Organisation(s), and approval for the Wormhole Key and how to install the Nunet Application.",
+          "Discussed for Retrospective on the previous Project Showcase session, announcement on the continuation of the Project Showcase session with Nunet session led by the Nunet team- Sam, Jeniffer, Bube [10min] Any Doubts or Queries about the NuNet setup. Folks can ask through the Think Pieces Forms. We have explained the installation process and requirements. Installation requires a compatible operating system such as Windows, Mac, or Linux. Users must provide their email and location for network purposes during the installation. Technical expertise is assessed on a scale of one to five to tailor user support and guidance.",
+          "Budget Discussion  and ideation led by Lord Kizzy and Budget Allocation for Q2.Budget cuts announced for Q2, reducing allocations by 45%. Budget cuts for Q2 will result in a 45% reduction in allocations across various categories.All tasks within the AI Sandbox will experience budget cuts, including administrative and project management expenses. AI exhibition rewards reduced to $25 per session. Project showcase rewards reduced to $40 per session. The decision aims to ensure financial sustainability and manage resources effectively amidst current economic challenges.",
+          "Clarified that Q1 2025 budget remains unchanged, reductions apply to Q2. Q1 budget remains unchanged, ensuring all allocated funds for this quarter are intact. Reductions in budget allocations will take effect starting Q2, impacting various project areas. Explained delay in paying out tasks due to token price. The payout for tasks is currently delayed due to the low token price. The team is unable to distribute rewards until the token price increases.Once the token price rises, the rewards will be processed and distributed to members.",
+          "Discussed roster for documenting and facilitating in Q2. The roster for documenting and facilitating in Q2 will include:Members must attend three consecutive meetings or five within the quarter to become eligible for task assignments.Documentation tasks will be open to all members, with mentorship available for those needing guidance. The project showcase will require completed projects under the Singularity Net ecosystem for presentation."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget Allocation, Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, low token price, Documentation Roster",
+      "emotions": "Welcoming, Interactive, Informative, Educative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Think-Tank",
+      "date": "2025-03-13",
+      "host": "LordKizzy",
+      "documenter": "Kateri",
+      "peoplePresent": "LordKizzy, AshleyDawn, Gorga Siagian, Santos, CollyPride, PeterE, Maximus, Kateri, TheFreysDeFi",
+      "purpose": "Feedback on Nunet application",
+      "workingDocs": [
+        {
+          "title": "AI SANDBOX/THINK-TANK Session #19",
+          "link": "https://docs.google.com/document/d/1vUW3rIxBKlLqHID-vleANpIVo3foXXD5FGanxNaAJbU/edit?tab=t.0"
+        },
+        {
+          "title": "NuNet Application Form",
+          "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+        },
+        {
+          "title": "Approval Form to Join Organisation(s) and approval for the Wormhole Key",
+          "link": "https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true"
+        },
+        {
+          "title": "Blueprint for AI Sandbox/ Think Tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK FORM",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+        },
+        {
+          "title": "AI SANDBOX/THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Santos to document the next meeting summary",
+            "dueDate": "20 March 2025",
+            "assignee": "Santos"
+          },
+          {
+            "status": "todo",
+            "dueDate": "13 March 2025",
+            "text": "Members that were given feedback should follow up and apply it",
+            "assignee": "Santos, maximus, Gorga Siagian, AshleyDawn"
+          },
+          {
+            "text": "Lord Kizzy to reach out Santos to confirm his availability",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "13 March 2025"
+          },
+          {
+            "text": "Members must onboard the appliance before the next session.",
+            "status": "todo",
+            "assignee": "Member",
+            "dueDate": "20 March 2025"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introduction: The meeting kicked off with lordkizzy  asking for feedback on onboarding the Nunet applied on our devices and the onboarding form.",
+          "Live Testing & Feedback: Lordkizzy asked members about their experiences in onboarding the device and encouraged us all to test the features and give feedback. He also reminded to fill Nunet onboarding form. Members that didn't onboard the application were encouraged to onboard the appliance onto their devices before the next meeting.  Lord kizzy announced that every member that has any difficulty should ask questions on the channel.",
+          "Next Session: Lordkizzy noted that the next meeting will include Sam and the Nunet team, and also noted that additional features will be explored, and live demonstrations will take place.",
+          "Documenting next meeting: Santos is to document this next meeting summary."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Nunet, Project Showcase, Q1 2025 budget, Q2 2025 budget, Budget caps, Nunet live testing",
+      "emotions": "Welcoming, Interactive, Informative, Educative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-03-20",
+      "host": "LordKizzy",
+      "documenter": "Santos",
+      "peoplePresent": "Bube amadi, Duke, advanceameyaw, PeterE, martinsoki, AJ, Gorga Siagian, Kateri, osmium, CallyFromAuron, Jeffrey Ndarake, UKnowZork, Alfred Itodele",
+      "purpose": "Project Showcase; introducing the new NuNet appliance, presentation of the Project Showcase template, addressing Q2 2025 budget concerns",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit",
+          "title": "Blueprint for AI Sandbox/ Think Tank"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "AI SANDBOX/THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit"
+        },
+        {
+          "link": "https://docs.google.com/spreadsheets/d/1s6Uy3ZsPwAZUM094ENN3kqXugU5xUaZpxYdqfaDy7rk/edit",
+          "title": "Consent form, Q2 2025 budgets (Responses)"
+        },
+        {
+          "title": "AI SANDBOX/THINK-TANK #21",
+          "link": "https://docs.google.com/document/d/1qHxbS-pkfdJ11MrXW4tMzo3hPjvhnrkkIKnIECYZQxQ/edit"
+        },
+        {
+          "title": "Project Showcase Template",
+          "link": "https://www.canva.com/design/DAGhvDBgJXM/OjKNGRbXuaBR9kxHfZ6G5g/edit?utm_content=DAGhvDBgJXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Bube Amadi will share the link to download the new appliance with the team.",
+            "dueDate": "27 March 2025",
+            "assignee": "Bube amadi"
+          },
+          {
+            "text": "Lordkizzy will share the form in the chat for those who have not filled it out.",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "27 March 2025"
+          },
+          {
+            "text": "Martin will document next week's session.",
+            "status": "todo",
+            "assignee": "martinsoki",
+            "dueDate": "27 March 2025"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and introduction: Lordkizzy welcomed attendees, outlined the agenda, and emphasized the importance of community feedback in the Nunet appliance's development.",
+          "Project Showcase from NuNet: Following previous complaints regarding setting up the NuNet appliance, Vasu Madaan assured participants that most issues had been resolved in the upgraded appliance, which Bube Amadi would present in a concise format. Bube Amadi provided detailed updates on the appliance, highlighting significant improvements such as reduced installation time and enhanced user experience. The transition from multipass to VirtualBox was explained, with Bube demonstrating how to download and install VirtualBox, including guidance for different machine architectures. She showcased the appliance running in VirtualBox and discussed the simplified boot process, system resource adjustments, and the management of the DMS, encouraging participants to test the system and provide feedback.The presentation also covered the process for generating decentralized identities (DIDs) through wormhole code submission, with Bube explaining the approval process and the importance of keeping the terminal open during this time. She noted that users would receive notifications for updates without needing to uninstall previous versions, although those who used multipass would need to reinstall. Lordkizzy sought clarification on containerization and the public launch timeline, with Bube confirming that the appliance release had been delayed until the following day.",
+          "AI Sandbox Release Update: Bube Amadi confirmed that the appliance will be available for download tomorrow, addressing previous issues related to RAM allocation and multi-pass functionality. Lordkizzy shared the form link for those who have not filled it out and noted that the installation process using VirtualBox should now be smoother. She also mentioned that connectivity issues experienced by Goga have been resolved.",
+          "The structure and purpose of the Project Showcase template: Lordkizzy briefed the attendees on the project showcase, which includes sections for project introduction, architecture, use cases, and challenges. This initiative is designed to foster collaboration and knowledge sharing within the community.",
+          "Budget Objections and Clarifications: In response to objections about the Q2 2025 budget, Lordkizzy clarified that the task allocations are for different purposes and not repetitive. He detailed the project management tasks, which include coordination, feedback review, and documentation, asserting that these efforts justify the budget allocations."
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "Interactive, Productive,  insightful,  informative",
+      "topicsCovered": "showcase template, virtual box, system configuration, resourse management, Ensemble functionality, Testnet, wormhole code, Appliance, installation, Nunet, Q2 2025 budget"
+    }
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Sandbox",
+      "date": "2025-03-27",
+      "host": "osmium",
+      "documenter": "martinsoki",
+      "peoplePresent": "Gorga Siagian, Kateri, osmium, advanceameyaw, Jeffrey Ndarake, martinsoki, UknowZork, Éveline Trinité, Alfred Itodole, Santos, LordKizzy",
+      "purpose": "AI tools and projects: ASI-1 mini LLM",
+      "workingDocs": [
+        {
+          "title": "NuNet Application Form",
+          "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+        },
+        {
+          "title": "Approval Form to Join Organisation(s) and approval for the Wormhole Key",
+          "link": "https://docs.google.com/forms/d/1oncymLRRyTAW3QVyH4aJfN4Rlef43djJc9zSvtPRhWU/viewform?edit_requested=true"
+        },
+        {
+          "title": "Blueprint for AI Sandbox/ Think Tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK FORM",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+        },
+        {
+          "title": "AI SANDBOX/THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1VWcOZOntI_jtTmXHULxItp8_EwuaC8jaWvrXGGT-rCA/edit?usp=sharing",
+          "title": "AI SANDBOX/THINK-TANK Session #22"
+        },
+        {
+          "link": "https://docs.asi1.ai/docs/",
+          "title": "ASI 1"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "dueDate": "3 April 2025",
+            "text": "Advanceameyaw and AJ to prepare for the project showcase session scheduled for next week.",
+            "assignee": "advanceameyaw, AJ"
+          },
+          {
+            "status": "todo",
+            "dueDate": "3 April 2025",
+            "text": "Kateri to document the next week's meeting as confirmed during the discussion.",
+            "assignee": "Kateri"
+          },
+          {
+            "text": "Lordkizzy to ensure that documentation for meetings is submitted within 48 hours moving forward.",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "3 April 2025"
+          },
+          {
+            "text": "Vasu to discuss the budget allocation for Q2 with Lordkizzy to address financial constraints.",
+            "status": "todo",
+            "dueDate": "4 April 2025",
+            "assignee": "osmium, LordKizzy"
+          },
+          {
+            "text": "Lordkizzy to confirm the attendance of Alfred Itodole for the tag assignment.",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "3 April 2025"
+          }
+        ],
+        "discussionPoints": [
+          "Meeting Coordination and Introduction: The meeting kicked off with LordKizzy, focusing on the exploration of AI tools and projects.",
+          "LordKizzy mentioned that he received the last meeting documentation from Santos but found some errors. He provided feedback for corrections and is hopeful that the necessary adjustments will be made.  LordKizzy gave a brief explanation on the AI Sandbox/Think-tank WG to the new members.",
+          "Discussion on ASI LLM: Osmium provided insights into the ASI LLM, the first Web3 native LLM designed for agentic AI, optimized for complex interactions and autonomous decision-making. He explained its integration with the ASI Wallet for secure transactions and its advanced reasoning capabilities, which are expected to impact sectors like DeFi and supply chain management. Osmium detailed the process for integrating ASI into applications via a robust API, emphasizing the benefits of operating within a Web3 ecosystem, including enhanced security and anonymity. He also mentioned the potential for ASI's integration with decentralized networks and indicated that further instructions on API key generation would be provided in future sessions.  Osmium led a discussion on the integration of AI governance tools into decentralized organizations, highlighting the importance of ethics and community participation. He raised concerns about the implications of solving complex mathematical problems, such as the P vs NP question, which could lead to significant security vulnerabilities. Advanceameyaw contributed by suggesting the exploration of general mathematical questions to test AI capabilities. Osmium highlighted the functionalities of modular agents and their integration with Llama 3 during the discussion. He introduced the upcoming ASA education program and emphasized the need for a pre-trained SEO to enhance search efficiency. The conversation also touched on the use of knowledge-based graphs for research and the potential of tools like perplexity over traditional search engines.",
+          "AI Sandbox Q2 roster and Documentation Policy: Lordkizzy discussed the Q2 roster created by Kateri. He also addressed documentation issues, stating that summaries from previous meetings were late and implementing a new policy that requires documentation to be submitted within 48 hours, or the task will be reassigned.",
+          "Q1 Reward Distribution: Lordkizzy addressed the Q1 reward distribution, noting the adjustments needed in their budget due to low token prices. Osmium pointed out that their WG has been operational despite previous inactivity and discussed the importance of deliverables in budget allocation. The team agreed to distribute rewards on Friday.",
+          "AI Sandbox Progress and Budget Planning: Lordkizzy urged team members to consent to the AI Sandbox so that we can make through the round. Gorga proposed a budget proposal for the BGI Nexus round, but Lordkizzy pointed out that the application round had ended. The discussion also touched on the possibility of proposing in the next defunding round 5.",
+          "AI Sandbox Task Assignments and Mentorship: Alfred Itodole asked if he could request tasks and receive mentorship after attending three meetings. Lordkizzy stated that he would need to confirm Alfred's attendance before proceeding with the tag assignment. Osmium mentioned that Alfred's name could be added to the list for documentation tasks."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Q1 budget,  Budget Allocation, Project Showcase, ASI LLM, Q2 2025 budget, Documentation, Workgroup Discord tag,  Mentoring",
+      "emotions": "Welcoming, Interactive, Informative,  Understanding."
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-06-05",
+      "host": "LordKizzy",
+      "documenter": "advanceameyaw",
+      "peoplePresent": "LordKizzy, advanceameyaw, Alfred Itodele, Osmium, Jeffrey Ndarake, martinsoki, Santos, Kateri, UKnowZork, Darshana Patel, MaxMilez, Gorga Siagian",
+      "purpose": "AI Sandbox (General Discussion)",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1oooaS0h2b7MNwnWeaEaU_mP0RicfDCs8lDk-QLEuR7k/edit?tab=t.0",
+          "title": "AI SANDBOX/THINK-TANK #31"
+        },
+        {
+          "link": "https://miro.com/app/board/uXjVI7Abr18=/?share_link_id=24280639227",
+          "title": "Miro Board"
+        },
+        {
+          "title": "Blueprint for AI Sandbox/ Think Tank",
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?tab=t.0"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit?tab=t.0"
+        },
+        {
+          "title": "NuNet Application Form",
+          "link": "https://docs.google.com/forms/d/1cJnfweMp_TFWH_xjKYlve6ling0-hKzznFikDWfMdaw/viewform?edit_requested=true"
+        },
+        {
+          "title": "AI SANDBOX/THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?gid=1681070206#gid=1681070206"
+        },
+        {
+          "title": "THINK PIECES/ FEEDBACK FORM",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+        },
+        {
+          "title": "AI Sandbox Toolset Exhibition Report",
+          "link": "https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit?tab=t.0#heading=h.bn2xrlmjpxj4"
+        },
+        {
+          "title": "AI Sandbox/Think-tank Q2 Report",
+          "link": "https://docs.google.com/document/d/1Jo-pUnlmDUwp2vc9tpZL7rnrYNFBQQfZ_w7qupHgjIg/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "in progress",
+            "text": "Advance to document meeting",
+            "assignee": "advanceameyaw",
+            "dueDate": "12 June 2025"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to host multiple follow-up calls to brainstorm, plan, and present new session ideas.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "-Coordination Meeting and Introductions: The meeting began with a brief welcoming and introductions. Lordkizzy provided a quick overview of the Q3 budget. He proposed a temporary shift to bi-weekly meetings. However, weekly sessions remain ideal and added the possibility of returning to weekly meetings if additional project funding is secured as planned.",
+          "-We discussed the plans to host a workshop either this quarter or next on the Ambassador Program website and organize follow-up calls to develop new session ideas. Also, based on feedback we got on the AI project showcase, the focus will shift from showcasing AI tools to actively using and testing them.",
+          "-AI Sandbox/Think-tank Overview: Kizzy mentioned how this quarter has shown strong consistency and increased participation, averaging 13 members per session. While planned theoretical debates were delayed, there's still a chance to host them before the quarter ends. Roundtable discussions and project showcases were paused. Bi-weekly sessions alternating between Sandbox and Think Tank continued as usual, and four new members joined the workgroup - UknowZork, Jeffrey, Alfred, and Max Milez.",
+          "-Project Management Board Update: Kizzy provided an overview of our GitHub project board, highlighting its role in managing and documenting AI Sandbox activities such as AI tool exhibitions, weekly meetings, debates, proposals, and team assignments. He also encouraged members who have not yet added to share their GitHub handles for access.",
+          "Feedback and retrospection:  UknowZork shared that the guild's purpose wasn't clear at first, needing to revisit past recordings. Jeffrey emphasized the need for better onboarding and clearer introductions. In response, Kizzy explained the AI Sandbox and Think-tank structure, and with Osmium, highlighted the value of the program GitBook for deeper understanding. Kateri noted meetings felt too formal and suggested bringing back engaging formats like debates. Advance appreciated the enriching impact of discussion and debate sessions and recommended clearer agendas and collaboration with other guilds to better tailor showcases. Kizzy supported this, stressing the need to align tools with workgroup needs. Lastly, Osmium mentioned speaking with Peter about a demo on the ASI wallet to explore the token's utility."
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Q2 report and budget request, tool adoption, project management, feedback, retrospective, Q2 2025 quarterly report, Q3 2025 budget, workgroup purpose, ASI wallet, impact, Collaboration",
+      "emotions": "informative, Insightful, welcoming, Interactive."
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-06-12",
+      "host": "LordKizzy",
+      "documenter": "Santos",
+      "peoplePresent": "osmium, advanceameyaw, Gorga Siagian, UKnowZork, Alfred Itodele, AndrewBen, Kateri, Duke",
+      "purpose": "AI Sandbox/ Think Tank #32",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit",
+          "title": "Blueprint for AI Sandbox and Think Tank"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit",
+          "title": "Roadmap of AI Sandbox/ Think Tank"
+        },
+        {
+          "title": "Think Pieces/ Feedback",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform"
+        },
+        {
+          "link": "https://docs.google.com/spreadsheets/d/15G_HTyJmW7BpF48pIzEPd-5ur-C8jwygaCeeTDsGYkE/edit",
+          "title": "AI Sandbox/ Think Tank"
+        },
+        {
+          "link": "https://docs.google.com/document/d/1BiqtqO-FRd8TFZsmJYWU6X8e5Iiufcttg-YHWhuP638/edit",
+          "title": "AI Sandbox/ Think Tank #32"
+        },
+        {
+          "link": "https://docs.google.com/document/d/16HJ7wHrEQsiN5t0zrOeX4b-c0JD-BU3SMfvJnaN0LFA/edit",
+          "title": "Report of AI Toolset EXHIBITION and The WORKFLOW"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "API, Analytics, Automation, AI TOOLSET EXHIBITION, Knowledge base, ASI 1, Q2 2025 quarterly report, Q3 2025 budget, AI Agent",
+      "emotions": "Interactive, Educational, Productive, Informative"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "UknowZork is to document the next meeting session",
+            "assignee": "UKnowZork",
+            "dueDate": "19 June 2025"
+          },
+          {
+            "text": "Osmium would contact Colly for insights on building an AI agent",
+            "status": "todo",
+            "assignee": "osmium",
+            "dueDate": "19 June 2025"
+          }
+        ],
+        "discussionPoints": [
+          "Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone and  Osmium shared the agenda for the day's meeting",
+          "Report of Q2: Osmium displayed the quarterly report of Q2 2025 and went through it a bit",
+          "Innovations and future plans: Osmium mentioned the possibility of having Darshana Patel in the next meeting session to speak on the QNN models . The team paused new AI tools exhibitions and decided to focus on testing and automating tools previously showcased. He also stated that we have started proposing our workflows and automations and we are hoping to utilize these tools we already showcased",
+          "Plans for Q3 2025: Osmium stated that a new budget proposal has already been submitted for Q3 and also a Q2 report",
+          "ASI1 LLM testing:  osmium navigated ASI1 LLM. we hoped to use our own stuff that is the ASI1 LLM futher in coming days and also have like a tutorial and training around it. we also created an AI agent. We tried making use of the AI agent by uploading a document. We made use of the report made by advanceameyaw and tried to search for certain things like the number of sessions we had. There was a brief moment of confusion while using the AI agent with Lordkizzy disagreeing with the amount of sessions had in the quarter."
+        ]
+      }
+    ]
+  },
+  {
+    "workgroup": "AI Sandbox/Think-tank",
+    "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2025-06-19",
+      "host": "osmium",
+      "documenter": "UKnowZork",
+      "peoplePresent": "LordKizzy, martinsoki, CallyFromAuron, Jeffrey Ndarake, Kateri, Maxmilez, Santos, Gorga Siagian, advanceameyaw",
+      "purpose": "AI Sandbox/ Think Tank #33",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing",
+          "title": "Blueprint for AI Sandbox and Think Tank"
+        },
+        {
+          "title": "Roadmap of  AI SANDBOX/THINK TANK",
+          "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+        },
+        {
+          "title": "THINK PIECES / FEEDBACK FORM",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform?usp=dialog"
+        },
+        {
+          "title": "AI SANDBOX / THINKTANK",
+          "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit?usp=sharing"
+        },
+        {
+          "title": "AI SANDBOX / THINKTANK #33",
+          "link": "https://docs.google.com/document/d/1YfCrZUYFsw6RtUyjJULeeJ687XplGl_3VF2f-m0PQNM/edit?usp=sharing"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "API, AI Models, Open source, Misuse gap, Right, Privilege, Modules, Safety, Discussion/Debate Session, Global inequality",
+      "emotions": "Interactive, Educational, Productive, Informative, Discursive"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Jeffrey is to document the next meeting session",
+            "dueDate": "26 June 2025",
+            "assignee": "Jeffrey Ndarake"
+          },
+          {
+            "text": "Lordkizzy will prepare a plan for a debate next week based on the discussion points.",
+            "status": "todo",
+            "assignee": "LordKizzy",
+            "dueDate": "19 June 2025"
+          }
+        ],
+        "discussionPoints": [
+          "Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone and  Osmium shared the agenda for the day's meeting",
+          "Discussion on Agenda item: Osmium displayed the Agenda item and he proposed that we have discussions and debate on it.",
+          "Should open source AI be considered a digital right or a privilege?   Kizzy noted that he's not quite familar with rights but he could give context to it. He mentioned that he doesn't feel AI should get rights over digital content it creates; he feels that the rights should be given to the creators of the AI. He noted that it shouldn't be a right but a privilege.   Vani in response noted that access to open-source AI should go beyond simply having the right to use it, it must also include explainability, and proper education on HOW to use it. People need to understand how AI works, especially that chatbots don't think or feel like humans, despite sounding like they do. Without this understanding, users can easily be misled. Therefore, comprehensive, accessible information should be provided, not only for using AI tools but also for building and critically engaging with them.   Vasu agrees that open-source AI is valuable, but expressed concern over the lack of clear regulations. He drew a parallel to how China initially allowed Bitcoin mining but later imposed restrictions due to concerns over digital autonomy. Similarly, he believes there should be thoughtful regulation around AI use to ensure it is applied responsibly and doesn't lead to unintended consequences.",
+          "Who gets to decide which AI models are safe enough to be public?  Lordkizzy points out that there is currently no central authority regulating the release of AI models, leaving safety judgments to the users themselves. He argues that introducing strict regulations could slow down technological progress, especially for open-source AI, where public feedback is essential for development. Developers rely on real-world testing to improve their models, and too many restrictions might block that process. In his view, the public should continue to play the key role in determining what is safe or harmful. He highlighted the variety of AI models available and emphasizes that users like video editors should be free to choose what works best for them. He warns that government regulation could disproportionately harm small or independent developers who lack the resources of large organizations. Centralized regulation might favor big players, stifling innovation from smaller creators. Therefore, he believes the decision of what AI tools are safe and useful should rest with the users, not a central authority.   UknowZork raised a question in chats: 'How do we ensure global safety when AI is borderless?'. And she stated that developers should try to prove their models are safe before release a sentiment that aligns with growing global concerns over AI's unpredictable reach and influence.  Vani reflected that while it's unclear who should ultimately decide AI safety, any decision depends on developers being transparent about the risks and implications of their models. Developers may not always consider ethical impacts, either unintentionally or due to their focus on technical progress. To address this, she suggests establishing clear protocols that outline what safety-related information must be provided to enable informed assessments by users or regulators.   Vasu expressed concerns that big players like OpenAI make critical decisions behind closed doors without transparent or inclusive mechanisms, which undermines public trust.  Advance proposed that each continent should establish its own representative body made up of informed users and stakeholders who understand AI. Drawing from examples like U.S. initiatives where CEOs, economists, lawyers, and business leaders are consulted, he suggests these diverse perspectives are essential for shaping fair and democratic AI policies. Such bodies could ensure that global AI governance reflects regional values and priorities while remaining inclusive and future-focused.",
+          "Can decentralized ecosystems like SingularityNET provide a safer, scalable alternative to centralized AI?:   Lordkizzy reflected on past comparisons in AI Sandbox sessions, where outputs and capabilities of different AI models were assessed. He explained that the foundation of projects like Ocean Protocol is rooted in the mission to challenge dominant, closed AI companies like OpenAI. While acknowledging the difficulty due to limited resources compared to big firms, he believes the broader goal of these open communities is to push the boundaries of AI advancement and scalability through collective innovation.  Vasu explained that open-source AI drives rapid innovation through community collaboration-much like Linux where issues are quickly fixed and systems evolve together. Unlike closed, profit-driven models, open AI like LLM let people tailor technology to their cultures and values, sparking new AI economies. But this openness also brings challenges around governance and accountability.  Santos expressed concern about the safety and accountability of decentralized AI systems. While centralized AI models may currently seem safer because responsibility lies with a specific company, decentralized models create ambiguity, especially when something goes wrong. He questioned who should be held accountable if, for instance, a harmful AI application is built on an open platform like ASI Mini. This highlights a core tension: decentralized AI promotes openness and innovation but currently lacks the clear accountability structures found in centralized systems.  Vani reflected on a cultural shift where people may soon assume that most media - photos, videos, news - is AI-generated and likely false. This challenges traditional ideas of harm, which often hinge on whether something is factually true. She suggested that as believability declines, the focus may shift to assessing the vulnerability of those impacted, rather than just the content's accuracy. For example, even AI-generated abuse imagery is still deeply harmful, despite not being 'real,' showing that intent and impact can matter more than truth in determining harm.   Vasu agreed with Vani that people are becoming accustomed to AI-generated content, but he believes society is also responding by seeking authenticity. He points to emerging social media platforms like BeReal and Mindplex, which emphasize posting real, minimally AI-altered content. These platforms often include factual verification mechanisms, offering a counterbalance to the flood of synthetic media and helping rebuild trust through genuine, verifiable interactions.",
+          "What parallels can we draw between open-source software movements and open AI?   Vani noted that there's no government deciding on how open source software is regulated - it's something that developers do themselves in a decentralised way. She suggested that maybe OpenAI can learn from that.   Vasu added that while open-source software like Linux is built on editable code layers, AI models are fundamentally different due to their probabilistic nature and complexity. Unlike traditional software, modifying or retraining AI models requires significant resources, expertise, and access, making them less accessible for community-driven development. AI tools integrate advanced capabilities and often need specialized deployment setups (e.g., APIs, tele-sensing), making the open-source AI landscape harder to manage and govern than classic software projects.",
+          "Would granting access to AI as a right reduce global inequality-or widen the misuse gap?  Lordkizzy argued that formally granting rights or imposing regulations on AI use is unlikely to increase global inequality or the misuse gap. Currently, AI is accessible without much restriction, and both beneficial and harmful uses already coexist. In his view, introducing rights or structured access might actually help curb misuse by creating clearer guidelines and responsibilities, leading to more ethical and balanced use of AI across different regions and user groups.  Vasu added that AI misuse is inevitable, but rather than letting that dominate the conversation, the focus should be on establishing governance that is thoughtful yet non-restrictive. He suggests moving toward a shared understanding ('mutual deposit') on the issue, and emphasizes that any regulatory framework should protect freedoms and encourage innovation, rather than impose rigid controls that could hinder progress.  Santos noted that granting rights to AI access could have both positive and negative effects. On one hand, global inequality may worsen if some countries embrace open-source AI while others, like North Korea, refuse it, leading to uneven access. On the other hand, misuse is unavoidable, especially given AI's internet-based nature. Drawing a parallel to the dark web, he noted that lack of control can turn promising technologies into harmful ones, reinforcing the need for thoughtful oversight without expecting to eliminate all risks.  Vani argued that the potential for misuse shouldn't determine whether people are granted rights, just as we wouldn't deny voting rights to marginalized groups based on how they might vote. She challenged the idea that marginalized users are more likely to misuse AI, suggesting instead that those in power and privilege are more prone to unethical behavior to protect their status. Ultimately, she viewed the debate over misuse as a distraction from the more important principle: rights are granted because they are just, not because they're risk-free.",
+          "Can open-source AI be governed ethically at a global scale without censorship?  Santos emphasized that censorship is unavoidable when AI is deployed on a global scale. He used TikTok as an example to explain how censorship operates-even in widely used platforms-where certain language or content is restricted. He believes that similarly, open-source AI will face censorship if governed by a central authority or higher power like a government. If the content or capabilities of an AI model are deemed unfit for public use, that authority will likely restrict or suppress it, making full openness difficult to maintain under global oversight. He suggested that because different regions have varying norms and sensitivities, governing bodies will always exist to filter or restrict certain uses, making total openness difficult in practice."
+        ]
+      }
+    ]
   }
 ]
