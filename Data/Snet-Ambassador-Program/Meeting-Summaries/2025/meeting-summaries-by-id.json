@@ -12205,5 +12205,493 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "c6aecc47-6630-418b-bc6e-6c36e503e374": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-07-03",
+        "host": "osmium",
+        "documenter": "Kateri",
+        "peoplePresent": "advanceameyaw, CollyPride, PeterE, UKnowZork, Gorga Siagian, Jeffrey Ndarake, Alfred Itodele, martinsoki, Santos, osmium, Kateri",
+        "purpose": "Weekly meetings",
+        "workingDocs": [
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1frji-xCkUlevi4w5nYU3Bt5geziVF6I35TXHvjr1_Bc/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Vasu to contact Peter and the MeTTa team to discuss the possibility of showcasing OpenCog Hyperon.",
+              "assignee": "osmium",
+              "dueDate": "10 July 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We decided to maintain a weekly schedule",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "based on participant feedback."
+            }
+          ],
+          "discussionPoints": [
+            "Trust in AI: building ethical and beneficial AGI Vasu led a conversation about the ethical implications of AI, specifically addressing the need for trust in AI systems amidst a landscape of misinformation. Colleen Pridemore contributed insights on how AI learns from nuanced discussions and shared her belief in AI's potential beyond its current capabilities. She also mentioned her pivot towards her own work due to challenges with her previous projects.",
+            "Mindplex community update: Vasu provided an update on the Mindplex platform experiencing significant growth with 50,000-60,000 users and 20,000-30,000 app downloads in 2-3 months since February/March launch. He emphasized the role of network effects in fostering community engagement and mentioned Darshana Patel's involvement in the Mindplex community and her indirect connection to MeTTa, indicating her contributions are gaining traction.",
+            "BCI and emotional AI development:  Colleen shared her goal of learning about brain-computer interfaces (BCI) and emotional recognition in AI, emphasizing the need for training. While Vasu discussed the complexities of quantum neural networks and their implications for emotional factors in AI systems. They also addressed the challenges of data processing and the importance of effective pattern recognition in training AI.",
+            "AI authenticity and tracking:  Vasu  posed a question regarding the potential of AI watermarks and provenance tracking to restore authenticity. Colleen highlighted the subjective aspects of authenticity and the exponential growth of AI, sharing her observations on its capabilities. Advanceameyaw contributed by discussing the challenges of distinguishing between real and AI-generated content and the importance of defining authenticity in this context.",
+            "Sarcasm recognition and quantum neural networks:  Colleen discussed the development of sarcasm recognition in AI, highlighting how it took time for the system to understand and respond appropriately. Vasu emphasized the role of context in AI interactions and asked Colleen to share a link RE the work of Scott Forshaw of Toridian on quantum neural networks. The conversation also touched on the complexities of these technologies.",
+            "AI Sandbox session planning:  Vasu facilitated a conversation on the frequency of meetings; the group ultimately decided to maintain a weekly schedule."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "OpenCOG Hyperon, Mindplex, AI Authenticity, AGI alignment, Quantum Neural Networks, brain-computer interfaces, MeTTa., Darshana Patel, pattern recognition",
+        "emotions": "Friendly, Educative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "2b527a29-e9ad-4d71-a093-e5e0e90b42ac": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-07-17",
+        "host": "osmium",
+        "documenter": "Gorga Siagian",
+        "peoplePresent": "LordKizzy, UKnowZork, Jeffrey Ndarake, Alfred Itodele, Santos, advanceameyaw, martinsoki, CallyFromAuron",
+        "purpose": "AI SANDBOX/THINK-TANK #36",
+        "workingDocs": [
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1ob0eiy-rOHTVy51WYWj9C4XKfGc2oQniDujKS0iMmX8/edit?tab=t.0"
+          },
+          {
+            "title": "Ambassador Program website",
+            "link": "https://ambassadors.singularitynet.io/"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Advance to document the next meeting",
+              "assignee": "advanceameyaw",
+              "dueDate": "24 July 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction and welcome: The meeting kicked off with Lordkizzy welcoming everyone, and Vasu shared the agenda for the day's meeting",
+            "Showcase: Ambassador Website Overview:   - Vsu presented the new Ambassador Program website https://ambassadors.singularitynet.io/ which launched approximately one week ago with SEO project already underway funded by R&D. The SingularityNet Ambassador Program website aims to serve as a hub for onboarding new ambassadors and sharing educational materials. An SEO project is currently in progress to enhance the website's visibility and organic traffic, leveraging insights from recent audits. Website audit revealed multiple issues including broken links, missing CSR links, and non-functional community forum links. Navigation buttons incorrectly labeled - 'Join the program' leads to about page while 'About the program' leads to Open Roles. Login/signup buttons redirect to Deep Funding website instead of Ambassador-specific functionality, causing confusion about program identity. causing confusion about program identity. Website appears designed more for Deep Funding ecosystem rather than existing Ambassador community members.",
+            "Introduction to ASI1 LLM Framework : - Vasu introduces what is ASI1 LLM Framework. ASI LLM introduced as world's first Web3 native language model designed for Agentic AI, optimized for complex agent interactions. The ASI LLM is designed to facilitate complex interactions required by agent-based AI systems. It leverages a Web3 architecture, ensuring decentralized and community-driven development. SEO research assistant AI agent prototype created using ASI LLM framework for website optimization.",
+            "Live Build: Agent #1 - SEO Researcher Assistant : - Osmium showed how the Ambassador Agent role works directly on the https://asi1.ai platform by demonstrating a live and functional SEO Researcher Assistant AI agent. The development of this agent was simplified through the Agent Wars platform built by Fetch AI, with API access from the SingularityNET AI Marketplace.  A custom SEO agent named 'SingularityNET Ambassador Program SEO Research Assistant' was developed with specific personas and responsibilities. This agent was designed to increase visibility and organic traffic to SingularityNET ambassador websites, with a focus on: keyword research, SEO content optimization, technical SEO insights, and backlink opportunities that align with the mission of the SingularityNET ecosystem. The AI Assistant targets a broad audience of developers, researchers, crypto enthusiasts, and AI advocates, with the aim of easing their onboarding and engagement in the ambassador program. The agent has been created and can be run directly on the site (actual agent).",
+            "Ideation & Breakout: Other Agents for the Website : - Meeting members suggest how SEO content should be created, added, and improved on the Agent AI Ambassador Program that has been created at https://asi1.ai/. AI agent creation proposed for ASI app to help onboard new ambassadors and provide program information. The AI agent will facilitate onboarding by providing real-time answers to common questions from new ambassadors. It will integrate with existing systems to showcase available tasks and opportunities within the ambassador program. Success stories content strategy developed featuring regional guilds like Latam Guild and African Guild showcasing ambassador achievements. Blog content should focus on completed projects and measurable progress rather than ongoing work to motivate new participants. Governance content suggested including breakdown of contentious issues like anonymity and abstentions rather than fixed manifestos.",
+            "Shareback: Agent Pitches. Onboarding AI agent concept discussed but requires further development in dedicated onboarding work group meeting. The onboarding AI agent concept aims to enhance user experience by providing tailored assistance during the onboarding process. Further development is needed to define the agent's persona and capabilities to effectively address user inquiries and guide them through the onboarding journey. Agent capabilities can be enhanced through AI Agent Voice platform with multiple agent integrations. Potential R&D proposal suggested for developing comprehensive onboarding AI agent with advanced capabilities."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ambassador Website, AI Agent, ASI 1, SEO Researcher Agent",
+        "emotions": "informative,  insightful, Educative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "8b06a83b-55e2-48af-bdb6-e61342f2a6ad": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-07-31",
+        "host": "osmium",
+        "documenter": "Santos",
+        "peoplePresent": "Alfred Itodele, Gorga Siagian, advanceameyaw, UKnowZork, martinsoki, CollyPride, CallyFromAuron, LordKizzy",
+        "purpose": "AI Sandbox/ Think Tank #38",
+        "workingDocs": [
+          {
+            "title": "Blueprint For AI Sandbox/ Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit"
+          },
+          {
+            "title": "Roadmap of AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform",
+            "title": "Think Pieces/ Feedback"
+          },
+          {
+            "title": "AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit"
+          },
+          {
+            "title": "AI Sandbox/ Think Tank #38",
+            "link": "https://docs.google.com/document/d/1ioFdX_A7FugjDPGYHYJ5bk5zsqs5CLlZO6HMGZnhFe4/edit"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1At6iyejBZhgfJ1cEATBjA7ZHFMUP3AZKX8kk0_NTZt4/edit",
+            "title": "EthosGuard - AI Ethics & Governance Advisor Agent (v2)"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "AI Toolset, contextual, Ethics,  ACP, Google Classroom, proceses, EthosGuard, AI agent for governance, SEO agent, SEO keywords, ASI 1",
+        "emotions": "intuitive,  informative, Educational, Productive"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Martinsoki is to document the next meeting",
+              "assignee": "martinsoki",
+              "dueDate": "7 August 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction and welcome: The meeting kicked off with Vasu welcoming everyone   ASI1 latest update: Vasu displayed the updated version of the ASI1 mini. He stated that there were some bugs but they've all been fixed and a memory function has been added.",
+            "SEO keyword extraction issues:  Vasu raised concerns regarding the SEO Research Assistant's output, which generated keywords instead of hashtags, leading to confusion. He proposed developing a specialized agent tool for social media content.",
+            "AI Ethics and Governance Advisor Agent (EthosGuard):  Vasu introduced his proposal for an AI agent centered on ethics and governance. Vani expressed concerns about the agent's capacity to evaluate key Governance values, and stressed the need to preserve human oversight in decision-making processes stating that AI agents still lack contextual knowledge which limits effectiveness in decision making.",
+            "Core Contributor Eligibility and Governance Dashboard:  Vani highlighted the potential benefits of adding core contributor eligibility support and tracking to the governance dashboard, as it could help those who are not yet a Core Contributor to identify the requirements, and track what they still need to do in order to become one."
+          ]
+        }
+      ]
+    }
+  ],
+  "0dffc0bf-5a84-4ff4-8fd7-b85a958e331b": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-08-07",
+        "host": "osmium",
+        "documenter": "martinsoki",
+        "peoplePresent": "Alfred Itodele, Gorga Siagian, UKnowZork, CallyFromAuron, LordKizzy, Jeffrey Ndarake, guillermolucero, John Zaks, Santos, Kateri, osmium, martinsoki",
+        "purpose": "AI Sandbox/ Think Tank #38",
+        "workingDocs": [
+          {
+            "title": "Blueprint For AI Sandbox/ Think tank",
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit"
+          },
+          {
+            "title": "Roadmap of AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit"
+          },
+          {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSeaHNdmWPc29G0x4Ojy43wULUfRgYiSTfWnFtr8lVoObk_mjQ/viewform",
+            "title": "Think Pieces/ Feedback"
+          },
+          {
+            "title": "AI Sandbox/ Think Tank",
+            "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit"
+          },
+          {
+            "title": "AI Sandbox/ Think Tank #38",
+            "link": "https://docs.google.com/document/d/1ioFdX_A7FugjDPGYHYJ5bk5zsqs5CLlZO6HMGZnhFe4/edit"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1At6iyejBZhgfJ1cEATBjA7ZHFMUP3AZKX8kk0_NTZt4/edit",
+            "title": "EthosGuard - AI Ethics & Governance Advisor Agent (v2)"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "informative, Educational,  Collaborative",
+        "topicsCovered": "AI Agent, AI agent for governance, Governance Dashboard, BGI Nexus funding round, AI ethics, R&D Guild, Archives WG, Knowledge Graphs, contribution, contributor metrics, data integration, GitHub, treasury, Core Contributor"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "discussionPoints": [
+            "Introduction and welcome: The meeting began with a warm welcome, followed by Vasu leading a continuation of the previous agenda. The discussion focused on AI agent development, includimg the governance advisor agent *EthosGuard*, and introducing new roles such as an analytics agent.",
+            "Treasury and Budget Automation Insights: Vani and Guillermo discussed the automation of treasury and budgeting consent processes, emphasizing the importance of aligning budget formats and quarterly reports with the tools under development by Guillermo's team. They pointed out the shift toward a more formalized budgeting process, and noted that an agent could be used to flag possible omissions in budget submissions to ensure completeness.",
+            "Integration of Treasury Database and Core Contributor Criteria: Guillermo highlighted the importance of integrating the treasury database with Archives WG's forthcoming knowledge graph to improve data visualization. Vasu proposed using an ASI1 LLM agent in the Governance dashboard to automate the onboarding process for core contributors.",
+            "Data Integration and Contributor Metrics: Vani and Vasu discussed merging data from sources like Dework and GitHub to identify core contributors. They also considered a leaderboard system, though Vani raised concerns about potential negative effects of fostering competitiveness among core contributors.",
+            "AI Agent Integration and Ethical Considerations Guillermo highlighted the capabilities of AI agents in GitHub analytics and proposed the creation of a character-driven assistant for governance discussions. Vani raised concerns about the reliability of AI suggestions, suggesting that they should be treated as prompts for critical thinking rather than authoritative recommendations. The conversation also touched on whether AI should/can be used to help track reflections over time in governance.",
+            "AI-Human Collaboration in Decision-Making Guillermo highlighted the AI proposal on the BGI-Nexus funding round, stressing that AI offers decision-making support through suggestions, while humans retain final authority. He emphasized the need for clear, specific queries to avoid generic AI responses.",
+            "Ethics and Governance in Decentralized Communities: Vasu stressed the importance of fairness and transparency, proposing sentiment analysis to track changes in community sentiment. Vani emphasized focusing on governance experiments over granular details. Both agreed on the value of educating the community with interactive tools."
+          ]
+        }
+      ]
+    }
+  ],
+  "408d05ce-acb3-46e6-8157-6ad3e1167657": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-08-14",
+        "host": "LordKizzy",
+        "documenter": "UKnowZork",
+        "peoplePresent": "LordKizzy, UKnowZork, CollyPride, osmium, martinsoki, PeterE, Alfred Itodele, guillermolucero, Jeffrey Ndarake, John Zaks, Santos",
+        "purpose": "AI Sandbox/ Think Tank #39",
+        "workingDocs": [
+          {
+            "title": "Proposal: Multi‑Agent Integration Platform",
+            "link": "https://docs.google.com/document/d/1SILr7Qi1k2eqR6udJsA8THGPL5Zt7_IuWOucOWYDxZI/edit?tab=t.0#heading=h.yixoixdst2pt"
+          },
+          {
+            "title": "Masumi Secure Agent-To-Agent Network",
+            "link": "https://www.masumi.network/"
+          },
+          {
+            "title": "SingularityNET Ambassadors R&D Guild",
+            "link": "https://dorahacks.io/org/snet-ap-rd-guild"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Hackathon, Catalyst, ICP infrastructure, Cross chain agent integration",
+        "emotions": "informative,  insightful,  forward-looking, Ideating, Productive"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The group agreed that the 12-month Catalyst proposal is too large for the hackathon and should be split into two separate proposals, a small, simple MVP for the hackathon and a more ambitious version for Catalyst.",
+              "rationale": "The 12-month proposal is too large for the hackathon's short timeline and could breach funding rules, so splitting it allows a small MVP for the hackathon and reserves the full plan for Catalyst.",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "The team spent the call walking through a proposal led by Tevo for the 'Cardano Use Cases: Concepts' category of next Catalsy funding round, to build a platform over 12 months, with quarterly milestones, full documentation, demo videos, and integration into the Cardano mainnet. Colleen shared her screen and went through the details of everything from Estonian translations in the materials, to how transactions and APIs would work, and an interesting 'reverse gas model' where end users pay the fees.",
+            "We noted that this 12-month Catalyst proposal is not being submitted to the forthcoming hackathon. The hackathon will require a quick, working prototype in just a few days, and the team plans to use it as a way to build components, test ideas, and strengthen collaboration - lessons that will help shape a feasible strategy if the Catalyst proposal gets funded.   Peter highlighted the need to keep the hackathon work small-scale, while Colleen outlined how the platform would simplify cross-chain agent integration, and Vasu filled in technical background on embeddings, vector stores, and ICP infrastructure. Guillermo suggested treating the hackathon as a focused, simple MVP effort and brought up the Masumi project as a Cardano-based example to learn from.",
+            "We discussed whether to keep ICP integration just for the hackathon or build it into the bigger plan, and touched on polishing the proposal's wording. Colleen admitted she probably couldn't take on development work for the hackathon this time because of technical setup challenges, though she still liked the ICP idea for the future.",
+            "Toward the end, the conversation shifted to a planned 'think tank' session with four discussion topics, ideas for connecting it to AI ethics work, and possibly putting together an RFP to fund AI experts."
+          ]
+        }
+      ]
+    }
+  ],
+  "ef5e313d-69f5-4504-a2b3-1cbde80dbf74": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2025-08-28",
+        "host": "LordKizzy",
+        "documenter": "Jeffrey Ndarake",
+        "peoplePresent": "LordKizzy, CollyPride, osmium, martinsoki, guillermolucero, Jeffrey Ndarake, Santos, Kateri, martin heyam, CallyFromAuron, Ayomi Shuga",
+        "purpose": "AI Sandbox/ Think Tank #40",
+        "workingDocs": [
+          {
+            "title": "Proposal: Multi‑Agent Integration Platform",
+            "link": "https://docs.google.com/document/d/1SILr7Qi1k2eqR6udJsA8THGPL5Zt7_IuWOucOWYDxZI/edit?tab=t.0#heading=h.yixoixdst2pt"
+          },
+          {
+            "title": "Masumi Network",
+            "link": "https://www.masumi.network/"
+          },
+          {
+            "title": "SingularityNET Ambassadors R&D Guild",
+            "link": "https://dorahacks.io/org/snet-ap-rd-guild"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "topicsCovered": "Thinktank, Redefining Intelligence in AI, AI sandbox",
+        "emotions": "informative,  insightful,  forward-looking, Productive,  Collaborative"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Colleen Pridemore to contact Martin Heyam Bielecki later to discuss further on the topic of enhancing human capabilities while collaborating with AI.",
+              "assignee": "CollyPride",
+              "dueDate": "4 September 2025"
+            },
+            {
+              "text": "Colleen Pridemore to share the recording of the meeting on the AIS Unboxed channel once it is ready.",
+              "status": "todo",
+              "assignee": "CollyPride",
+              "dueDate": "4 September 2025"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction: Lordkizzy opened the meeting and welcomed Ayomi Shuga, a new participant, who shared her background as a project manager and graphic designer.",
+            "AI Sandbox and Think Tank Overview:  Lordkizzy explained the dual focus of AI Sandbox/Think Tank. The Sandbox conducts experiments with various AI toolsets and showcases completed projects from the SingularityNET ecosystem. In contrast, the Think Tank encourages open discussions and debates on AI's impact across different sectors, fostering a collaborative and non-critical atmosphere.",
+            "Redefining intelligence in the era of AI: Colleen Pridemore introduced her presentation on redefining intelligence in the era of AI, highlighting the overwhelming amount of information available on the topic. She invited participants to engage and share their thoughts, while also dealing with technical difficulties related to her audio. Martin Heyam contributed to the discussion by emphasizing the rapid development of applications by diverse groups.",
+            "Understanding Intelligence: human, AI, and beyond Colleen Pridemore explored different types of intelligence, such as emotional and social intelligence, and their relevance to both humans and AI. She pointed out the limitations of existing measures like IQ and EQ, noting that they fail to capture creativity and adaptability.Colleen Pridemore also introduced a context exercise aimed at improving AI's understanding of human experiences, particularly for marginalized communities",
+            "Enhancing Human capabilities with AI Colleen presented on the future of intelligence, focusing on ethical alignment and the importance of understanding AI decision-making. She noted that intelligence is evolving to encompass collaboration with AI as a new paradigm. Lordkizzy praised Colleen's presentation and encouraged questions.",
+            "Ethical considerations in AI explainability: Vani raised concerns about the ethical issue of explainability in AI, arguing that users should not have to trust AI blindly, and that its processes need to be transparent. Colleen and Heyam contributed to the discussion by acknowledging the complexities involved in making AI's reasoning clear and the dualistic nature of AI's impact on society. They emphasized the necessity of striving for positive outcomes in AI development."
+          ]
+        }
+      ]
+    }
+  ],
+  "9ae53deb-a481-434c-9738-619fc50471a6": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Think-Tank",
+        "date": "2025-09-04",
+        "host": "osmium",
+        "documenter": "Kateri",
+        "peoplePresent": "Gorga Siagian, advanceameyaw, UKnowZork, Jeffrey Ndarake, martinsoki, Alfred Itodele, Santos, LordKizzy",
+        "purpose": "Weekly meeting on AI Think Tank discussion on 'Should Artificial Intelligence be granted decision-making autonomy in governance and social systems?'",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1-4IqzjeIKE0TraGgUWJ8xREDAXh_YX3ySBLqT0Vw1ck/edit?usp=sharing",
+            "title": "Agenda Document"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Educative, Interactive, detailed, collaborative, educative",
+        "topicsCovered": "AI impact, EthosGuard, responsibility, AI decision-making, AI autonomy, accountability, AI in governance, AI ethics"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "discussionPoints": [
+            "Ethical implications of granting decision making autonomy to artificial intelligence within governance and social systems: Vasu introduced concerns regarding ethical dimension, Can AI uphold fairness, transparency and accountability better than humans? Should AI follow strict ethical frameworks or evolve its own? Who is responsible when an AI-governed decision causes harm? Advanceameyaw argued that fairness, transparency, and accountability are inherently human duties rather than attributes that can be assigned to AI. Vasu supported this view, highlighting the importance of legitimate data and blockchain technology to ensure transparency in AI applications. Kateri noted that AI's judgment is influenced by the data it is fed, which can lead to biased outcomes.",
+            "On governance & power:   should AI have advisory roles only, or actual voting/policy-making powers? Could AI reduce corruption and bias in governance, or amplify hidden biases? Risks of centralized AI control vs. decentralized AI governance.  Lordkizzy argued that accountability for the misuse of AI should fall on the individual user rather than the companies that create AI frameworks. Gorga disagreed, stating that the responsibility lies with the humans and institutions that design and implement AI governance. Vasu added that transparency in AI models is crucial to prevent misuse and suggested that making AI open source could address some concerns.  Vasu discussed the potential role of his 'EthosGuard' AI agent in governance, questioning whether such a system should be limited to providing policy recommendations or also empowered to make decisions. Advanceameyaw noted that the topic requires deeper contemplation, while Vasu emphasized the importance of recognizing the implications of AI's reliance on human-designed algorithms and data.  Lordkizzy questioned the accountability of search engines like Google in relation to the misuse of information, using the example of bomb-making. He emphasized that before the advent of AI, individuals could still access harmful information and that the responsibility lies with the user rather than the provider. He noted that AI makes information more widely accessible, and misuse is a possibility that should be acknowledged.",
+            "Technological Feasibility:  How advanced must AI systems be before they are entrusted with governance roles? Can current LLMs or multi-agent systems reason deeply enough for governance-level decision-making? What safeguards (explainability, audit trails, failsafes) are necessary?  Kateri expressed apprehension about granting AI authority in decision-making, suggesting its role should remain limited, to reduce potential risks. Jeffrey emphasized that the benefits and drawbacks of AI ultimately depend on how it is applied.",
+            "The meeting concluded before the discussion ended and was adjourned until the next meeting.'"
+          ]
+        }
+      ]
+    }
+  ],
+  "6bd4d468-2de2-4718-b295-a92d912b8619": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Think-Tank",
+        "date": "2025-09-18",
+        "host": "osmium",
+        "documenter": "Gorga Siagian",
+        "peoplePresent": "Kateri, UKnowZork, martinsoki, PeterE, Santos, Rems, John Zakariya, MaxMilez",
+        "purpose": "Weekly meeting on AI Think Tank discussion on Budget Request, Quarterly Report, and the topic about 'AI Agent Civic Framework - Rights and Duties for Autonomous AI Agents'",
+        "workingDocs": [
+          {
+            "title": "AI SANDBOX/THINK-TANK #48 Agenda",
+            "link": "https://docs.google.com/document/d/1nrGj1cwZ_76l7QJuocomVQ1HnxuhoV0Usrd-hoAgKxU/edit?tab=t.0"
+          },
+          {
+            "title": "A.I Sandbox/Think tank Budget Request  Q4 2025",
+            "link": "https://docs.google.com/spreadsheets/d/1533H_uqak_S1ib4sUON5mBjqkXN3DHcRYLl6cVVymWg/edit?usp=sharing"
+          },
+          {
+            "title": "A.I Sandbox/Think-tank Q3 2025 Report",
+            "link": "https://docs.google.com/document/d/1y8tRahv0_POOJJnP73QHz1-5O0V-YXKCPt7cEm_0MDo/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Create knowledge base graph for next AI agents civic framework discussion session with structured format and Continue AI agents civic framework topic discussion in next quarter (October) with enhanced preparation.",
+              "assignee": "osmium",
+              "dueDate": "9 October 2025"
+            },
+            {
+              "text": "Propose additional agents to R&D guild following onboarding work group proposal model",
+              "status": "todo",
+              "assignee": "osmium",
+              "dueDate": "25 September 2025"
+            },
+            {
+              "text": "Prepare for theoretical debates by selecting topics one week in advance for better format and mature discussions",
+              "status": "todo",
+              "assignee": "osmium",
+              "dueDate": "25 September 2025"
+            },
+            {
+              "text": "Martinsoki will document the next meeting.",
+              "status": "todo",
+              "assignee": "martinsoki",
+              "dueDate": "25 September 2025"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agree with the submission of the Q4 2025 Budget request and Q3 2025 Quarterly Report.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Vasu presented the budget request for Q4 2025. The budget requests include: a. Facilitation and agenda preparation funding secured with specific allocation for community documentation needs b. Exhibition sessions, covering two project showcases and administrative task support for community engagement.  c. Expert-led workshops, including follow-up activities with clear deliverable expectations.  d. Community engagement introduced for roundtable discussions and theoretical debates to motivate participant involvement.",
+            "Vasu presented the workgroup's quarterly report for Q3 2025, including:  a. AI Sandbox/ Think-Tank integration successfully completed with dual focus approach combining practical agent development and governance considerations b. Agent build expansion achieved through catalog development, targeting three high-leverage roles tied to MASM website mission c. Governance-oriented debates conducted to inform requirements for ethics and governance advisor agent development d. Deep dive into ASI 1 LLM initiated, with practical application through development of an onboarding agent prototype e. SEO research assistant development progressed using ASI 1 LLM agent technology with R&D funding support from previous allocation f. EthosGuard framework completion, representing major governance milestone for autonomous agent ethics g. Community engagement metrics dmonstrated strong participation with an average of 14 participants per session",
+            "Vasu started the discussion on the topic of his proposed 'AI agent civic framework - rights and duties for autonomous AI agents'.  He asked participants what an AI agent is, from their perspectives.  Gorga said that an AI agent is the smart contract integration approach favored by some participants who view AI agents as the brain layer behind smart contracts. Vasu sked whether Read.AI is an AI Agent and Gorga answered no, Read.AI is an AI tool.   Can tools like Read AI be categorized as agents or just simple automation services? Kateri said that an AI agent is like a computer program designed to make decisions or take actions to achieve specific goals. Peter added that an AI agent is processing something, so that you can ask something that can work with it and get different outputs back to you. This can also be applied to other agents.",
+            "Vasu explained his framework of 4 levels of autonomy with specific capability definitions:  - Level 0: Inform and observe capabilities limited to data collection and reporting functions  - Level 1: Draft and propose functionality enabling recommendation generation and proposal creation - Level 2: Execute tasks with limits incorporating guard rails and bounded operational parameters - Level 3: Self-delegating and fully autonomous operation with minimal human oversight requirements  Participants discussed agent qualification criteria, highlighting the complexity of classification across different use cases. DeFi trading bots are recognized as clear agents with autonomous decision-making and execution capabilities. Research assistants are recognized for autonomous data processing and analysis capabilities with a reasoning component. Voice assistants are accepted as agents despite limitations in accent recognition and mixed interaction quality",
+            "Rights and responsibilities framework development for AI agents:  Participants discussed the proposed agent rights structure including identity, operational freedom and communication protocols, and the proposed system of cryptographic identity requirements for unique agent identification and public registration. Various due process mechanisms are proposed through transparent appeals via a steward or DAO voting structure. and finally a guaranteed API channel for communication between agents is recommended for collaborative agent interaction and coordination.   For the agent duty framework, participants discussed the focus on transparency, accountability, and integration of human oversight. There is mandatory notification and provenance in AI agent tagging, along with model information requirements and accessible datasets. Proof of cryptographic action is proposed, including input/output hashes for complete traceability and verification. A human takeover mechanism is integrated through the supervisory DAO structure, ensuring appropriate control and intervention capabilities.",
+            "Community AI agent experiences and use cases:  The participants discussed trading bot applications, which demonstrate the practical application of autonomous agents with varying performance results. Then there is the automation of crypto price monitoring achieved with the ability to execute entry and exit strategies. Accuracy limitations are acknowledged with occasional losses due to imperfect predictions and market volatility. Cardano blockchain integration was mentioned for DeFi farming strategies and specific yield optimization.  Participants noted that research and productivity applications show significant improvements in time efficiency with quality in mind. For example, the acceleration of academic research achieved through automated citation discovery and article discovery, the trade-off between quality and speed identified with AI assistance providing broader coverage but with a potential sacrifice in depth, and the quality of manual research is generally superior in terms of depth but is more time-consuming, requiring library access and extensive manual searching.  Participants also discussed voice assistant integrations - these help accessibility, but have technical limitations.  For example, successful Alexa implementations for basic automation including timers, scheduling and music control, accent recognition challenges that cause user experience friction requiring repeated commands and customization, and legacy chatbot experiences with SimSimi and customer support bots that provide historical context for agent evolution."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "AI Civic Agent, Q3 2025 quarterly report, Q4 2025 budget, AI agent civic framework, AI autonomy, AI Agent",
+        "emotions": "Interactive, detailed, collaborative, educative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
   ]
 }
