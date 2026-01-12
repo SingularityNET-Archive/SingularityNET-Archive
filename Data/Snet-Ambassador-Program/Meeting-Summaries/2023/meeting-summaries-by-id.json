@@ -562,5 +562,132 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "333e3c14-907f-49bf-825b-07bc00b8f6a8": [
+    {
+      "workgroup": "Onboarding Workgroup",
+      "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2023-12-14",
+        "host": "Sucre n Spice",
+        "documenter": "LordKizzy",
+        "peoplePresent": "cjfrankie, LadyTempestt, Sucre n Spice, CallyFromAuron, PeterE, LordKizzy",
+        "workingDocs": [
+          {
+            "title": "Twitter thread draft google doc",
+            "link": "https://docs.google.com/document/d/184jGMoNmQ4uaumRf-DWqEhgdgDEIvWDWRyaZhiZIXRk/edit?usp=sharing"
+          },
+          {
+            "title": "SNET Onboarding WG Task Reward Sheet",
+            "link": "https://docs.google.com/spreadsheets/u/0/d/1mwFPPabzXLixDG_LkKvFp5tRER30sxT_wGV3ySt-MZ4/edit"
+          },
+          {
+            "title": "Quarterly Workgroup Budget Calculator",
+            "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing"
+          },
+          {
+            "title": "GETTING STARTED CHANNEL / overview",
+            "link": "https://docs.google.com/document/d/1q4dhediWgcbgAP3Wfsky_-roVyfCUe6xi-dhBdHbU4s/edit?usp=sharing"
+          },
+          {
+            "title": "Onboarding WG - how can we support other WGs to onboard new people in their meetings",
+            "link": "https://docs.google.com/document/d/1fYx3CXgT-NGi19TmBUxS3lTMu93Hx68cpGST8TED9cA/edit?usp=sharing"
+          },
+          {
+            "title": "Session plan for Onboarding sessions with other WGs",
+            "link": "https://docs.google.com/document/d/1mwNfAaQd3uvMO1T9EQXnnOXQ5jtGkst8mEteZBM6uiI/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallUpdates": "-Results from survey - quick outline, thank people for participating, and share doc -Our quarterly report - share it -Continuous onboarding sessions - say that analysis is coming, and thank the WGs we spoke to -Say when our next meeting is (11th January 2024)",
+          "issues": [
+            "The changes made to the Getting Started Twitter thread",
+            "The Q1 Budget discussion"
+          ],
+          "actionItems": [
+            {
+              "text": "Sucren  to paraphrase the comments in the FAQ.",
+              "assignee": "Sucren",
+              "status": "todo",
+              "dueDate": "2024-01-11"
+            },
+            {
+              "status": "in progress",
+              "text": "Vani to meet Tevo and Tommy and try getting them to drop their feedback on the Continuous Onboarding Survey on Miro.",
+              "assignee": "Vanessa",
+              "dueDate": "2024-01-11"
+            },
+            {
+              "text": "Vani to speak to Tevo on inputting the necessary changes to the Getting Started Channel",
+              "assignee": "Vanessa",
+              "dueDate": "2024-01-11",
+              "status": "todo"
+            },
+            {
+              "text": "Love and Onyeka to create an infographic for the Twitter thread Doc.",
+              "dueDate": "2024-01-11",
+              "status": "in progress",
+              "assignee": "LadyTempestt, LordKizzy"
+            },
+            {
+              "text": "Peter to speak to Fly and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro",
+              "dueDate": "2024-01-11",
+              "status": "todo",
+              "assignee": "PeterE"
+            },
+            {
+              "text": "Sucren to speak to Tommy and try getting him to asynchronously drop his feedback on the Continuous Onboarding Survey on Miro.",
+              "dueDate": "2024-01-11",
+              "status": "todo",
+              "assignee": "Sucre n Spice"
+            }
+          ],
+          "decisionItems": [
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "We agreed on rotating the meeting facilitation in Q1 of 2024.",
+              "opposing": "None"
+            },
+            {
+              "effect": "affectsOnlyThisWorkgroup",
+              "decision": "We agreed to present the Survey analysis in the next Town Hall",
+              "opposing": "None"
+            },
+            {
+              "decision": "We agreed to take this meeting as the last meeting of the year",
+              "opposing": "None"
+            },
+            {
+              "decision": "We agreed to present the Q4 Quarterly report in the next Town Hall",
+              "opposing": "None"
+            }
+          ],
+          "discussionPoints": [
+            "Minutes of last Meeting",
+            "Action items from last meeting",
+            "Next Ambassador Town Hall Update",
+            "Twitter thread of the contents of the Getting started channel",
+            "Continuous Onboarding",
+            "Onboarding Survey",
+            "Q4 Quarterly report",
+            "Budget for Q1"
+          ],
+          "learningPoints": [
+            "Due to the possibility of the AGIX token depreciating in price, it would be wise to plan for the worst case scenario while planning on Q1 Budget."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Guilds , Roles, Continuous Onboarding, WG reserves, token price, onboarding survey, Q4 2023 quarterly report, Getting Started twitter thread",
+        "emotions": "Collaborative, speedy , funny , Thoughtful , Friendly"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
