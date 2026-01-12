@@ -47647,5 +47647,371 @@
         ]
       }
     ]
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2024-12-12",
+      "host": "Ayo",
+      "documenter": "CJFrankie",
+      "peoplePresent": "Sucre n Spice, LadyTempestt, Gorga Siagian, LordKizzy, hogantuso, martinsoki, Effiom, CallyFromAuron, Kateri, Ayo, CJFrankie, AshleyDawn",
+      "purpose": "The final bi-weekly onboarding workgroup meeting for 2024.",
+      "workingDocs": [
+        {
+          "title": "Quick reportback / analysis on 'Onboarding Journeys' survey",
+          "link": "https://docs.google.com/document/d/1j2W_1OSXyAuYpUmQ6mk4d_nRGpHf2KmLjYmAD_sj7fo/edit?tab=t.0"
+        },
+        {
+          "title": "Onboarding WG Skillshare Matrix",
+          "link": "https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit"
+        },
+        {
+          "title": "Summary of Onboarding To Decentralization Research",
+          "link": "https://docs.google.com/document/d/1NF15X6-1FVTscPAExufM6hwD4scdykIopGFowRJs9hU/edit?tab=t.0"
+        },
+        {
+          "title": "Onboarding Journey Quick Survey (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/12yjmzgkJzsUevCvWf_jRrk98iE-GfS6xdHPyExNBX6k/edit"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Love to facilitate on January 9th, 2025, while CjFrankie will document.",
+            "assignee": "LadyTempestt, CJFrankie",
+            "dueDate": "9 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "All the onboarders team are to write a very brief statement/report for this quarter in the onboarders Discord group.",
+            "assignee": "CallyFromAuron, Sucre n Spice, LordKizzy, CJFrankie, Gorga Siagian, LadyTempestt",
+            "dueDate": "15 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Ayo and Kateri to update the onboarding to decentralization research by adding a paragraph of how they selected their interviewees.",
+            "assignee": "Ayo, Kateri",
+            "dueDate": "31 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Anyone who is not yet a member of the Ambassador Program GitHub organisation should DM Sucre for their GitHub username.",
+            "status": "done"
+          },
+          {
+            "text": "People who have any pending tasks should have them completed on or before Monday.",
+            "dueDate": "15 December 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We bid farewell to 2024 today, and we decided to resume on the 9th of January, 2025-everyone agreed.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Starting in January, we will be running meetings from a GitHub project board, and to this effect, there won't be writing of meeting agendas because we're moving to GitHub.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Agreeing the minutes of the last meeting",
+          "Skillshare Matrix",
+          "Action items from the last meeting",
+          "Holidays",
+          "Facilitating and documenting next time",
+          "GitHub project board",
+          "Q1 2025 budget - The budget was calculated at an exchange rate of $0.55. If the rate increases, we might be able to restore some items we previously removed to make it fit.",
+          "Onboarding journeys survey: We learned that some of the most pressing challenges people face in their onboarding journey are knowledge gaps, limited internet access, language barriers, and lack of tools to aid productivity.",
+          "Onboarding to decentralization research"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "onboarding journeys,  research, skillshare matrix, holidays, Facilitation, documenting, roster, GitHub, project,, meeting agenda, onboarders, knowledge gaps, language barrier, lack of tools, Q1 2025 budget, onboarding to decentralization, token price rise, GitHub board",
+      "emotions": "exciting, productive, friendly , informative"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Automation WG",
+    "workgroup_id": "810c6bf0-9ee4-4f0e-b510-4840f37910c9",
+    "meetingInfo": {
+      "typeOfMeeting": "Monthly",
+      "date": "2024-12-16",
+      "host": "Tevo",
+      "documenter": "Effiom, André",
+      "peoplePresent": "effiom, tevo, Valola, André",
+      "purpose": "We develop the Treasury System",
+      "miroBoardLink": "https://miro.com/app/board/uXjVKympo8o=/?moveToWidget=3458764610742686664&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Treasury Automation WG Q4 Budget",
+          "link": "https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/"
+        },
+        {
+          "title": "Treasury Automation WG Budget Estimations",
+          "link": "https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "agenda": "Month of December Development Updates",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "3 budget lines left to complete from Q4 proposal",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "No new updates to Treasury Manager",
+          "Andre updating new treasury application, mainly UI and UX",
+          "How to better show Ambassador Program Reserves on dashboard?",
+          "Color coded budget line items on Q4 budget sheet https://docs.google.com/spreadsheets/u/2/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY"
+        ]
+      },
+      {
+        "agenda": "Ambassador Program Reserves",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Andre will update Dashboard reserve numbers related to Ambassador Program reserves",
+            "assignee": "André",
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Currently Ambassador Program was manually calculated by including Entire Quarter budget into Month 4 at 2023 (Incoming Reallocation)",
+          "Before 2024 all the budget leftovers were moved to the Ambassador Program Reserves",
+          "What were the Quarterly Ambassador Budgets at early days?"
+        ]
+      },
+      {
+        "agenda": "Workgroup Management",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Effiom to Draft Q1 Report",
+            "assignee": "Effiom",
+            "dueDate": "13 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Valola to Draft Q2 Proposal",
+            "assignee": "Valola",
+            "dueDate": "13 January 2025",
+            "status": "todo"
+          },
+          {
+            "text": "Effiom to draft the meeting summary and Andre will review and publish it in Discord",
+            "assignee": "Effiom, André",
+            "dueDate": "31 December 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Start outcome documentation as early as possible",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "What are the main activities we should prepare for in Quarter 1?"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Miro Board, Dework, Proposal, Q4 report, Reserve"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Treasury Guild",
+    "workgroup_id": "cce85f76-c46d-44db-9605-aa55e28c8356",
+    "meetingInfo": {
+      "typeOfMeeting": "Biweekly",
+      "date": "2024-11-25",
+      "host": "Tevo",
+      "documenter": "Effiom, Tevo",
+      "peoplePresent": "advanceameyaw, Valola, AshleyDawn, CallyFromAuron, Effiom, LadyTempestt, Onize, Tevo",
+      "purpose": "Structuring Ambassador rules around payments, tasks and anything related to financial activities",
+      "miroBoardLink": "https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764607062092588&cot=10",
+      "otherMediaLink": "https://app.dework.xyz/singularitynet-ambas/treasury-guild-87240",
+      "workingDocs": [
+        {
+          "title": "Some possible approaches to budget fitting",
+          "link": "https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/"
+        },
+        {
+          "title": "Q4 Consent (Responses)",
+          "link": "https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+        },
+        {
+          "title": "Treasury Guild Proposal Q1 2025",
+          "link": "https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/edit?tab=t.0#heading=h.9t5jkakh8028"
+        },
+        {
+          "title": "Treasury Guild Proposal Estimated Cost Calculator",
+          "link": "https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/edit?gid=1413332777#gid=1413332777"
+        },
+        {
+          "title": "Treasury Guild Q4 Report",
+          "link": "https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "agenda": "Guild Management",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Effiom to draft meeting note and upload in summary tool",
+            "assignee": "Effiom",
+            "dueDate": "16 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Review and publish meeting note in Discord",
+            "assignee": "Tevo",
+            "dueDate": "16 December 2024",
+            "status": "done"
+          }
+        ],
+        "discussionPoints": [
+          "Choosing people to draft and review meeting summary"
+        ]
+      },
+      {
+        "agenda": "Review Quarterly Report Q4 2024",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "Update the outcomes for each topic capture in the Q4 report"
+          },
+          {
+            "text": "Submit the updated Q4 Report before deadline",
+            "assignee": "Effiom",
+            "dueDate": "25 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided to add the outcomes of each topic captured in the Q4 report as just stating the topics was not conclusive and insufficient.",
+            "rationale": "Because just stating the topics in the quarterly report was not conclusive and insufficient",
+            "opposing": "None",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "We shared and updated the Q4 Report draft: https://docs.google.com/document/d/1D-oRrXO0jtVac1tK4lIdPndc7UBpNMULbmPGR0dfz_I/",
+          "What were the outcomes of the topics we discussed in Q4 captured in the report?"
+        ]
+      },
+      {
+        "agenda": "Treasury Guild Retrospective",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Members should add comments in the Q4 Report under the community engagement section",
+            "dueDate": "25 November 2024",
+            "status": "done"
+          }
+        ],
+        "discussionPoints": [
+          "Community engagement section is Q4 report",
+          "Some members dropped their comments while in the meeting"
+        ]
+      },
+      {
+        "agenda": "Review Treasury Guild Proposal",
+        "status": "resolved",
+        "actionItems": [
+          {
+            "text": "Submit the updated Q1 2025 budget and proposal before deadline",
+            "assignee": "Effiom",
+            "dueDate": "25 November 2024",
+            "status": "done"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We agreed to have 6 sessions as the Treasury Operation Workshops will be bi-weekly in Q1 2025 due to budget constraints. However, if price goes higher, we can do more operation calls",
+            "rationale": "Because of budget constraint in Q1 2025",
+            "opposing": "None",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "We reviewed and updated Q1 2025 Budget draft: https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/",
+          "Q1 2025 Proposal review: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs/"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Proposal, Budget , Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserve, Fixed AGIX Rewards, Rewards, retrospective, Q4 2024 quarterly report"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
+    "workgroup": "Video Workgroup",
+    "workgroup_id": "30e3c903-eb5a-42bb-9a01-8c5223415ae0",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2024-06-05",
+      "host": "Zalfred",
+      "documenter": "killy, lord kizzy",
+      "peoplePresent": "lord kizzy, hogantuso, AndrewBen, Slate, kateri, oep, malik, devon, daniel effiom",
+      "purpose": "weekly updates"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "text": "Lord_Kizzy to add the liaison (DEVON) to the zealy discussion group",
+            "assignee": "lord kizzy",
+            "status": "todo",
+            "dueDate": "19 June 2024"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We decided that the Zealy liaison must be a member of both work groups (Writers WG and Video WG)",
+            "rationale": "This decision will enhance better communication between both Workgroups",
+            "opposing": "Some members felt the role should be open to everyone",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "More Updates on the zealy platform. Lordkizzy indicated that he forgot to add Devon to the Zealy discussion group, so as regards to that no updates was given",
+          "Slate,as our social media manager gave weekly updates on our social.",
+          "Malik as the task manager gave updates from last week"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "social media management, Task Assignment, Zealy, Liaison, Video Edit, Weekly updates",
+      "emotions": "Casual, speedy , productive, Organised"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
   }
 ]
