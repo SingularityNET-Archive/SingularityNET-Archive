@@ -689,5 +689,299 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "2d724b19-056f-4978-9f7b-04d27dea3ae2": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-01-11",
+        "host": "Jan Horlings",
+        "documenter": "Jenn",
+        "peoplePresent": "Jan Horlings, Kenric Nelson, Felix, Juana Attieh, PeterE, Fly, others unknown",
+        "purpose": "Deep Funding | Community Governance - January 11, 2023",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=tKhMKIm-MCs",
+          "intro": "Deep Funding | Community Governance - January 11, 2023"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Governance, Financing, Deepfunding proposal platform, website, Onboarding, Collaboration, DeepFunding",
+        "emotions": "Thoughtful , Organised, Discursive"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "3b1113da-c5f9-4d18-91b1-1bc1b4056237": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-01-19",
+        "host": "Jan Horlings",
+        "documenter": "Jenn",
+        "peoplePresent": "Jan Horlings, Alessandro Longo, Kent, Kenric Nelson, Quincy, others unknown",
+        "purpose": "Deep Funding | Awarded Teams - January 19, 2023",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=pe9VV2EpdtE",
+          "intro": "Deep Funding | Awarded Teams - January 19, 2023  Jan Horlings, VP of Product at SingularityNET, discusses with some of the Deep Funding Round 1 awarded teams as they're presenting their progress so far."
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Alessandro's Presentation of ZRush Topic: Progress on drone swarm project for 3D mapping and metaverse applications  Key Points: Developed a design for controlling the drones and displaying a 2D map view. Struggling to create a real-time 3D reconstruction due to processing power limitations. 3D reconstruction might be feasible for post-processing captured images. Potential applications include agriculture, event recording (post-facto), and metaverse object rendering. Ken's Presentation  Topic: Development of adaptive learning AI for the CarX Capture Unit metaverse training module Key Points: Building a recommendation engine to suggest questions to students based on their performance. The engine will consider factors like question complexity, student's answer history, and learning topic. Natural Language Processing (NLP) techniques will be used to analyze question complexity. Initial focus is on multiple-choice questions but may expand to handle more open ended responses. Considering using sentiment analysis of lecture text to guide avatar instructor's tone. The recommendation engine and logic are designed to be generic for broader applicability. Discussion Points Potential collaboration with a partner in the educational sphere for the adaptive learning engine. Combining the 3D mapping technology with existing satellite image data for improved metaverse object creation. Exploring ways to represent complex operations within the metaverse training module (e.g., animation of machine processes).",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "ZRush, Proposals, NLP, Drone Swarm Project, 3D Mapping, Presentation",
+        "emotions": "Brainstorm, Thoughtful",
+        "other": "Step by Step"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "b63abea8-ea23-4784-9989-1f1f3bafd1e6": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-01-25",
+        "host": "Jan Horlings",
+        "documenter": "Jenn",
+        "peoplePresent": "Jan Horlings, Juana Attieh, Kenric Nelson, Kevin Chen, Felix, PeterE, Fly, others unknown",
+        "purpose": "Deep Funding | Community Governance Meeting",
+        "workingDocs": [
+          {
+            "title": "Miro Board"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=9FnU0BwIV38",
+          "intro": "Deep Funding | Community Governance - January 25, 2023"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "This Community Governance meeting focused on brainstorming the frequency and format of different governance meetings within a community.  Key points including  Current Meetings: Bi-weekly Governance Calls Bi-weekly Team Meetings (recorded, with separate recorded and unrecorded parts) Town Halls (on an ad-hoc basis)  Challenges: Low attendance at Team Meetings Difficulty in knowing what content is best for Town Halls vs. Team Meetings  Proposed Solutions: Merge Team Meetings and Town Halls into a public forum Teams give 5-minute presentations at the beginning Depending on attendance, use breakout rooms or have a central discussion Higher frequency Town Halls Consider keeping a separate, less frequent Team Meeting for confidential discussions Important Points The discussion aimed to improve the effectiveness of communication within the community. There is a desire to increase participation in meetings. Finding the right balance between informative presentations and open discussions is a challenge.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Analysis, Governance, Decentralisation, community, Town Hall",
+        "emotions": "Casual, Collaborative"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "356f05ad-7bbe-4e91-926d-224e2e34787f": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-01-31",
+        "host": "Rafael Presa",
+        "documenter": "Jenn",
+        "peoplePresent": "Rafael Presa, Daniel Ospina, Roberto Mayen, Nikita Murashkin, Ammar Nasr, others unknown",
+        "purpose": "Monthly Awarded Teams Meeting 2023",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=1BRyFxW5o0w",
+          "intro": "Monthly Awarded Teams Meeting 2023 - January 31th 2024"
+        }
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "d4e68afe-4f33-4dbe-8d16-24f106a5c057": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-02-10",
+        "host": "Jan Horlings",
+        "documenter": "Gorga Siagian",
+        "peoplePresent": "Peter, Johann Sammy, justin, XyrisKenn, others unknown",
+        "purpose": "Deep Funding Round 1 Projects Kickoff | Part 1 - 10 February 2023",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=XNpmuxELOBk",
+          "intro": "This is a recording of the first kick-off session for awarded teams of Deep Funding Round 1, where the projects further introduce themselves.  If you have any questions to the teams, please fill in this form: https://forms.gle/QFEEvqHZGGQXnjbu7"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Teams and their proposals on this session:  Carbix & Xyris - Avatar 2 Human Learning: Net Zero and Carbon Negative Emissons |  https://proposals.deepfunding.ai/graduated/accepted/d592f698-9c0c-4617-a7ef-2ebed820d9ad  Hetzerk - Decentralized Physics Simulation |  https://proposals.deepfunding.ai/graduated/accepted/b213135a-0c0c-43a9-a73f-cbed776c5b48  Zero2ai - Simply AI with trust |  https://proposals.deepfunding.ai/graduated/accepted/97cb76b2-a0a7-421e-acf6-70126d2c493e",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "DeepFunding, Deepfunding Round 1, Net Zero and Carbon, Decentralized Physics, Simulation, Simply AI with trust",
+        "emotions": "informative, ideas, insightful"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "07ddbd18-6bab-4925-8718-29aef8887c7f": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-02-13",
+        "host": "Jan Horlings",
+        "documenter": "Gorga Siagian",
+        "purpose": "to allow the community to study and give feedback on all proposals including last-minute submissions.",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=jLVGjKqBTwM",
+          "intro": "Deep Funding | Round 2 - After closing the round for new submissions there will be a 2-week stable period to allow the community to study and give feedback on all proposals including last-minute submissions."
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "DeepFunding, pools, Deep funding round 2, announcement, Proposals",
+        "emotions": "informative, ideas"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "4763761c-ab07-472a-b5fe-020f094591f6": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-03-23",
+        "host": "Jan Horlings, Daniel David Lezu",
+        "documenter": "Clement Umoh",
+        "peoplePresent": "Jan Horlings, Judith, Rafael Presa, Kenric Nelson, Mauro Andreoli, Curtis, Tommy Frey, Yoram Ben Zvi, Christian Nistor, Sebastian Pabon, Julian Lariser, Ubiodee, Juana Attieh, Felix, Daniel David Lezu, Mikasa, Kenichi, guillermolucero, XyrisKenn, Tevo, Fly, Iain Wentworth, CallyFromAuron",
+        "purpose": "Discussions around improvements, new rules and guidelines for DF round 2",
+        "townHallNumber": "3",
+        "timestampedVideo": {
+          "url": "https://youtu.be/LYAY3Cez64I?si=22XYI3JSrvQUmJ-U",
+          "intro": "The Deep Funding Town Hall is a bi-weekly meeting is an initiative led by the SingularityET Ambassador community. During this session, updates, presentations & conversations about topics which relate to Deep Funding and SingularityNET are shared and discussed.",
+          "timestamps": "0:00 [Music] 0:00 foreign 0:03 [Music] 0:10 funding Town Hall number one yes 0:15 so great to see you all here it's really 0:19 it's really lovely 0:20 ah 0:22 nice so I'm gonna share 0:27 my slides 0:30 it's just to cut just to give you a 0:33 little shout out already you're a really 0:35 cool host David 0:38 thanks guys uh yeah it's great uh 0:43 it's great to just help lead 0:46 um you guys a great group of people who 0:49 I am inspired by uh as a Creator as an 0:52 artist 0:54 um thank you 0:57 and with that uh we have some slides 0:59 which I would love to walk you guys 1:02 through 1:04 um 1:05 so 1:07 about I want to introduce a bit about 1:09 deep funding town hall for everyone here 1:13 and deep funding town hall is an 1:15 initiative led by singularity in that 1:18 community in collaboration with the 1:21 singularity net foundation and we aim to 1:24 establish an open space for the Deep 1:26 funding and singularity in their 1:29 community 1:31 it's so great to see you guys here what 1:33 we're going to do today is open up 1:37 um some breakout rooms 1:40 after handing over the 1:43 speaker to 1:45 um the funding and Singularity now to 1:47 give some updates for you guys and then 1:50 we're gonna go split off into our room 1:52 and we're gonna be 1:55 moving into self-organization uh in this 1:58 session so we have three uh three 2:02 breakout rooms today so 2:04 um after the introduction I'll let them 2:07 introduce what they're doing 2:09 and with that I will hand over to Yan 2:20 all right thank you David wonderful 2:23 wonderful uh initiative and I'm really 2:27 I'm really truly honestly proud of our 2:32 community 2:33 and what you guys and girls and anything 2:37 in between are doing right now 2:42 um you take so much responsibility 2:43 already and 2:45 um I have a few examples uh from that 2:47 over the past weeks actually 2:51 um so 2:53 with this round two of deep funding we 2:55 also started to hand out more tasks to 2:58 the community 3:00 um but sometimes in a quiet ad hoc and 3:03 experimental way because I'm a big 3:05 believer in experiments I think you 3:07 should sometimes just try and do and 3:09 learn so that you can improve the next 3:12 time instead of trying to be perfect the 3:14 first time because usually you will fail 3:17 or it will take too long 3:20 um so what so 3:22 a first very good example of that is 3:25 peer reviews that we started with with 3:27 our awarded team members from round one 3:31 and we started up a process where the 3:36 team member of round one will 3:40 recommend will review 3:43 proposals in deep funding and make 3:45 recommendations on which one they think 3:47 are high quality I already mentioned 3:49 this in the the previous two Town Hall 3:53 so I won't go too deep into this maybe 3:56 in a later version we can have a 3:58 breakout room and 4:01 think this through proper properly to 4:04 see how we can improve this process in 4:07 the next round and and see what we have 4:09 learned here 4:11 but 4:13 um 4:14 thanks to all these team members that 4:17 volunteer to do that and put their time 4:19 and effort into it and now we have to 4:22 start of a new process where the 4:24 creators of previous rounds will help 4:27 the community to filter out projects 4:31 that they think are best and it's a 4:33 recommendation nobody has to follow it 4:35 it's just a recommendation but it might 4:38 help some of you to find the best 4:41 projects out of there going forward 4:45 and other very good example is 4:49 eligibility reviews 4:51 so there is a face before we go to 4:55 voting where we determine if all the 4:59 proposals are aligned with the formal 5:02 rules so do they have a good amount do 5:05 they have Milestones with budgets do 5:08 they have the infamous 25 percent rule 5:12 Etc so 5:13 this has to be checked before we go into 5:16 voting because the community needs to 5:19 understand what they are voting for so 5:23 that there are not changes afterwards 5:25 which they would have liked to know in 5:27 advance so we have to do that review and 5:30 it's it's to be honest it's it's one of 5:32 the more Awkward part of of my task and 5:35 the Deep funding team because you don't 5:37 want to 5:39 um 5:39 disqualify a good project because of 5:43 some formal reasons but it has to be 5:45 done so I asked a number of community 5:48 members at a very late stage to be 5:51 honest if they would be available to 5:53 help and what we did we created there 5:55 were about 10 people and we created 5:58 three groups from three or four people 6:01 and I asked two of these groups to do 6:05 the first assessment completely 6:08 independent from each other and then the 6:10 third group to compare notes and see 6:14 where things align and where there are 6:16 discrepancies and then zoom into that 6:18 and see if they could make a a decision 6:21 on that and then finally I only went 6:25 over the ones that were disqualified to 6:29 see if I could understand the reasoning 6:31 and if I could agree so that was my only 6:34 job there basically and 6:37 yeah this was organized actually within 6:40 days 6:41 and a couple of days later we had 6:44 everything going and we had a result and 6:47 I think this is the beginning of yet 6:49 another Community Driven process and 6:53 another breakout room sometime on 6:55 governance where we can discuss this in 6:58 more detail and see how we can improve 7:01 because it can still be improved to have 7:03 some ideas but I'd like to discuss that 7:05 with you on a later moment 7:08 the third example of increased Community 7:11 involvement 7:12 you see here before you right now and 7:15 those are the town halls something that 7:18 I have to have have to do very little 7:22 about because it's completely organized 7:25 and managed 7:27 and and also the Aftercare cutting up 7:31 the videos making them nice Etc it's all 7:34 done by the community 7:36 right now spearheaded by swarm and then 7:40 handed over to other communities that 7:43 would like to be involved so if you want 7:44 to be involved in that there's an 7:47 opportunity for you here 7:49 um so going onwards I think that we will 7:51 have more pools like that that will have 7:55 the opportunity to help us some on 7:57 proposals and rules some on town halls 8:01 and uh of course the teams for peer 8:04 reviews and the third one is about 8:09 um news and social media we are 8:12 massively revamping our deep funding AI 8:15 websites there will be a lot more 8:17 content going on and it will be quite a 8:20 a job to get to keep all that content up 8:23 to date and to also make sure that we 8:25 use our social channels well which to be 8:29 honest I'm not always great as that but 8:31 there are other people that are much 8:32 better in that so also there's an 8:34 opportunity for community members to 8:36 step forward and come to help us so 8:40 that is 8:42 continuing on the town hall and where we 8:44 are that is that is the main message 8:47 um 8:49 so very good experience so far still we 8:52 are in the middle of round two 8:54 unfortunately we had to postpone 8:58 the voting period from last Monday to 9:02 next Monday 9:03 there will be more info on that later on 9:09 um but that's a small detail and and 9:12 yeah thank you all for understanding uh 9:14 that delay 9:16 um we wouldn't do it if it wasn't 9:17 necessary and people working on it are 9:20 working extremely hard also right at 9:23 this moment to get all that thing in 9:26 proper uh uh 9:28 in the proper position uh for next 9:31 Monday 9:34 um 9:35 last but not least maybe the results of 9:42 um 9:43 of that eligibility review so in total 9:47 depends a little bit on how you count we 9:50 had 40 84 proposals in deep funding 9:54 round two which is 9:56 about double the size of round one 10:01 um 10:02 and of these 84 27 which is 32 percent 10:07 were unfortunately not qualified not 10:11 eligible they were not aligned with the 10:13 former rules 10:15 this is not the end of the world if you 10:17 put a lot of effort in your proposal and 10:20 for some reason you didn't make it 10:23 you're more than welcome next time to 10:26 give it another try if you go through 10:28 with one proposal to the through the 10:30 complete process from beginning to end 10:32 and people have voted on it and You're 10:34 Not Elected then as a rule we wouldn't 10:37 want you to submit the same Pro proposal 10:40 over and over again unless there is a 10:42 special reason of course you can always 10:45 change it but in this case if you're 10:48 just uh disqualified because you don't 10:51 align to the form of rules it's 10:53 perfectly fine to give it another try 10:55 next next time and that should be in 10:59 about three or four months from now I 11:02 expect 11:03 um 11:04 so my regrets for people who didn't make 11:07 it and we hope to see you back next time 11:11 and for the other 57 that did make it 11:15 good luck next week and thank you for 11:18 your proposals and may the best team win 11:26 thank you 11:27 nice thank you and thank you 11:32 going to 11:35 last game turn into the breakout rooms 11:38 so I'm just gonna share my screen 11:52 yes 11:54 so 11:58 uh just before we go into the breakout 12:00 rooms I just want to invite you all to 12:03 stay in touch after this event so we 12:07 um yeah so we have Singularity now uh 12:11 here's the web address singularitynet.io 12:13 we have deep funding 12:15 deep funding.ai and our AI Marketplace 12:18 beta Dot singularitynet.io 12:23 so I'm going to hand it over to the 12:27 leaders of the breakout rooms to 12:29 introduce their room 12:35 and you're welcome to speak Curtis 12:40 thanks David 12:41 yeah so we're we're trying to collect 12:44 some insight from the community and see 12:46 what some of their biggest pain points 12:48 are when it comes to community 12:50 collaboration strategies we have a few 12:53 topics that we want to just go over as 12:54 at a general high level if you're 12:57 interested in anything like the 12:59 community uh communication platforms 13:01 dissemination of information or some of 13:04 the pitfalls of larger communities 13:06 sharing knowledge and onboarding new 13:08 members that's going to be part of the 13:09 topics for today in our breakup room 13:14 nice thanks goddess 13:16 Kenneth Mayfield 13:18 hello well likewise we have an initial 13:21 Yogi Asian process to decide or help 13:25 design a virtual meeting hall for 13:27 Singularity net and the funding would 13:29 serve the community and what that would 13:31 solve in terms of finding projects 13:33 connecting with authors and just 13:35 gathering for events and for voting and 13:38 the other proposal we have in is for 13:40 Avatar LED onboarding so to simplify the 13:44 process of finding information about 13:45 Singularity net and deep funding 13:47 delivered through an avatar with 13:49 naturalistic expressions and these that 13:52 will contain apis that people can use 13:54 for their own purposes for their own 13:55 projects as well 13:57 thank you 13:58 all right and Felix 14:02 I speak about uh Singularity net and 14:05 maybe there are some ideas about how it 14:07 could people or should be positioned to 14:09 cardano MBO slash government 14:12 because I think Singularity net worth is 14:14 totally owned and independent ecosystem 14:16 very focused we have this very specific 14:19 needs and visions 14:21 when it's when especially when it's 14:23 coming on building on Cabana I think it 14:25 would be quite interesting to see how 14:28 could this interests and challenges as 14:29 well well communicated and coordinated 14:31 amongst the larger Carolina governance 14:34 process system 14:38 cool I I really want to thank uh the 14:42 leaders of our breakout rooms for taking 14:44 the energy to uh make space for all of 14:48 us to join in their conversations 14:50 um and uh 14:52 yeah spontaneously created so I'm really 14:56 looking forward to the conversations 14:57 that you guys are gonna have 15:01 um I'm Gonna Leave It to the leaders of 15:04 the breakout rooms to close whenever 15:06 they wish so you're from this point 15:08 onwards you are free 15:10 and I look forward to catching you 15:13 sometime soon 15:14 thanks so much guys a quick question how 15:17 do we switch to the breakout room please 15:20 so to go to the breakout rooms uh 15:23 you go to the bottom uh 15:27 do you see the breakout room 15:30 I do and a button that says join yes 15:34 that is the one there you go I pressed 15:37 that button and then we're in yeah yeah 15:40 yeah awesome 15:42 thank you for thank you for sharing 15:46 I appreciate it cool so 15:49 um 15:50 I will see you in your rooms have a 15:53 great time and take care 15:56 bye guys"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "In this townhall, discussions centered around improving the process for deep funding round 2. Chief amongst this, was the introduction of a mechanism where teams from previous rounds would review proposals for successive rounds as a means to assess their eligibility. This was discussed over three breakout rooms.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "pool, Marketing, RFP, education, Peer review, awarded teams, Proposal eligibility, milestones, community contribution",
+        "emotions": "Collaborative, Thoughtful , Friendly, informative, Discursive"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "9cc2c04b-21ff-495d-8ee2-e0fb9dd59da0": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2023-07-27",
+        "host": "Fly",
+        "documenter": "Onize",
+        "peoplePresent": "Rafael Presa, Harry Hellyer, Jan Horlings, Fly, Tommy Frey, Mauro Andreoli, Alex Snyder, WaKa, Aharon P, Dave Patterson, Christopher Buckman, CallyFromAuron",
+        "purpose": "Introduction to Deep Funding, News and Main room.",
+        "townHallNumber": "14",
+        "workingDocs": [
+          {
+            "title": "Deep Funding Town Hall | Breakout Rooms"
+          }
+        ],
+        "timestampedVideo": {
+          "url": "https://youtu.be/qQVaKFWnGKU?si=1lJo9i2RHAmBmW9f",
+          "timestamps": "0:00 Intro by Fly  2:25 Updates from Deep Funding  10:08 More updates from Rafael  20:08 Harry presents introduces his topic  34:40 Questions about the Miro board activity  43:30 Exercise for projects  53:18 Deeper dive into the diagram   1:04:07 Dave gave more context about his answer in the exercise  1:08:50 Harry resumes explanation of the paradigm  1:28:50 General discussion   1:39:30 Outro"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Intro by Fly (SingularityNET Ambassadors) News by Jan (Deep Funding)  Breakout rooms:- 1) Harry Hellyer - Challenges in a cascading Exponential Tech Discussion / review of challenges faced by SingularityNET community, in reference to 'Community based Mentorship, which was funded in the Deep Funding Round 2 https://deepfunding.ai/proposal/commu...  We invite everyone to sign up to create their own breakout room. All you need to do is write on the sign-up form: https://forms.gle/SEZboWxyqpxTu5Pb9   The Zoom-Call link will be the same for each event and can be found here: https://us02web.zoom.us/j/86934170891...",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Introduction, deepfund updates, Miro Board, TH Update , projects",
+        "emotions": "Friendly, Collaborative, Thoughtful , Organised"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
