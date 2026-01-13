@@ -1061,5 +1061,149 @@
       "noSummaryGiven": false,
       "canceledSummary": false
     }
+  ],
+  "9f6a03f4-503a-4904-8284-e5c6c6146996": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2022-11-23",
+        "host": "Jan Horlings",
+        "documenter": "Ayo",
+        "peoplePresent": "Jan Horlings, Tevo, André, Juana Attieh, PeterE, others unknown",
+        "purpose": "Discussion of Deep Funding DF Round 2",
+        "transcriptLink": "https://www.youtube.com/watch?v=RRIeiB_361g",
+        "timestampedVideo": {
+          "url": "https://www.youtube.com/watch?v=RRIeiB_361g"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "The meeting primarily covered updates and discussions on a couple of topics:  1. Cardano Summit and Deep Funding Round Two: The host provided a brief overview of the new rules and conditions for Deep Funding Round Two, noting that a more detailed discussion would be scheduled later due to the complexity of the document.  2. Singularity Net Initiative: A proposed training program for community members was discussed, aimed at helping teams onboard and get paid for their contributions. This initiative would require significant effort but offers substantial rewards.  3. Onboarding Process: The meeting highlighted challenges with the current onboarding process, including confusion over documentation and the navigation between the developer and publisher portals. Suggestions were made to improve clarity and user experience, such as providing an overview of the steps and requirements upfront.  4. Video Tutorials: The team is working on creating video tutorials to help with onboarding, addressing a previous request from a community member.  5. Onboarding as a Service: There was a proposal to offer onboarding as a service, potentially creating job opportunities for community developers to assist in the process. This could include formal training and credentialing for those involved.  6. Market Conditions and Deep Funding Treasury Protection: Concerns were raised about the current market conditions and the need to protect the Deep Funding treasury from significant downturns. A minimum exchange rate will be established to safeguard the funds.  The meeting concluded with an emphasis on the importance of community feedback and collaboration to improve the onboarding process and the overall success of the initiatives discussed.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "pool, Deep funding round 2, Ideas and Improvements, feedback"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "e41ce4d5-b7c7-4aa3-bdd8-125d267a942e": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2022-12-07",
+        "host": "Jan Horlings",
+        "documenter": "Photogee",
+        "peoplePresent": "Jan Horlings, Peter, Felix, others unknown",
+        "purpose": "To announce the deep funding Round 2 and pools",
+        "timestampedVideo": {
+          "url": "https://youtu.be/_GZtcBOoOYg?si=1p7s2-n8wqoRo_ju",
+          "intro": "Deep Funding initiated by SingularityNet makes it to the second rou. In the video Jan Horlings talks about the funding amount and pools in which there are two main pools and 3 secondary pools. Also provides deadline for proposal submission and gives a guide on how proposals are to be be done.",
+          "timestamps": "No Timestamp included"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Jan Horlings talks about the funding amount and pools in which there are two main pools and 3 secondary pools. Also provides deadline for proposal submission and gives a guide on how proposals are to be be done and what describes the types of funding pools.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Deep funding round 2, pools, Proposals",
+        "emotions": "Collaborative, Welcoming, engaging"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "b934a5e4-4a4c-4a46-821a-56df2381b2dd": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2022-12-08",
+        "host": "Jan Horlings",
+        "documenter": "Photogee",
+        "peoplePresent": "Jan Horlings, Kenric Nelson, ParagOza, Kent, others unknown",
+        "purpose": "To discuss projects to be funded and presentation such projects",
+        "timestampedVideo": {
+          "url": "https://youtu.be/_GZtcBOoOYg?si=S1fulZWiJShMxd8X"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "In the deep funding community call, membes who have projects that needs funding gave a full presentation on how their projects may affectthe ecosystem positively and solutions to problems. The first proposal started with Robert Hass  The second Ken Mayfielf, and Photorek who made an interesting presentation also.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "deep funding round 4",
+        "emotions": "productive, Collaborative, Thoughtful , funny , Welcoming"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
+  ],
+  "70ac28a5-4118-45db-a054-b18ea74b5087": [
+    {
+      "workgroup": "Deep Funding Town Hall",
+      "workgroup_id": "481edee0-90b3-4a78-8746-1b6e1c9e37de",
+      "meetingInfo": {
+        "typeOfMeeting": "Biweekly",
+        "date": "2022-12-14",
+        "host": "Jan Horlings",
+        "documenter": "Photogee",
+        "peoplePresent": "Jan Horlings, PeterE, others unknown",
+        "purpose": "Discuss Retrospectives of townhall meetings",
+        "timestampedVideo": {
+          "url": "https://youtu.be/_BieRKnvCfQ?si=qhnwxOUqvjVEU4Jn",
+          "intro": "The video shares great retrospect on how other meetings have been, the turn out of meetings and also gives future solutions to what can be done to improve meetings.",
+          "timestamps": "No Timestamp included"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Jan Horlings shared  great retrospect on how other meetings have been, the turn out of meetings and also gives future solutions to what can be done to improve meetings.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Roles, Ideas and Improvements, Progress",
+        "emotions": "Collaborative, Welcoming"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false
+    }
   ]
 }
