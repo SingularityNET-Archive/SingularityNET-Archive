@@ -389,5 +389,256 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "85e73d1e-62c5-4eb7-ab70-79fff9e7adb2": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-01-29",
+        "host": "Tevo",
+        "documenter": "CallyFromAuron",
+        "peoplePresent": "Tevo, Maxmilez, CallyFromAuron, PeterE, Ayomi Shuga, guillermolucero, Alfred Itodele, Jeffrey Ndarake, esewilliams",
+        "purpose": "regular weekly Open Gov session",
+        "mediaLink": "https://miro.com/app/board/uXjVGVSAcGY=/",
+        "workingDocs": [
+          {
+            "title": "Rolling agenda",
+            "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+          },
+          {
+            "title": "GovWG governance workgroup facilitation and documentation rota",
+            "link": "https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?usp=sharing"
+          },
+          {
+            "title": "Ambassador Program restructure: collated responses",
+            "link": "https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=drivesdk"
+          },
+          {
+            "title": "How would YOU restructure the Ambasador Program?",
+            "link": "https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing"
+          },
+          {
+            "title": "Miro for this session",
+            "link": "https://miro.com/app/board/uXjVGVSAcGY=/"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "discussionPoints": [
+            "Onboarding issues in GovWG itself",
+            "We prioritised ideas for the Program restructure:  - What has been suggested by several people?  - Where does it seem we agree?  - What are the similarities and differences?  - What's emerging as most important ideas?",
+            "Comparing different priorities",
+            "How are we seen, who do we want to be, what do we want to prioritise?"
+          ],
+          "narrative": "#### Community engagement with the restructure process - Why are people not taking part in these sessions...? - people are not always following what's being discussed - lots of ideas have been raised and it's hard to catch up  #### The ideas for restructuring in the discussion docs - Some have said we should be working more project-based, others said restructure/consolidate WGs.  - Are these different approaches to the same problem?  - Consolidating WGs might not be the issue - we could spend (waste?) a lot of time on it without really improving anything  #### Axes on which to compare some of the stickies - Quality control vs mentorship vs capability? - Quality control vs focus on decentralised governance? - Cost - something being cheap doesn't necessarily make it a priority, and being expensive doesn't mesan we shouldn't do it  What do we mean by some of these?  Quality control - maybe not resolvable via templating  #### Who are we, who do we want to be?  - Some have suggested we should focus on tech stack - this would mean positioning ourselves as 'the builders'. Is hat what we want? - Do we know how people see us? We're seem as the ones who know about decentralised governance - Do we want to focus on creating content? Is that not the thing that we're least good at? - Ambassadors as the place for wonky experiments :-)",
+          "decisionItems": [
+            {
+              "decision": "We will move next week's planned session on Theory of Change, and instead have further discussion on how to prioritise he ideas that have been shared on restructuring.",
+              "effect": "mayAffectOtherPeople",
+              "rationale": "because this discussion doesn' feel finished"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "not many people spoke, frustrating, no conclusions yet, no decisions",
+        "topicsCovered": "Ambassador Program restructure, Community Engagement, consolidate workgroups, project based work, quality control, content creation, decentralised governance,  Experimentation"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "68e6314a-8aea-40e6-b1c0-4144108f8539": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-03",
+        "host": "PeterE",
+        "documenter": "Tevo",
+        "peoplePresent": "PeterE, Tevo, guillermolucero, Tina Shriver, Stephen [QADAO], UKnowZork, AshleyDawn, Love Owokere",
+        "purpose": "Space to discuss governance related topics for Ambassador Program",
+        "mediaLink": "https://archives-dashboard.netlify.app/search?tab=meetings&workgroup=bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.rbgx0apr135d#heading=h.8e2ed6ultzr2",
+            "title": "Running Meeting Notes"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?tab=t.0",
+            "title": "Ambassador Program restructure: collated responses"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?gid=851820755#gid=851820755",
+            "title": "Faciliation Rota"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Review of Project-Based Funding Model",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Participants reviewed the [Project-Based Funding](https://docs.google.com/document/d/1c3_ZPef2FlmxTSxxXBKBtIRGAdqaD8bOJfjme_wt8xw/edit?tab=t.0) document and discussed the raised questions",
+            "Concerns were raised about whether a shift to could weaken the established culture within Ambassador groups",
+            "New members highlighted that onboarding and learning were valuable in themselves, often without expectations of financial rewards.",
+            "The ecosystem was described as one where contributors often enter with low expectations and value the freedom to choose workgroups, develop skills, and sometimes be rewarded for learning.",
+            "A concern was raised that many workgroups currently spend a large portion of their budgets on operational costs rather than outputs.",
+            "Uncertainty remains around what exactly administrative roles are funded to do and how their value is assessed.",
+            "Concerns were expressed about rigidity in project design; some suggested a role-based, contract-style approach once a project plan and requirements are clear.",
+            "Existing workgroup interests may resist change under a new funding model.",
+            "Participants discussed separating financial compensation from other forms of recognition, such as reputation or non-monetary rewards.",
+            "Greater diversity in recognition mechanisms was encouraged, potentially linked to tokenomics.",
+            "Caution was raised about focusing too heavily on 'reputation' instead of 'contribution,' noting the importance of language and framing.",
+            "There was concern that focusing only on paid work risks undervaluing non-building contributions.",
+            "The group acknowledged that reputation systems are complex and that historical data may behave in unexpected ways.",
+            "Participants questioned whether project-based systems actually lead to meaningful results.",
+            "There was skepticism about defining 'results' purely in terms of outputs, KPIs, or deliverables.",
+            "The need for clearer definitions of outcomes and impact was highlighted.",
+            "The group discussed whether standardized project templates and assessment frameworks are needed.",
+            "Allocation amount should be addressed early to clarify scope and planning assumptions.",
+            "Project duration and selection cadence were debated, with quarterly cycles seen as a good balance for iteration and learning.",
+            "Some participants preferred focusing deeply on a single project rather than spreading resources across many.",
+            "Mentorship was discussed as valuable but not universally applicable; some tasks are difficult to mentor.",
+            "Mentorship and onboarding introduce additional costs that must be considered in budgeting.",
+            "Project-Based Learning was identified as a strong fit, enabling documentation, onboarding, and knowledge transfer through real outputs.",
+            "Administrative roles were seen as important for improving quality and increasing participation, but they require experienced contributors.",
+            "Concerns were raised about contributors who are not part of active projects and how they would maintain Core Contributor status.",
+            "The group discussed quality assurance mechanisms, including milestone-based funding.",
+            "Participants discussed how to productively use the ideas generated in the session. Caution was expressed that AI-generated options require strong grounding and may not always save time or produce useful results without sufficient context."
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "4e448e4f-a309-4015-970e-a267efc8c5bd": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-05",
+        "host": "CallyFromAuron",
+        "documenter": "lola",
+        "peoplePresent": "CallyFromAuron, lola, guillermolucero, PeterE, ayomi, LadyTempestt, Alfred Itodele, UKnowZork, Jeffrey Ndarake, tina shriver",
+        "purpose": "To explore whether project-based funding could be introduced into the Governance WG ecosystem, and to clarify what would define a 'project' under this model.",
+        "workingDocs": [
+          {
+            "title": "Collaborative document",
+            "link": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "This session explored the possibility of introducing project-based funding within the ambassadorship program, either as a replacement for or complement to the existing Work Group structure.  The discussion was to explore with work group members sharing perspectives on what should define a 'project,' how projects could be funded, how decisions might be made, and how this approach would interact with current governance structures.  The collaborative document used Y / N responses to capture who agreed or disagreed with specific approaches  There was strong agreement that project-based funding should be tested experimentally (rather than fully adopted immediately), with more sessions required to talk about open governance, budgetary, and decision-making questions.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Schedule a follow-up governance session focused on; Decision-making approach, Budget allocation models."
+            },
+            {
+              "text": "Define criteria for 1-2 pilot projects for Q2",
+              "status": "todo"
+            },
+            {
+              "text": "Clarify; evaluation  metrics for the experiment, Payment structures and timing, Clear boundaries between WG work and project-based work",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "No formal decisions were made.  Suggestions were:  - Treat project-based funding as an experiment - Avoid fully replacing WGs without testing - Continue discussions in follow-up sessions"
+            }
+          ],
+          "discussionPoints": [
+            "1. What Should a 'Project' Look Like?  Members discussed what qualities a project should ideally have, using Y / N responses to show agreement or disagreement.  Points that's were talked about:  - Projects should align with the ambassadorship mission, vision, and BGI - Projects should include some form of education or community engagement - Projects should be open-source (including Creative Commons where relevant) - Projects should connect to decentralized governance - Projects should have ethical values (to be defined further)  - Rather than setting permanent rules, the group agreed it's better to test the idea with 1-2 pilot projects first  Other views:  - Whether projects should always be experimental - Whether a 'Theory of Change' should be required - Whether use of the ambassadorship tech stack should be mandatory (generally seen as optional, not required)",
+            "2. Roles and Work Elements Within Projects  Members discussed what roles projects would typically need and whether they should be paid.  Broad agreement: - Projects should include project management - Monitoring and evaluation (M&E) is important - Documentation should be part of all projects  Other views: - Mentorship was seen as valuable but not essential - Publicity or communications would depend on the project  On payment, most agreed that key roles such as research work etc should be paid, but with flexibility. Some roles (such as mentees or documentation) could be unpaid or structured differently such as offering people things of value like mentorship in place of a pay depending on the project and the benefits involved.",
+            "3. Project Duration and Structure  There was no single agreed project length.  Key points raised:  - Some governance projects take close to a year - Others may become outdated quickly - Project-based funding shifts focus from hours worked to tasks completed  Overall, there was a preference for flexible timelines, with around six months seen as a reasonable starting point and room for mid-project reviews or adjustments.",
+            "4. Budget and Scope (Q2 Context)  Members reviewed the available Q2 budget and constraints such as transaction fees and treasury costs.  General sentiment: - Caution against moving fully to project-based funding immediately -Preference for a hybrid approach, combining projects and WGs (e.g. 50/50 or 80/20) - Keeping WGs funded for ideation, coordination, and specific work",
+            "5. Decision-Making and Governance  Several governance questions were raised but not resolved in this session, including: - How projects would be proposed - How projects would be selected - How roles would be assigned - How quality and progress would be assessed - How and when payments would be made  These were noted as areas needing more discussion in a follow-up session.",
+            "6. Relationship Between Projects and Work Groups  There was discrepancies around how project-based funding would coexist with existing WGs.  Key questions asked:  - Whether projects would replace WGs or run alongside them - What WGs would be funded if projects are introduced - what they will be funded to do.  - How volunteering and ideation would fit into this structure - if project-based funding is done as an experiment, what will the experimental mehodology be, and how will we assess, using what criteria, whether the experiment was a success?  No consensus was reached on this"
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "37e8cfad-2942-4240-b553-6357b8cb915e": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-19",
+        "host": "Tevo",
+        "documenter": "Tevo",
+        "peoplePresent": "Tevo, PeterE, guillermolucero, Alfred Itodele, AshleyDawn, Ayomi Shuga, Maxmilez, Omolola Lawson, Rems, hogantuso, Tina Shriver",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1ahDx-6ZslVNrQHc9pKAoV_dgNRLp8QFZa-gFMJk1D7I/edit?usp=sharing",
+            "title": "Questions ideation"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The session opened with low attendance and an explicit check on whether it made sense to run the meeting as planned. The group explored how to review and prioritize an existing set of budget/polling questions, and whether to run polling live during the call or asynchronously later.  Tevo demonstrated the [Coordination Manager](https://coordination-manager.vercel.app/) tool that can generate Discord polls from prepared questions, with the intent to test whether participants could engage in Discord polling while staying on Zoom. In practice, engagement in the Discord channel was minimal, raising concerns that live polling during the call would not work without tighter integration into Zoom  During the tool demo we reached rate limits so we discontinued using Coordination Manager.  As the group walked through the question sets they noted that some questions already have partial answers in existing documents/sheets, and that some questions are too broad or ambiguous without additional context  We chose a pace where we made sure answering questions benefits us before asking the wider group to respond.  The call ended without going through all the questions.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Fix Discord polling mechanics in the Coordination Manager (remove double-reaction numeric encoding; support clean single-choice options; increase rate limiting for power users).",
+              "assignee": "Tevo"
+            },
+            {
+              "status": "todo",
+              "assignee": "Core Contributor",
+              "text": "Answer polling questions in Governance Channel before next Governance WG session"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Do not rush to publish/run the remaining polling questions until wording and polling mechanics are reviewed to avoid wasting respondents' time."
+            },
+            {
+              "decision": "The budget strategy preferences are questions as informative signals rather than binding inputs for decisions."
+            }
+          ],
+          "discussionPoints": [
+            "How do we want to conduct the sessions?",
+            "Which of these poll questions we should create? https://docs.google.com/document/d/1ahDx-6ZslVNrQHc9pKAoV_dgNRLp8QFZa-gFMJk1D7I/edit?usp=sharing"
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
   ]
 }
