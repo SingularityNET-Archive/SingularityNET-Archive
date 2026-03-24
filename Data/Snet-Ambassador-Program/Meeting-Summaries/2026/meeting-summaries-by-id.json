@@ -640,5 +640,161 @@
       "noSummaryGivenText": "No Summary Given",
       "canceledSummaryText": "Meeting was cancelled"
     }
+  ],
+  "df19d1c2-53e2-4789-b6ac-3ce080b4c6ba": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-12",
+        "host": "PeterE",
+        "documenter": "lola",
+        "peoplePresent": "PeterE, CallyFromAuron, ayomishuga, guillermolucero, AshleyDawn, maxmillez, Tevo, Malik",
+        "purpose": "The ambassadorship restructure, Q2 budget allocation and proposals to be shared for consent.",
+        "workingDocs": [
+          {
+            "title": "Rota",
+            "link": "https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?usp=sharing"
+          },
+          {
+            "title": "Budget planning sheet",
+            "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+          },
+          {
+            "title": "Proposal sheet",
+            "link": "https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/edit?usp=sharing"
+          },
+          {
+            "title": "Restructure doc",
+            "link": "https://docs.google.com/document/d/1fwCGlTls_bHBJ46ejF9wXZXOCfB7eEnmZeAhSbP9axQ/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1iGzJoi1bLJvMAd59vmx_NL1kQkUXcLri-BFkZK-NcJU/edit?usp=sharing"
+          },
+          {
+            "title": "Sentiment analysis July/august",
+            "link": "https://docs.google.com/document/d/1w744aSE2GT2kGDLXyZeGXkMU1j2psAnvZPWSIwKQ5sM/edit?usp=sharing"
+          },
+          {
+            "title": "Sentiment analysis nov",
+            "link": "https://docs.google.com/document/d/1H5-Yy14dije-oH2MtW34-yCUseYnQP2F0y6HpMsIKKI/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/17AtgHnMvMSghqsDg2yfmV9h1Jl85S58-pVIetucXbi8/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting was about how to use the Q2 budget and what proposal to send for approval. It was also discussed whether to continue with the planned timeline or delay it.  A big part of the conversation was about Working Groups (WGs). Some people felt stopping them could affect the community, while others said it doesn't make sense to keep funding groups that are not doing strong or useful work.  We talked about improving quality by moving to short-term projects with clear goals instead of ongoing funding. There were also questions about what counts as a project.  The group discussed merging some WGs to work better and making sure funding is fair so the same groups don't always benefit.  Overall, some people were unsure about moving away from WGs, either because of real concerns or fear of change. They also suggested asking all WGs to submit short Q1 reports.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Workgroups to submit their Q1 budget",
+              "dueDate": "20 March 2026"
+            },
+            {
+              "text": "Consent process to opened till",
+              "status": "todo",
+              "dueDate": "26 March 2026"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Workgroups to submit their Q1 reports"
+            },
+            {
+              "decision": "Consent process will be carried out"
+            },
+            {
+              "decision": "A meeting to be held on Friday to look at the sentiment materials and do some sense making of it."
+            }
+          ],
+          "discussionPoints": [
+            "Ongoing discussion on how to allocate the Q2 budget",
+            "Decision on whether to proceed with or postpone the consent timeline",
+            "Proposal to be shared for consent approval",
+            "Clarification of consent mechanism details:     Quorum requirements      Whether objections should be anonymous      How to include absent members (e.g., via DM)",
+            "Concerns about losing community culture if WGs are stopped",
+            "Concerns about funding low-quality or non-impactful work",
+            "Need to review existing sentiment analysis and feedback on WGs",
+            "Focus on improving quality and better use of resources",
+            "Discussion on what defines a 'project': Clear scope and timeline Defined outcomes Alignment with program goals",
+            "Opportunity to open work to more contributors through skill-based project assignments",
+            "Reflection on why WGs are being maintained: Independent budgets and experimentation Community inclusion and participation Transparency and regular updates Fear of change or actual need",
+            "Suggestion to request Q1 reports from all WGs",
+            "Discussion on task structure via offernet: Individual vs group-based tasks Ad hoc teams instead of fixed WGs Concern that resources may be spread too thin trying to include everyone"
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "reflective",
+        "topicsCovered": "restructuring"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "2dc4f4a2-38fa-4ff2-a31a-e5d506eb2f01": [
+    {
+      "workgroup": "Governance Workgroup",
+      "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-10",
+        "host": "PeterE",
+        "documenter": "Tevo",
+        "peoplePresent": "PeterE, Tevo, oep, CallyFromAuron, Jeffrey Ndarake, MaxMilez, Ayomi, guillermolucero, Kateri, Alfred Itodele",
+        "purpose": "We are working on figuring out what to do in Quarter 2. Reviewing ideas and proposing new ones",
+        "mediaLink": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.q53ahkqkk74x",
+        "workingDocs": [
+          {
+            "title": "Project-based work planning",
+            "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/edit?tab=t.0#heading=h.5988dqq1cek9",
+            "title": "Ambassador Program Restructure 2026"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "The meeting focused on clarifying how the Ambassador Program should approach project selection and proposal development for the upcoming Q2 budget, while also reflecting on the broader direction of the program. Participants noted that there had been ongoing uncertainty about who should be responsible for proposing projects. This was clarified during the discussion when Vanessa emphasized that there are no individual proposers; instead, the community collectively develops proposals. The goal is to collaboratively craft a single proposal that the group can move forward to the consent process with, rather than presenting multiple competing proposals and asking members to vote between them.  The group reflected on the fact that project ideas had been requested for over eight weeks, yet there was still difficulty identifying a clear direction. Participants reviewed the Ambassador Program Restructure 2026 document and examined the existing project outline to better understand expectations for project outcomes, milestones, and reporting. A key insight was the distinction between milestone reporting and output reporting, and the importance of having iterative progress assessments rather than waiting until the end of a project period to evaluate results  Several existing proposals from the Governance Working Group were reviewed, but there was a shared feeling that many of the ideas were not yet strong enough or sufficiently aligned with the program's needs. This led to further ideation about alternative approaches listed in GovWG budget sheet https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?gid=711478665#gid=711478665 and meetings notes here https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.q53ahkqkk74x  The discussion also explored alternative funding approaches, such as providing stipends to participants and allowing them to allocate recognition to contributors who supported their work-based on criteria like mentorship, marketing support, or succession capability. Participants noted that mentorship itself may not be a primary focus for the program going forward, and there was an ongoing challenge in defining the role the Ambassador Program wants to embody within the broader ecosystem.  Ultimately, the group recognised that selecting a project remains difficult because each has its own negative consequences and a lack of a clear outcome. We give ourselves more time to come up with ideas that would suit for more people or has clearer outcome. Some left with the feeling that we should just start a project to see how it goes.",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Ideate on more ideas!"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "In the governance WG, we review ideas and decide on which projects we would like to work on, if we find something where most of us feel we should go with we form a proposal",
+              "effect": "mayAffectOtherPeople"
+            }
+          ],
+          "discussionPoints": [
+            "Who will do proposal forming?",
+            "We worked on the Ambassador Program Restructure 2026 document https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/edit?tab=t.0#heading=h.5988dqq1cek9",
+            "We Reviewed Gov WG Proposal ideas https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?gid=711478665#gid=711478665on this sheet:",
+            "What should be our Ambassador Program priorities?"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
   ]
 }
