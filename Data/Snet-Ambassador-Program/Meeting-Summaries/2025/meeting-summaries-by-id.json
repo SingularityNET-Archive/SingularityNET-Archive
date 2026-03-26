@@ -10368,7 +10368,7 @@
         "date": "2025-12-10",
         "host": "Stephen [QADAO]",
         "documenter": "CallyFromAuron",
-        "peoplePresent": "CallyFromAuron, Stephen [QADAO], Tevo, PeterE, Alfred Itodele, Sharmila",
+        "peoplePresent": "CallyFromAuron, Stephen [QADAO]",
         "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
         "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
         "workingDocs": [
@@ -10385,14 +10385,6 @@
       "agendaItems": [
         {
           "status": "carry over",
-          "actionItems": [
-            {
-              "text": "Vani to draft and submit minimal report for this Quarter's work",
-              "status": "done",
-              "dueDate": "8 December 2025",
-              "assignee": "CallyFromAuron"
-            }
-          ],
           "decisionItems": [
             {
               "decision": "Knowledge graph development: see  - https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/285 (Nov 2025)  and  - https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/287 (Dec 2025)  Key focus recently has been is prototyping a replacement Archives dashboard, and thereby  improving the data ingestion pipeline. Initial work on ingesting data from multiple sources into a Supabase schema has been completed, so we know it works; a prototype RAG system has been built using a minimal local LLM to parse data from a discrete source (sample JSON data from this year only); and a draft Discord bot capable of generating answers with verifiable citations.",
