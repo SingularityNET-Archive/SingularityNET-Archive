@@ -774,5 +774,87 @@
     "canceledSummary": false,
     "noSummaryGivenText": "No Summary Given",
     "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Onboarding Workgroup",
+    "workgroup_id": "208afbe1-7830-4409-9c74-1f05171ebe01",
+    "meetingInfo": {
+      "typeOfMeeting": "One-off event",
+      "date": "2026-03-05",
+      "host": "Sucre n Spice, LadyTempestt, CallyFromAuron",
+      "documenter": "CallyFromAuron",
+      "peoplePresent": "Sucre n Spice, LadyTempestt, CallyFromAuron",
+      "purpose": "Q1 2026 meeting of the Onboarding WG focus group",
+      "workingDocs": [
+        {
+          "title": "Draft Onboarding Workgroup Budget",
+          "link": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+        },
+        {
+          "title": "Onboarding Workgroup Github Project Board",
+          "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/9/views/2"
+        },
+        {
+          "title": "Onboarding  WG report for Q4 2025 and Q1 2026",
+          "link": "https://docs.google.com/document/d/1NV2QqlS5Do_-r6POlwYWKgv18t6wUtbzI_RgWMb-Llk/edit?usp=sharing"
+        }
+      ]
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled",
+    "tags": {
+      "topicsCovered": "Q1 2026 budget, Focus Group, onboarders team, Ambassador Program restructure, WG reserves, low token price, AGIX price, dissolution of Onboarding WG",
+      "emotions": "Deliberative, sad, decisive"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "actionItems": [
+          {
+            "status": "todo",
+            "text": "We will post in the Onboarder Team's Discord channel to explain the cuts to everyone's pay, and that the WG will be closing at the end of the Quarter.",
+            "dueDate": "31 March 2026",
+            "assignee": "Sucre n Spice, LadyTempestt, CallyFromAuron"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "As there will not be a full WG meeting this Quarter due to budget constraints, we will submit the minutes of this Focus Group meeting to the Archives instead, as a record of Onboarding WG's decisions this Quarter.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "There is unlikely to be a need for an 'onboarding' function as such in the restructured Ambassador Program. Therefore, the Onboarding WG and its Onboarders Team will be dissolved at the end of Q1 2026.",
+            "effect": "affectsOnlyThisWorkgroup",
+            "rationale": "We acknowledged that with the Program's small budget, its likely future focus on project-based work, and its probable focus in future on capability and people taking roles they are skilled in, there is unlikely to be space to onboard many new people in Q2 2026. Any who do come in will probably be recruited for specific skills they have, and will be 'onboarded' by the project team that recruits them."
+          },
+          {
+            "decision": "We will spend our entire WG reserves to supplement our Q1 2026 budget cap, in order to be able to pay reasonable amounts for work done this Quarter",
+            "rationale": "Token price has dropped so much that we caqnnot fund this Quarter's work within our Q1 budget cap of 6,399 AGIX (unless we cut the Onboardewr team's pay to ridiculously low levels, which would be unfair). So, given that we have acknowledged there is not a need for this WG to keep going after the restructure, we have decided to spend our reserves to cover the shortfall. This gives us a total of 10,995 AGIX to spend, and will mean we can meet our obligations, with only comparatively minor cuts to what we intended to pay.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We will have to make some cuts to our intended budget for Q1 2026, to fit our total available budget (budget cap + reserves). These cuts are:  - No WG meeting this Quarter  - No Onboarders meeting this Quarter - Reduction in Onboarder Team's pay (from $400 to Sucre and $150 to each Onboarder, to 3,000 AGIX to Sucre and 1,000 AGIX to each Onboarder)  - Focus Group, 531 AGIX each (about $30, reduced from $60) = WG management on GiHub and Dework: 1400 AGIX (about $100, reduced from $300)",
+            "effect": "affectsOnlyThisWorkgroup",
+            "opposing": "WG meeting and Onboarders meeting would not be a good use of resources, as there is essentially nothing to discuss.  Other budget cuts are the best we can do with the money we have."
+          },
+          {
+            "decision": "We discussed what the WG has achieved over its whole period of existence, and will work this into our Q1 2026 report when the time comes.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Future role of Onboarding WG",
+          "Q1 2026 budget rec",
+          "the Ambassador Program restructure and its drivers"
+        ],
+        "learningPoints": [
+          "It was good practice that we maintained reasonably substantial reserves throughout our existence, as it has meant we are able to pay people a reasonable amount for their work this Quarter despite low token price.",
+          "Ultimately, continued low token price has been a major driver of the Program restructure. There has perhaps been a tendency to minimise this reason in discussion, and focus on more 'positive' reasons. Perhapos a restructure would have been a good idea even had token price been high; but it is interesting to reflect on what such a restructure might have looked like."
+        ]
+      }
+    ]
   }
 ]
