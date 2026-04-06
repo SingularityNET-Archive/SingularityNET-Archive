@@ -880,5 +880,662 @@
         }
       ]
     }
+  ],
+  "eea1ac9b-bcca-492a-a4a0-f6c0e4cb5a54": [
+    {
+      "workgroup": "African Guild",
+      "workgroup_id": "2d56e7d8-52ba-4be0-837f-a9a14ae4dc6e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-01-15",
+        "host": "Duke",
+        "documenter": "martinsoki",
+        "peoplePresent": "UKnowZork, Kateri, Alfred Itodele, esewilliams",
+        "purpose": "Bi-weekly Meeting of the African Guild",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/presentation/u/0/d/1oV-pOLn2NyLvAcdBHnscmTu-E1B-a1Fdm3VNY5BlN4U/mobilepresent?pli=1&slide=id.g3afa51893dd_0_21",
+            "title": "SNET African Guild Q4 initiative"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "narrative": "Intro: The meeting began with Duke welcoming participants to the first meeting of 2026 and discussing the last quarter review.    African Guild's Quarter Review: Duke reflected on the previous quarter's achievements, particularly highlighting the African Guild's essential role as identified in a recent evaluation exercise. He acknowledged the team's efforts in executing various projects despite constraints, commending individuals like Uknowzork and Ese for their contributions. Duke emphasized the need to focus on thriving rather than just surviving in the current quarter, hinting at a new idea that would require more team involvement.    African Guild Restructuring Discussion: Duke encouraged team members to share their ideas and critiques on restructuring, emphasizing the importance of considering both individual perspectives and the needs of the African Guild workgroup. He highlighted the program's current dominance by Nigerians and stressed the need to leverage the group's resources and manpower, particularly in ASI education, while developing an African Guild-centered view on restructuring. Duke suggested that the next meeting focus on discussing restructuring from the African Guild perspective.   Token Price Impact Meeting Restructure: The group discussed meeting restructuring due to token price impacts, deciding to maintain the current bi-weekly schedule for now while exploring options for the future. Duke emphasized the importance of minimizing the distance between ideation and execution in 2026, suggesting that this year will reward effort over expertise.",
+          "actionItems": [
+            {
+              "status": "in progress",
+              "text": "Martinsoki to Continue engagement with Talking Drum Dispatch and promote readership",
+              "assignee": "martinsoki",
+              "dueDate": "29 January 2026"
+            },
+            {
+              "text": "Roll over incomplete initiatives (AI videos, cross-guild collaboration, X Space) to Q1 2026",
+              "status": "in progress",
+              "dueDate": "29 January 2026"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The group agreed to continue with bi-weekly meetings instead of one monthly meeting.",
+              "effect": "affectsOnlyThisWorkgroup",
+              "rationale": "Allows more regular check-ins and progress tracking.",
+              "opposing": "Monthly meetings would reduce time commitment."
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Talking Drum Dispatch, Community Outreach, Meeting Restructure, Africa Guild Restructuring, Q4 2025 review",
+        "emotions": "welcoming, progressive, Reflective"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "bf3a37a5-7c13-4b6f-bb1b-ec047a3c1a29": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Think-Tank",
+        "date": "2026-01-15",
+        "host": "osmium",
+        "documenter": "martinsoki",
+        "peoplePresent": "LordKizzy, CollyPride, Tevo, UKnowZork",
+        "purpose": "Regular biweekly meeting",
+        "workingDocs": [
+          {
+            "link": "https://www.canva.com/design/DAGTr2f8gW8/YWrjpheKKdAoifI9pjrbsQ/view?utm_content=DAGTr2f8gW8&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+            "title": "Presentation Template"
+          },
+          {
+            "title": "Agenda",
+            "link": "https://discord.com/channels/909843832491896832/1098295570898104340/1428347765469085777"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1QqXHNB585PjYWbHkl2MvimzDtAcw4h7DolR265Sah8g/edit?usp=sharing",
+            "title": "Compute Is the New Power: Who Controls Intelligence in 2026"
+          },
+          {
+            "title": "DRAFT: SingularityNET Ambassador Program EOY report 2025",
+            "link": "https://docs.google.com/document/d/1PAY5TSzVLapdKwpKsg0cz5L2X0Qbo3wlZ59niahLTVA/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Introduction and welcome: The meeting began with Osmium welcoming everyone, after which discussions covered the Ambassador Program restructuring, the 2025 end-of-year report draft, and the ASI Compute framework.   Participants agreed that AI Sandbox and Think Tank belong under Research, in the 2025 end-of-year report while Archives fits better under Governance or Program/Project Management, since research and experimentation cut across all workgroups. The proposed structure was seen as acceptable but simplistic, mainly for reporting and possible budget alignment, and should remain a draft pending wider governance consensus.  The second discussion framed ASI Compute as essential infrastructure, not a privilege or product. Centralized compute was identified as a major risk-creating single points of failure, power concentration, censorship, and inequality. ASI Compute was presented as a hybrid, decentralized-by-design system enabling fault-tolerant, resource-aware intelligence through dynamic allocation, governance mechanisms, and ethical oversight. The session was clarified as a think-tank discussion for strategic input, not onboarding or education, with further discussion planned."
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Educational,  Collaborative,  informative",
+        "topicsCovered": "Future Planning, Ambassador Program restructure, ASI Academy, ASI compute, end of year report 2025"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "4da65821-693b-4491-b7db-5be6208570ba": [
+    {
+      "workgroup": "AI Sandbox/Think-tank",
+      "workgroup_id": "2c8f641a-2fc5-4a3c-9f38-64d8acd0fea9",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-19",
+        "host": "LordKizzy",
+        "documenter": "Santos",
+        "peoplePresent": "osmium, martinsoki, Kateri, Jeffrey Ndarake, LordKizzy, Santos",
+        "purpose": "Discussing the topic 'Compute is the new power (Why ASI is the answer)",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit",
+            "title": "Blueprint for AI Sandbox/ ThinkTank"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1gtTTMSUhohy2-WL_UZcB2C9tJDIyvto_fkAwTeAL7Go/edit",
+            "title": "Roadmap of AI Sandbox/ ThinkTank"
+          },
+          {
+            "link": "https://docs.google.com/spreadsheets/d/1pgAs8NPzSgSFSjrm0y461KGAKutKIJpC25J5lNrh0ZQ/edit",
+            "title": "AI Sandbox/ ThinkTank"
+          },
+          {
+            "link": "https://docs.google.com/document/d/15uYcv__jdk7jbyhwKE_y9-218gQF0Gi6leatV4mxDFw/edit",
+            "title": "AI Sandbox/ Think-Tank #51"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1QqXHNB585PjYWbHkl2MvimzDtAcw4h7DolR265Sah8g/edit",
+            "title": "Compute Is The New Power: Who Controls Intelligence In 2026"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Kateri is to document next meeting session",
+              "assignee": "Kateri",
+              "dueDate": "5 March 2026"
+            }
+          ],
+          "discussionPoints": [
+            "Meeting Coordination: lord Kizzy and Osmium welcomed the attendees, gave absent members a little more time to join in before laying down the discussion points on the topic Compute Is The New Power. Here are some of the discussion points",
+            "Compute is the new bottle neck of intelligence: Lord Kizzy explained that at the moment in 2026, models are more easily accessible and open to everyone. With this in mind power isn't necessarily equal to who has the best model but who controls compute because who controls it technically decides what to do with it. On a subtopic lord Kizzy explained how  ASI fixes this, he stated that  ASI reframes compute as a shared programmable decentralized intelligent substrate. Which means it isn't hoarded by big tech companies and government bodies and people can earn from this which makes it market driven and also it allows for smaller teams to compete against large labs.",
+            "ASI compute models  and benefits: lord Kizzy explained that ASI models creates a decentralized and permissionless access to regional intelligence infrastructures an example NUNET which gives access to their GPU's itself and everyone can earn form running GPU's. The idea of allowing users access the GPU's also speaks on the transparency side of decentralization.",
+            "Decentralization as an architectural necessity: During the meeting lord Kizzy stated that single point control and centralized control equals to a kill switch which basically means that a single point of control translates to censorship and restrictions therefore, decentralized compute becomes a necessity. He stated that access to data and intelligence doesn't need to be hoarded by big companies anymore it becomes something we all need to have access to so ASI comes into play by introducing a Fault- tolerant intelligence system, a cross regional redundancy whereby multiple regions can actually make use of it",
+            "Ownership and governance: It was evident during the meeting that each body considered to be in control of intelligence infrastructures had their cons and disadvantages for state being control and surveillance, big companies being monopolies and exploitation. Lord Kizzy suggested that ASI Compute Hybrid Answer is a programmable, governed compute with ownership being distributed across providers. The governance is going to be based on DAOs, agent-assisted oversight, and transparent rules, which is open and available to everyone."
+          ]
+        }
+      ],
+      "tags": {
+        "emotions": "Interactive, Productive,  insightful",
+        "topicsCovered": "DAOs, GPU, Compute, ASI"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "1880c248-e762-42e4-b465-73cf8dd73f7f": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2026-01-14",
+        "host": "Kateri",
+        "documenter": "martinsoki",
+        "peoplePresent": "Slate, osmium, LordKizzy, UKnowZork, esewilliams, Kateri, martinsoki",
+        "workingDocs": [
+          {
+            "title": "ASI CREATE",
+            "link": "https://docs.google.com/document/d/1ZfIaqZYLgnaYGHOXPUM7l08M89fUVbLO7qvCwG8w4vA/edit?hl=ID&tab=t.0#heading=h.z1m8p5djeh4n"
+          },
+          {
+            "title": "DRAFT: SingularityNET Ambassador Program EOY report 2025",
+            "link": "https://docs.google.com/document/d/1PAY5TSzVLapdKwpKsg0cz5L2X0Qbo3wlZ59niahLTVA/edit?usp=sharing"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "All members assigned to ASI Academy tasks (ASI Create, ASI Train and ASI COMPUTE) to finalize and share progress updates.",
+              "status": "todo",
+              "assignee": "esewilliams, Kateri, osmium",
+              "dueDate": "4 February 2026"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The team decided on collaborating with Marketing Guild on CCP (Certification Program).",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "The meeting focused on reviewing unfinished tasks from the previous quarter and planning activities for the current quarter, noting that no budget sheet was created last quarter. Updates were requested on ASI Academy tasks (ASI Learn, ASI Zero, ASI Create, and ASI Train). Martinsoki and LordKizzy presented there task on ASI ZERO and ASI LEARN. https://www.canva.com/design/DAG-QQmxX9I/YfVZBTqlzT13j_Ee_JBCuA/edit?utm_content=DAG-QQmxX9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  https://drive.google.com/file/d/1i_mQBMUbXzJr0mIGruacpliDvL_uDXvw/view?usp=drivesdk       The meeting reviewed remaining costs and deliverables for ASI Academy and the CCP (Certification Program). ASI Academy still has several videos and slides pending, with expected payouts of about 4,000 AGIX plus operational costs (~$200-$300), which largely exhausts the current budget. CCP content is complete, but execution, announcements, and participant rewards remain. Using Thinkific would cost ~$100/month, while a low-cost alternative using email, Google Drive, and Google Forms could reduce expenses to ~$80. Incentives (badges, NFTs, or monetary rewards) need clear definition to encourage participation. Due to limited funds, LordKizzy proposed collaborating with the Marketing Guild on CCP, potentially running a bootcamp to generate resources for the program. The team agreed to explore this collaboration while proceeding with ASI Academy this quarter and evaluating CCP execution for next quarter."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "CCCP startup, ASI Academy, Q4 2025 budget",
+        "emotions": "Collaborative,  informative,  forward-looking"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "8e3318ac-44e3-4fd2-a4ee-f95950e16e0c": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2026-02-04",
+        "host": "osmium",
+        "documenter": "Gorga Siagian",
+        "peoplePresent": "martinsoki, Slate, LordKizzy, Kateri, esewilliams, UKnowZork, frosh, Gorga Siagian, osmium",
+        "purpose": "discussion on topic assignment for ASI ACADEMY project and collaboration between Education Guild and Marketing Guild.",
+        "workingDocs": [
+          {
+            "title": "ASI <Train/>",
+            "link": "https://www.canva.com/design/DAHAXYv4Wx4/oH2A2FB_23zHKkbcjZpq4g/edit"
+          },
+          {
+            "title": "ASI COMPUTE",
+            "link": "https://docs.google.com/presentation/d/1U0Tl4TPlL_ONB9hhlRSwjXaP3TSGZT6MZLE6c2JEuAc/edit?slide=id.p1#slide=id.p1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Upload the full ASI ZERO video to the Education Guild channel",
+              "assignee": "martinsoki",
+              "dueDate": "4 March 2026"
+            },
+            {
+              "text": "Coordinate with Marketing Guild on CCP program execution feasibility and budget alignment",
+              "status": "todo",
+              "assignee": "Kateri",
+              "dueDate": "4 March 2026"
+            },
+            {
+              "text": "Discuss and potentially reschedule initiatives to next quarter due to funding constraints regarding the collaboration with Marketing Guild",
+              "status": "todo",
+              "assignee": "Education Guild Members",
+              "dueDate": "4 March 2026"
+            },
+            {
+              "status": "todo",
+              "text": "Collect ASI DATA topic assignments for presentations and videos",
+              "assignee": "esewilliams",
+              "dueDate": "6 February 2026"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We agreed that the collaboration with the marketing guild is on hold and the collaboration talks will be continued in the next meeting.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Sharing opinions on Video Content and Payment. Osmium expressed his opinion regarding video length and payment fairness for content creation. Video length expectations versus payment created confusion, with original guidelines asking for a 10-minute video but actual videos ranging from 2 to 5 minutes. Payment of $40 per video was considered low compared to past rates of $250, raising fairness questions. Clarification on video creation standards emphasized that videos did not require heavy editing but should cover the presentation content adequately. The focus was on speaking through the presentation slides rather than producing a fully edited video.",
+            "Collaboration Between Education and Marketing Guilds. Marketing and Education Guilds explored a joint approach to execute overlapping initiatives despite funding limits. The marketing guild team offered a collaboration with education on the CCCP bootcamp but for this quarter the education guild is still hampered by a lack of budget due to the token price which is currently decreasing dramatically. For now the collaboration is still on hold to the next meeting to discuss it again.",
+            "ASI Training and Compute Presentations. Detailed presentations outlined the vision, technology, and future plans for ASI Train and ASI Compute platforms ASI Train overview emphasized domain-specific AI for robotics with a focus on adaptable and intelligent machines. ASI Compute was introduced as a decentralized AI compute infrastructure supporting the entire AI lifecycle.",
+            "Financial Status and Execution Feasibility. Education Guild Members reviewed treasury balances and discussed the feasibility of continuing initiatives under current financial constraints. Treasury balance analysis showed limited remaining funds after paying facilitators and covering operational costs. Cost-cutting and prioritization were considered to optimize remaining budget. Hosting costs and marketing announcements were main expense areas open to adjustment. The group acknowledged that while materials are ready, execution requires careful budgeting to avoid overspending."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "ASI Academy, Budger Concern,  Team Collaboration , Q1 2026 budget",
+        "emotions": "Collaborative, Educative,  forward-looking"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "9cecbb3f-cb45-4256-9ffc-0b79ef8ce99d": [
+    {
+      "workgroup": "Education Workgroup",
+      "workgroup_id": "3478946e-a143-457a-8ff4-446b731e17e9",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2026-03-04",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "Kateri, UKnowZork, Gorga Siagian, LordKizzy, martinsoki",
+        "purpose": "discussion on topic assignment for ASI ACADEMY project and collaboration between Education Guild and Marketing Guild.",
+        "workingDocs": [
+          {
+            "title": "ASI <Train/>",
+            "link": "https://www.canva.com/design/DAHAXYv4Wx4/oH2A2FB_23zHKkbcjZpq4g/edit"
+          },
+          {
+            "title": "ASI COMPUTE",
+            "link": "https://docs.google.com/presentation/d/1U0Tl4TPlL_ONB9hhlRSwjXaP3TSGZT6MZLE6c2JEuAc/edit?slide=id.p1#slide=id.p1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "text": "Gorga to write this quarter report",
+              "status": "todo",
+              "assignee": "Gorga Siagian",
+              "dueDate": "1 April 2026"
+            }
+          ],
+          "discussionPoints": [
+            "Update on ASA Academy: The ASI Academy initiative has progressed significantly, with most events and foundational materials already developed. The project has now entered the execution phase, indicating readiness for implementation. During the discussion, LordKizzy stated that he has not received payment for the Blueprint Governance Workshop task.",
+            "Update on program restructure and budget allocation for Q2 2026: The allocation of the Q2 budget remains unresolved, particularly regarding the percentage designated for project-based work. While participants shared opinions, no final decision has been reached, and further clarification is expected in upcoming governance meetings.",
+            "Project Selection Criteria: It was highlighted that not all proposed projects for Q2 2026 will be approved. Selection will be guided by defined criteria, including: Strategic alignment with organizational goals. Learning and experimentation value. This ensures that only impactful and relevant projects are prioritized."
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "ASI Academy,  Team Collaboration , Ambassador Program restructure, Q2 2026 budget, Q2 2026 planning",
+        "emotions": "Educative,  forward-looking,  insightful"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "7550f638-0fcb-4a44-abfa-d2026d8235d6": [
+    {
+      "workgroup": "Knowledge Base Workgroup",
+      "workgroup_id": "96f6ef88-5285-4ec6-8fe4-f2ab0347be00",
+      "meetingInfo": {
+        "typeOfMeeting": "One-off event",
+        "date": "2026-02-25",
+        "host": "Tevo",
+        "documenter": "lola, Tevo",
+        "peoplePresent": "Tevo, lola, Effiom",
+        "purpose": "Aggregating Ambassador Program assets and relevant information under GitBook",
+        "miroBoardLink": "https://miro.com/app/board/uXjVGVSAcGY=/",
+        "otherMediaLink": "https://ambassadorss-organization.gitbook.io/knowledge-base",
+        "workingDocs": [
+          {
+            "title": "GitHub Project Board",
+            "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/24/views/1"
+          }
+        ]
+      },
+      "agendaItems": [
+        {
+          "agenda": "workgroup management",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "We checked up on others work to see if they want to cancel their task"
+            },
+            {
+              "status": "todo",
+              "text": "Admin activities to recognise resource costs (tools and subscriptions)"
+            },
+            {
+              "text": "Assign rewards to Advancemayew Github task (and add that USD reward to all other tasks too)",
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "Register new costs if we want to scale the coordination manager"
+            },
+            {
+              "decision": "Allocate 5000 AGIX to start developing Knowledge Base WG Agent"
+            }
+          ],
+          "discussionPoints": [
+            "We took a look at the \tKBWG GitHub project board to see others work",
+            "We looked at our next elegant step, exploring our approach for agent building",
+            "We talked about how solving conflicts and resolving conflicts give us background info",
+            "We talked about using sync sessions to review conflicts",
+            "Addressing decisions in meeting summaries to get a snapshot of data reasoning that can be used to improve AI reasoning",
+            "We talked about the Development of the knowledge base agent discord bot and websites and estimated time of completion to be 2 week and should be carried out in March"
+          ]
+        },
+        {
+          "agenda": "Q1 KGBW retrospective",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Create a poll to check what other members think of different options and plans"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "We made a Discord Poll to assess next steps (now we know the decision is to Skip Q2 sessions)"
+            }
+          ],
+          "discussionPoints": [
+            "What went well and what didn't go well? We have been able to maintain the Workgroup activities We had new people joining and helping to organise Stand Up Sessions helped us plan entire meetings and coordinate effectively, but not all understood the difference between Stand Up's and workgroup where one was focused on planning and the other for activities and decision making. We were missing clear deadlines and notifications, it was not enough to just remind in the meetings and easy to forget small tasks. Too much structuring concerns to focus on workgroup goals",
+            "How have we improved compared to last time? In this quarter we improved Meeting Summary Proccess, reduced operational costs and has established great onboarding process and scalable options for meaningful tasks, but we did not innovate or impact the Ambassador Program in any significant way in the last 6 months.",
+            "How has our schedule affected coordination and if we should make any changes?"
+          ]
+        },
+        {
+          "agenda": "Coordination Manager Demo",
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "discussionPoints": [
+            "Showed https://coordinationmanager.com/ tool",
+            "Architecture and tool goals taken from previous research [Proposal for R&D Guild - Event Scheduling and Notification System](https://docs.google.com/document/d/16Rp5FqkRkBAxEc362uusDkXA23kCBS8o4yXeZYYtmsI/edit?tab=t.0#heading=h.ccgsnlbc8s9h) [UI Prototype and System Architecture Document](https://docs.google.com/document/d/1pnMy_NR0w1yg1SikVwLA8yzqrrlbuIhSa0SuUlK18Pk/edit?tab=t.0#heading=h.2tj35abyvshw)",
+            "The latest report about Coordination Tooling we were able to find in Q4 report where we stopped development, but Tevo picked it up and volunteered to build this out [Process Guild Progress Report - Q4 2025](https://docs.google.com/document/d/1neMzWdaTiX9UKeLS4MGTK0OgaDcKwR7dxRVw1XSxFDc/edit?tab=t.0#heading=h.1mdx3bamwhps)"
+          ]
+        }
+      ],
+      "tags": {
+        "topicsCovered": "Retrospective, Q1, Workgroup Management"
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled"
+    }
+  ],
+  "40e54dd8-5056-442a-ab35-611038fe1de9": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-01-16",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "Gorga Siagian, Kateri, esewilliams, UKnowZork, Mikasa, advanceameyaw",
+        "purpose": "Marketing Guild monthly meeting",
+        "workingDocs": [
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk",
+            "title": "Budget Meeting Saturday 24th"
+          },
+          {
+            "title": "SingularityNET Marketing Initiatives Proposal - 2026",
+            "link": "https://docs.google.com/document/d/1sSkgFnh_B9NuzO0qWjgmrS598z83lvCTEwAHbotMgqQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Understanding.,  Collaborative, Insightful",
+        "topicsCovered": "Guild Restructuring, Quarterly report and budget, Role clarification, Initiatives and Budget Planning"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The team concluded by selecting three main initiatives for Q1 which are Learn to End Boot Camp, Social Media Quiz Challenge, and Singularity Net Travels.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.",
+            "Quarterly Performance and Initiative Planning: The meeting reviewed last quarter's performance and outlined plans for the current quarter. Ese recapped key outcomes, noting successes such as the scavenger hunt team's efforts and challenges including reduced social media visibility caused by the social media manager's health issues. The team agreed to focus on selecting 2-3 initiatives for this quarter, aiming for three if feasible. They also acknowledged a decline in attendance and participation, which contributed to fewer global contributors.",
+            "Marketing Initiatives and Budget Planning: LordKizzy outlined plans for the upcoming quarter, proposing five initiatives to be delivered with a 12,000 AGIX budget. The discussion emphasized collaboration with the Education Guild on the CCP project, which requires a $300 budget. Three priority initiatives were proposed: Learn to End Boot Camp, Social Media Quiz Challenge, and SingularityNet Travels. Lower-cost alternatives, including Collaborative AI Projects and the Ambassador Program Spotlight Series, were also considered. Gorga sought clarification on the SingularityNet Travels budget, confirming it was allocated for three regions rather than a single region.",
+            "Quarterly Budget and Role Clarification: The discussion clarified budget allocations and role responsibilities for the upcoming quarter. LordKizzy explained that the budget is structured around four main roles-content creation, social media management, project management, and budget management-with dedicated initiative managers for each. Additional tasks like facilitation and documentation are funded under a separate budget allocation. Gorga received clarification on his position and confirmed his role as the content creator manager for the quarter.",
+            "Q1 Content Strategy and Initiatives - Summary The team discussed three Q1 initiatives: a social media challenge with a $250 budget, a writers' collaboration project, and support for event attendance. They agreed to publish two existing podcast videos and shift focus to Twitter Spaces as the primary content format due to lower production costs. Potential collaboration with Deep Funding on merchandise was explored, and the team set a target of 5 million Twitter impressions to enable monetization. Due to time constraints, further discussions on the writers' collaboration and other initiatives were deferred to asynchronous channels."
+          ]
+        }
+      ]
+    }
+  ],
+  "1f1925d3-c090-4f4d-ba2b-53d4b088a5e2": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-06",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "Kateri, esewilliams, UKnowZork, Mikasa, advanceameyaw",
+        "purpose": "Marketing Guild monthly meeting",
+        "workingDocs": [
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk",
+            "title": "Budget Meeting Saturday 24th"
+          },
+          {
+            "title": "SingularityNET Marketing Initiatives Proposal - 2026",
+            "link": "https://docs.google.com/document/d/1sSkgFnh_B9NuzO0qWjgmrS598z83lvCTEwAHbotMgqQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Understanding.,  Collaborative, Insightful",
+        "topicsCovered": "Guild Restructuring, Quarterly report and budget, Role clarification, Initiatives and Budget Planning"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ],
+          "decisionItems": [
+            {
+              "decision": "The team concluded by selecting three main initiatives for Q1 which are Learn to End Boot Camp, Social Media Quiz Challenge, and Singularity Net Travels.",
+              "effect": "affectsOnlyThisWorkgroup"
+            }
+          ],
+          "discussionPoints": [
+            "Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.",
+            "Quarterly Performance and Initiative Planning: The meeting reviewed last quarter's performance and outlined plans for the current quarter. Ese recapped key outcomes, noting successes such as the scavenger hunt team's efforts and challenges including reduced social media visibility caused by the social media manager's health issues. The team agreed to focus on selecting 2-3 initiatives for this quarter, aiming for three if feasible. They also acknowledged a decline in attendance and participation, which contributed to fewer global contributors.",
+            "Marketing Initiatives and Budget Planning: LordKizzy outlined plans for the upcoming quarter, proposing five initiatives to be delivered with a 12,000 AGIX budget. The discussion emphasized collaboration with the Education Guild on the CCP project, which requires a $300 budget. Three priority initiatives were proposed: Learn to End Boot Camp, Social Media Quiz Challenge, and SingularityNet Travels. Lower-cost alternatives, including Collaborative AI Projects and the Ambassador Program Spotlight Series, were also considered. Gorga sought clarification on the SingularityNet Travels budget, confirming it was allocated for three regions rather than a single region.",
+            "Quarterly Budget and Role Clarification: The discussion clarified budget allocations and role responsibilities for the upcoming quarter. LordKizzy explained that the budget is structured around four main roles-content creation, social media management, project management, and budget management-with dedicated initiative managers for each. Additional tasks like facilitation and documentation are funded under a separate budget allocation. Gorga received clarification on his position and confirmed his role as the content creator manager for the quarter.",
+            "Q1 Content Strategy and Initiatives - Summary The team discussed three Q1 initiatives: a social media challenge with a $250 budget, a writers' collaboration project, and support for event attendance. They agreed to publish two existing podcast videos and shift focus to Twitter Spaces as the primary content format due to lower production costs. Potential collaboration with Deep Funding on merchandise was explored, and the team set a target of 5 million Twitter impressions to enable monetization. Due to time constraints, further discussions on the writers' collaboration and other initiatives were deferred to asynchronous channels."
+          ]
+        }
+      ]
+    }
+  ],
+  "71c5e2e4-0593-4913-a63b-2288b420b36a": [
+    {
+      "workgroup": "Marketing Guild",
+      "workgroup_id": "01b6fd90-2cef-4474-b0a7-4e0eece2c2ad",
+      "meetingInfo": {
+        "typeOfMeeting": "Monthly",
+        "date": "2026-02-06",
+        "host": "LordKizzy",
+        "documenter": "martinsoki",
+        "peoplePresent": "Kateri, esewilliams, advanceameyaw, Gorga Siagian",
+        "purpose": "Marketing Guild monthly meeting",
+        "workingDocs": [
+          {
+            "title": "Roles and Responsibility for Marketing Guild",
+            "link": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing"
+          },
+          {
+            "title": "Meeting Agenda",
+            "link": "https://docs.google.com/document/d/1q4YWqKesJkbS2kBDbeg9LaoGSTko3y418bxM14v32Q8/edit?usp=sharing"
+          },
+          {
+            "link": "https://docs.google.com/document/d/1g7isbHLhC0L6IvvMkDfOi5H81Tdc0Wtn0AIUwl5tkvw/edit?usp=drivesdk",
+            "title": "Budget Meeting Saturday 24th"
+          },
+          {
+            "title": "SingularityNET Marketing Initiatives Proposal - 2026",
+            "link": "https://docs.google.com/document/d/1sSkgFnh_B9NuzO0qWjgmrS598z83lvCTEwAHbotMgqQ/edit?usp=sharing"
+          }
+        ]
+      },
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "noSummaryGivenText": "No Summary Given",
+      "canceledSummaryText": "Meeting was cancelled",
+      "tags": {
+        "emotions": "Collaborative, Insightful,  informative",
+        "topicsCovered": "Role clarification, Initiatives and Budget Planning"
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "actionItems": [
+            {
+              "status": "todo",
+              "text": "Advanceameyaw will check for upcoming events in Ghana",
+              "assignee": "advanceameyaw",
+              "dueDate": "6 March 2026"
+            },
+            {
+              "text": "Kateri to schedule a call with Kenichi to discuss collaboration on the social media quiz challenge initiative.",
+              "status": "todo",
+              "assignee": "Kateri",
+              "dueDate": "6 March 2026"
+            },
+            {
+              "text": "LordKizzy to reach out to OEP to discuss the social media posting role and determine if he can take over from Mikasa.",
+              "status": "todo",
+              "assignee": "LordKizzy",
+              "dueDate": "6 March 2026"
+            }
+          ],
+          "discussionPoints": [
+            "Updates and Introductions: LordKizzy opened the Marketing Guild call by welcoming members and outlined the agenda.",
+            "Initiative Updates and Challenges: Lordkizzy addressed the group about the status of ongoing initiatives, noting that the Learn to Earn Bootcamp is not viable due to funding constraints from the Education Guild. With the token price dropping significantly, he proposed focusing on the Social Media Quiz Challenge and singularityNET Travels. Advanceameyaw agreed with this approach, suggesting they could manage the initiatives effectively under the current circumstances.",
+            "Social Media Quiz Challenge Planning: LordKizzy presented the social media quiz challenge campaign, which involves participants creating posts with specific phrases and tagging friends. The winners will be determined based on engagement metrics, and a report will be generated to assess the initiative's impact. Ese Williams highlighted the importance of starting the challenge early to ensure effective publicity and suggested coordinating with the Writers' WG for better execution.",
+            "Collaboration and Initiative Planning: Lordkizzy expressed support for collaborating with another WG, provided timelines align. He proposed a call with Kenichi to discuss the initiative's details and emphasized the urgency of starting content creation. Additionally, he raised concerns about Mikasa's commitment to the project and suggested considering OEP for a more serious role.",
+            "Discussion on Social Media Posting and Access Issues LordKizzy emphasized the importance of determining Mikasa's role in the project, especially given his absence from the meeting. He noted that OEP might be the only one with the necessary assets and access, as Ben does not have the logins. LordKizzy plans to reach out to OEP over the weekend to resolve the access issues."
+          ]
+        }
+      ]
+    }
   ]
 }
