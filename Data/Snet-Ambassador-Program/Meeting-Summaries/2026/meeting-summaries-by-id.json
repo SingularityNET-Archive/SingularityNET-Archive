@@ -1607,5 +1607,192 @@
         }
       ]
     }
+  ],
+  "2be3ff6d-6e31-499c-9e4a-aaa75e2f0fc2": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-24",
+        "host": "PeterE",
+        "documenter": "NA",
+        "peoplePresent": "Alfred Itodele, Ayomi Shuga, kenichi, Peter, Tevo, CallyFromAuron",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "184",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Introductions & Administrative Updates 01:25 Permissions & Escaping Lambs 02:30 Meeting Recording and New Attendees 05:37 Governance, Project Catalyst & Restructuring History 12:00 Restructuring: Permanent Beta & Auditing 16:15 Measuring Marketing Effectiveness & Metrics 22:30 Marketing Strategy & Project-Driven Promotion 35:00 Audience Engagement & Local Outreach vs. Online 40:00 Budget Constraints & Rewarding Contributions 52:00 Budget Distribution Models & Workgroup Structure 01:06:45 Oversight, Impact Measurement & 'Awareness Group' Proposal 01:16:50 Local Outreach: Project vs. Awareness Group 01:35:24 Developer Focus & Awareness Group's Role 02:16:30 Next Steps: Proposal & Tools for Outreach"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "The meeting reviewed Ambassador Program logistics, quarterly reporting expectations, governance history, and marketing and analytics needs for outreach and developer recruitment.   WGs should add their Q1 2026 mini reports to the Governance dashboard as soon as possible, but deadline will be after Easter.  Should the Ambassador program adopt a more action-research approach to assess the result of restructures and other changes?   Tracking tactics - include a question in Zoom registration, Zoom polls, UTM-style parameters, Bitly shortlinks, using the coordination manager page to measure clicks and conversions.  Marketing budget allocation: should projects produce and post their own publicity or should a central team do the posting, or even create the content? Should we consolidate Marketing, Writers, and Video WGs into a new WG. Kenichi arrived halfway through the meeting and argued for continued marketing activity; he will draft a concise proposal for this and add it to the GovWG restructure doc.    Could include shifting funds from content production to local outreach and developer recruitment.  Different budget allocation models - project-style grants, retrospective funding tied to outcomes/impact, etc.  Tevo noted some issues with concurrency in the Coordination Manager, and bot work.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure, coordination manager, publicity, local outreach, developer onboarding",
+        "emotions": "long"
+      }
+    }
+  ],
+  "cde4d688-2418-40a3-9f3f-4cea997fbde8": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-17",
+        "host": "PeterE",
+        "documenter": "NA",
+        "peoplePresent": "Alfred Itodele, Ayomi Shuga, guillermolucero, kenichi, Mikasa, Slate, LordKizzy, PeterE",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "183",
+        "workingDocs": [
+          {
+            "link": "https://docs.google.com/document/d/1ThTliYA_wnysDepsknuF1W0m1590dZXUm4MY-g6oXn8/edit?usp=sharing",
+            "title": "Ambassador Program Restructure 2026"
+          }
+        ],
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Town Hall Attendance & Market Status 01:18 Collaboration with Deep Funding & BGI Nexus 02:02 Ambassador Program: Project-Based Approach & Budget Challenges 04:15 Project Ownership, Outsourcing & Foundation RFPs 07:53 Proposed Workgroup Restructuring & Project Budget Allocation 10:37 Purpose of Projects & Anticipated Budget Cuts 14:20 Educational Materials & Community-Driven Requests 18:46 Debate: Workgroup Dissolution & Effectiveness of Outreach 22:12 Critique: Lack of Outreach Focus & R&D Budget Allocation 28:02 Strong Argument for Dedicated Grassroots Outreach 46:58 LATAM's Successful Outreach Strategies & Operational Discussion 59:37 Clarifying Low-Budget, Grassroots Developer Onboarding 01:08:49 Final Push for Outreach as a Core Guild & Unreleased Podcast Content 01:18:21 Conclusion & Open Document for Input"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Restructure: proposed shift toward project-based work; potential collaborations with Deep Funding and BGI Nexus.  Tevo's suggestion (see Restructure proposal doc) to additionally fund some WGs: Governace WG, Treasury, and a new R&D guild covering the groups who build and maintain our tooling (Knowledge Base, Gov Dashboard, Co-ordination Manager, Archives).  Should there also be an allocation for ASI/MeTTa and Hyperon educational materials?  Should we also - or instead -  prioritise local developer outreach and onboarding (especially by regional Guilds) rather then building internal tooling?   Kenichi pushed for low-cost, incremental outreach such as meetups, bootcamps, hackathon participation, speaker slots, and developer waitlists, to drive ASI Cloud and ASI Create adoption. Peter defended the R&D and tooling focus, noted overlap with Deep Projects, and invited feedback in the Restructure document.  There are budget limits for large events so outreach would have to be small, local focus? Building, using and sharing tooling can balso e a way of promoting ASI tech stack. Guillermo highlighted LatAm's product-focused outreach and recommended outcome-driven, open proposals.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure, Developer outreach, local outreach, regional guilds, tooling, Q2 2026 budget, project-based work, ASI Cloud, ASI Create"
+      }
+    }
+  ],
+  "a7c50abe-0703-4897-8341-ecb72ce5f812": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-10",
+        "host": "PeterE",
+        "documenter": "automated, CallyFromAuron",
+        "peoplePresent": "Alfred Itodele, Ayomi Shuga, delphi burton, guillermolucero, PeterE, CallyFromAuron, CollyPride, Haley",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "182",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Introductions 01:14 Discussion on project proposal clarity 08:53 Announcements and mentions 13:47 Governance Dashboard update 34:38 Ambassador Program restructure  01:04:39 Close"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Invisible Work Hero of the Week - a mention for Ayomi, for making slides for Governance WG - 'good idea and unrewarded financially'.  Further discussion of the Ambassador Program restructure and the proposed move to project-based funding. Reviewed initial proposals in the budget spreadsheet. We should make expected outputs and outcomes clearer, and link relevant resources. Colleen will add contextual material for her proposal to training the Governace Dashboafrd's AI assistant on her Threshold Guardian Protocol.  Guillermo demonstrated the redesigned Governance Dashboard: visual improvements, links to Treasury values and market price data, support for user IDs with potential on‑chain hashing for proposals, and enhanced proposal review and notification features planned to integrate with Discord and other platforms.  There are currently 65 users (not all are Core Contributors or even participants in the Ambassador Program - some users from outside were invited to test it). Priorities for the next iteration are incorporating analytics, validation of deliverables, and notification integration. Guillermo also presented the AI assistant decision framework, attempted a live query demo that faced intermittent server issues, and stressed the need to  give the AI assistan a background knowledge base and ethical prompts. Participants discussed deployment options including decentralized compute and NuNet.  We are still awaiting info from the sNET Foundation on exactly how the proposed Offernet approach will work.  We also still need to decide how projects will be selected, and how to frame the transition to project-based work as an experiment and evaluate it.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure, singularitynet foundation, Governance Dashboard, invisible work heroes, Threshold Guardian protocol, experiment, experimental method"
+      }
+    }
+  ],
+  "80134656-6700-4c2f-9526-845aba2070dd": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-03-03",
+        "host": "PeterE",
+        "documenter": "automated, CallyFromAuron",
+        "peoplePresent": "Alfred Itodele, Ayomi Shuga, guillermolucero, Haley, Malik, Mayor Defi, PeterE, Tevo, CallyFromAuron, AshleyDawn, Tina Shriver, CollyPride",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "181",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Welcome and introductions 05:49 Agenda and Ambassador Program updates 18:11 Haley's thoughts on cross-ecosystem alignment 26:17 Coordination challenges & community contributions 35:36 Collaboration funding, system integration and NuNet 42:42 Next steps: tooling, OfferNet, and a coordinated framework 57:16 Closing thoughts"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Discussed the ongoing Ambassador Program restructure, and particularly, how recurring administrative tasks should be handled. Should each project budget for admin, or should a separate 'Admin' workgroup provide it?  People can add project ideas to the budget spreadsheet.  Haley Lowy of BGI Nexus gave her thoughts on how closer collaboration and coordination between Ambassador Program,  DEEP and BGI Nexus might look.She framed it as an opportunity to preserve community innovations and focus effort on R&D, hackathons, and developer growth; and mentioned the need for a single, simple operational interface where collaboration could happen.   Concerns were raised about culture, ownership, and burnout if coordination is centralized; also, tooling overlap and what degree of integration is needed.  Tevo asked whether coordination work would be funded. Haley said an operations-layer budget exists and Ambassador Program budgets would not be repurposed for infrastructure. Foir now, coordination will continue via Mattermost and Discord channels.  Suggestion to compile an inventory and comparison matrix of services in use by DEEP, BGI Nexus and Ambassadors.  Participants clarified relationships with NuNet as a separate legal entity.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "tags": {
+        "topicsCovered": "Ambassador Program restructure, shared tooling, collaboration layer, tool inventory, tool comparison, Deep Funding, BGI Nexus, community culture"
+      }
+    }
+  ],
+  "9305a655-76ba-4e0a-aeee-2005ffec61df": [
+    {
+      "workgroup": "Ambassador Town Hall",
+      "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+      "meetingInfo": {
+        "typeOfMeeting": "Weekly",
+        "date": "2026-02-24",
+        "host": "PeterE",
+        "documenter": "automated, CallyFromAuron",
+        "peoplePresent": "guillermolucero, Jeffrey Ndarake, Maxmilez, Tevo, CallyFromAuron, CollyPride, PeterE",
+        "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+        "townHallNumber": "180",
+        "timestampedVideo": {
+          "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+          "timestamps": "00:00 Intro  06:42 Agenda 07:44 Program restructure Discord polls 14:39 Invisible Work Hero of the Week 16:57 Updates from Knowledge Base, Coordination Manager tool & Treasury 20:24 Moderator Workgroup update & Coordination Tool monetization 28:24 R&D and LatAm updates: 43:46 Colleen's OpenClaw Framework update & ethical concerns 46:36 Archives & AI Ethics WG updates  51:13 Open discussion: Ben Goertzel in the Jeffrey Epstein Files 01:14:03 Closing"
+        }
+      },
+      "agendaItems": [
+        {
+          "status": "carry over",
+          "townHallSummary": "Workgroup updates from Governance, Treasury, Knowledge Base, Co-Ordination Manager Tool, Moderators, R&D (Gov-Dash tool), LatAm, Archives and AI Ethics.  Gov WG is running 3 polls in their Discord channel about the Ambassador Program restructure - not decision-making, just a temperature check.   On the coordination manager tool, we discussed ASI stack integrations, possible monetization, and how agent APIs could populate meeting data.   On the Gov-Dash tool, R&D have deferred ASI wallet integration pending higher‑priority features, and trialled an agent to validate workflows and security tagging.   Archives WG has been planning for the possible transition to a new dashboard-based meeting summary tool, and reviewing learning from the last 2 years to analyse requirements and best practice for summaries.  AI Ethics WG is working on transcripts of their research interviews.  Next WG Sync call - 2nd March.  The group also addressed public controversy about Ben Goertzel, SingularityNET's CEO, appearing in the Jeffrey Epstein files because he received funding from Epstein several times and communicated with him, and Ben's recent blogpost about the issues (https://bengoertzel.substack.com/p/goertzel-vs-epstein)   Community response; guilt by association; forgiveness; did Goertzel minimize Epstein's crimes; AI/human collaboration; how decentralization may make it less likely for any individual's actions to damage the organisation as a whole, since nobody is the central focus or leader.",
+          "actionItems": [
+            {
+              "status": "todo"
+            }
+          ]
+        }
+      ],
+      "type": "custom",
+      "noSummaryGiven": false,
+      "canceledSummary": false,
+      "tags": {
+        "topicsCovered": "Workgroup updates, Coordination manager, Governance Dashboard, Archives WG, WG Sync call, Ben Goertzel, Jeffrey Epstein, Epstein files, Decentralization"
+      }
+    }
   ]
 }
