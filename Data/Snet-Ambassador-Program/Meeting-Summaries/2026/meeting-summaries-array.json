@@ -1,5 +1,51 @@
 [
   {
+    "workgroup": "Ambassador Town Hall",
+    "workgroup_id": "72ce0bc0-276e-4cde-bfb9-cdabc5ed953e",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2026-01-06",
+      "host": "PeterE",
+      "documenter": "automated, CallyFromAuron",
+      "peoplePresent": "Alfred Itodele, Christina Shriver, Duke, Jeffrey Ndarake, Malik, Peter E, Rems, Tevo, CallyFromAuron, Ayomi Shuga, guillermolucero, TheFreysDeFi, sharmila, Stephen [QADAO]",
+      "purpose": "Regular weekly get-together for the Ambassador Program. Discussion of community-wide issues; sharing of updates and info; and in the last meeting of each month, an update from each Workgroup on what they have been doing",
+      "townHallNumber": "174",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/1PAY5TSzVLapdKwpKsg0cz5L2X0Qbo3wlZ59niahLTVA/edit?usp=sharing",
+          "title": "DRAFT: SingularityNET Ambassador Program EOY report 2025"
+        },
+        {
+          "title": "Governance calls, rolling agenda",
+          "link": "https://docs.google.com/document/d/1t39dwlwLYYB_1z_5szq1rnOH7mVTHe8Tmwv0R6ELOyE/edit?usp=sharing"
+        }
+      ],
+      "timestampedVideo": {
+        "url": "https://youtu.be/tRa5aUu_cKk?si=Lbg1EyifhpnI-1ko",
+        "intro": "The Ambassador Town Hall is a recurring event happening live on the Ambassador Zoom channel https://www.youtube.com/@SNET_Ambassador each Tuesday at 18:00 UTC.",
+        "timestamps": "0:00 Intro 03:03 BGI Nexus working groups recap 04:23 Ambassador Program's strengths and experiments 09:48 Mentions and news 17:15 End-of-Year Report discussion 21:20 Treasury Automation WG; Dework to GitHub shift 26:57 JustKeep Going Inc: AI in sports in Ghana 30:22 AI and ecological sustainability 41:58 Future funding & progam restructure 45:45 Long-Term sustainability & educational opportunities 01:07:Reflecting on community growth; how we learn from failure"
+      }
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "townHallSummary": "#### BGI Nexus working groups session earlier today: - lack of clear starting points for discussions - we could treat conversations as experiments to foster idea exploration - importance of creating a safe environment for participants to build cohesion before tackling other issues - the adaptability and resilience of the Ambassador Program are essential strengths; also its focus on decentralisation in governance - Ambassador Program should have concise materials ready to show what we are doing when we attend meetings in other parts of the ecosystem.  #### Nunet roadmap sync This Friday at 13:00 UTC, Nunet is holding a meeting discussing their roadmap.  #### Rejuve airdrop It's now live  #### Governance Workgroup topics GovWG meetings begin again next Tuesday. Anyone who has a topic they would like to discuss this Quarter should add it to the rolling agenda doc, and then Tuesday's meeting will be a topic-planning session.  #### End-of-year report 2025 There is a draft, but it mainly covers Q4, as it has been taken from the impact statements in WGs' Q4 quarterly reports. So WGs are encouraged to add material as soon as possible about the rest of 2025. Please keep it brief and focus on impact.  #### Shift from Dework to GitHub Treasury Automation will be coordinating time with WGs to support them to move management of payments to our Github Boards, so we can move off Dework and work directly from GitHub. Peter noted that the Ambassador Program did make it to the top 15 DAOs on Dework's leaderboard.  #### Just Keep Going Inc Kevin Frey gave an update on his organisation Just Keep Going Incorporated and its work using AI with athletes in Ghana. They recently signed a parnership agreement with Rejuve Biotech, and will be using their knowledge graph tool to build an athlete performance platform. Kevin noted that 'it all started in these rooms' and the Ambassador program helped pave the way for his work.  #### Ecology/climate change and AI New attendee Tina Shriver expressed interest in promoting ecological governance within AI systems. Brief discussion on issues around energy use, climate change, sustainability and CPU-intensive compute over GPU-intensive as a more energy-efficient approach; also using small-scale, open-source generative models on a CPU as opposed to larger-scale GPUs; and whether AI can be trained to give weight to ecological sustainability. Suggestion that the topic of sustainability and AI, and how we might experiment with ethical constraints on models, could be further discuused in the AI Ethics meeting next Monday.  #### Program restructure and budget issues: DeepFunding is also planning a restructure - what they do might also influence/affect us There may also be targeted additional funding coming directly from the Foundation to support e.g. events etc. This could come with requirements, so that there isn't the complete freedom in how we use our budget that we have had until now Suggestion of project-based funding  as opposed to workgroup-based to better align with this   The need for strategic planning and collaboration, and importance of recognizing both successes and failures.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "emotions": "engaging, well-attended",
+      "topicsCovered": "Ambassador Program restructure, project-based funding, BGI Nexus, decentralized governance, Ghana, Ghanaian athletes, Just Keep Going Inc, AI and ecology, GitHub, Dework, payments, End Of Year report 2025, rejuve, nunet"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  },
+  {
     "workgroup": "AI Ethics WG",
     "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
     "meetingInfo": {
