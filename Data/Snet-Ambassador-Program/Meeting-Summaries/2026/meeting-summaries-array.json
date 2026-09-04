@@ -1784,5 +1784,261 @@
     "tags": {
       "topicsCovered": "Workgroup updates, Coordination manager, Governance Dashboard, Archives WG, WG Sync call, Ben Goertzel, Jeffrey Epstein, Epstein files, Decentralization"
     }
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2026-07-21",
+      "host": "PeterE",
+      "documenter": "Tevo",
+      "peoplePresent": "PeterE, Tevo, CallyFromAuron, guillermolucero, kenichi",
+      "purpose": "How to allocate the Q3 10k AGIX for regional work? Including - Criteria for good quality work in this area? - what do we mean by 'good' and what should people report on?",
+      "mediaLink": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.wszztnlwybcc#heading=h.tf4k0ll4itlb",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/document/d/15hsgaxFo3l2l5dizNNe1bMbLOw7wpw5y87SKvLfs5jM/edit?tab=t.0",
+          "title": "Latam Report"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Most of this meeting was discussed of different outreach initiatives people already tried, but from those experiences we did not figure out the scope we want to target.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ],
+        "discussionPoints": [
+          "Retrospective on the Retrospective Rewards mechanism (how we looked at results and distributing rewards based on that) - We did not enjoy the experience and left wanting some clear assessment requirement instead of coming up with them at the time of assessing.",
+          "What is the outreach goal? some of wanted clarity what should be focus on. Decision were not made but recognised 2 directions onboarding and awareness  We recognised we can offer infra and space for people",
+          "What does it even mean to do local outreach? Its about finding people and meeting them We recognised even if we wanted to organing local events is too costly.  SingularityNET Foundation is intending to continue bi-weekly hackathon workshops",
+          "What are the main KPI's for outreach? We suggested many but recognised only getting people invovled for longer periods of time matter"
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2026-07-23",
+      "host": "PeterE",
+      "documenter": "Tevo",
+      "peoplePresent": "PeterE, Tevo, CallyFromAuron, guillermolucero, kenichi",
+      "purpose": "Decide Q3 budget allocations, continued (including WGs)",
+      "mediaLink": "https://docs.google.com/document/d/10A9fiukKe_Da6LXD8qcnp5dLOjtbTpVIZ6ZehYoVsvA/edit?tab=t.18xlc7ucle33#heading=h.8p43ozpds71o"
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Facilitator proposed many questions and suggestions and we went through most of them to agree on directions and decisions",
+        "actionItems": [
+          {
+            "text": "Use Decision to be made channel to ask broader consent to carry forward unspent AGIX for GowWG",
+            "status": "todo"
+          },
+          {
+            "text": "Connect with Andre and Stephen about the idea of integrating Archies data into with Knowledge Base or Governance Dashboard",
+            "status": "todo",
+            "assignee": "CallyFromAuron"
+          },
+          {
+            "status": "todo",
+            "text": "update next meeting agenda with these items: Should we maintain Latam's work in future be funded separately, outside the 10k for  regional initiatives? (where might this come from?) Should the 10k for regional initiatives be focused on new/one-off work? Maybe with a focus on encourage African initiatives? Or should we actually fund African Guild separately too, as of now, in the same way as we're suggesting for LatAm, even though their work is not yet as developedas LatAm? If all the regional budget goes to LatAm and Africa, are we happy with the fact that people in this Program who are not from either of those regions will be excluded from doing any regional engagement work? (probably yes, is reasonable to prioritise those 2 regions, but we should be conscious that this is what we are doing?)"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "If workgroups style want to continue they need to provide a proposal for any amount.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Allocate 5000 AGIX to Gov WG",
+            "rationale": "GovWG needs its 5k in Q3 to continue its work",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "GovWG continues to reward facilitators for 80 AGIX",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "GowWG unused rewards are carried forward"
+          },
+          {
+            "decision": "in-person local outreach work should ONLY involve attending local events organised by someone else, and NOT organising in-person events ourselves",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Regional outreach can be for raising awareness and onboarding people"
+          },
+          {
+            "decision": "If regional outreach proposal doesnt achieve its goals the lefover money does not carry over to next quarter"
+          },
+          {
+            "decision": "We can use the regional outreach funds to give extra rewards for effort that that has been impactful"
+          }
+        ],
+        "discussionPoints": [
+          "How do we allocate Q3 WG style rewards? It included decisions what to do with GowWG and we talked about unified project. Largely the idea of unified project was approved, but Tevo suggested to reallocate some rewards to continue supporting Coordination Manager separately",
+          "We discussed about Regional Outreach requirements. We agreed that we should not be even accepting proposals about offering to create proposals. Lets keep scope small and clear.  We seemed to have agreement that 'onboarding' should focus on onboarding people to educating on or using our tooling (ASI Ecosystem tools and tools we build in Ambassador Program) But we did not write our names for consent so no decision was made",
+          "We discussed about using GowWG budgeting for drafting proposal template, but once again we did not write down our consent. Everyone seemed to accept as reasonable thing, but no budget for that was defined. There was push back on the idea of Incentivizing proposal writing",
+          "We also touched on proposal and review process Some ideas were suggested but none of them turned into clear actions, future WG agendas to continue discussions were suggested"
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2026-08-04",
+      "host": "LadyTempestt",
+      "documenter": "Tevo",
+      "peoplePresent": "Ayomi, Tevo, PeterE, LadyTempestt, CallyFromAuron, lola, Sucre n Spice, guillermolucero, kenichi, esewilliams, AshleyDawn, Alfred Itodele",
+      "purpose": "Decide on Q2 Latam Allocation and plan Q3 allocation strategy",
+      "workingDocs": [
+        {
+          "link": "https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE/edit?gid=1454306131#gid=1454306131",
+          "title": "Rota Doc"
+        },
+        {
+          "title": "Q2 Latam Guild Report",
+          "link": "https://docs.google.com/document/d/15hsgaxFo3l2l5dizNNe1bMbLOw7wpw5y87SKvLfs5jM/edit?tab=t.0"
+        },
+        {
+          "title": "ASI Project Proposal",
+          "link": "https://docs.google.com/document/d/12hlS8PzRgXt-pgxdmn9B42D67gp95fxnZD7TrzZevic/edit?usp=sharing"
+        },
+        {
+          "title": "Q2 and Q3 planning proposal",
+          "link": "https://docs.google.com/document/d/1vq_2Z45jbfgt81Z_XFzcYQnA_lbGpPCu49cKysRQ73s/edit?tab=t.0#heading=h.8jem45fie0zg"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We tackled again the conflicts we had about rewarding Latam Q2 work and then moved to discuss on how we approach planning the Q3 activities and budget aside from the current active ASI Growth project  A related discussion considered how the Program should identify and prioritize improvements to its own tools. Participants generally supported collecting ideas, but disagreed about whether formal proposals would improve prioritization or create bureaucracy, competition, feature creep and additional governance work.",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "We reward Latam Q2 Outreach activities with 10k AGIX",
+            "opposing": "The initial reduction was partly caused by limited event reporting",
+            "rationale": "LatAm was the only active regional outreach team during the quarter. LatAm's Q2 payment should not have been held while the Program worked out its future regional funding approach. Considerable LatAm and Program time had already been consumed by the reward discussion. The decline in AGIX value meant the full nominal allocation was already worth less than when originally proposed.",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We dont use reserves to create budget for regional work",
+            "rationale": "There was concern about using reserves while the AGIX price is low. Any reserve allocation should therefore require a clear proposal, purpose, expected outcome, and spending limit.",
+            "opposing": "Reserves could potentially support strategically important regional work.",
+            "effect": "mayAffectOtherPeople"
+          }
+        ],
+        "discussionPoints": [
+          "LatAm Q2 reward previous blockers against the LatAm reward had been withdrawn and we reassessed the reward amount and reasons of rewarding Latam for their work",
+          "The continuation of regional outreach iniatives was discussed and related proposal was also shared.  The following possible models were discussed: Fund established regional guilds separately from the regional initiatives allocation. Use the regional initiatives allocation primarily for new, one-off, or clearly scoped projects. Treat regional work as a project with defined outputs and impact measures. Treat regional guilds as ongoing workgroups with recurring rewards. or use a hybrid model of above.  It was noted that: recurring funding is essential community infrastructure. A concern was raised that small, fragmented rewards are unlikely to sustain regional communities and may create disproportionate administrative work.",
+          "We briefly touched the idea of using reserves to prop up regional outreach activities",
+          "We also discussed about non-project spending and its budget for tooling related initatives  Arguments supporting an open feature proposal process included:  allowing the community to identify needed improvements before tools are built; making development priorities more transparent; reducing the current pattern of building first and reporting later; creating a shared pipeline of opportunities; allowing proposals to remain short and lightweight; supporting capability-based funding.  Concerns included:  excessive administrative work; turning feature ideas into competing funding proposals; distracting from core infrastructure; encouraging feature creep; sending operational product decisions unnecessarily to the Governance Workgroup; creating a process that is too slow for small improvements.  One suggested compromise was to collect feature requests directly inside the relevant product or tool, while using a separate prioritization process rather than treating every request as a governance proposal or bounty."
+        ]
+      }
+    ],
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
+  },
+  {
+    "workgroup": "Governance Workgroup",
+    "workgroup_id": "bcfadc9a-79d3-4ac0-816a-6b3405fd4009",
+    "meetingInfo": {
+      "typeOfMeeting": "Weekly",
+      "date": "2026-06-30",
+      "host": "PeterE",
+      "documenter": "kenichi, vani",
+      "peoplePresent": "PeterE, kenichi, CallyFromAuron, Alfred Itodele, AshleyDawn, Sucre n Spice, Tevo, Ayomi",
+      "purpose": "Accountability decisions about Q2 work Overall Q3 budget for the Ambassador Program",
+      "workingDocs": [
+        {
+          "title": "Tool for ranked voting",
+          "link": "https://snet-knowledgebase.vercel.app/ranked-voting"
+        },
+        {
+          "title": "Documentation",
+          "link": "https://docs.google.com/document/d/1Nd5L34jvDl2iAtljwGB-Se9-j73zZQLSdZlcjjQZtpo/edit?usp=sharing"
+        },
+        {
+          "title": "Q3 budget draft",
+          "link": "https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing"
+        },
+        {
+          "title": "Knowledge Base report",
+          "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/26?pane=issue&itemId=183844997&issue=SingularityNet-Ambassador-Program%7CProcess-Guild%7C105"
+        },
+        {
+          "title": "Coordination Manager report",
+          "link": "https://github.com/orgs/SingularityNet-Ambassador-Program/projects/26?pane=issue&itemId=197866500&issue=SingularityNet-Ambassador-Program%7CProcess-Guild%7C106"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "We checked decisions made in last meeting - no issues, correct record We agreed on any WGs who have been spending should create a brief report  Looked at draft budget for Q3 What did the 5 funded WGs spend? Archives -nothing - 5k AGIX not really enough to do anything meaningful. Do we fund it again in Q3 and hope that aggregating money for 2 quarters is enough? Knowledge base - yup, spent 5k Knowledge Base monthly server cost is ~15$ per month  Governance - a bit under (because Peter facilitated most meetings) Co-ord manager - spent full 5k. There are maintenance costs  GovDash - dunno but probably 5k all spent Treasury - some is left. Will we need to spend anything in Q3? Discussed the 10k for regional outreach - should it be focused on in-person work or digital? not just social media - contacting dev networks (github? other Web3 communities online) Or is it important to have the trust and engagement that people perceive is the result of in person work?  In person is expensive - is it worth it?  Events often lead us to meet founders BUT - maybe founders do not  favour open-source approaches as we do  Overall - the WGs that were funded - some have spent up, but some (e.g. Archives) haven't, as 5k isn't enough to do anything meaningful BUT maybe in Q3 we could agregate some or all of the allocations to create a project nd GovDash at the end for audit of outputs and outcomes, maybe  We are in danger of having materials in too many places? if, when projects start, we are tracking the project on a GitHub board, and on GovDash, and maybe even archives tool We don't have (yet) any way to bring GitHub board material into GovDash OR Archive...  we might need to think about how we maintain a record when we move to project work?  Would be good to get input from Guillermo on this, if and how it can get integrated  Perhaps the combined r&d one could do this.. but also scope creep Maybe async ideation on what that combined project could do is needed   Can we discuss improvement proposals for our tools and processes?",
+        "actionItems": [
+          {
+            "status": "todo"
+          }
+        ],
+        "decisionItems": [
+          {
+            "decision": "Yes, WGs that have been doing work should submit a report, this includes anyone who has used their reserves to do any work this quarter. Just brief - what did you do, what was the impact Ideally in Gov-Dash- need to check they can create a new instance for Q2 By 1 week from today: Tues 7th (but depends if GovDash can be updated by then",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "Treasury will also submit a very brief breakdown of what has been spent, what is left",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "On Thursday we will look at the results of the ranked-choice vote and decide how we will assign secondary roles.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "discussionPoints": [
+          "Do we need to make any adjustments for Q3 2026 to operational costs like tool subscriptions, Treasury operations, etc?",
+          "Do we want to continue funding for the WG-style initiatives we supported this Quarter, i.e. Co-ordination Manager, Archives, Knowledge Base, GovDash?",
+          "And what about the amounts for regional outreach (10k AGIX) and social media maintenance (2k AGIX)?"
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Budget Allocation, Accountability, Q2 Efforts Overview",
+      "emotions": "Collaborative, Constructive, A bit woolly and indecisive"
+    },
+    "type": "custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false,
+    "noSummaryGivenText": "No Summary Given",
+    "canceledSummaryText": "Meeting was cancelled"
   }
 ]
