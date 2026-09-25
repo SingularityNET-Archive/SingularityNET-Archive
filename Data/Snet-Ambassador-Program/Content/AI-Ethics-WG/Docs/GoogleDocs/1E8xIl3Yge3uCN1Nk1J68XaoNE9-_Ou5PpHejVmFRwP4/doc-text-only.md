@@ -1,20 +1,20 @@
-# BEGIN Ethical AI Nexus: Interview participant information sheet
+# BGI Nexus: Interview participant information sheet
 
 
 
-**Topic: AI Ethics and Governance**
+## Topic: AI Ethics and Governance
 
-Principal investigators: Esther Galfalvi, Haley Lowy, LeeLoo Rose, Vanessa Cardui
+Principal investigators: Esther Galfalvi, Haley Lowy, Vanessa Cardui
 
 
 
-This is the information sheet for participants in interviews conducted to collect data for the BEGIN: Ethical AI project.
+This is the information sheet for participants in interviews conducted to collect data for the BGI Nexus project on ethical AI.
 
 This interview is part of an initiative to gather thoughts from the general public about AI ethics, safety, and governance. We would like to find out what you think about AI, how you feel about the way that AI governance and development is taking place, and how you feel people should be empowered to take part in AI governance. In the months after the interviews, we will provide discussion spaces to talk about AI ethics so that you yourself can have a role in shaping the future of AI.
 
 
 
-**What data will we collect?**
+## What data will we collect ?
 
 **Interviews will include a range of questions about AI ethics and governance.** The questions are not definitive; you can talk about other related topics if they arise.
 
@@ -26,21 +26,21 @@ To help with the research, the interviewer will digitally record the interview (
 
 
 
-**Privacy**
+## Privacy
 
-**No information will be published that could identify you, your answers, or your institution/organisation, and the information we collect will be held securely in accordance with GDPR (2016) on password protected computers and secure cloud accounts. It is also in compliance with freedom of information legislation.**
+**No information will be published that could identify you, your answers, or your institution/organisation, and the information we collect will be held securely in accordance withGDPR (2016)on password protected computers and secure cloud accounts. It is also in compliance with freedom of information legislation.**
 
-Only the interviewer and the principal investigators will have access to identifiable information. Others may handle and analyse your data, but will not have access to identifying information about you (e.g. your name or affiliation).
+Only the interviewer and the principal investigators will have access to identifiable information. Others may handle and analyse your data, but will not have access to identifying information about you (e.g. your name or affiliation). Your data will be anonymised before it is shared beyond the interviewer and the principal investigators.
 
 
 
-**The right to withdraw**
+## The right to withdraw
 
-If you would like to withdraw your information, please email esther.galfalvi@singularitynet.io within 14 days and your data will be deleted. After this time we cannot guarantee that your data can be removed, as it may go through AI processing. However, **all data will be anonymised before processing, so you cannot be identified in any reports, publications, or shared datasets.**
+If you would like to withdraw your information, please email bginexus@singularitynet.io within 14 days of your interview, and your data will be deleted. After this time we cannot guarantee that your data can be removed, as it may go through AI processing. However, **all data will be anonymised before processing, so you cannot be identified in any reports, publications, or shared datasets.**
 
 ****
 
-**What will we use the data for?**
+## What will we use the data for ?
 
 We aim to draw insights from the data to **contribute to policy and regulation on AI safety** . This project is also a commons project, which means that the (anonymous) data will have a commons license and will be available to all. This is because we believe in freedom of scientific discovery.
 
@@ -50,7 +50,7 @@ We also hope to draw insights from the data to help **guide what AI is developed
 
 
 
-**Questions?**
+## Questions ?
 
 Do you have any questions about the research? If so, ask the interviewer, or if you would like to know more after the interview, contact us on the above email.
 
