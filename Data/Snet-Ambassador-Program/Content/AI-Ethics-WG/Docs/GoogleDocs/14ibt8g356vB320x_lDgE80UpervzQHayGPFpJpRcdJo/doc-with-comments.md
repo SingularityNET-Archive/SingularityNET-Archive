@@ -1,29 +1,24 @@
-# Global Governance and Ethics Initiative (name still in progress) 
-
-> [Comments]
-> Context - Governance
-> * Nick Nayfack: The idea of governance as a primary means of capturing this is good. Ethics are often embodied in values. Values can be challenging to translate into rules. Businesses and individuals often ignore or defy rules for the sake of achieving their own objectives. Best practices can sometimes mitigate this but it isn't clear or easy. Governance just leaves it in the hands of the community to define their practices. Their ethics will be implicitly reflected in their governance practices.
->
+# BGI Nexus Starter Document
 
 The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc). 
 
 > [Comments]
 > Context - ethics discussion forum,
-> * Nick Nayfack: Is a discussion forum needed for ethics or is it more of a matter of best practices and concerns with AI safety?
+> * Deleted account: Is a discussion forum needed for ethics or is it more of a matter of best practices and concerns with AI safety?
 >
 
 **Goal: The development of an app/platform that enables anyone anywhere todetermine what abeneficial and inclusive future for humankind and the earth as a wholeshould be, and to contribute to the building of that future.**  
 
 > [Comments]
 > Context - beneficial
-> * Nick Nayfack: Impact initiatives can vary in terms of being beneficial. As someone who has worked extensively in impact projects, successful impact occurs when financial or social interactions can be tracked and traced to measurable outcomes. For example, $1M of donations has lit up 10,000 homes for 5 hours/day in Nigeria and now 10% more of the population is able to complete college education from home. For AGI, this kind of impact is a bit tricky. What would the outcomes be? Compute is 10% more efficient than centralized data centers and has delivered access to 2M people in developing countries to bring 500,000 new jobs to regional non urban areas? Is this beneficial AGI?
+> * Deleted account: Impact initiatives can vary in terms of being beneficial. As someone who has worked extensively in impact projects, successful impact occurs when financial or social interactions can be tracked and traced to measurable outcomes. For example, $1M of donations has lit up 10,000 homes for 5 hours/day in Nigeria and now 10% more of the population is able to complete college education from home. For AGI, this kind of impact is a bit tricky. What would the outcomes be? Compute is 10% more efficient than centralized data centers and has delivered access to 2M people in developing countries to bring 500,000 new jobs to regional non urban areas? Is this beneficial AGI?
 >
 
 The system will gather the collective intelligence of humanity and synthesize it into a knowledge base which serves as a crowdsourced resource of human wisdom and priorities, and stimulates reflection and action into long-range goals for us as a species. Providing opinions and input, and being able to vote on the direction and development of technology as a community provides a sense of agency and participation in the exponential changes occuring in the world. This participation can enable humanity as a whole to feel like a part of the emerging future rather than a hapless victim to technological changes overtaking them. 
 
 > [Comments]
 > Context - participation can enable humanity
-> * Nick Nayfack: Qualified participation can enable humanity. The majority of people have little expertise on what AGI is, and it feels like more effort could be made to help educate people vs. collecting input based on the perception of technologies that are not yet functioning. Even internally, ask staff what AGI is and what functionality it actually provides. It may be interesting to start there.
+> * Deleted account: Qualified participation can enable humanity. The majority of people have little expertise on what AGI is, and it feels like more effort could be made to help educate people vs. collecting input based on the perception of technologies that are not yet functioning. Even internally, ask staff what AGI is and what functionality it actually provides. It may be interesting to start there.
 >
 > Context - gather the collective intelligence of humanity
 > * Vanessa Cardui: Heya - I feel like this paragraph should explicitly include a line about the "informed consent" element that Esther has mentioned in the comments. 
@@ -50,7 +45,7 @@ The system will offer users (easy) ways to add value to the system in terms of i
 
 > [Comments]
 > Context - voting weights (identity verification and positive and constructive actions and behavior, etc).
-> * Nick Nayfack: Voting for what kinds of initiatives? Who is going to raise them? Where and how will they get resourced or actioned?
+> * Deleted account: Voting for what kinds of initiatives? Who is going to raise them? Where and how will they get resourced or actioned?
 >
 
 The system’s mechanics will stimulate conversations on effective ways to bring about an inclusive, beneficial future, concrete projects to implement these ideas in the real world, and the distribution of the collected value over these projects to support their execution.
@@ -63,10 +58,10 @@ Engaging in meaningful conversations about beneficial AGI and related technologi
 
 > [Comments]
 > Context - betterment of humanity
-> * Nick Nayfack: Betterment for some can be detrimental to others. For example, the more compute that is used, the more energy is consumed and the more potential impact for climate change materially exists and is traceable per data center. The question becomes how do we address these fundamental ethical concerns prior to collecting ethical feedback? Ethics feels like a slippery slope to stand on. It feels like this should be reflected in governance. AI guardrails are also subject to each business and community. Safety is also community specific.
+> * Deleted account: Betterment for some can be detrimental to others. For example, the more compute that is used, the more energy is consumed and the more potential impact for climate change materially exists and is traceable per data center. The question becomes how do we address these fundamental ethical concerns prior to collecting ethical feedback? Ethics feels like a slippery slope to stand on. It feels like this should be reflected in governance. AI guardrails are also subject to each business and community. Safety is also community specific.
 >
 > Context - meaningful conversations
-> * Nick Nayfack: How will we define meaningful?
+> * Deleted account: How will we define meaningful?
 >
 
 Donating money (FIAT or Crypto), computing power , data 
@@ -98,7 +93,7 @@ There would be several phases to this project. Creating a new front and backend 
 
 # Three Critical Elements of the Platform
 
-To succeed, this initiative must spark global reflection er , conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
+To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 
 
 
@@ -108,7 +103,7 @@ Goals:→ Humans clarity on personal alignment through conversation with AI - w
 
 > [Comments]
 > Context - what do they value, what do they want in their future
-> * Nick Nayfack: This could be a commons approach to governance practices. It feels like being prescriptive and aggregating inputs globally may or may not help people down the path of self governance. It may be useful to work with specific communities to create self governance frameworks vs. attempting to listen to, aggregate and apply AI ethics as a whole globally.
+> * Deleted account: This could be a commons approach to governance practices. It feels like being prescriptive and aggregating inputs globally may or may not help people down the path of self governance. It may be useful to work with specific communities to create self governance frameworks vs. attempting to listen to, aggregate and apply AI ethics as a whole globally.
 >
 
 → Humans guide Trains AI about human values, ethical thinking, questions of importance  in the form of a guiding collaboration ensuring life survival of both human and AI types of beings using beneficial values and practices of both sides regardless of level of intelligence.
@@ -129,7 +124,7 @@ Goals:
 
 > [Comments]
 > Context - Donate/allocate resources
-> * Nick Nayfack: We will likely need web3 incentives that are more monetary to spark self governance. Business best practices are often a forum where many of these issues come to surface in enterprise environments.
+> * Deleted account: We will likely need web3 incentives that are more monetary to spark self governance. Business best practices are often a forum where many of these issues come to surface in enterprise environments.
 >
 
 Goals:
@@ -184,7 +179,7 @@ Using interview transcripts and other documentation around AI governance and eth
 
 > [Comments]
 > Context - governance
-> * Nick Nayfack: This is a better place to start but, we have to be careful. Governance is also being weaponized to shut out everyone except major tech giants. We will be enumerating ourselves for SEC scrutiny if we aren't careful as AGIX/ASI will be examined as a security. We have to be very careful how we handle this. Very powerful companies are looking to secure their investments made on Nvidia chips (now including us) and their expensive LLMs. https://www.insideprivacy.com/artificial-intelligence/california-legislature-advances-several-ai-related-bills/#:~:text=Legislation%20Regulating%20AI%20Developers&text=A%20noncompliant%20system%20would%20incur,watermarks%20in%20AI%2Dgenerated%20content.
+> * Deleted account: This is a better place to start but, we have to be careful. Governance is also being weaponized to shut out everyone except major tech giants. We will be enumerating ourselves for SEC scrutiny if we aren't careful as AGIX/ASI will be examined as a security. We have to be very careful how we handle this. Very powerful companies are looking to secure their investments made on Nvidia chips (now including us) and their expensive LLMs. https://www.insideprivacy.com/artificial-intelligence/california-legislature-advances-several-ai-related-bills/#:~:text=Legislation%20Regulating%20AI%20Developers&text=A%20noncompliant%20system%20would%20incur,watermarks%20in%20AI%2Dgenerated%20content.
 >
 
 Position on landing page for people to engage with,
@@ -243,13 +238,18 @@ Resource Donation/Allocation System
 
 ## Key features
 
-Governance/membership tokens are not liquid and tradable (no price speculation aspect)
+Governance/membership tokens are not liquid and tradable (no price speculation aspect) 
+
+> [Comments]
+> Context - Governance
+> * Deleted account: The idea of governance as a primary means of capturing this is good. Ethics are often embodied in values. Values can be challenging to translate into rules. Businesses and individuals often ignore or defy rules for the sake of achieving their own objectives. Best practices can sometimes mitigate this but it isn't clear or easy. Governance just leaves it in the hands of the community to define their practices. Their ethics will be implicitly reflected in their governance practices.
+>
 
 Members are encouraged to do identify verification, via a choice of traditional or alternative methods 
 
 > [Comments]
 > Context - identify verification
-> * Nick Nayfack: People will be reluctant to do this in web3. They will want to protect their privacy. Trust systems can help here potentially.
+> * Deleted account: People will be reluctant to do this in web3. They will want to protect their privacy. Trust systems can help here potentially.
 >
 
 Members are solicited to vote on issues related to the future of AGI and other advanced technologies
@@ -356,7 +356,7 @@ The (future) app would provide a discussion forum, and could continue to use cha
 
 > [Comments]
 > Context - AI Avatar Chatbot
-> * Nick Nayfack: A neuro symbolic LLM could do this via a SNET agent in terms of developer interaction. For the general public, a general purpose LLM will be assembled where folks can use whatever OSS LLM they like. See poe.com. With analytics and permission, users can decide what they want to share but by default their queries should be private.
+> * Deleted account: A neuro symbolic LLM could do this via a SNET agent in terms of developer interaction. For the general public, a general purpose LLM will be assembled where folks can use whatever OSS LLM they like. See poe.com. With analytics and permission, users can decide what they want to share but by default their queries should be private.
 >
 
 “I wonder if it would be timely to launch an AI avatar that is on our website, that anyone can log in and talk to, and whose purpose is to ask people questions and gather information from them. So then when people ask what they can do to help we can tell them: Help our AI agent learn about the world and learn how to be human by filling its mind with your knowledge and wisdom...
