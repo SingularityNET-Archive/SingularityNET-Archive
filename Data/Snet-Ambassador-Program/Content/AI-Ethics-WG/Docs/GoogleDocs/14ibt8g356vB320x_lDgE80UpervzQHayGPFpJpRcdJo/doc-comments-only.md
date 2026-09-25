@@ -1,38 +1,38 @@
 #### Context - AI Avatar Chatbot
-> * Nick Nayfack: A neuro symbolic LLM could do this via a SNET agent in terms of developer interaction. For the general public, a general purpose LLM will be assembled where folks can use whatever OSS LLM they like. See poe.com. With analytics and permission, users can decide what they want to share but by default their queries should be private.
+> * Deleted account: A neuro symbolic LLM could do this via a SNET agent in terms of developer interaction. For the general public, a general purpose LLM will be assembled where folks can use whatever OSS LLM they like. See poe.com. With analytics and permission, users can decide what they want to share but by default their queries should be private.
 > 
 #### Context - beneficial
-> * Nick Nayfack: Impact initiatives can vary in terms of being beneficial. As someone who has worked extensively in impact projects, successful impact occurs when financial or social interactions can be tracked and traced to measurable outcomes. For example, $1M of donations has lit up 10,000 homes for 5 hours/day in Nigeria and now 10% more of the population is able to complete college education from home. For AGI, this kind of impact is a bit tricky. What would the outcomes be? Compute is 10% more efficient than centralized data centers and has delivered access to 2M people in developing countries to bring 500,000 new jobs to regional non urban areas? Is this beneficial AGI?
+> * Deleted account: Impact initiatives can vary in terms of being beneficial. As someone who has worked extensively in impact projects, successful impact occurs when financial or social interactions can be tracked and traced to measurable outcomes. For example, $1M of donations has lit up 10,000 homes for 5 hours/day in Nigeria and now 10% more of the population is able to complete college education from home. For AGI, this kind of impact is a bit tricky. What would the outcomes be? Compute is 10% more efficient than centralized data centers and has delivered access to 2M people in developing countries to bring 500,000 new jobs to regional non urban areas? Is this beneficial AGI?
 > 
 #### Context - governance
-> * Nick Nayfack: This is a better place to start but, we have to be careful. Governance is also being weaponized to shut out everyone except major tech giants. We will be enumerating ourselves for SEC scrutiny if we aren't careful as AGIX/ASI will be examined as a security. We have to be very careful how we handle this. Very powerful companies are looking to secure their investments made on Nvidia chips (now including us) and their expensive LLMs. https://www.insideprivacy.com/artificial-intelligence/california-legislature-advances-several-ai-related-bills/#:~:text=Legislation%20Regulating%20AI%20Developers&text=A%20noncompliant%20system%20would%20incur,watermarks%20in%20AI%2Dgenerated%20content.
+> * Deleted account: This is a better place to start but, we have to be careful. Governance is also being weaponized to shut out everyone except major tech giants. We will be enumerating ourselves for SEC scrutiny if we aren't careful as AGIX/ASI will be examined as a security. We have to be very careful how we handle this. Very powerful companies are looking to secure their investments made on Nvidia chips (now including us) and their expensive LLMs. https://www.insideprivacy.com/artificial-intelligence/california-legislature-advances-several-ai-related-bills/#:~:text=Legislation%20Regulating%20AI%20Developers&text=A%20noncompliant%20system%20would%20incur,watermarks%20in%20AI%2Dgenerated%20content.
 > 
 #### Context - identify verification
-> * Nick Nayfack: People will be reluctant to do this in web3. They will want to protect their privacy. Trust systems can help here potentially.
+> * Deleted account: People will be reluctant to do this in web3. They will want to protect their privacy. Trust systems can help here potentially.
 > 
 #### Context - Donate/allocate resources
-> * Nick Nayfack: We will likely need web3 incentives that are more monetary to spark self governance. Business best practices are often a forum where many of these issues come to surface in enterprise environments.
+> * Deleted account: We will likely need web3 incentives that are more monetary to spark self governance. Business best practices are often a forum where many of these issues come to surface in enterprise environments.
 > 
 #### Context - what do they value, what do they want in their future
-> * Nick Nayfack: This could be a commons approach to governance practices. It feels like being prescriptive and aggregating inputs globally may or may not help people down the path of self governance. It may be useful to work with specific communities to create self governance frameworks vs. attempting to listen to, aggregate and apply AI ethics as a whole globally.
+> * Deleted account: This could be a commons approach to governance practices. It feels like being prescriptive and aggregating inputs globally may or may not help people down the path of self governance. It may be useful to work with specific communities to create self governance frameworks vs. attempting to listen to, aggregate and apply AI ethics as a whole globally.
 > 
 #### Context - betterment of humanity
-> * Nick Nayfack: Betterment for some can be detrimental to others. For example, the more compute that is used, the more energy is consumed and the more potential impact for climate change materially exists and is traceable per data center. The question becomes how do we address these fundamental ethical concerns prior to collecting ethical feedback? Ethics feels like a slippery slope to stand on. It feels like this should be reflected in governance. AI guardrails are also subject to each business and community. Safety is also community specific.
+> * Deleted account: Betterment for some can be detrimental to others. For example, the more compute that is used, the more energy is consumed and the more potential impact for climate change materially exists and is traceable per data center. The question becomes how do we address these fundamental ethical concerns prior to collecting ethical feedback? Ethics feels like a slippery slope to stand on. It feels like this should be reflected in governance. AI guardrails are also subject to each business and community. Safety is also community specific.
 > 
 #### Context - meaningful conversations
-> * Nick Nayfack: How will we define meaningful?
+> * Deleted account: How will we define meaningful?
 > 
 #### Context - voting weights (identity verification and positive and constructive actions and behavior, etc).
-> * Nick Nayfack: Voting for what kinds of initiatives? Who is going to raise them? Where and how will they get resourced or actioned?
+> * Deleted account: Voting for what kinds of initiatives? Who is going to raise them? Where and how will they get resourced or actioned?
 > 
 #### Context - participation can enable humanity
-> * Nick Nayfack: Qualified participation can enable humanity. The majority of people have little expertise on what AGI is, and it feels like more effort could be made to help educate people vs. collecting input based on the perception of technologies that are not yet functioning. Even internally, ask staff what AGI is and what functionality it actually provides. It may be interesting to start there.
+> * Deleted account: Qualified participation can enable humanity. The majority of people have little expertise on what AGI is, and it feels like more effort could be made to help educate people vs. collecting input based on the perception of technologies that are not yet functioning. Even internally, ask staff what AGI is and what functionality it actually provides. It may be interesting to start there.
 > 
 #### Context - ethics discussion forum,
-> * Nick Nayfack: Is a discussion forum needed for ethics or is it more of a matter of best practices and concerns with AI safety?
+> * Deleted account: Is a discussion forum needed for ethics or is it more of a matter of best practices and concerns with AI safety?
 > 
 #### Context - Governance
-> * Nick Nayfack: The idea of governance as a primary means of capturing this is good. Ethics are often embodied in values. Values can be challenging to translate into rules. Businesses and individuals often ignore or defy rules for the sake of achieving their own objectives. Best practices can sometimes mitigate this but it isn't clear or easy. Governance just leaves it in the hands of the community to define their practices. Their ethics will be implicitly reflected in their governance practices.
+> * Deleted account: The idea of governance as a primary means of capturing this is good. Ethics are often embodied in values. Values can be challenging to translate into rules. Businesses and individuals often ignore or defy rules for the sake of achieving their own objectives. Best practices can sometimes mitigate this but it isn't clear or easy. Governance just leaves it in the hands of the community to define their practices. Their ethics will be implicitly reflected in their governance practices.
 > 
 #### Context - What areas of AI applications do you believe are most important at this moment?
 > * Colleen Pridemore: Sorry, just got lost in reading and decided to answer! lol
