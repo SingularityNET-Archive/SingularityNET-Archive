@@ -107,7 +107,7 @@ The mission, vision and purpose may change over time. This blueprint  may sugges
 
 > [Comments]
 > Context - Obviously, these are not areas where it is desirable to change often.
-> * Tevo Saks: In decentralized Networks, it does change often as members get more experience and groups get bigger.
+> * Tevo Kask: In decentralized Networks, it does change often as members get more experience and groups get bigger.
 Perhaps the Ethos doesn't change, but the wording does.
 
 I have found that doing the collective driver mapping yearly would give direction for mission, vision, purpose and values and leaves a trail of co-created results
@@ -165,10 +165,10 @@ There are many kinds of decisions in an organisation. Not everyone needs to be i
 
 > [Comments]
 > Context - organisation
-> * Marta Lenartowicz: I suggest starting from some clear ontology. For example is SNET really envisaged as an organisation? Or an open-ended, ever expanding unprecedented network that we want to eventually encompass all humanity's interfacing with all AI/AGIs which are interested to join the network and be mediated by it? If *organisation*, we are speaking about foundation, spinoffs(ecosystem), community (basically a collective name for all associated roles such as contributors, token holders, etc). But if *network* (which is my suggestion) the blueprint comes in as a sort of a constitution that starts from what the white paper and bylaws established and specifies types of entities, kinds of relations, types of decisions, structures for figuring things out (definitely not only voting, not only by token holders, and not only about grant allocations.) It may also need to loop back to the bylaws and formulate updates needed, as means of anchoring the blueprint there... (Resolved by Marta Lenartowicz)
+> * Em M. Lenartowicz: I suggest starting from some clear ontology. For example is SNET really envisaged as an organisation? Or an open-ended, ever expanding unprecedented network that we want to eventually encompass all humanity's interfacing with all AI/AGIs which are interested to join the network and be mediated by it? If *organisation*, we are speaking about foundation, spinoffs(ecosystem), community (basically a collective name for all associated roles such as contributors, token holders, etc). But if *network* (which is my suggestion) the blueprint comes in as a sort of a constitution that starts from what the white paper and bylaws established and specifies types of entities, kinds of relations, types of decisions, structures for figuring things out (definitely not only voting, not only by token holders, and not only about grant allocations.) It may also need to loop back to the bylaws and formulate updates needed, as means of anchoring the blueprint there... (Resolved by Em M. Lenartowicz)
 >   - Grace Rachmany: This is probably beyond the scope of the mandate of this blueprint and the Supervisory Council, but it may be relevant to include some suggestions of how the network self-determines itself.
->   - Tevo Saks: Mm I would agree with the notion of Network here, because it encompasses much larger vision. Later going into Circles and Worgroups you are naming types of organising methods which can have different taxonomy or use case in different sub groups of the network.
->   - Tevo Saks: I think this paragraph is better suited to describe how different the decision-making processes are and the list of questions demonstrate the complexity of options
+>   - Tevo Kask: Mm I would agree with the notion of Network here, because it encompasses much larger vision. Later going into Circles and Worgroups you are naming types of organising methods which can have different taxonomy or use case in different sub groups of the network.
+>   - Tevo Kask: I think this paragraph is better suited to describe how different the decision-making processes are and the list of questions demonstrate the complexity of options
 >
 
 What kinds of decision making are there and what modes are there of doing them? (research needed by writers / expert group)
@@ -439,7 +439,7 @@ Increasing developer engagement and retention, e.g. through hackathons, to expan
 
 > [Comments]
 > Context - Increasing developer engagement and retention, e.g. through hackathons, to expand the platform. This can overlap with Community and Ambassador functions.
-> * Tevo Saks: Ambassador Program has provided opportunity for Code Developers, but here I think its better to list onboarding opportunities to developers, which would belong under below Onboarding section.
+> * Tevo Kask: Ambassador Program has provided opportunity for Code Developers, but here I think its better to list onboarding opportunities to developers, which would belong under below Onboarding section.
 
 In the Developer Relations sections I think we should mentions main platforms and open source tools used and advocated for within Snet ecosystem
 >
@@ -479,7 +479,7 @@ The Ambassadors has been put in place as part of the community functionality. De
 
 > [Comments]
 > Context - it is possible to perceive of the Ambassador Program as one of the governance experiments that has been tried and is successful (or not) so far, rather than a long-term fundamental part of governance.
-> * Tevo Saks: The Ambassador Program has started and is using emerging models of governance. Creating the rules of engagement and groups based on people who can take on the accountability
+> * Tevo Kask: The Ambassador Program has started and is using emerging models of governance. Creating the rules of engagement and groups based on people who can take on the accountability
 >
 
 
