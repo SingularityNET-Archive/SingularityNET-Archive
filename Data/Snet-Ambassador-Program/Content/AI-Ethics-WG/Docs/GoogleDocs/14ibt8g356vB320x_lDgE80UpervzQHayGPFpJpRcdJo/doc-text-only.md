@@ -1,4 +1,4 @@
-# Global Governance and Ethics Initiative (name still in progress)
+# BGI Nexus Starter Document
 
 The Global Ethics Initiative is an ethics discussion forum, resource sharing, and financing system for AI/AGI development and other emerging/accelerating/exponentially impactful technologies. Anyone can contribute to discussions about what AI ethics should be, how AI should be governed. Anyone can contribute resources (finances, GPU time, developer time, etc).
 
@@ -34,7 +34,7 @@ There would be several phases to this project. Creating a new front and backend 
 
 # Three Critical Elements of the Platform
 
-To succeed, this initiative must spark global reflection er , conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
+To succeed, this initiative must spark global reflection, conversation, and action on humanity’s long-term goals in tandem with how emerging exponential technologies can be used to achieve those goals. This requires people to learn about these technologies, reflect on their own values, and find alignment with global benefit.
 
 
 
